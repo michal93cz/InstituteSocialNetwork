@@ -1,0 +1,82 @@
+@book{blazewicz2013scheduling,
+  title={Scheduling computer and manufacturing processes},
+  author={Blazewicz, Jacek and Ecker, Klaus H and Pesch, Erwin and Schmidt, G{\"u}nter and Weglarz, Jan},
+  year={2013},
+  publisher={springer science \& Business media}
+}
+@book{nabrzyski2012grid,
+  title={Grid resource management: state of the art and future trends},
+  author={Nabrzyski, Jarek and Schopf, Jennifer M and Weglarz, Jan},
+  volume={64},
+  year={2012},
+  publisher={Springer Science \& Business Media}
+}
+@book{blazewicz2012scheduling,
+  title={Scheduling in computer and manufacturing systems},
+  author={Blazewicz, Jacek and Ecker, Klaus H and Schmidt, Guenter and Weglarz, Jan},
+  year={2012},
+  publisher={Springer Science \& Business Media}
+}
+@article{blazewicz1986scheduling,
+  title={Scheduling multiprocessor tasks to minimize schedule length},
+  author={Blazewicz, Jacek and Drabowski, Mieczyslaw and Weglarz, Jan},
+  journal={IEEE Transactions on Computers},
+  volume={35},
+  number={5},
+  pages={389--393},
+  year={1986},
+  publisher={IEEE Computer Society}
+}
+@book{blazewicz2007handbook,
+  title={Handbook on scheduling: from theory to applications},
+  author={B{\l}a{\.z}ewicz, Jacek and Ecker, Klaus H and Pesch, Erwin and Schmidt, G{\"u}nter and Weglarz, Jan},
+  year={2007},
+  publisher={Springer Science \& Business Media}
+}
+@book{weglarz2012project,
+  title={Project scheduling: recent models, algorithms and applications},
+  author={Weglarz, Jan},
+  volume={14},
+  year={2012},
+  publisher={Springer Science \& Business Media}
+}
+@article{mika2005simulated,
+  title={Simulated annealing and tabu search for multi-mode resource-constrained project scheduling with positive discounted cash flows and different payment models},
+  author={Mika, Marek and Walig{\'o}ra, Grzegorz and W{\k{e}}glarz, Jan},
+  journal={European Journal of Operational Research},
+  volume={164},
+  number={3},
+  pages={639--668},
+  year={2005},
+  publisher={Elsevier}
+}
+@article{blazewicz1991mathematical,
+  title={Mathematical programming formulations for machine scheduling: A survey},
+  author={Blazewicz, Jacek and Dror, Moshe and Weglarz, Jan},
+  journal={European Journal of Operational Research},
+  volume={51},
+  number={3},
+  pages={283--300},
+  year={1991},
+  publisher={Elsevier}
+}
+@article{wkeglarz2011project,
+  title={Project scheduling with finite or infinite number of activity processing modes--A survey},
+  author={W{\k{e}}glarz, Jan and J{\'o}zefowska, Joanna and Mika, Marek and Walig{\'o}ra, Grzegorz},
+  journal={European Journal of Operational Research},
+  volume={208},
+  number={3},
+  pages={177--205},
+  year={2011},
+  publisher={Elsevier}
+}
+@article{jozefowska2001simulated,
+  title={Simulated annealing for multi-mode resource-constrained project scheduling},
+  author={J{\'o}zefowska, Joanna and Mika, Marek and R{\'o}{\.z}ycki, Rafa{\l} and Walig{\'o}ra, Grzegorz and W{\k{e}}glarz, Jan},
+  journal={Annals of Operations Research},
+  volume={102},
+  number={1},
+  pages={137--155},
+  year={2001},
+  publisher={Springer}
+}
