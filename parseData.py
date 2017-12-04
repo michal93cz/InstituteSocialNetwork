@@ -20,7 +20,7 @@ for filename in os.listdir(DATA_DIR):
             publications_array.append({'author': publication['author'], 'year': publication['year']})
 
     authors_dict[filename[:-4]] = publications_array
-    authors_collection.insert_one({'name': 'filename[:-4]', 'publications': publications_array})
+    authors_collection.insert_one({'name': filename[:-4], 'publications': publications_array})
 
 pp = pprint.PrettyPrinter(indent=4)
 pp.pprint(authors_dict)
