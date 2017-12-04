@@ -1,0 +1,85 @@
+@inproceedings{cheng2010bayes,
+  title={Bayes optimal multilabel classification via probabilistic classifier chains},
+  author={Cheng, Weiwei and H{\"u}llermeier, Eyke and Dembczynski, Krzysztof J},
+  booktitle={Proceedings of the 27th international conference on machine learning (ICML-10)},
+  pages={279--286},
+  year={2010}
+}
+@article{dembczynski2012label,
+  title={On label dependence and loss minimization in multi-label classification},
+  author={Dembczy{\'n}ski, Krzysztof and Waegeman, Willem and Cheng, Weiwei and H{\"u}llermeier, Eyke},
+  journal={Machine Learning},
+  volume={88},
+  number={1-2},
+  pages={5--45},
+  year={2012},
+  publisher={Springer}
+}
+@article{dembczynski2009rough,
+  title={Rough set approach to multiple criteria classification with imprecise evaluations and assignments},
+  author={Dembczy{\'n}ski, Krzysztof and Greco, Salvatore and S{\l}owi{\'n}ski, Roman},
+  journal={European Journal of Operational Research},
+  volume={198},
+  number={2},
+  pages={626--636},
+  year={2009},
+  publisher={Elsevier}
+}
+@article{kotlowski2008stochastic,
+  title={Stochastic dominance-based rough set model for ordinal classification},
+  author={Kot{\l}owski, Wojciech and Dembczy{\'n}ski, Krzysztof and Greco, Salvatore and S{\l}owi{\'n}ski, Roman},
+  journal={Information Sciences},
+  volume={178},
+  number={21},
+  pages={4019--4037},
+  year={2008},
+  publisher={Elsevier}
+}
+@inproceedings{dembczynski2011exact,
+  title={An exact algorithm for F-measure maximization},
+  author={Dembczynski, Krzysztof J and Waegeman, Willem and Cheng, Weiwei and H{\"u}llermeier, Eyke},
+  booktitle={Advances in neural information processing systems},
+  pages={1404--1412},
+  year={2011}
+}
+@article{dembczynski2003generation,
+  title={Generation of exhaustive set of rules within dominance-based rough set approach},
+  author={Dembczy{\'n}ski, Krzysztof and Pindur, Roman and Susmaga, Robert},
+  journal={Electronic Notes in Theoretical Computer Science},
+  volume={82},
+  number={4},
+  pages={96--107},
+  year={2003},
+  publisher={Elsevier}
+}
+@inproceedings{dembczynski2008predicting,
+  title={Predicting ads clickthrough rate with decision rules},
+  author={Dembczynski, Krzysztof and Kotlowski, Wojciech and Weiss, Dawid},
+  booktitle={Workshop on targeting and ranking in online advertising},
+  volume={2008},
+  year={2008}
+}
+@inproceedings{kotlowski2011bipartite,
+  title={Bipartite ranking through minimization of univariate loss},
+  author={Kotlowski, Wojciech and Dembczynski, Krzysztof J and Huellermeier, Eyke},
+  booktitle={Proceedings of the 28th International Conference on Machine Learning (ICML-11)},
+  pages={1113--1120},
+  year={2011}
+}
+@article{dembczynski2003dominance,
+  title={Dominance-based rough set classifier without induction of decision rules},
+  author={Dembczy{\'n}ski, Krzysztof and Pindur, Roman and Susmaga, Robert},
+  journal={Electronic Notes in Theoretical Computer Science},
+  volume={82},
+  number={4},
+  pages={84--95},
+  year={2003},
+  publisher={Elsevier}
+}
+@inproceedings{cheng2010label,
+  title={Label ranking methods based on the Plackett-Luce model},
+  author={Cheng, Weiwei and H{\"u}llermeier, Eyke and Dembczynski, Krzysztof J},
+  booktitle={Proceedings of the 27th International Conference on Machine Learning (ICML-10)},
+  pages={215--222},
+  year={2010}
+}

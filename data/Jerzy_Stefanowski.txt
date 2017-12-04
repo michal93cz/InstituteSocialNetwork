@@ -1,0 +1,90 @@
+@inproceedings{stefanowski1999extension,
+  title={On the extension of rough sets under incomplete information},
+  author={Stefanowski, Jerzy and Tsouki{\`a}s, Alexis},
+  booktitle={RSFDGrC},
+  volume={99},
+  pages={73--81},
+  year={1999},
+  organization={Springer}
+}
+@article{stefanowski2001incomplete,
+  title={Incomplete information tables and rough classification},
+  author={Stefanowski, Jerzy and Tsouki{\`a}s, Alexis},
+  journal={Computational intelligence},
+  volume={17},
+  number={3},
+  pages={545--566},
+  year={2001},
+  publisher={Wiley Online Library}
+}
+@incollection{osinski2004lingo,
+  title={Lingo: Search results clustering algorithm based on singular value decomposition},
+  author={Osi{\'n}ski, Stanis{\l}aw and Stefanowski, Jerzy and Weiss, Dawid},
+  booktitle={Intelligent information processing and web mining},
+  pages={359--368},
+  year={2004},
+  publisher={Springer}
+}
+@article{stefanowski1998rough,
+  title={On rough set based approaches to induction of decision rules},
+  author={Stefanowski, Jerzy},
+  journal={Rough sets in knowledge discovery},
+  volume={1},
+  number={1},
+  pages={500--529},
+  year={1998}
+}
+@inproceedings{predki1998rose,
+  title={ROSE-software implementation of the rough set theory},
+  author={Predki, Bart{\l}omiej and S{\l}owi{\'n}ski, Roman and Stefanowski, Jerzy and Susmaga, Robert and Wilk, Szymon},
+  booktitle={International Conference on Rough Sets and Current Trends in Computing},
+  pages={605--608},
+  year={1998},
+  organization={Springer}
+}
+@article{slowinski1989rough,
+  title={Rough classification in incomplete information systems},
+  author={S{\l}owi{\'n}ski, Roman and Stefanowski, Jerzy},
+  journal={Mathematical and Computer Modelling},
+  volume={12},
+  number={10-11},
+  pages={1347--1357},
+  year={1989},
+  publisher={Elsevier}
+}
+@inproceedings{greco2000variable,
+  title={Variable consistency model of dominance-based rough sets approach},
+  author={Greco, Salvatore and Matarazzo, Benedetto and Slowinski, Roman and Stefanowski, Jerzy},
+  booktitle={International Conference on Rough Sets and Current Trends in Computing},
+  pages={170--181},
+  year={2000},
+  organization={Springer}
+}
+@inproceedings{greco2000algorithm,
+  title={An algorithm for induction of decision rules consistent with the dominance principle},
+  author={Greco, Salvatore and Matarazzo, Benedetto and Slowinski, Roman and Stefanowski, Jerzy},
+  booktitle={International Conference on Rough Sets and Current Trends in Computing},
+  pages={304--313},
+  year={2000},
+  organization={Springer}
+}
+@article{grzymala2001three,
+  title={Three discretization methods for rule induction},
+  author={Grzymala-Busse, Jerzy W and Stefanowski, Jerzy},
+  journal={International Journal of Intelligent Systems},
+  volume={16},
+  number={1},
+  pages={29--38},
+  year={2001},
+  publisher={Wiley Online Library}
+}
+@article{nowicki1992evaluation,
+  title={Evaluation of vibroacoustic diagnostic symptoms by means of the rough sets theory},
+  author={Nowicki, Ryszard and S{\l}owi{\'n}ski, Roman and Stefanowski, Jerzy},
+  journal={Computers in industry},
+  volume={20},
+  number={2},
+  pages={141--152},
+  year={1992},
+  publisher={Elsevier}
+}

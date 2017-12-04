@@ -1,0 +1,36 @@
+@article{jaszkiewicz2002genetic,
+  title={Genetic local search for multi-objective combinatorial optimization},
+  author={Jaszkiewicz, Andrzej},
+  journal={European journal of operational research},
+  volume={137},
+  number={1},
+  pages={50--71},
+  year={2002},
+  publisher={Elsevier}
+}
+@book{hansen1998evaluating,
+  title={Evaluating the quality of approximations to the non-dominated set},
+  author={Hansen, Michael Pilegaard and Jaszkiewicz, Andrzej},
+  year={1998},
+  publisher={IMM, Department of Mathematical Modelling, Technical Universityof Denmark}
+}
+@article{jaszkiewicz2002performance,
+  title={On the performance of multiple-objective genetic local search on the 0/1 knapsack problem-a comparative experiment},
+  author={Jaszkiewicz, Andrzej},
+  journal={IEEE Transactions on Evolutionary Computation},
+  volume={6},
+  number={4},
+  pages={402--412},
+  year={2002},
+  publisher={IEEE}
+}
+@article{hapke1994fuzzy,
+  title={Fuzzy project scheduling system for software development},
+  author={Hapke, Maciej and Jaszkiewicz, Andrzej and Slowinski, Roman},
+  journal={Fuzzy sets and systems},
+  volume={67},
+  number={1},
+  pages={101--117},
+  year={1994},
+  publisher={Elsevier}
+}

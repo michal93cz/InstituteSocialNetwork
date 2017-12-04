@@ -1,0 +1,91 @@
+@article{yu1993assessment,
+  title={Assessment of metals in reconstituted metallothioneins by electrospray mass spectrometry},
+  author={Yu, Xiaolan and Wojciechowski, Marek and Fenselau, Catherine},
+  journal={Analytical chemistry},
+  volume={65},
+  number={10},
+  pages={1355--1359},
+  year={1993},
+  publisher={ACS Publications}
+}
+@misc{henkens2002electrochemical,
+  title={Electrochemical detection of nucleic acid sequences},
+  author={Henkens, Robert W and O'daly, John P and Wojciechowski, Marek and Zhang, Honghua and Naser, Najih and Roe, R Michael and Stewart, Thomas N and Thompson, Deborah M and Sundseth, Rebecca and Wegner, Steven E and others},
+  year={2002},
+  month=may # "~21",
+  publisher={Google Patents},
+  note={US Patent 6,391,558}
+}
+@misc{wojciechowski1999handheld,
+  title={Handheld electromonitor device},
+  author={Wojciechowski, Marek and Ebeling, Frederick A and Henkens, Robert W and Naser, Najih A and O'daly, John P and Wegner, Steven E},
+  year={1999},
+  month=feb # "~23",
+  publisher={Google Patents},
+  note={US Patent 5,873,990}
+}
+@article{wojciechowski1990square,
+  title={Square-wave anodic stripping voltammetry at glassy-carbon-based thin mercury film electrodes in solutions containing dissolved oxygen},
+  author={Wojciechowski, Marek and Balcerzak, John},
+  journal={Analytical Chemistry},
+  volume={62},
+  number={13},
+  pages={1325--1331},
+  year={1990},
+  publisher={ACS Publications}
+}
+@article{zaleski2005role,
+  title={The role of Dam methylation in phase variation of Haemophilus influenzae genes involved in defence against phage infection},
+  author={Zaleski, Piotr and Wojciechowski, Marek and Piekarowicz, Andrzej},
+  journal={Microbiology},
+  volume={151},
+  number={10},
+  pages={3361--3369},
+  year={2005},
+  publisher={Microbiology Society}
+}
+@article{zachowski1986analytical,
+  title={The analytical application of square-wave voltammetry},
+  author={Zachowski, Edward J and Wojciechowski, Marek and Osteryoung, Janet},
+  journal={Analytica chimica acta},
+  volume={183},
+  pages={47--57},
+  year={1986},
+  publisher={Elsevier}
+}
+@article{o1985square,
+  title={Square wave voltammetry at electrodes having a small dimension},
+  author={O'Dea, John and Wojciechowski, Marek and Osteryoung, Janet and Aoki, Koichi},
+  journal={Analytical Chemistry},
+  volume={57},
+  number={4},
+  pages={954--955},
+  year={1985},
+  publisher={ACS Publications}
+}
+@article{morzy2001scalable,
+  title={Scalable hierarchical clustering method for sequences of categorical values},
+  author={Morzy, Tadeusz and Wojciechowski, Marek and Zakrzewicz, Maciej},
+  journal={Advances in Knowledge Discovery and Data Mining},
+  pages={282--293},
+  year={2001},
+  publisher={Springer}
+}
+@article{wojciechowski1999multichannel,
+  title={Multichannel electrochemical detection system for quantitative monitoring of PCR amplification},
+  author={Wojciechowski, Marek and Sundseth, Rebecca and Moreno, Mario and Henkens, Robert},
+  journal={Clinical chemistry},
+  volume={45},
+  number={9},
+  pages={1690--1693},
+  year={1999},
+  publisher={Clinical Chemistry}
+}
+@article{morzy2000materialized,
+  title={Materialized data mining views},
+  author={Morzy, Tadeusz and Wojciechowski, Marek and Zakrzewicz, Maciej},
+  journal={Principles of Data Mining and Knowledge Discovery},
+  pages={65--74},
+  year={2000},
+  publisher={Springer}
+}

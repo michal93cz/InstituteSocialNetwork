@@ -1,0 +1,37 @@
+@article{brzezinski2014reacting,
+  title={Reacting to different types of concept drift: The accuracy updated ensemble algorithm},
+  author={Brzezinski, Dariusz and Stefanowski, Jerzy},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={25},
+  number={1},
+  pages={81--94},
+  year={2014},
+  publisher={IEEE}
+}
+@article{krempl2014open,
+  title={Open challenges for data stream mining research},
+  author={Krempl, Georg and {\v{Z}}liobaite, Indre and Brzezi{\'n}ski, Dariusz and H{\"u}llermeier, Eyke and Last, Mark and Lemaire, Vincent and Noack, Tino and Shaker, Ammar and Sievi, Sonja and Spiliopoulou, Myra and others},
+  journal={ACM SIGKDD explorations newsletter},
+  volume={16},
+  number={1},
+  pages={1--10},
+  year={2014},
+  publisher={ACM}
+}
+@article{brzezinski2011accuracy,
+  title={Accuracy updated ensemble for data streams with concept drift},
+  author={Brzezi{\'n}ski, Dariusz and Stefanowski, Jerzy},
+  journal={Hybrid artificial intelligent systems},
+  pages={155--163},
+  year={2011},
+  publisher={Springer}
+}
+@article{brzezinski2014combining,
+  title={Combining block-based and online methods in learning ensembles from concept drifting data streams},
+  author={Brzezinski, Dariusz and Stefanowski, Jerzy},
+  journal={Information Sciences},
+  volume={265},
+  pages={50--67},
+  year={2014},
+  publisher={Elsevier}
+}
