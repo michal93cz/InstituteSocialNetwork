@@ -1,0 +1,407 @@
+{
+  "name" : "J Blazewicz",
+  "citations" : 10424,
+  "tenIndex" : 148,
+  "articles" : [ {
+    "title" : "Scheduling subject to resource constraints: classification and complexity",
+    "authors" : [ "J Blazewicz", " JK Lenstra", " AHGR Kan" ],
+    "year" : "1983",
+    "citations" : "1351"
+  }, {
+    "title" : "Scheduling computer and manufacturing processes",
+    "authors" : [ "J Blazewicz", " KH Ecker", " E Pesch", " G Schmidt", " J Weglarz" ],
+    "year" : "2013",
+    "citations" : "932"
+  }, {
+    "title" : "The job shop scheduling problem: Conventional and new solution techniques",
+    "authors" : [ "J Błażewicz", " W Domschke", " E Pesch" ],
+    "year" : "1996",
+    "citations" : "570"
+  }, {
+    "title" : "Scheduling in computer and manufacturing systems",
+    "authors" : [ "J Blazewicz", " KH Ecker", " G Schmidt", " J Weglarz" ],
+    "year" : "2012",
+    "citations" : "547"
+  }, {
+    "title" : "Sequencing of parts and robot moves in a robotic cell",
+    "authors" : [ "SP Sethi", " C Sriskandarajah", " G Sorger", " J Blazewicz", " W Kubiak" ],
+    "year" : "1992",
+    "citations" : "331"
+  }, {
+    "title" : "Handbook on scheduling: from theory to applications",
+    "authors" : [ "J Blazewicz", " KH Ecker", " E Pesch", " G Schmidt", " J Weglarz" ],
+    "year" : "2007",
+    "citations" : "310"
+  }, {
+    "title" : "Scheduling multiprocessor tasks to minimize schedule length",
+    "authors" : [ "J Blazewicz", " M Drabowski", " J Węglarz" ],
+    "year" : "1986",
+    "citations" : "294"
+  }, {
+    "title" : "Scheduling under resource constraints: Deterministic models",
+    "authors" : [ "J Błażewicz" ],
+    "year" : "1986",
+    "citations" : "269"
+  }, {
+    "title" : "Mathematical programming formulations for machine scheduling: A survey",
+    "authors" : [ "J Blazewicz", " M Dror", " J Weglarz" ],
+    "year" : "1991",
+    "citations" : "195"
+  }, {
+    "title" : "Automated 3D structure composition for large RNAs",
+    "authors" : [ "M Popenda", " M Szachniuk", " M Antczak", " KJ Purzycka", " P Lukasiak", " N Bartol", " ..." ],
+    "year" : "2012",
+    "citations" : "183"
+  }, {
+    "title" : "Scheduling dependent tasks with different arrival times to meet deadlines",
+    "authors" : [ "J Blazewicz" ],
+    "year" : "1976",
+    "citations" : "136"
+  }, {
+    "title" : "Selected topics in scheduling theory",
+    "authors" : [ "J Błażewicz" ],
+    "year" : "1987",
+    "citations" : "133"
+  }, {
+    "title" : "Scheduling multiprocessor tasks on three dedicated processors",
+    "authors" : [ "J Błażewicz", " P Dell'Olmo", " M Drozdowski", " MG Speranza" ],
+    "year" : "1992",
+    "citations" : "126"
+  }, {
+    "title" : "Using a tabu search approach for solving the two-dimensional irregular cutting problem",
+    "authors" : [ "J Błażewicz", " P Hawryluk", " R Walkowiak" ],
+    "year" : "1993",
+    "citations" : "125"
+  }, {
+    "title" : "Two-machine flow shops with limited machine availability",
+    "authors" : [ "W Kubiak", " J Błażewicz", " P Formanowicz", " J Breit", " G Schmidt" ],
+    "year" : "2002",
+    "citations" : "121"
+  }, {
+    "title" : "Divisible task scheduling–concept and verification",
+    "authors" : [ "J Błażewicz", " M Drozdowski", " M Markiewicz" ],
+    "year" : "1999",
+    "citations" : "111"
+  }, {
+    "title" : "An improved approximation algorithm for the single machine total completion time scheduling problem with availability constraints",
+    "authors" : [ "C Sadfi", " B Penz", " C Rapine", " J Błażewicz", " P Formanowicz" ],
+    "year" : "2005",
+    "citations" : "106"
+  }, {
+    "title" : "Scheduling tasks and vehicles in a flexible manufacturing system",
+    "authors" : [ "J Blazewicz", " HA Eiselt", " G Finke", " G Laporte", " J Weglarz" ],
+    "year" : "1991",
+    "citations" : "99"
+  }, {
+    "title" : "New trends in machine scheduling",
+    "authors" : [ "J Błażewicz", " G Finke", " R Haupt", " G Schmidt" ],
+    "year" : "1988",
+    "citations" : "90"
+  }, {
+    "title" : "RNA FRABASE 2.0: an advanced web-accessible database with the capacity to search the three-dimensional fragments within RNA structures",
+    "authors" : [ "M Popenda", " M Szachniuk", " M Blazewicz", " S Wasik", " E Burke", " J Blazewicz", " ..." ],
+    "year" : "2010",
+    "citations" : "89"
+  }, {
+    "title" : "Scheduling divisible jobs on hypercubes",
+    "authors" : [ "J Błazewicz", " M Drozdowski" ],
+    "year" : "1995",
+    "citations" : "89"
+  }, {
+    "title" : "DNA sequencing with positive and negative errors",
+    "authors" : [ "J Błażewicz", " P Formanowicz", " M Kasprzak", " WT Markiewicz", " J Wȩglarz" ],
+    "year" : "1999",
+    "citations" : "88"
+  }, {
+    "title" : "Distributed processing of divisible jobs with communication startup costs",
+    "authors" : [ "J Błażewicz", " M Drozdowski" ],
+    "year" : "1997",
+    "citations" : "84"
+  }, {
+    "title" : "Scheduling in computer and manufacturing systems",
+    "authors" : [ "J Blazewicz" ],
+    "year" : "1996",
+    "citations" : "80"
+  }, {
+    "title" : "Complexity of DNA sequencing by hybridization",
+    "authors" : [ "J Błażewicz", " M Kasprzak" ],
+    "year" : "2003",
+    "citations" : "74"
+  }, {
+    "title" : "Heuristic algorithms for the two-machine flowshop with limited machine availability",
+    "authors" : [ "J Błażewicz", " J Breit", " P Formanowicz", " W Kubiak", " G Schmidt" ],
+    "year" : "2001",
+    "citations" : "72"
+  }, {
+    "title" : "The performance limits of a two dimensional network of load-sharing processors",
+    "authors" : [ "J Błażewicz", " M Drozdowski" ],
+    "year" : "1996",
+    "citations" : "72"
+  }, {
+    "title" : "The disjunctive graph machine representation of the job shop scheduling problem",
+    "authors" : [ "J Bl̶ażewicz", " E Pesch", " M Sterna" ],
+    "year" : "2000",
+    "citations" : "67"
+  }, {
+    "title" : "Handbook on parallel and distributed processing",
+    "authors" : [ "J Blazewicz", " K Ecker", " B Plateau", " D Trystram" ],
+    "year" : "2013",
+    "citations" : "66"
+  }, {
+    "title" : "On some properties of DNA graphs",
+    "authors" : [ "J Blazewicz", " A Hertz", " D Kobler", " D de Werra" ],
+    "year" : "1999",
+    "citations" : "66"
+  }, {
+    "title" : "Scheduling malleable tasks on parallel processors to minimize the makespan",
+    "authors" : [ "J Błażewicz", " M Machowiak", " J Węglarz", " MY Kovalyov", " D Trystram" ],
+    "year" : "2004",
+    "citations" : "64"
+  }, {
+    "title" : "ProCKSI: a decision support system for protein (structure) comparison, knowledge, similarity and information",
+    "authors" : [ "D Barthel", " JD Hirst", " J Błażewicz", " EK Burke", " N Krasnogor" ],
+    "year" : "2007",
+    "citations" : "61"
+  }, {
+    "title" : "An analysis of the Petri net based model of the human body iron homeostasis process",
+    "authors" : [ "A Sackmann", " D Formanowicz", " P Formanowicz", " I Koch", " J Blazewicz" ],
+    "year" : "2007",
+    "citations" : "60"
+  }, {
+    "title" : "Scheduling preemptible tasks on parallel processors with information loss",
+    "authors" : [ "J Blazewicz" ],
+    "year" : "1984",
+    "citations" : "57"
+  }, {
+    "title" : "Protein alignment algorithms with an efficient backtracking routine on multiple GPUs",
+    "authors" : [ "J Blazewicz", " W Frohmberg", " M Kierzynka", " E Pesch", " P Wojciechowski" ],
+    "year" : "2011",
+    "citations" : "55"
+  }, {
+    "title" : "Tabu search for DNA sequencing with false negatives and false positives",
+    "authors" : [ "J Błażewicz", " P Formanowicz", " M Kasprzak", " WT Markiewicz", " J Wȩglarz" ],
+    "year" : "2000",
+    "citations" : "55"
+  }, {
+    "title" : "Minimizing mean weighted execution time loss on identical and uniform processors",
+    "authors" : [ "J Błażewicz", " G Finke" ],
+    "year" : "1987",
+    "citations" : "53"
+  }, {
+    "title" : "Open shop scheduling problems with late work criteria",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2004",
+    "citations" : "52"
+  }, {
+    "title" : "Metaheuristic approaches for the two-machine flow-shop problem with weighted late work criterion and common due date",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2008",
+    "citations" : "51"
+  }, {
+    "title" : "Scheduling multiprocessor tasks on a dynamic configuration of dedicated processors",
+    "authors" : [ "L Bianco", " J Blazewicz", " P Dell'Olmo", " M Drozdowski" ],
+    "year" : "1995",
+    "citations" : "51"
+  }, {
+    "title" : "Algorithm 520: An Automatic Revised Simplex Method for Constrained Resource Network Scheduling [H]",
+    "authors" : [ "J Weglarz", " J Blazewicz", " W Cellary", " R Slowinski" ],
+    "year" : "1977",
+    "citations" : "50"
+  }, {
+    "title" : "Preemptable malleable task scheduling problem",
+    "authors" : [ "J Blazewicz", " MY Kovalyov", " M Machowiak", " D Trystram", " J Weglarz" ],
+    "year" : "2006",
+    "citations" : "48"
+  }, {
+    "title" : "Hybrid genetic algorithm for DNA sequencing with errors",
+    "authors" : [ "J Błażewicz", " M Kasprzak", " W Kuroczycki" ],
+    "year" : "2002",
+    "citations" : "47"
+  }, {
+    "title" : "Vehicle scheduling in two-cycle flexible manufacturing systems",
+    "authors" : [ "J Blazewicz", " RE Burkard", " G Finke", " GJ Woeginger" ],
+    "year" : "1994",
+    "citations" : "47"
+  }, {
+    "title" : "Scheduling a divisible task in a two-dimensional toroidal mesh",
+    "authors" : [ "J Błażewicz", " M Drozdowski", " F Guinand", " D Trystram" ],
+    "year" : "1999",
+    "citations" : "45"
+  }, {
+    "title" : "Scheduling preemptable tasks on parallel processors with limited availability",
+    "authors" : [ "J Błażewicz", " M Drozdowski", " P Formanowicz", " W Kubiak", " G Schmidt" ],
+    "year" : "2000",
+    "citations" : "42"
+  }, {
+    "title" : "Scheduling independent 2-processor tasks to minimize schedule length",
+    "authors" : [ "J BŁaZ̀ewicz", " J Weglarz", " M Drabowski" ],
+    "year" : "1984",
+    "citations" : "41"
+  }, {
+    "title" : "A simulated annealing hyper-heuristic methodology for flexible decision support",
+    "authors" : [ "R Bai", " J Blazewicz", " EK Burke", " G Kendall", " B McCollum" ],
+    "year" : "2007",
+    "citations" : "40"
+  }, {
+    "title" : "Homologous crossovers among molecules of brome mosaic bromovirus RNA1 or RNA2 segments in vivo",
+    "authors" : [ "A Urbanowicz", " M Alejska", " P Formanowicz", " J Błażewicz", " M Figlerowicz", " ..." ],
+    "year" : "2005",
+    "citations" : "39"
+  }, {
+    "title" : "The two-machine flow-shop problem with weighted late work criterion and common due date",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2005",
+    "citations" : "38"
+  }, {
+    "title" : "DNA sequencing—Tabu and scatter search combined",
+    "authors" : [ "J Błażewicz", " F Glover", " M Kasprzak" ],
+    "year" : "2004",
+    "citations" : "38"
+  }, {
+    "title" : "Scheduling with resource management in manufacturing systems",
+    "authors" : [ "J Błażewicz", " G Finke" ],
+    "year" : "1994",
+    "citations" : "38"
+  }, {
+    "title" : "Deadline scheduling of tasks with ready times and resource constraints",
+    "authors" : [ "J Błażewicz" ],
+    "year" : "1979",
+    "citations" : "38"
+  }, {
+    "title" : "Application of tabu search strategy for finding low energy structure of protein",
+    "authors" : [ "J Błażewicz", " P Łukasiak", " M Miłostan" ],
+    "year" : "2005",
+    "citations" : "37"
+  }, {
+    "title" : "A heuristic managing errors for DNA sequencing",
+    "authors" : [ "J Błazewicz", " P Formanowicz", " F Guinand", " M Kasprzak" ],
+    "year" : "2002",
+    "citations" : "37"
+  }, {
+    "title" : "G-MSA—A GPU-based, fast and accurate algorithm for multiple sequence alignment",
+    "authors" : [ "J Blazewicz", " W Frohmberg", " M Kierzynka", " P Wojciechowski" ],
+    "year" : "2013",
+    "citations" : "36"
+  }, {
+    "title" : "Petri net based model of the body iron homeostasis",
+    "authors" : [ "D Formanowicz", " A Sackmann", " P Formanowicz", " J Błażewicz" ],
+    "year" : "2007",
+    "citations" : "34"
+  }, {
+    "title" : "A comparison of solution procedures for two-machine flow shop scheduling with late work criterion",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2005",
+    "citations" : "32"
+  }, {
+    "title" : "Selected combinatorial problems of computational biology",
+    "authors" : [ "J Błażewicz", " P Formanowicz", " M Kasprzak" ],
+    "year" : "2005",
+    "citations" : "32"
+  }, {
+    "title" : "Scheduling multiprocessor tasks with chain constraints",
+    "authors" : [ "J Błażwicz", " Z Liu" ],
+    "year" : "1996",
+    "citations" : "32"
+  }, {
+    "title" : "Scheduling multiprocessor tasks with chain constraints",
+    "authors" : [ "J Błażwicz", " Z Liu" ],
+    "year" : "1996",
+    "citations" : "32"
+  }, {
+    "title" : "Scheduling preemptive multiprocessor tasks on dedicated processors",
+    "authors" : [ "L Bianco", " J Błażewicz", " P Dell'Olmo", " M Drozdowski" ],
+    "year" : "1994",
+    "citations" : "32"
+  }, {
+    "title" : "Time-stamp approach to store-and-forward deadlock prevention",
+    "authors" : [ "J Blazewicz", " J Brzezinski", " G Gambosi" ],
+    "year" : "1987",
+    "citations" : "32"
+  }, {
+    "title" : "Internet shopping optimization problem",
+    "authors" : [ "M Kovalyov", " J Musiał", " A Urbanski", " A Wojciechowski" ],
+    "year" : "2010",
+    "citations" : "31"
+  }, {
+    "title" : "Cloud brokering: Current practices and upcoming challenges",
+    "authors" : [ "M Guzek", " A Gniewek", " P Bouvry", " J Musial", " J Blazewicz" ],
+    "year" : "2015",
+    "citations" : "29"
+  }, {
+    "title" : "Tabu search algorithm for DNA sequencing by hybridization with isothermic libraries",
+    "authors" : [ "J Błażewicz", " P Formanowicz", " M Kasprzak", " WT Markiewicz", " A Świercz" ],
+    "year" : "2004",
+    "citations" : "29"
+  }, {
+    "title" : "Two-dimensional cutting problem-basic complexity results and algorithms for irregular shapes",
+    "authors" : [ "J Blazewicz", " M Drozdowski", " B Soniewicki", " R Walkowiak" ],
+    "year" : "1989",
+    "citations" : "29"
+  }, {
+    "title" : "Scheduling of coupled tasks with unit processing times",
+    "authors" : [ "J Blazewicz", " K Ecker", " T Kis", " CN Potts", " M Tanas", " J Whitehead" ],
+    "year" : "2010",
+    "citations" : "28"
+  }, {
+    "title" : "Scheduling multiprocessor tasks on parallel processors with limited availability",
+    "authors" : [ "J Błażewicz", " P Dell’Olmo", " M Drozdowski", " P Mączka" ],
+    "year" : "2003",
+    "citations" : "28"
+  }, {
+    "title" : "Construction of DNA restriction maps based on a simplified experiment",
+    "authors" : [ "J Błażewicz", " P Formanowicz", " M Kasprzak", " M Jaroszewski", " WT Markiewicz" ],
+    "year" : "2001",
+    "citations" : "28"
+  }, {
+    "title" : "Coordination number prediction using learning classifier systems: performance and interpretability",
+    "authors" : [ "J Bacardit", " M Stout", " N Krasnogor", " JD Hirst", " J Blazewicz" ],
+    "year" : "2006",
+    "citations" : "27"
+  }, {
+    "title" : "Badania operacyjne dla informatyków",
+    "authors" : [ "J Błażewicz" ],
+    "year" : "1982",
+    "citations" : "27"
+  }, {
+    "title" : "Scheduling multiprocessor tasks- a survey",
+    "authors" : [ "J Blazewicz", " M Drozdowski", " J Weglarz" ],
+    "year" : "1994",
+    "citations" : "26"
+  }, {
+    "title" : "Scheduling of robot moves and parts in a robotic cell",
+    "authors" : [ "J Blazewicz", " SP Sethi", " C Sriskandarajah" ],
+    "year" : "1989",
+    "citations" : "26"
+  }, {
+    "title" : "RNApdbee—a webserver to derive secondary structures from pdb files of knotted and unknotted RNAs",
+    "authors" : [ "M Antczak", " T Zok", " M Popenda", " P Lukasiak", " RW Adamiak", " J Blazewicz", " ..." ],
+    "year" : "2014",
+    "citations" : "25"
+  }, {
+    "title" : "A simulated annealing hyper-heuristic methodology for flexible decision support",
+    "authors" : [ "R Bai", " J Blazewicz", " EK Burke", " G Kendall", " B McCollum" ],
+    "year" : "2012",
+    "citations" : "24"
+  }, {
+    "title" : "A novel representation of graph structures in web mining and data analysis",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna" ],
+    "year" : "2005",
+    "citations" : "24"
+  }, {
+    "title" : "Złożoność obliczeniowa problemów kombinatorycznych",
+    "authors" : [ "J Błażewicz" ],
+    "year" : "1988",
+    "citations" : "24"
+  }, {
+    "title" : "Simple algorithms for multiprocessor scheduling to meet deadlines",
+    "authors" : [ "J Błazewicz" ],
+    "year" : "1977",
+    "citations" : "24"
+  }, {
+    "title" : "Handbook on data management in information systems",
+    "authors" : [ "J Blazewicz", " W Kubiak", " T Morzy", " M Rusinkiewicz" ],
+    "year" : "2012",
+    "citations" : "23"
+  } ],
+  "hindex" : 45
+}

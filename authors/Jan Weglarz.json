@@ -1,0 +1,407 @@
+{
+  "name" : "J Weglarz",
+  "citations" : 6610,
+  "tenIndex" : 74,
+  "articles" : [ {
+    "title" : "Scheduling computer and manufacturing processes",
+    "authors" : [ "J Blazewicz", " KH Ecker", " E Pesch", " G Schmidt", " J Weglarz" ],
+    "year" : "2002",
+    "citations" : "926"
+  }, {
+    "title" : "Scheduling in computer and manufacturing systems",
+    "authors" : [ "J Blazewicz", " K Ecker", " G Schmidt", " J Weglarz" ],
+    "year" : "1993",
+    "citations" : "544"
+  }, {
+    "title" : "Scheduling in computer and manufacturing systems",
+    "authors" : [ "J Blazewicz", " KH Ecker", " G Schmidt", " J Weglarz" ],
+    "year" : "2012",
+    "citations" : "539"
+  }, {
+    "title" : "Grid resource management: state of the art and future trends",
+    "authors" : [ "J Nabrzyski", " JM Schopf", " J Weglarz" ],
+    "year" : "2012",
+    "citations" : "436"
+  }, {
+    "title" : "Handbook on scheduling: from theory to applications",
+    "authors" : [ "J Blazewicz", " KH Ecker", " E Pesch", " G Schmidt", " J Weglarz" ],
+    "year" : "2007",
+    "citations" : "310"
+  }, {
+    "title" : "Handbook on Scheduling: Models and Methods for Advanced Planning (International Handbooks on Information Systems)",
+    "authors" : [ "J Blazewicz", " K Ecker", " E Pesch", " G Schmidt", " J Weglarz" ],
+    "year" : "2007",
+    "citations" : "310"
+  }, {
+    "title" : "Scheduling multiprocessor tasks to minimize schedule length",
+    "authors" : [ "J Blazewicz", " M Drabowski", " J Weglarz" ],
+    "year" : "1986",
+    "citations" : "294"
+  }, {
+    "title" : "An algorithm for a general class of precedence and resource constrained scheduling problems",
+    "authors" : [ "JH Patterson", " R Slowinski", " FB Talbot", " J Weglarz" ],
+    "year" : "1989",
+    "citations" : "207"
+  }, {
+    "title" : "Mathematical programming formulations for machine scheduling: A survey",
+    "authors" : [ "J Blazewicz", " M Dror", " J Weglarz" ],
+    "year" : "1991",
+    "citations" : "195"
+  }, {
+    "title" : "Project scheduling with finite or infinite number of activity processing modes–A survey",
+    "authors" : [ "J Węglarz", " J Józefowska", " M Mika", " G Waligóra" ],
+    "year" : "2011",
+    "citations" : "193"
+  }, {
+    "title" : "Simulated annealing and tabu search for multi-mode resource-constrained project scheduling with positive discounted cash flows and different payment models",
+    "authors" : [ "M Mika", " G Waligóra", " J Węglarz" ],
+    "year" : "2005",
+    "citations" : "189"
+  }, {
+    "title" : "Simulated annealing for multi-mode resource-constrained project scheduling",
+    "authors" : [ "J Józefowska", " M Mika", " R Różycki", " G Waligóra", " J Węglarz" ],
+    "year" : "2001",
+    "citations" : "185"
+  }, {
+    "title" : "Project scheduling: recent models, algorithms and applications",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1998",
+    "citations" : "179"
+  }, {
+    "title" : "Ten actions when Grid Scheduling: the user as a Grid scheduler",
+    "authors" : [ "JM Schopf" ],
+    "year" : "",
+    "citations" : "176"
+  }, {
+    "title" : "Computational experience with a backtracking algorithm for solving a general class of precedence and resource-constrained scheduling problems",
+    "authors" : [ "JH Patterson", " FB Talbot", " R Slowinski", " J Wegłarz" ],
+    "year" : "1990",
+    "citations" : "168"
+  }, {
+    "title" : "DSS for multiobjective project scheduling",
+    "authors" : [ "R Słowiński", " B Soniewicki", " J Wȩglarz" ],
+    "year" : "1994",
+    "citations" : "150"
+  }, {
+    "title" : "Project scheduling with continuously-divisible, doubly constrained resources",
+    "authors" : [ "J Węglarz" ],
+    "year" : "1981",
+    "citations" : "127"
+  }, {
+    "title" : "Multicriteria aspects of grid resource management",
+    "authors" : [ "K Kurowski", " J Nabrzyski", " A Oleksiak", " J Weglarz" ],
+    "year" : "2004",
+    "citations" : "119"
+  }, {
+    "title" : "Scheduling tasks and vehicles in a flexible manufacturing system",
+    "authors" : [ "J Blazewicz", " HA Eiselt", " G Finke", " G Laporte", " J Weglarz" ],
+    "year" : "1991",
+    "citations" : "99"
+  }, {
+    "title" : "Tabu search for multi-mode resource-constrained project scheduling with schedule-dependent setup times",
+    "authors" : [ "M Mika", " G Waligora", " J Węglarz" ],
+    "year" : "2008",
+    "citations" : "95"
+  }, {
+    "title" : "Scheduling divisible jobs on hypercubes",
+    "authors" : [ "J Błazewicz", " M Drozdowski" ],
+    "year" : "1995",
+    "citations" : "89"
+  }, {
+    "title" : "Scheduling in computer and manufacturing systems",
+    "authors" : [ "J Blazewicz" ],
+    "year" : "1996",
+    "citations" : "80"
+  }, {
+    "title" : "On a methodology for discrete–continuous scheduling",
+    "authors" : [ "J Józefowska", " J Węglarz" ],
+    "year" : "1998",
+    "citations" : "65"
+  }, {
+    "title" : "Scheduling malleable tasks on parallel processors to minimize the makespan",
+    "authors" : [ "J Błażewicz", " M Machowiak", " J Węglarz", " MY Kovalyov", " D Trystram" ],
+    "year" : "2004",
+    "citations" : "64"
+  }, {
+    "title" : "Local search metaheuristics for discrete–continuous scheduling problems",
+    "authors" : [ "J Józefowska", " M Mika", " R Różycki", " G Waligóra", " J Węglarz" ],
+    "year" : "1998",
+    "citations" : "61"
+  }, {
+    "title" : "On certain models of resources allocation problems",
+    "authors" : [ "J Węglarz" ],
+    "year" : "1980",
+    "citations" : "57"
+  }, {
+    "title" : "On certain models of resource allocation problems",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1980",
+    "citations" : "57"
+  }, {
+    "title" : "Grid scheduling simulations with GSSIM",
+    "authors" : [ "K Kurowski", " J Nabrzyski", " A Oleksiak", " J Weglarz" ],
+    "year" : "2007",
+    "citations" : "56"
+  }, {
+    "title" : "Scheduling jobs on the grid-multicriteria approach",
+    "authors" : [ "K Kurowski", " J Nabrzyski", " A Oleksiak", " J Weglarz" ],
+    "year" : "2006",
+    "citations" : "51"
+  }, {
+    "title" : "Algorithm 520: An Automatic Revised Simplex Method for Constrained Resource Network Scheduling [H]",
+    "authors" : [ "J Weglarz", " J Blazewicz", " W Cellary", " R Slowinski" ],
+    "year" : "1977",
+    "citations" : "50"
+  }, {
+    "title" : "Preemptable malleable task scheduling problem",
+    "authors" : [ "J Blazewicz", " MY Kovalyov", " M Machowiak", " D Trystram", " J Weglarz" ],
+    "year" : "2006",
+    "citations" : "48"
+  }, {
+    "title" : "Multiprocessor Scheduling with Memory Allocation? A Deterministic Approach",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1980",
+    "citations" : "46"
+  }, {
+    "title" : "Time-optimal control of resource allocation in a complex of operations framework",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1976",
+    "citations" : "46"
+  }, {
+    "title" : "Advances in project scheduling",
+    "authors" : [ "R Slowinski", " J Weglarz" ],
+    "year" : "2013",
+    "citations" : "44"
+  }, {
+    "title" : "A multicriteria approach to two-level hierarchy scheduling in grids",
+    "authors" : [ "K Kurowski", " J Nabrzyski", " A Oleksiak", " J Węglarz" ],
+    "year" : "2008",
+    "citations" : "44"
+  }, {
+    "title" : "Project scheduling with discrete and continuous resources",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1979",
+    "citations" : "44"
+  }, {
+    "title" : "Scheduling independent 2-processor tasks to minimize schedule length",
+    "authors" : [ "J BŁaZ̀ewicz", " J Weglarz", " M Drabowski" ],
+    "year" : "1984",
+    "citations" : "41"
+  }, {
+    "title" : "A metaheuristic approach to scheduling workflow jobs on a Grid",
+    "authors" : [ "M Mika", " G Waligora", " J Weglarz" ],
+    "year" : "2004",
+    "citations" : "36"
+  }, {
+    "title" : "Practical power consumption estimation for real life HPC applications",
+    "authors" : [ "M Witkowski", " A Oleksiak", " T Piontek", " J Węglarz" ],
+    "year" : "2013",
+    "citations" : "34"
+  }, {
+    "title" : "Control in resource allocation systems",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1980",
+    "citations" : "32"
+  }, {
+    "title" : "A heuristic approach to allocating the continuous resource in discrete–continuous scheduling problems to minimize the makespan",
+    "authors" : [ "J Józefowska", " M Mika", " R Różycki", " G Waligóra", " J Węglarz" ],
+    "year" : "2002",
+    "citations" : "29"
+  }, {
+    "title" : "Solving the discrete-continuous project scheduling problem via its discretization",
+    "authors" : [ "J Jozefowska", " M Mika", " R Różycki", " G Waligóra", " J Weglarz" ],
+    "year" : "2000",
+    "citations" : "27"
+  }, {
+    "title" : "Modelling and control of dynamic resource allocation project scheduling systems",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1982",
+    "citations" : "27"
+  }, {
+    "title" : "Scheduling multiprocessor tasks- a survey",
+    "authors" : [ "J Blazewicz", " M Drozdowski", " J Weglarz" ],
+    "year" : "1994",
+    "citations" : "26"
+  }, {
+    "title" : "DCworms–A tool for simulation of energy efficiency in distributed computing infrastructures",
+    "authors" : [ "K Kurowski", " A Oleksiak", " W Piątek", " T Piontek", " A Przybyszewski", " J Węglarz" ],
+    "year" : "2013",
+    "citations" : "25"
+  }, {
+    "title" : "Modelling and solving grid resource allocation problem with network resources for workflow applications",
+    "authors" : [ "M Mika", " G Waligóra", " J Węglarz" ],
+    "year" : "2011",
+    "citations" : "25"
+  }, {
+    "title" : "Multicriteria, multi-user scheduling in grids with advance reservation",
+    "authors" : [ "K Kurowski", " A Oleksiak", " J Weglarz" ],
+    "year" : "2010",
+    "citations" : "23"
+  }, {
+    "title" : "Sequential and parallel algorithms for DNA sequencing",
+    "authors" : [ "J Blazewicz", " J Kaczmarek", " M Kasprzak", " WT Markiewicz", " J Weglarz" ],
+    "year" : "1997",
+    "citations" : "23"
+  }, {
+    "title" : "Power-aware scheduling of preemptable jobs on identical parallel processors to meet deadlines",
+    "authors" : [ "R Różycki", " J Węglarz" ],
+    "year" : "2012",
+    "citations" : "22"
+  }, {
+    "title" : "Metadata harvesting in regional digital libraries in the PIONIER network",
+    "authors" : [ "C Mazurek", " M Stroinski", " M Werla", " J Węglarz" ],
+    "year" : "2006",
+    "citations" : "22"
+  }, {
+    "title" : "DNA sequencing by hybridization via genetic search",
+    "authors" : [ "J Blazewicz", " C Oguz", " A Swiercz", " J Weglarz" ],
+    "year" : "2006",
+    "citations" : "21"
+  }, {
+    "title" : "Scheduling independent multiprocessor tasks before deadlines",
+    "authors" : [ "J Błażewicz", " M Drozdowski", " D Werra", " J Węglarz" ],
+    "year" : "1996",
+    "citations" : "21"
+  }, {
+    "title" : "Hierarchical scheduling strategies for parallel tasks and advance reservations in grids",
+    "authors" : [ "K Kurowski", " A Oleksiak", " W Piątek", " J Węglarz" ],
+    "year" : "2013",
+    "citations" : "20"
+  }, {
+    "title" : "Advances in project scheduling",
+    "authors" : [ "R Słowiński" ],
+    "year" : "1989",
+    "citations" : "20"
+  }, {
+    "title" : "Advances in project scheduling",
+    "authors" : [ "R Słowiński" ],
+    "year" : "1989",
+    "citations" : "20"
+  }, {
+    "title" : "First experiences with the polish optical internet",
+    "authors" : [ "A Binczewski", " N Meyer", " J Nabrzyski", " S Starzak", " M Stroiński", " J Węglarz" ],
+    "year" : "2001",
+    "citations" : "19"
+  }, {
+    "title" : "Solving the general project scheduling problem with multiple constrained resources by mathematical programming",
+    "authors" : [ "R Słowiński", " J Węglarz" ],
+    "year" : "1978",
+    "citations" : "19"
+  }, {
+    "title" : "Runtime power usage estimation of HPC servers for various classes of real-life applications",
+    "authors" : [ "M Jarus", " A Oleksiak", " T Piontek", " J Węglarz" ],
+    "year" : "2014",
+    "citations" : "18"
+  }, {
+    "title" : "CaKernel–a parallel application programming framework for heterogenous computing architectures",
+    "authors" : [ "M Blazewicz", " SR Brandt", " M Kierzynka", " K Kurowski", " B Ludwiczak", " J Tao", " ..." ],
+    "year" : "2011",
+    "citations" : "18"
+  }, {
+    "title" : "Modelling setup times in project scheduling",
+    "authors" : [ "M Mika", " G Waligóra", " J Weglarz" ],
+    "year" : "2006",
+    "citations" : "17"
+  }, {
+    "title" : "Handbook on Recent Advances in Project Scheduling",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1998",
+    "citations" : "17"
+  }, {
+    "title" : "An improved tabu search algorithm for DNA sequencing with errors",
+    "authors" : [ "J Blazewicz", " P Formanowicz", " F Glover", " M Kasprzak", " J Weglarz" ],
+    "year" : "1999",
+    "citations" : "15"
+  }, {
+    "title" : "Knowledge-based multiobjective project scheduling problems",
+    "authors" : [ "J Nabrzyski", " J Węglarz" ],
+    "year" : "1999",
+    "citations" : "15"
+  }, {
+    "title" : "Computational Methods in Science and Technology",
+    "authors" : [ "J Komasa", " W Cencek", " J Rychlewski" ],
+    "year" : "1996",
+    "citations" : "15"
+  }, {
+    "title" : "PIONIER: Polish Optical Internet",
+    "authors" : [ "J Rychlewski", " J Weglarz", " S Starzak", " M Stroinski", " M Nakonieczny" ],
+    "year" : "2000",
+    "citations" : "14"
+  }, {
+    "title" : "Power-aware scheduling of preemptable jobs on identical parallel processors to minimize makespan",
+    "authors" : [ "R Różycki", " J Węglarz" ],
+    "year" : "2014",
+    "citations" : "13"
+  }, {
+    "title" : "Transforming a Flat Metadata Schema to a Semantic Web Ontology: The Polish Digital Libraries Federation and CIDOC CRM Case Study.",
+    "authors" : [ "C Mazurek", " K Sielski", " M Stroinski", " J Walkowska", " M Werla", " J Weglarz" ],
+    "year" : "2012",
+    "citations" : "13"
+  }, {
+    "title" : "Graph-theoretical models for preemptive scheduling",
+    "authors" : [ "D De Werra" ],
+    "year" : "1989",
+    "citations" : "13"
+  }, {
+    "title" : "Project scheduling under discrete and continuous resources",
+    "authors" : [ "J Józefowska", " M Mika", " R Rózycki", " G Waligóra", " J Weglarz" ],
+    "year" : "1999",
+    "citations" : "12"
+  }, {
+    "title" : "Deadline scheduling of multiprocessor tasks",
+    "authors" : [ "J Blazewicz", " M Drozdowski", " D de Werra", " J Weglarz" ],
+    "year" : "1996",
+    "citations" : "12"
+  }, {
+    "title" : "Probabilistic and fuzzy approaches to capacity expansion planning of a water supply system",
+    "authors" : [ "R Slowinski", " A Urbaniak", " J Weglarz" ],
+    "year" : "1986",
+    "citations" : "12"
+  }, {
+    "title" : "New models and procedures for resource allocation problems",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1979",
+    "citations" : "12"
+  }, {
+    "title" : "Grid multicriteria job scheduling with resource reservation and prediction mechanisms",
+    "authors" : [ "K Kurowski", " J Nabrzyski", " A Oleksiak", " J Weglarz" ],
+    "year" : "2006",
+    "citations" : "11"
+  }, {
+    "title" : "An Almost Optimal Heuristic for Preemptive C max Scheduling of Dependent Tasks on Parallel Identical Machines",
+    "authors" : [ "J Józefowska", " M Mika", " R Różycki", " G Waligóra", " J Węglarz" ],
+    "year" : "2004",
+    "citations" : "11"
+  }, {
+    "title" : "Polish scientific broadband network: POL34",
+    "authors" : [ "M Nakonieczny", " S Starzak", " M Stroiński", " J Weglarz" ],
+    "year" : "1998",
+    "citations" : "11"
+  }, {
+    "title" : "Discretecontinuous scheduling to minimize maximum lateness",
+    "authors" : [ "J Józefowska", " M Mika", " R Różycki", " G Waligóra", " J Węglarz" ],
+    "year" : "1997",
+    "citations" : "11"
+  }, {
+    "title" : "A tabu search algorithm for some discrete-continuous scheduling problems",
+    "authors" : [ "J Józefowska" ],
+    "year" : "1996",
+    "citations" : "11"
+  }, {
+    "title" : "Project management and scheduling: A permanent challenge for OR",
+    "authors" : [ "LV Tavares", " J Wegłarz" ],
+    "year" : "1990",
+    "citations" : "11"
+  }, {
+    "title" : "Scheduling under continuous performing speed vs. resource amount activity models",
+    "authors" : [ "J Węglarz" ],
+    "year" : "1989",
+    "citations" : "10"
+  }, {
+    "title" : "On job models in power management problems",
+    "authors" : [ "R Rózycki", " J Weglarz" ],
+    "year" : "2009",
+    "citations" : "9"
+  } ],
+  "hindex" : 35
+}

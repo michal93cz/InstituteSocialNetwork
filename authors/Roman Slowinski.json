@@ -1,0 +1,407 @@
+{
+  "name" : "R Slowinski",
+  "citations" : 24803,
+  "tenIndex" : 259,
+  "articles" : [ {
+    "title" : "Rough sets",
+    "authors" : [ "Z Pawlak", " J Grzymala-Busse", " R Slowinski", " W Ziarko" ],
+    "year" : "1995",
+    "citations" : "1685"
+  }, {
+    "title" : "Rough sets theory for multicriteria decision analysis",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "2001",
+    "citations" : "1593"
+  }, {
+    "title" : "A generalized definition of rough approximations based on similarity",
+    "authors" : [ "R Slowinski", " D Vanderpooten" ],
+    "year" : "2000",
+    "citations" : "908"
+  }, {
+    "title" : "Intelligent decision support: handbook of applications and advances of the rough sets theory",
+    "authors" : [ "SY Huang" ],
+    "year" : "1992",
+    "citations" : "793"
+  }, {
+    "title" : "Multiobjective optimization: Interactive and evolutionary approaches",
+    "authors" : [ "J Branke", " K Deb", " K Miettinen" ],
+    "year" : "2008",
+    "citations" : "627"
+  }, {
+    "title" : "Business failure prediction using rough sets",
+    "authors" : [ "AI Dimitras", " R Slowinski", " R Susmaga", " C Zopounidis" ],
+    "year" : "1999",
+    "citations" : "590"
+  }, {
+    "title" : "Rough approximation of a preference relation by dominance relations",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "1999",
+    "citations" : "575"
+  }, {
+    "title" : "Inferring an ELECTRE TRI model from assignment examples",
+    "authors" : [ "V Mousseau", " R Slowinski" ],
+    "year" : "1998",
+    "citations" : "465"
+  }, {
+    "title" : "Rough approximation by dominance relations",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "2002",
+    "citations" : "452"
+  }, {
+    "title" : "Rough sets methodology for sorting problems in presence of multiple attributes and criteria",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "2002",
+    "citations" : "441"
+  }, {
+    "title" : "Rough set reduction of attributes and their domains for neural networks",
+    "authors" : [ "J Jelonek", " K Krawiec", " R Slowiński" ],
+    "year" : "1995",
+    "citations" : "419"
+  }, {
+    "title" : "Preference learning: An introduction",
+    "authors" : [ "J Fürnkranz", " E Hüllermeier" ],
+    "year" : "2010",
+    "citations" : "385"
+  }, {
+    "title" : "Similarity relation as a basis for rough approximations",
+    "authors" : [ "D Vanderpooten" ],
+    "year" : "1997",
+    "citations" : "335"
+  }, {
+    "title" : "Application of the rough set approach to evaluation of bankruptcy risk",
+    "authors" : [ "R Slowinski", " C Zopounidis" ],
+    "year" : "1995",
+    "citations" : "335"
+  }, {
+    "title" : "Ordinal regression revisited: multiple criteria ranking using a set of additive value functions",
+    "authors" : [ "S Greco", " V Mousseau", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : "334"
+  }, {
+    "title" : "A multicriteria fuzzy linear programming method for water supply system development planning",
+    "authors" : [ "R Słowiński" ],
+    "year" : "1986",
+    "citations" : "302"
+  }, {
+    "title" : "A user-oriented implementation of the ELECTRE-TRI method integrating preference elicitation support",
+    "authors" : [ "V Mousseau", " R Slowinski", " P Zielniewicz" ],
+    "year" : "2000",
+    "citations" : "282"
+  }, {
+    "title" : "The use of rough sets and fuzzy sets in MCDM",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "1999",
+    "citations" : "275"
+  }, {
+    "title" : "A new rough set approach to evaluation of bankruptcy risk",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "1998",
+    "citations" : "250"
+  }, {
+    "title" : "Stochastic versus fuzzy approaches to multiobjective mathematical programming under uncertainty",
+    "authors" : [ "SY Huang", " J Teghem" ],
+    "year" : "2012",
+    "citations" : "216"
+  }, {
+    "title" : "Fuzzy sets in decision analysis, operations research and statistics",
+    "authors" : [ "R Slowiński" ],
+    "year" : "2012",
+    "citations" : "207"
+  }, {
+    "title" : "An algorithm for a general class of precedence and resource constrained scheduling problems",
+    "authors" : [ "JH Patterson", " R Slowinski", " FB Talbot", " J Weglarz" ],
+    "year" : "1989",
+    "citations" : "207"
+  }, {
+    "title" : "Building a set of additive value functions representing a reference preorder and intensities of preference: GRIP method",
+    "authors" : [ "JR Figueira", " S Greco", " R Słowiński" ],
+    "year" : "2009",
+    "citations" : "196"
+  }, {
+    "title" : "Fuzzy priority heuristics for project scheduling",
+    "authors" : [ "M Hapke", " R Slowinski" ],
+    "year" : "1996",
+    "citations" : "184"
+  }, {
+    "title" : "Multi-criteria classification–A new scheme for application of dominance-based decision rules",
+    "authors" : [ "J Błaszczyński", " S Greco", " R Słowiński" ],
+    "year" : "2007",
+    "citations" : "178"
+  }, {
+    "title" : "ROSE-software implementation of the rough set theory",
+    "authors" : [ "B Predki", " R Słowiński", " J Stefanowski", " R Susmaga", " S Wilk" ],
+    "year" : "1998",
+    "citations" : "177"
+  }, {
+    "title" : "Decision rule approach",
+    "authors" : [ "S Greco", " B Matarazzo", " R Słowiński" ],
+    "year" : "2016",
+    "citations" : "175"
+  }, {
+    "title" : "Wielokryterialne wspomaganie decyzji",
+    "authors" : [ "B Roy" ],
+    "year" : "1990",
+    "citations" : "171"
+  }, {
+    "title" : "Two approaches to problems of resource allocation among project activities--a comparative study",
+    "authors" : [ "R Slowinski" ],
+    "year" : "1980",
+    "citations" : "171"
+  }, {
+    "title" : "Variable consistency model of dominance-based rough sets approach",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski", " J Stefanowski" ],
+    "year" : "2000",
+    "citations" : "168"
+  }, {
+    "title" : "Computational experience with a backtracking algorithm for solving a general class of precedence and resource-constrained scheduling problems",
+    "authors" : [ "JH Patterson", " FB Talbot", " R Slowinski", " J Wegłarz" ],
+    "year" : "1990",
+    "citations" : "168"
+  }, {
+    "title" : "Fuzzy project scheduling system for software development",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " R Slowinski" ],
+    "year" : "1994",
+    "citations" : "167"
+  }, {
+    "title" : "Rough classification in incomplete information systems",
+    "authors" : [ "R Słowiński", " J Stefanowski" ],
+    "year" : "1989",
+    "citations" : "162"
+  }, {
+    "title" : "An algorithm for induction of decision rules consistent with the dominance principle",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski", " J Stefanowski" ],
+    "year" : "2000",
+    "citations" : "161"
+  }, {
+    "title" : "Rough classification of patients after highly selective vagotomy for duodenal ulcer",
+    "authors" : [ "Z Pawlak", " K Słowiński", " R Słowiński" ],
+    "year" : "1986",
+    "citations" : "156"
+  }, {
+    "title" : "The ‘Light Beam Search’approach–an overview of methodology applications",
+    "authors" : [ "A Jaszkiewicz", " R Słowiński" ],
+    "year" : "1999",
+    "citations" : "155"
+  }, {
+    "title" : "A new rough set approach to multicriteria and multiattribute classification",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "1998",
+    "citations" : "154"
+  }, {
+    "title" : "DSS for multiobjective project scheduling",
+    "authors" : [ "R Słowiński", " B Soniewicki", " J Wȩglarz" ],
+    "year" : "1994",
+    "citations" : "150"
+  }, {
+    "title" : "Scheduling under fuzziness",
+    "authors" : [ "R Sowinski", " M Hapke" ],
+    "year" : "2000",
+    "citations" : "148"
+  }, {
+    "title" : "Rough set approach to decision analysis",
+    "authors" : [ "R Slowinski" ],
+    "year" : "1995",
+    "citations" : "145"
+  }, {
+    "title" : "Fuzzy rough sets and multiple-premise gradual decision rules",
+    "authors" : [ "S Greco", " M Inuiguchi", " R Slowinski" ],
+    "year" : "2006",
+    "citations" : "144"
+  }, {
+    "title" : "Rough-set-based decision support",
+    "authors" : [ "R Słowiński", " S Greco", " B Matarazzo" ],
+    "year" : "2014",
+    "citations" : "143"
+  }, {
+    "title" : "Can Bayesian confirmation measures be useful for rough set decision rules?",
+    "authors" : [ "S Greco", " Z Pawlak", " R Słowiński" ],
+    "year" : "2004",
+    "citations" : "132"
+  }, {
+    "title" : "Prediction of company acquisition in Greece by means of the rough set approach",
+    "authors" : [ "R Slowinski", " C Zopounidis", " AI Dimitras" ],
+    "year" : "1997",
+    "citations" : "132"
+  }, {
+    "title" : "Rough set approach to multiple criteria classification with imprecise evaluations and assignments",
+    "authors" : [ "K Dembczyński", " S Greco", " R Słowiński" ],
+    "year" : "2009",
+    "citations" : "129"
+  }, {
+    "title" : "Decision analysis using rough sets",
+    "authors" : [ "Z Pawlak", " R Słowinski" ],
+    "year" : "1994",
+    "citations" : "125"
+  }, {
+    "title" : "Sequential covering rule induction algorithm for variable consistency rough set approaches",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2011",
+    "citations" : "124"
+  }, {
+    "title" : "Interactive analysis of multiple-criteria project scheduling problems",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " R Słowiński" ],
+    "year" : "1998",
+    "citations" : "120"
+  }, {
+    "title" : "Evaluation of vibroacoustic diagnostic symptoms by means of the rough sets theory",
+    "authors" : [ "R Nowicki", " R Słowiński", " J Stefanowski" ],
+    "year" : "1992",
+    "citations" : "120"
+  }, {
+    "title" : "Rough set learning of preferential attitude in multi-criteria decision making",
+    "authors" : [ "R Slowiński" ],
+    "year" : "1993",
+    "citations" : "117"
+  }, {
+    "title" : "Stochastic dominance-based rough set model for ordinal classification",
+    "authors" : [ "W Kotłowski", " K Dembczyński", " S Greco", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : "115"
+  }, {
+    "title" : "Rough classification with valued closeness relation",
+    "authors" : [ "R Słowiński", " J Stefanowski" ],
+    "year" : "1994",
+    "citations" : "115"
+  }, {
+    "title" : "An overview of ELECTRE methods and their recent extensions",
+    "authors" : [ "JR Figueira", " S Greco", " B Roy", " R Słowiński" ],
+    "year" : "2013",
+    "citations" : "114"
+  }, {
+    "title" : "Rough sets in decision making",
+    "authors" : [ "R Słowiński", " S Greco", " B Matarazzo" ],
+    "year" : "2012",
+    "citations" : "112"
+  }, {
+    "title" : "Monotonic variable consistency rough set approaches",
+    "authors" : [ "J Błaszczyński", " S Greco", " R Słowiński", " M Szelg" ],
+    "year" : "2009",
+    "citations" : "112"
+  }, {
+    "title" : "Fuzzy linear programming with single or multiple objective functions",
+    "authors" : [ "H Rommelfanger", " R Słowiński" ],
+    "year" : "1998",
+    "citations" : "111"
+  }, {
+    "title" : "Multicriteria programming of water supply systems for rural areas",
+    "authors" : [ "B Roy", " R Slowinski", " W Treichel" ],
+    "year" : "1992",
+    "citations" : "110"
+  }, {
+    "title" : "‘Roughdas’ and ‘Roughclass’ Software Implementations of the Rough Sets Approach",
+    "authors" : [ "R Słowiński", " J Stefanowski" ],
+    "year" : "1992",
+    "citations" : "106"
+  }, {
+    "title" : "Rough sets approach to analysis of data from peritoneal lavage in acute pancreatitis",
+    "authors" : [ "K Slowiński", " R Slnowiński", " J Stefanowski" ],
+    "year" : "1988",
+    "citations" : "106"
+  }, {
+    "title" : "Axiomatic characterization of a general utility function and its particular cases in terms of conjoint measurement and rough-set decision rules",
+    "authors" : [ "S Greco", " B Matarazzo", " R Słowiński" ],
+    "year" : "2004",
+    "citations" : "105"
+  }, {
+    "title" : "Rough-set reasoning about uncertain data",
+    "authors" : [ "R Slowiński", " J Stefanowski" ],
+    "year" : "1996",
+    "citations" : "104"
+  }, {
+    "title" : "Extension of the rough set approach to multicriteria decision support",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "2000",
+    "citations" : "102"
+  }, {
+    "title" : "Multicriteria classification by dominance-based rough set approach",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "2000",
+    "citations" : "101"
+  }, {
+    "title" : "Robust ordinal regression",
+    "authors" : [ "S Greco", " R Słowiński", " J Figueira", " V Mousseau" ],
+    "year" : "2010",
+    "citations" : "99"
+  }, {
+    "title" : "Parameterized rough set model using rough membership and Bayesian confirmation measures",
+    "authors" : [ "S Greco", " B Matarazzo", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : "95"
+  }, {
+    "title" : "Rough classification of HSV patients",
+    "authors" : [ "K Slowinski" ],
+    "year" : "1992",
+    "citations" : "92"
+  }, {
+    "title" : "Multiple criteria sorting with a set of additive value functions",
+    "authors" : [ "S Greco", " V Mousseau", " R Słowiński" ],
+    "year" : "2010",
+    "citations" : "91"
+  }, {
+    "title" : "ELECTRE methods: main features and recent developments",
+    "authors" : [ "JR Figueira", " S Greco", " B Roy", " R Słowiński" ],
+    "year" : "2010",
+    "citations" : "87"
+  }, {
+    "title" : "Mobile clinical support system for pediatric emergencies",
+    "authors" : [ "W Michalowski", " S Rubin", " R Slowinski", " S Wilk" ],
+    "year" : "2003",
+    "citations" : "87"
+  }, {
+    "title" : "Dealing with missing data in rough set analysis of multi-attribute and multi-criteria decision problems",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "2000",
+    "citations" : "87"
+  }, {
+    "title" : "Axiomatization of utility, outranking and decision rule preference models for multiple-criteria classification problems under partial inconsistency with the dominance p...",
+    "authors" : [ "R Słowiński", " S Greco", " B Matarazzo" ],
+    "year" : "2002",
+    "citations" : "85"
+  }, {
+    "title" : "MOLP with an interactive assessment of a piecewise linear utility function",
+    "authors" : [ "E Jacquet-Lagrèze", " R Meziani", " R Slowinski" ],
+    "year" : "1987",
+    "citations" : "85"
+  }, {
+    "title" : "Questions guiding the choice of a multicriteria decision aiding method",
+    "authors" : [ "B Roy", " R Słowiński" ],
+    "year" : "2013",
+    "citations" : "84"
+  }, {
+    "title" : "Dominance-based rough set approach as a proper way of handling graduality in rough set theory",
+    "authors" : [ "S Greco", " B Matarazzo", " R Słowiński" ],
+    "year" : "2007",
+    "citations" : "83"
+  }, {
+    "title" : "Rough set approach to multi-attribute choice and ranking problems",
+    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski" ],
+    "year" : "1997",
+    "citations" : "83"
+  }, {
+    "title" : "Discriminant versus rough sets approach to vague data analysis",
+    "authors" : [ "E Krusińska", " R Slowinski", " J Stefanowski" ],
+    "year" : "1992",
+    "citations" : "81"
+  }, {
+    "title" : "Multiple criteria hierarchy process with ELECTRE and PROMETHEE",
+    "authors" : [ "S Corrente", " S Greco", " R Słowiński" ],
+    "year" : "2013",
+    "citations" : "80"
+  }, {
+    "title" : "Handling various types of uncertainty in the rough set approach",
+    "authors" : [ "R Słowiński", " J Stefanowski" ],
+    "year" : "1994",
+    "citations" : "80"
+  }, {
+    "title" : "Rough set based processing of inconsistent information in decision analysis",
+    "authors" : [ "R Słowiński", " J Stefanowski", " S Greco", " B Matarazzo" ],
+    "year" : "2000",
+    "citations" : "78"
+  }, {
+    "title" : "ELECTRE TRI 2.0 a Methodological Guide and user’s Manual",
+    "authors" : [ "V Mousseau", " R Slowinski", " P Zielniewicz" ],
+    "year" : "1999",
+    "citations" : "78"
+  } ],
+  "hindex" : 78
+}

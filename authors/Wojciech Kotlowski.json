@@ -1,0 +1,367 @@
+{
+  "name" : "W Kotlowski",
+  "citations" : 872,
+  "tenIndex" : 25,
+  "articles" : [ {
+    "title" : "Stochastic dominance-based rough set model for ordinal classification",
+    "authors" : [ "W Kotłowski", " K Dembczyński", " S Greco", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : "115"
+  }, {
+    "title" : "Predicting ads clickthrough rate with decision rules",
+    "authors" : [ "K Dembczynski", " W Kotlowski", " D Weiss" ],
+    "year" : "2008",
+    "citations" : "66"
+  }, {
+    "title" : "Bipartite ranking through minimization of univariate loss",
+    "authors" : [ "W Kotlowski", " KJ Dembczynski", " E Huellermeier" ],
+    "year" : "2011",
+    "citations" : "56"
+  }, {
+    "title" : "Optimizing the F-measure in multi-label classification: Plug-in rule approach versus structured loss minimization",
+    "authors" : [ "K Dembczynski", " A Jachnik", " W Kotlowski", " W Waegeman", " E Hüllermeier" ],
+    "year" : "2013",
+    "citations" : "51"
+  }, {
+    "title" : "Rule learning with monotonicity constraints",
+    "authors" : [ "W Kotłowski", " R Słowiński" ],
+    "year" : "2009",
+    "citations" : "45"
+  }, {
+    "title" : "On nonparametric ordinal classification with monotonicity constraints",
+    "authors" : [ "W Kotlowski", " R Slowinski" ],
+    "year" : "2013",
+    "citations" : "42"
+  }, {
+    "title" : "ENDER: a statistical framework for boosting decision rules",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "year" : "2010",
+    "citations" : "41"
+  }, {
+    "title" : "Statistical model for rough set approach to multicriteria classification",
+    "authors" : [ "K Dembczyński", " S Greco", " W Kotłowski", " R Słowiński" ],
+    "year" : "2007",
+    "citations" : "36"
+  }, {
+    "title" : "Follow the leader with dropout perturbations",
+    "authors" : [ "T Van Erven", " W Kotłowski", " MK Warmuth" ],
+    "year" : "2014",
+    "citations" : "30"
+  }, {
+    "title" : "Ordinal classification with decision rules",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "year" : "2007",
+    "citations" : "24"
+  }, {
+    "title" : "Quantum learning: asymptotically optimal classification of qubit states",
+    "authors" : [ "M Guţă", " W Kotłowski" ],
+    "year" : "2010",
+    "citations" : "23"
+  }, {
+    "title" : "Quantum learning: asymptotically optimal classification of qubit states",
+    "authors" : [ "M Guţă", " W Kotłowski" ],
+    "year" : "2010",
+    "citations" : "23"
+  }, {
+    "title" : "Maximum likelihood rule ensembles",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : "23"
+  }, {
+    "title" : "Maximum likelihood rule ensembles",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : "23"
+  }, {
+    "title" : "Ensemble of decision rules for ordinal classification with monotonicity constraints",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : "23"
+  }, {
+    "title" : "Online PCA with optimal regret",
+    "authors" : [ "J Nie", " W Kotlowski", " MK Warmuth" ],
+    "year" : "2016",
+    "citations" : "22"
+  }, {
+    "title" : "Consistent multilabel ranking through univariate losses",
+    "authors" : [ "K Dembczynski", " W Kotlowski", " E Hüllermeier" ],
+    "year" : "2012",
+    "citations" : "22"
+  }, {
+    "title" : "Solving regression by learning an ensemble of decision rules",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : "21"
+  }, {
+    "title" : "Horizon-independent optimal prediction with log-loss in exponential families",
+    "authors" : [ "P Bartlett", " P Grunwald", " P Harremoës", " F Hedayati", " W Kotlowski" ],
+    "year" : "2013",
+    "citations" : "17"
+  }, {
+    "title" : "Learning rule ensembles for ordinal classification with monotonicity constraints",
+    "authors" : [ "K Dembczyński", " R Słowiński" ],
+    "year" : "2009",
+    "citations" : "17"
+  }, {
+    "title" : "Learning of rule ensembles for multiple attribute ranking problems",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "year" : "2010",
+    "citations" : "16"
+  }, {
+    "title" : "Maximum likelihood vs. sequential normalized maximum likelihood in on-line density estimation",
+    "authors" : [ "W Kotłowski", " P Grünwald" ],
+    "year" : "2011",
+    "citations" : "15"
+  }, {
+    "title" : "Effective Prediction of Web User Behaviour with User-Level Models.",
+    "authors" : [ "K Dembczynski", " W Kotlowski", " M Sydow" ],
+    "year" : "2008",
+    "citations" : "15"
+  }, {
+    "title" : "Optimized generalized decision in dominance-based rough set approach",
+    "authors" : [ "K Dembczyński", " S Greco", " W Kotłowski", " R Słowiński" ],
+    "year" : "2007",
+    "citations" : "14"
+  }, {
+    "title" : "Quality of rough approximation in multi-criteria classification problems",
+    "authors" : [ "K Dembczyński", " S Greco", " W Kotłowski", " R Słowiński" ],
+    "year" : "2006",
+    "citations" : "14"
+  }, {
+    "title" : "Statistical approach to ordinal classification with monotonicity constraints",
+    "authors" : [ "W Kotłowski", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : "13"
+  }, {
+    "title" : "Additive preference model with piecewise linear components resulting from dominance-based rough set approximations",
+    "authors" : [ "K Dembczynski", " W Kotlowski", " R Slowinski" ],
+    "year" : "2006",
+    "citations" : "12"
+  }, {
+    "title" : "Surrogate regret bounds for generalized classification performance metrics",
+    "authors" : [ "W Kotlowski", " K Dembczyński" ],
+    "year" : "2016",
+    "citations" : "9"
+  }, {
+    "title" : "Ensemble of decision rules",
+    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "year" : "2006",
+    "citations" : "9"
+  }, {
+    "title" : "Kernelization of matrix updates, when and how?",
+    "authors" : [ "MK Warmuth", " W Kotłowski", " S Zhou" ],
+    "year" : "2014",
+    "citations" : "7"
+  }, {
+    "title" : "Prequential plug-in codes that achieve optimal redundancy rates even if the model is wrong",
+    "authors" : [ "P Grünwald", " W Kotlowski" ],
+    "year" : "2010",
+    "citations" : "7"
+  }, {
+    "title" : "Following the flattened leader",
+    "authors" : [ "W Kotłowski", " P Grunwald", " S De Rooij" ],
+    "year" : "2010",
+    "citations" : "6"
+  }, {
+    "title" : "A general framework for learning an ensemble of decision rules",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : "6"
+  }, {
+    "title" : "Statistical model for rough set approach to multicriteria classification",
+    "authors" : [ "W Kotlowski", " K Dembczynski", " S Greco", " R Slowinski" ],
+    "year" : "2007",
+    "citations" : "6"
+  }, {
+    "title" : "On selecting the best individual in noisy environments",
+    "authors" : [ "W Jaskowski", " W Kotlowski" ],
+    "year" : "2008",
+    "citations" : "5"
+  }, {
+    "title" : "Ensembles of decision rules for solving binary classification problems in the presence of missing values",
+    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "PCA with gaussian perturbations",
+    "authors" : [ "W Kotlowski", " MK Warmuth" ],
+    "year" : "2015",
+    "citations" : "4"
+  }, {
+    "title" : "Minimax algorithm for learning rotations",
+    "authors" : [ "W Kotłowski", " MK Warmuth" ],
+    "year" : "2011",
+    "citations" : "4"
+  }, {
+    "title" : "Decision rule-based algorithm for ordinal classification based on rank loss minimization",
+    "authors" : [ "K Dembczyński", " W Kotłowski" ],
+    "year" : "2009",
+    "citations" : "4"
+  }, {
+    "title" : "Mining direct marketing data by ensembles of weak learners and rough set methods",
+    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " M Pawłowski" ],
+    "year" : "2006",
+    "citations" : "4"
+  }, {
+    "title" : "PCA with Gaussian perturbations",
+    "authors" : [ "W Kotłowski", " MK Warmuth" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "Consistency of probabilistic classifier trees",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " W Waegeman", " R Busa-Fekete", " ..." ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Online Isotonic Regression",
+    "authors" : [ "W Kotłowski", " WM Koolen", " A Malek" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Minimax strategy for prediction with expert advice under stochastic assumptions",
+    "authors" : [ "W Kotłowski" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Consistent optimization of AMS by logistic loss minimization",
+    "authors" : [ "W Kotłowski" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Matrix factorization for travel time estimation in large traffic networks",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " P Gaweł", " A Szarecki", " A Jaszkiewicz" ],
+    "year" : "2013",
+    "citations" : "2"
+  }, {
+    "title" : "Qualitative models of climate variations impact on crop yields",
+    "authors" : [ "W Kotlowski" ],
+    "year" : "2007",
+    "citations" : "2"
+  }, {
+    "title" : "On minimaxity of follow the leader strategy in the stochastic setting",
+    "authors" : [ "W Kotłowski" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "On-line PCA with Optimal Regrets",
+    "authors" : [ "J Nie", " W Kotlowski", " MK Warmuth" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Community Traffic: A Technology for the Next Generation Car Navigation",
+    "authors" : [ "P Gaweł", " K Dembczyński", " W Kotłowski", " M Kubiak", " R Susmaga", " P Wesołek", " ..." ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Learning eigenvectors for free",
+    "authors" : [ "WM Koolen", " W Kotlowski", " MK Warmuth" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Beyond sequential covering–boosted decision rules",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "year" : "2010",
+    "citations" : "1"
+  }, {
+    "title" : "Relationship between loss functions and confirmation measures",
+    "authors" : [ "K Dembczyński", " S Greco", " W Kotłowski", " R Słowiński" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Praca magisterska",
+    "authors" : [ "M Kozłowska" ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "Measures of monotone relationships using dominance-based rough set approach (DRSA)",
+    "authors" : [ "W KOTŁOWSKI", " K DEMBCZY", " S GRECO", " R SŁOWI" ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "Scale-invariant unconstrained online learning",
+    "authors" : [ "W Kotłowski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Consistency Analysis for Binary Classification Revisited",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " O Koyejo", " N Natarajan" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Random Permutation Online Isotonic Regression",
+    "authors" : [ "W Kotlowski", " WM Koolen", " A Malek" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Real-time travel time prediction models in routing for car navigation applications",
+    "authors" : [ "P Gaweł", " K Dembczyński", " W Kotłowski", " A Jaszkiewicz" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Sequential normalized maximum likelihood in log-loss prediction",
+    "authors" : [ "W Kotlowski", " P Grunwald" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Community Traffic: a technology for the next generation car navigation",
+    "authors" : [ "K Dembczyński", " P Gaweł", " A Jaszkiewicz", " W Kotłowski", " M Kubiak", " ..." ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Proceedings of the Fifth Workshop on Information Theoretic Methods in Science and Engineering (WITMSE-2012)",
+    "authors" : [ "S de Rooij", " W Kotlowski", " J Rissanen", " P Myllymäki", " T Roos", " K Yamanishi" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Bounds on Individual Risk for Log-loss Predictors",
+    "authors" : [ "PD Grünwald", " W Kotłowski" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Prequential Plug-In Codes that Achieve Optimal Redundancy Rates even if the Model is Wrong",
+    "authors" : [ "W Kotlowski", " P Grünwald" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Decision Rule-based Algorithm for Ordinal Classification based on Rank Loss Minimization",
+    "authors" : [ "W Kotlowski" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Incomplete/Nondeterministic Information Systems-Ensembles of Decision Rules for Solving Binary Classification Problems in the Presence of Missing Values",
+    "authors" : [ "JDK Blaszczynski", " WSR Kotlowski", " M Szelag" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Learning ensemble of decision rules for ordinal classification",
+    "authors" : [ "K DEMBCZY", " W KOTŁOWSKI", " R SŁOWI" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Learning Rule Ensembles for Ordinal Classification with Monotonicity Constraints",
+    "authors" : [ "W Kotłowski" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "On Nonparametric Classification with Monotonicity Constraints",
+    "authors" : [ "W Kotłowski", " R Słowinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "System indukcji reguł gradualnych z danych porządkowych o powiązaniach monotonicznych między częścią warunkową a decyzyjną",
+    "authors" : [ "W Kotłowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Maszyny wektorów podpierających",
+    "authors" : [ "W Kotłowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Predicting Web User Behaviour–a Decision-theoretic Approach",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " M Sydow" ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 17
+}

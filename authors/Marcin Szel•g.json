@@ -1,0 +1,122 @@
+{
+  "name" : "M Szeląg",
+  "citations" : 415,
+  "tenIndex" : 7,
+  "articles" : [ {
+    "title" : "Sequential covering rule induction algorithm for variable consistency rough set approaches",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2011",
+    "citations" : "124"
+  }, {
+    "title" : "Monotonic variable consistency rough set approaches",
+    "authors" : [ "J Błaszczyński", " S Greco", " R Słowiński", " M Szeląg" ],
+    "year" : "2009",
+    "citations" : "112"
+  }, {
+    "title" : "jMAF - Dominance-based Rough Set Data Analysis Framework",
+    "authors" : [ "J Błaszczyński", " S Greco", " B Matarazzo", " R Słowiński", " M Szeląg" ],
+    "year" : "2013",
+    "citations" : "37"
+  }, {
+    "title" : "On variable consistency dominance-based rough set approaches",
+    "authors" : [ "J Błaszczyński", " S Greco", " R Słowiński", " M Szeląg" ],
+    "year" : "2006",
+    "citations" : "33"
+  }, {
+    "title" : "Variable consistency dominance-based rough set approach to preference learning in multicriteria ranking",
+    "authors" : [ "M Szeląg", " S Greco", " R Słowiński" ],
+    "year" : "2014",
+    "citations" : "28"
+  }, {
+    "title" : "Monotonic variable consistency rough set approaches",
+    "authors" : [ "J Błaszczyński", " S Greco", " R Słowiński", " M Szeląg" ],
+    "year" : "2007",
+    "citations" : "27"
+  }, {
+    "title" : "Learning of rule ensembles for multiple attribute ranking problems",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "year" : "2010",
+    "citations" : "16"
+  }, {
+    "title" : "Probabilistic rough set approaches to ordinal classification with monotonicity constraints",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2010",
+    "citations" : "10"
+  }, {
+    "title" : "Induction of ordinal classification rules from incomplete data",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2012",
+    "citations" : "9"
+  }, {
+    "title" : "Ensembles of decision rules",
+    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "year" : "2006",
+    "citations" : "9"
+  }, {
+    "title" : "A Novel Method for Elimination of Inconsistencies in Ordinal Classification with Monotonicity Constraints",
+    "authors" : [ "W Deng", " G Wang", " F Hu", " J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2013",
+    "citations" : "8"
+  }, {
+    "title" : "Rule-Based Approach to Multicriteria Ranking",
+    "authors" : [ "M Szeląg", " S Greco", " R Słowiński" ],
+    "year" : "2013",
+    "citations" : "6"
+  }, {
+    "title" : "Ensembles of decision rules for solving binary classification problems in the presence of missing values",
+    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "Learnability in rough set approaches",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szelag" ],
+    "year" : "2010",
+    "citations" : "4"
+  }, {
+    "title" : "VC-DomLEM: Rule induction algorithm for variable consistency rough set approaches",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2009",
+    "citations" : "4"
+  }, {
+    "title" : "On different ways of handling inconsistencies in ordinal classification with monotonicity constraints",
+    "authors" : [ "J Błaszczyński", " W Deng", " F Hu", " R Słowiński", " M Szeląg", " G Wang" ],
+    "year" : "2012",
+    "citations" : "3"
+  }, {
+    "title" : "Case-based reasoning using dominance-based decision rules",
+    "authors" : [ "M Szeląg", " S Greco", " J Błaszczyński", " R Słowiński" ],
+    "year" : "2011",
+    "citations" : "3"
+  }, {
+    "title" : "Dominance-Based Rough Set Approach to Multiple Criteria Ranking with Sorting-Specific Preference Information",
+    "authors" : [ "M Kadzinski", " R Słowinski", " M Szelag" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Application of the Dominance-based Rough Set Approach to Ranking and Similarity-based Classification Problems",
+    "authors" : [ "M Szeląg" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Rough set approach to classification of incomplete data",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Rough Set Analysis of Classification Data with Missing Values",
+    "authors" : [ "M Szeląg", " J Błaszczyński", " R Słowiński" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Similarity-Based Classification with Dominance-Based Decision Rules",
+    "authors" : [ "M Szeląg", " S Greco", " R Słowiński" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Zastosowanie teorii zbiorów przybliżonych z relacją dominacji do problemów porządkowania i klasyfikacji na podstawie podobieństwa",
+    "authors" : [ "M Szeląg" ],
+    "year" : "2015",
+    "citations" : ""
+  } ],
+  "hindex" : 9
+}

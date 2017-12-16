@@ -1,0 +1,407 @@
+{
+  "name" : "A Jaszkiewicz",
+  "citations" : 4018,
+  "tenIndex" : 38,
+  "articles" : [ {
+    "title" : "Pareto simulated annealing—a metaheuristic technique for multiple‐objective combinatorial optimization",
+    "authors" : [ "P Czyzżak", " A Jaszkiewicz" ],
+    "year" : "1998",
+    "citations" : "725"
+  }, {
+    "title" : "Genetic local search for multi-objective combinatorial optimization",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2002",
+    "citations" : "618"
+  }, {
+    "title" : "Evaluating the quality of approximations to the non-dominated set",
+    "authors" : [ "MP Hansen", " A Jaszkiewicz" ],
+    "year" : "1998",
+    "citations" : "399"
+  }, {
+    "title" : "On the performance of multiple-objective genetic local search on the 0/1 knapsack problem-a comparative experiment",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2002",
+    "citations" : "355"
+  }, {
+    "title" : "Fuzzy project scheduling system for software development",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " R Slowinski" ],
+    "year" : "1994",
+    "citations" : "167"
+  }, {
+    "title" : "The ‘Light Beam Search’approach–an overview of methodology applications",
+    "authors" : [ "A Jaszkiewicz", " R Słowiński" ],
+    "year" : "1999",
+    "citations" : "155"
+  }, {
+    "title" : "Inżynieria oprogramowania",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "1997",
+    "citations" : "123"
+  }, {
+    "title" : "On the computational efficiency of multiple objective metaheuristics. The knapsack problem case study",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2004",
+    "citations" : "122"
+  }, {
+    "title" : "Interactive analysis of multiple-criteria project scheduling problems",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " R Słowiński" ],
+    "year" : "1998",
+    "citations" : "120"
+  }, {
+    "title" : "Multiple objective metaheuristic algorithms for combinatorial optimization",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2001",
+    "citations" : "114"
+  }, {
+    "title" : "Do multiple-objective metaheuristics deliver on their promises? A computational experiment on the set-covering problem",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2003",
+    "citations" : "102"
+  }, {
+    "title" : "A comparative study of multiple-objective metaheuristics on the bi-objective set covering problem and the Pareto memetic algorithm",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2004",
+    "citations" : "90"
+  }, {
+    "title" : "Comparison of local search-based metaheuristics on the multiple objective knapsack problem",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2001",
+    "citations" : "66"
+  }, {
+    "title" : "Pareto simulated annealing for fuzzy multi-objective combinatorial optimization",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " R Słowiński" ],
+    "year" : "2000",
+    "citations" : "65"
+  }, {
+    "title" : "A metaheuristic approach to multiple objective nurse scheduling",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "1997",
+    "citations" : "61"
+  }, {
+    "title" : "Genetic local search with distance preserving recombination operator for a vehicle routing problem",
+    "authors" : [ "A Jaszkiewicz", " P Kominek" ],
+    "year" : "2003",
+    "citations" : "57"
+  }, {
+    "title" : "The light beam search—outranking based interactive procedure for multiple-objective mathematical programming",
+    "authors" : [ "A Jaszkiewicz", " R Słowiński" ],
+    "year" : "1995",
+    "citations" : "52"
+  }, {
+    "title" : "Evaluation of multiple objective metaheuristics",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2004",
+    "citations" : "51"
+  }, {
+    "title" : "Interactive multiobjective evolutionary algorithms",
+    "authors" : [ "A Jaszkiewicz", " J Branke" ],
+    "year" : "2008",
+    "citations" : "48"
+  }, {
+    "title" : "Speed-up techniques for solving large-scale biobjective TSP",
+    "authors" : [ "T Lust", " A Jaszkiewicz" ],
+    "year" : "2010",
+    "citations" : "44"
+  }, {
+    "title" : "A multiobjective metaheuristic approach to the location of petrol stations by the capital budgeting model",
+    "authors" : [ "P Czyzak", " A Jaszkiewicz" ],
+    "year" : "1996",
+    "citations" : "41"
+  }, {
+    "title" : "Pareto memetic algorithm with path relinking for bi-objective traveling salesperson problem",
+    "authors" : [ "A Jaszkiewicz", " P Zielniewicz" ],
+    "year" : "2009",
+    "citations" : "39"
+  }, {
+    "title" : "Pareto simulated annealing",
+    "authors" : [ "P Czyżak", " A Jaszkiewicz" ],
+    "year" : "1997",
+    "citations" : "38"
+  }, {
+    "title" : "Fuzzy multi-mode resource-constrained project scheduling with multiple objectives",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " R Słowiński" ],
+    "year" : "1999",
+    "citations" : "30"
+  }, {
+    "title" : "Interactive multiple objective optimization with the pareto memetic algorithm",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2004",
+    "citations" : "29"
+  }, {
+    "title" : "Interactive multiple objective optimization with the pareto memetic algorithm",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2004",
+    "citations" : "29"
+  }, {
+    "title" : "Performance of multiple objective evolutionary algorithms on a distribution system design problem-Computational experiment",
+    "authors" : [ "A Jaszkiewicz", " M Hapke", " P Kominek" ],
+    "year" : "2001",
+    "citations" : "29"
+  }, {
+    "title" : "The light beam search over a non-dominated surface of a multiple-objective programming problem",
+    "authors" : [ "A Jaszkiewicz", " R Słowińsk" ],
+    "year" : "1994",
+    "citations" : "25"
+  }, {
+    "title" : "Fuzzy project scheduling with multiple criteria",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " R Slowinski" ],
+    "year" : "1997",
+    "citations" : "24"
+  }, {
+    "title" : "The LBS-discrete interactive procedure for multiple-criteria analysis of decision problems",
+    "authors" : [ "A Jaszkiewicz", " R Słowiński" ],
+    "year" : "1997",
+    "citations" : "24"
+  }, {
+    "title" : "Multiple criteria optimization method for the vehicle assignment problem in a bus transportation company",
+    "authors" : [ "J Zak", " A Jaszkiewicz", " A Redmer" ],
+    "year" : "2009",
+    "citations" : "22"
+  }, {
+    "title" : "Cone contraction method with visual interaction for multiple‐objective non‐linear programmes",
+    "authors" : [ "A Jaszkiewicz", " R Slowinski" ],
+    "year" : "1992",
+    "citations" : "21"
+  }, {
+    "title" : "On the computational effectiveness of multiple objective metaheuristics",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2002",
+    "citations" : "20"
+  }, {
+    "title" : "Solving multiple criteria choice problems by interactive trichotomy segmentation",
+    "authors" : [ "A Jaszkiewicz", " AB Ferhat" ],
+    "year" : "1999",
+    "citations" : "19"
+  }, {
+    "title" : "Generating dense railway schedules",
+    "authors" : [ "D Burkolter", " T Herrmann", " G Caimi" ],
+    "year" : "2005",
+    "citations" : "15"
+  }, {
+    "title" : "Adaptation of the genetic local search algorithm to a car sequencing problem",
+    "authors" : [ "A Jaszkiewicz", " P Kominek", " M Kubiak" ],
+    "year" : "2004",
+    "citations" : "14"
+  }, {
+    "title" : "Untitled",
+    "authors" : [ "X Gandibleux", " A Jaszkiewicz", " A Freville", " R Slowinski" ],
+    "year" : "2000",
+    "citations" : "13"
+  }, {
+    "title" : "Multiple objective genetic local search algorithm",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2001",
+    "citations" : "12"
+  }, {
+    "title" : "Multiobjective memetic algorithms",
+    "authors" : [ "A Jaszkiewicz", " H Ishibuchi", " Q Zhang" ],
+    "year" : "2012",
+    "citations" : "11"
+  }, {
+    "title" : "OPHELIA-Open Platform and metHodologies for devELopment tools IntegrAtion in a distributed environment",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " S Perani" ],
+    "year" : "2001",
+    "citations" : "11"
+  }, {
+    "title" : "Improving performance of genetic local search by changing local search space topology",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "1999",
+    "citations" : "9"
+  }, {
+    "title" : "Outranking‐Based Interactive Exploration of a Set of Multicriteria Alternatives",
+    "authors" : [ "AJ JASZKIEWICZ", " R SŁOWIŃSKI" ],
+    "year" : "1997",
+    "citations" : "9"
+  }, {
+    "title" : "OPHELIA: Open platform for distributed software development",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " K Kowalczykiewicz", " D Weiss", " P Zielniewicz" ],
+    "year" : "2004",
+    "citations" : "8"
+  }, {
+    "title" : "Multi-objective genetic local search methods for the flow shop problem",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " K Kurowski" ],
+    "year" : "2002",
+    "citations" : "7"
+  }, {
+    "title" : "Integrated tools for software project scheduling under uncertainty",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " P Kominek", " R Slowinski" ],
+    "year" : "2000",
+    "citations" : "7"
+  }, {
+    "title" : "Methodological foundations of multi-criteria decision making",
+    "authors" : [ "W Ogryczak", " R Vetschera" ],
+    "year" : "2004",
+    "citations" : "5"
+  }, {
+    "title" : "The multiobjective metaheuristic approach for optimization of complex manufacturing systems",
+    "authors" : [ "P Czyżak", " A Jaszkiewicz" ],
+    "year" : "1997",
+    "citations" : "5"
+  }, {
+    "title" : "The design of the physical distribution system with the application of the multiple objective mathematical programming. Case study",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " J Żak" ],
+    "year" : "2002",
+    "citations" : "4"
+  }, {
+    "title" : "A mass transit system frequency multicriteria model solved by an interactive search procedure",
+    "authors" : [ "A Jaszkiewicz", " J Zac" ],
+    "year" : "1994",
+    "citations" : "4"
+  }, {
+    "title" : "Improving short-term travel time prediction for on-line car navigation by linearly transforming historical traffic patterns to fit the current traffic conditions",
+    "authors" : [ "P Gaweł", " A Jaszkiewicz" ],
+    "year" : "2011",
+    "citations" : "3"
+  }, {
+    "title" : "Special issue: Evolutionary and Local Search Heuristics in Multiple Objective Optimization-Comparison of local search-based metaheuristics on the multiple objectiv...",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2001",
+    "citations" : "3"
+  }, {
+    "title" : "Outranking-Driven Search Over a Nondominated Set",
+    "authors" : [ "A Jaszkiewicz", " R Słowiński" ],
+    "year" : "1997",
+    "citations" : "3"
+  }, {
+    "title" : "In ynieria oprogramowania",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "1997",
+    "citations" : "3"
+  }, {
+    "title" : "Proper balance between search towards and along Pareto front: biobjective TSP case study",
+    "authors" : [ "A Jaszkiewicz", " T Lust" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "ND-Tree: a Fast Online Algorithm for Updating a Pareto Archive and its Application in Many-objective Pareto Local Search",
+    "authors" : [ "A Jaszkiewicz", " T Lust" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Matrix factorization for travel time estimation in large traffic networks",
+    "authors" : [ "K Dembczyński", " W Kotłowski", " P Gaweł", " A Szarecki", " A Jaszkiewicz" ],
+    "year" : "2013",
+    "citations" : "2"
+  }, {
+    "title" : "The LBS package-a microcomputer implementation of the Light Beam Search method for the multiple-objective non-linear mathematical programming",
+    "authors" : [ "A Jaszkiewicz", " R Slowinski" ],
+    "year" : "1994",
+    "citations" : "2"
+  }, {
+    "title" : "Community Traffic: A Technology for the Next Generation Car Navigation",
+    "authors" : [ "P Gaweł", " K Dembczyński", " W Kotłowski", " M Kubiak", " R Susmaga", " P Wesołek", " ..." ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Metaheuristics in multiple objective optimization",
+    "authors" : [ "A Jaszkiewicz", " D Tuyttens" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Fitness-distance analysis of a car sequencing problem",
+    "authors" : [ "M Kubiak", " A Jaszkiewicz", " P Kominek" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "The use of pairwise comparisons in interactive hybrid evolutionary algorithms. Multiple objective knapsack problem case study",
+    "authors" : [ "A Jaskiewicz" ],
+    "year" : "2005",
+    "citations" : "1"
+  }, {
+    "title" : "Rozmyte podejście do wielokryterialnego programowania sieciowego w warunkach niepewności",
+    "authors" : [ "M Hapke", " A Jaszkiewicz", " R Słowiński" ],
+    "year" : "1998",
+    "citations" : "1"
+  }, {
+    "title" : "Trichotomy based procedure for multiple criteria choice problems",
+    "authors" : [ "AB Ferhat", " A Jaszkiewicz" ],
+    "year" : "1996",
+    "citations" : "1"
+  }, {
+    "title" : "The light beam search over a non-dominated set(an interactive procedure for multiple-objective analysis of linear and non-linear programs)",
+    "authors" : [ "A Jaszkiewicz", " R Slowinski" ],
+    "year" : "1993",
+    "citations" : "1"
+  }, {
+    "title" : "Many-Objective Pareto Local Search",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Experimental Analysis of Design Elements of Scalarizing Functions-based Multiobjective Evolutionary Algorithms",
+    "authors" : [ "M Aghabeig", " A Jaszkiewicz" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Improved Quick Hypervolume Algorithm",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Real-time travel time prediction models in routing for car navigation applications",
+    "authors" : [ "P Gaweł", " K Dembczyński", " W Kotłowski", " A Jaszkiewicz" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Adapting Travel Time Estimates to Current Traffic Conditions",
+    "authors" : [ "P Gaweł", " K Dembczyński", " R Susmaga", " P Wesołek", " P Zielniewicz", " ..." ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Multiple-Criteria Analysis of Decision Problems",
+    "authors" : [ "A Jaszkiewicz", " R Slowiński" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Outranking-Driven Search",
+    "authors" : [ "A Jaszkiewicz", " R Slowiński" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "1 6 FUZZY MULTI-MODE",
+    "authors" : [ "M Hapke", " A Jaszkiewicz" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Evaluation of Multiple Objective",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Community Traffic: a technology for the next generation car navigation",
+    "authors" : [ "K Dembczyński", " P Gaweł", " A Jaszkiewicz", " W Kotłowski", " M Kubiak", " ..." ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Kryteria oceny planerów podróży dla transportu publicznego",
+    "authors" : [ "A Jaszkiewicz", " A Szychta" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Advanced OR and AI methods in transportation",
+    "authors" : [ "A Jaszkiewicz", " M Kaczmarek", " J Zak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Distance preserving recombination operator for Earth observation satellites operations scheduling",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Genetic Algorithms and Fuzzy Multiobjective Optimization, M. Sakawa (Ed.). Kluwer Academic Publisher, Boston (2001),(288pp.), ISBN: 0-7923-7452-5",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Multiple objective metaheuristics for combinatorial optimization: a review",
+    "authors" : [ "J Teghem", " A Jaszkiewicz" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Metaheuristics for multi-objective combinatorial optimization: a tutorial",
+    "authors" : [ "A Jaszkiewicz", " J Teghem" ],
+    "year" : "2003",
+    "citations" : ""
+  } ],
+  "hindex" : 25
+}

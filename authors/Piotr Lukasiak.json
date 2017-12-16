@@ -1,0 +1,257 @@
+{
+  "name" : "P Lukasiak",
+  "citations" : 404,
+  "tenIndex" : 10,
+  "articles" : [ {
+    "title" : "Automated 3D structure composition for large RNAs",
+    "authors" : [ "M Popenda", " M Szachniuk", " M Antczak", " KJ Purzycka", " P Lukasiak", " N Bartol", " ..." ],
+    "year" : "2012",
+    "citations" : "183"
+  }, {
+    "title" : "Application of tabu search strategy for finding low energy structure of protein",
+    "authors" : [ "J Błażewicz", " P Łukasiak", " M Miłostan" ],
+    "year" : "2005",
+    "citations" : "37"
+  }, {
+    "title" : "RNApdbee—a webserver to derive secondary structures from pdb files of knotted and unknotted RNAs",
+    "authors" : [ "M Antczak", " T Zok", " M Popenda", " P Lukasiak", " RW Adamiak", " J Blazewicz", " ..." ],
+    "year" : "2014",
+    "citations" : "25"
+  }, {
+    "title" : "Web and grid technologies in bioinformatics, computational and systems biology: A review",
+    "authors" : [ "N Krasnogor", " AA Shah", " D Barthel", " P Lukasiak", " J Blazewicz" ],
+    "year" : "2008",
+    "citations" : "19"
+  }, {
+    "title" : "RNAlyzer—novel approach for quality analysis of RNA structural models",
+    "authors" : [ "P Lukasiak", " M Antczak", " T Ratajczak", " JM Bujnicki", " M Szachniuk", " ..." ],
+    "year" : "2013",
+    "citations" : "17"
+  }, {
+    "title" : "Some operations research methods for analyzing protein sequences and structures",
+    "authors" : [ "P Łukasiak", " J Błażewicz", " M Miłostan" ],
+    "year" : "2010",
+    "citations" : "14"
+  }, {
+    "title" : "A tabu search strategy for finding low energy structures of proteins in HP-model",
+    "authors" : [ "M Milostan", " P Lukasiak", " KA Dill", " J Blazewicz" ],
+    "year" : "2003",
+    "citations" : "14"
+  }, {
+    "title" : "Some operations research methods for analyzing protein sequences and structures",
+    "authors" : [ "J Błażewicz", " P Łukasiak", " M Miłostan" ],
+    "year" : "2006",
+    "citations" : "13"
+  }, {
+    "title" : "Predicting secondary structures of proteins",
+    "authors" : [ "J Blazewicz", " PL Hammer", " P Lukasiak" ],
+    "year" : "2005",
+    "citations" : "13"
+  }, {
+    "title" : "A tabu search strategy for finding low energy structures of proteins in HP-model",
+    "authors" : [ "J BŁAŻEWICZ", " KEN DILL", " P ŁUKASIAK", " M MIŁOSTAN" ],
+    "year" : "2004",
+    "citations" : "12"
+  }, {
+    "title" : "Chapter One-Automated 3D RNA Structure Prediction Using the RNAComposer Method for Riboswitches",
+    "authors" : [ "KJ Purzycka", " M Popenda", " M Szachniuk", " M Antczak", " P Lukasiak", " ..." ],
+    "year" : "2015",
+    "citations" : "9"
+  }, {
+    "title" : "Prediction of protein secondary structure using Logical Analysis of Data algorithm",
+    "authors" : [ "J Błażewicz", " P Hammer", " P Łukasiak" ],
+    "year" : "2001",
+    "citations" : "9"
+  }, {
+    "title" : "RNAssess—a web server for quality assessment of RNA 3D structures",
+    "authors" : [ "P Lukasiak", " M Antczak", " T Ratajczak", " M Szachniuk", " M Popenda", " ..." ],
+    "year" : "2015",
+    "citations" : "8"
+  }, {
+    "title" : "GeVaDSs–decision support system for novel Genetic Vaccine development process",
+    "authors" : [ "J Blazewicz", " M Borowski", " W Chaara", " P Kedziora", " D Klatzmann", " ..." ],
+    "year" : "2012",
+    "citations" : "7"
+  }, {
+    "title" : "3D-Judge--A metaserver approach to protein structure prediction",
+    "authors" : [ "W Jaskowski", " J Blazewicz", " P Lukasiak", " M Milostan", " N Krasnogor" ],
+    "year" : "2007",
+    "citations" : "6"
+  }, {
+    "title" : "SphereGrinder-reference structure-based tool for quality assessment of protein structural models",
+    "authors" : [ "PLM Antczak", " T Ratajczak", " P Lukasiak", " J Blazewicz" ],
+    "year" : "2015",
+    "citations" : "5"
+  }, {
+    "title" : "Logical Analysis of Data as a predictor of protein secondary structures",
+    "authors" : [ "J Błażewicz", " PL Hammer", " P Łukasiak" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "Structural alignment of protein descriptors–a combinatorial model",
+    "authors" : [ "M Antczak", " M Kasprzak", " P Lukasiak", " J Blazewicz" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Building the library of RNA 3D nucleotide conformations using the clustering approach",
+    "authors" : [ "T Zok", " M Antczak", " M Riedel", " D Nebel", " T Villmann", " P Lukasiak", " J Blazewicz", " ..." ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Domgen-Graph based method for protein domain delineation",
+    "authors" : [ "M Milostan", " P Lukasiak" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Flexibility of dicer studied by implicit solvent molecular dynamics simulations",
+    "authors" : [ "J Sarzyńska", " A Mickiewicz", " M Miłostan", " P Łukasiak", " J Błażewicz", " ..." ],
+    "year" : "2010",
+    "citations" : "2"
+  }, {
+    "title" : "DomAns—Pattern based method for protein domain boundaries prediction and analysis",
+    "authors" : [ "M Antczak", " J Blazewicz", " P Lukasiak", " M Milostan", " N Krasnogor", " G Palik" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "New machine learning methods for prediction of protein secondary structures",
+    "authors" : [ "J Błażewicz", " P Łukasiak", " S Wilk" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Modeling of the catalytic core of Arabidopsis thaliana Dicer-like 4 protein and its complex with double-stranded RNA",
+    "authors" : [ "A Mickiewicz", " J Sarzyńska", " M Miłostan", " A Kurzyńska-Kokorniak", " ..." ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Recent Advances in Operations Research in Computational Biology, Bioinformatics and Medicine",
+    "authors" : [ "M Turkay", " G Felici", " M Szachniuk", " P Lukasiak" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Clustering approach to create libraries of representative RNA conformers",
+    "authors" : [ "T Zok", " M Antczak", " M Riedel", " D Nebel", " T Villmann", " P Lukasiak", " J Blazewicz", " ..." ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Protein structure quality assessment and modeling support techniques",
+    "authors" : [ "M Antczak", " P Lukasiak", " K Fidelis", " A Kryshtafovych", " J Blazewicz" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Automated prediction of 3D structure of proteins based on descriptors approach",
+    "authors" : [ "P Lukasiak", " K Fidelis", " M Antczak", " A Kryshtafovych", " J Blazewicz" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "RNAComposer and the art of composing RNA structures",
+    "authors" : [ "M Szachniuk", " M Popenda", " M Antczak", " KJ Purzycka", " P Lukasiak", " N Bartol", " ..." ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "System wspomagania wytwarzania i analiz szczepionek genetycznych",
+    "authors" : [ "J Błażewicz", " P Łukasiak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Sequence similarity based method for protein function prediction",
+    "authors" : [ "J Blazewicz", " P Lukasiak", " M Milostan", " N Krasnogor", " P Jackowiak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "05441 Executive Summary--Managing and Mining Genome Information: Frontiers in Bioinformatics",
+    "authors" : [ "J Blazewicz", " JC Freytag", " M Vingron" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "MEDICINEAND BIOLOGY",
+    "authors" : [ "M Hamady", " THT Cheung", " K Resing", " KJ Cios", " R Knight", " RE Ison", " ..." ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Arredondo, TV, PS Neelakanta and D. De Groff",
+    "authors" : [ "R Baumgartner", " E Pranckeviciene", " GD Baxter", " AF Monk", " K Tan", " PRF Dear", " ..." ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Metin Turkay, Giovanni Felici 2, Marta Szachniuk 3 and",
+    "authors" : [ "P Lukasiak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "BioSciencesWorld 2010",
+    "authors" : [ "S Badilescu", " T Bersano", " C Blum", " SC Buraga", " P Bustamante", " KCC Chan", " ..." ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Lescahiers dulaboratoire Leibniz",
+    "authors" : [ "A Sebõ" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Jacek Błażewicz, Piotr łukasiak",
+    "authors" : [ "ICB PAN" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Les cahiers du laboratoire Leibniz",
+    "authors" : [ "J Blazewicz", " P Lukasiak", " S Wilk" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Session 2. Genomics, Proteomics, Metabolomics—Medical and Environmental Implications",
+    "authors" : [ "M Popenda", " M Szachniuk", " M Antczak", " KJ Purzycka", " P Lukasiak", " N Bartol", " ..." ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "3D–RNA–Pred: An Automatic Construction of Three–Dimensional RNA Structures",
+    "authors" : [ "M Antczak", " J Blazewicz", " R Adamiak", " P Lukasiak", " M Popenda", " ..." ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "GeVaDSs-A System for New Improved Vaccines Based on Genomic and Proteomic Information",
+    "authors" : [ "P Lukasiak", " J Blazewicz", " D Klatzmann" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Protein structure modelling–case study",
+    "authors" : [ "M Milostan", " J Sarzynska", " A Mickiewicz", " M Antczak", " P Lukasiak", " ..." ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Computational support for anti-virus vaccine development-COMPUVAC",
+    "authors" : [ "J Blazewicz", " P Lukasiak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "ProDomAn-Protein Domains Analysis platform",
+    "authors" : [ "P Lukasiak", " M Antczak", " A Hoffa", " W Biniecki", " M Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Domain Analysis Server (DomAnS)–Protein domains prediction algorithm (DomAn)",
+    "authors" : [ "J Blazewicz", " P Lukasiak", " M Antczak", " M Milostan", " G Palik" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "CompuVac–development and standardized evaluation of novel genetic vaccines",
+    "authors" : [ "P Lukasiak", " J Blazewicz", " D Klatzmann" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Graph clustering approach for protein domain decomposition",
+    "authors" : [ "M Milostan", " J Blazewicz", " P Lukasiak", " M Antczak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "105. Rules generator for prediction of protein secondary structures",
+    "authors" : [ "P Łukasiak", " PL Hammer", " J Błażewicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "LOGICAL ANALYSIS OF DATA APPROACH TO THE PREDICTION OF PROTEIN SECONDARY STRUCTURES",
+    "authors" : [ "J Błażewicz", " PL Hammer", " P Łukasiak" ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 10
+}

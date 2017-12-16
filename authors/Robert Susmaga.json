@@ -1,0 +1,282 @@
+{
+  "name" : "R Susmaga",
+  "citations" : 1394,
+  "tenIndex" : 22,
+  "articles" : [ {
+    "title" : "Business failure prediction using rough sets",
+    "authors" : [ "AI Dimitras", " R Slowinski", " R Susmaga", " C Zopounidis" ],
+    "year" : "1999",
+    "citations" : "590"
+  }, {
+    "title" : "ROSE-software implementation of the rough set theory",
+    "authors" : [ "B Predki", " R Słowiński", " J Stefanowski", " R Susmaga", " S Wilk" ],
+    "year" : "1998",
+    "citations" : "177"
+  }, {
+    "title" : "Analyzing discretizations of continuous attributes given a monotonic discrimination function",
+    "authors" : [ "R Susmaga" ],
+    "year" : "1997",
+    "citations" : "88"
+  }, {
+    "title" : "Generation of exhaustive set of rules within dominance-based rough set approach",
+    "authors" : [ "K Dembczyński", " R Pindur", " R Susmaga" ],
+    "year" : "2003",
+    "citations" : "63"
+  }, {
+    "title" : "Generation of reducts and rules in multi-attribute and multi-criteria classification",
+    "authors" : [ "R Susmaga", " R Słowiński", " S Greco", " B Matarazzo" ],
+    "year" : "2000",
+    "citations" : "55"
+  }, {
+    "title" : "Dominance-based rough set classifier without induction of decision rules",
+    "authors" : [ "K Dembczyński", " R Pindur", " R Susmaga" ],
+    "year" : "2003",
+    "citations" : "45"
+  }, {
+    "title" : "Experiments in incremental computation of reducts",
+    "authors" : [ "R Susmaga" ],
+    "year" : "1998",
+    "citations" : "40"
+  }, {
+    "title" : "Reducts and constructs in attribute reduction",
+    "authors" : [ "R Susmaga" ],
+    "year" : "2004",
+    "citations" : "26"
+  }, {
+    "title" : "Rough set predictor of business failure",
+    "authors" : [ "R Slowinski", " C Zopounidis", " AI Dimitras", " R Susmaga" ],
+    "year" : "1999",
+    "citations" : "25"
+  }, {
+    "title" : "Rough Family±software implementation of rough set based data analysis and rule discovery techniques",
+    "authors" : [ "R Mienko", " R Slowinski", " J Stefanowski", " R Susmaga" ],
+    "year" : "1996",
+    "citations" : "24"
+  }, {
+    "title" : "Reducts and constructs in classic and dominance-based rough sets approach",
+    "authors" : [ "R Susmaga" ],
+    "year" : "2014",
+    "citations" : "22"
+  }, {
+    "title" : "Rough set approach to the evaluation of stormwater pollution",
+    "authors" : [ "L Rossi", " R Slowinski", " R Susmaga" ],
+    "year" : "1999",
+    "citations" : "21"
+  }, {
+    "title" : "Use of rough sets analysis to classify siberian forest ecosystems according to net primary production of phytomass",
+    "authors" : [ "M Flinkman", " W Michalowski", " S Nilsson", " R Slowinski", " R Susmaga", " S Wilk" ],
+    "year" : "2000",
+    "citations" : "20"
+  }, {
+    "title" : "Parallel computation of reducts",
+    "authors" : [ "R Susmaga" ],
+    "year" : "1998",
+    "citations" : "19"
+  }, {
+    "title" : "Hyperplane aggregation of dominance decision rules",
+    "authors" : [ "R Pindur", " R Susmaga", " J Stefanowski" ],
+    "year" : "2004",
+    "citations" : "18"
+  }, {
+    "title" : "Rule-based estimation of attribute relevance",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " R Susmaga" ],
+    "year" : "2011",
+    "citations" : "17"
+  }, {
+    "title" : "Business failure prediction using rough sets: A comparison with multivariate analysis techniques",
+    "authors" : [ "C Zopounidis", " R Slowinski", " M Doumpos", " AI Dimitras", " R Susmaga" ],
+    "year" : "1999",
+    "citations" : "17"
+  }, {
+    "title" : "Identifying regularities in stock portfolio tilting",
+    "authors" : [ "R Susmaga", " W Michalowski", " R Slowinski" ],
+    "year" : "1997",
+    "citations" : "17"
+  }, {
+    "title" : "Computation of minimal cost reducts",
+    "authors" : [ "R Susmaga" ],
+    "year" : "1999",
+    "citations" : "15"
+  }, {
+    "title" : "Generation of rough sets reducts and constructs based on inter-class and intra-class information",
+    "authors" : [ "R Susmaga", " R Słowiński" ],
+    "year" : "2015",
+    "citations" : "13"
+  }, {
+    "title" : "Tree-like parallelization of reduct and construct computation",
+    "authors" : [ "R Susmaga" ],
+    "year" : "2004",
+    "citations" : "13"
+  }, {
+    "title" : "Effective tests for minimality in reduct generation",
+    "authors" : [ "R Susmaga" ],
+    "year" : "1998",
+    "citations" : "10"
+  }, {
+    "title" : "The rough sets analysis and the neural networks classifier: a hybrid approach to predicting stocks’ performance",
+    "authors" : [ "V Jog", " W Michalowski", " R Slowinski", " R Susmaga" ],
+    "year" : "1999",
+    "citations" : "9"
+  }, {
+    "title" : "Rough set analysis of attribute dependencies in technical diagnostics",
+    "authors" : [ "R Slowinski", " J Stefanowski", " R Susmaga" ],
+    "year" : "1996",
+    "citations" : "9"
+  }, {
+    "title" : "Fast rule extraction with binary-coded relations",
+    "authors" : [ "R Pindur", " R Susmaga" ],
+    "year" : "2003",
+    "citations" : "6"
+  }, {
+    "title" : "Can interestingness measures be usefully visualized?",
+    "authors" : [ "R Susmaga", " I Szczęch" ],
+    "year" : "2015",
+    "citations" : "5"
+  }, {
+    "title" : "Visualization of interestingness measures",
+    "authors" : [ "R Susmaga", " I Szczęch" ],
+    "year" : "2013",
+    "citations" : "5"
+  }, {
+    "title" : "Reducts versus constructs: an experimental evaluation",
+    "authors" : [ "R Susmaga" ],
+    "year" : "2003",
+    "citations" : "5"
+  }, {
+    "title" : "Computation of shortest reducts",
+    "authors" : [ "R Susmaga" ],
+    "year" : "1998",
+    "citations" : "5"
+  }, {
+    "title" : "New test for inclusion minimality in reduct generation",
+    "authors" : [ "R Susmaga" ],
+    "year" : "2000",
+    "citations" : "3"
+  }, {
+    "title" : "Visual-based detection of properties of confirmation measures",
+    "authors" : [ "R Susmaga", " I Szczęch" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Generation of Exhaustive Rule Sets Using a Reduct Generating Algorithm",
+    "authors" : [ "R Susmaga" ],
+    "year" : "2000",
+    "citations" : "2"
+  }, {
+    "title" : "Identification of Biodiversity and Other Forest Attributes for Sustainable Forest Management: Siberian Forest Case Study",
+    "authors" : [ "S Wilk", " M Flinkman", " W Michalowski", " S Nilsson", " R Slowinski", " R Susmaga" ],
+    "year" : "1998",
+    "citations" : "2"
+  }, {
+    "title" : "Visual-Based Analysis of Classification Measures with Applications to Imbalanced Data",
+    "authors" : [ "D Brzezinski", " J Stefanowski", " R Susmaga", " I Szczęch" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "The Property of\\chi^ 2_ {01}-Concordance for Bayesian Confirmation Measures",
+    "authors" : [ "R Susmaga", " I Szczęch" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Community Traffic: A Technology for the Next Generation Car Navigation",
+    "authors" : [ "P Gaweł", " K Dembczyński", " W Kotłowski", " M Kubiak", " R Susmaga", " P Wesołek", " ..." ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "The concept of topological information in text representation",
+    "authors" : [ "R Susmaga", " I Masłowska", " L Budzyńska" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Confusion Matrix Visualization",
+    "authors" : [ "R Susmaga" ],
+    "year" : "2004",
+    "citations" : "1"
+  }, {
+    "title" : "Machine Learning Methods for Improving Gender Recognition from Stop Consonants",
+    "authors" : [ "E Lukasik", " R Susmaga" ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "Selected group-theoretic aspects of confirmation measure symmetries",
+    "authors" : [ "R Susmaga", " I Szczęch" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Visualization support for the analysis of properties of interestingness measures",
+    "authors" : [ "R Susmaga", " I Szczęch" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Adapting Travel Time Estimates to Current Traffic Conditions",
+    "authors" : [ "P Gaweł", " K Dembczyński", " R Susmaga", " P Wesołek", " P Zielniewicz", " ..." ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Community Traffic: a technology for the next generation car navigation",
+    "authors" : [ "K Dembczyński", " P Gaweł", " A Jaszkiewicz", " W Kotłowski", " M Kubiak", " ..." ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Multistimulus ranking versus pairwise comparison in assessing quality of musical instruments sounds",
+    "authors" : [ "L Budzynska", " J Jelonek", " E Lukasik", " R Slowinski", " R Susmaga" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "SEQUENTIAL CONSTRUCTION OF FEATURES BASED ON GENETICALLY TRANSFORMED DATA",
+    "authors" : [ "J Jelonek", " R Słowiński", " R Susmaga" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Initial clinical data and appearance of hepatic cirrhosis complications-analysis of clinical experience using rough-sets methodology",
+    "authors" : [ "M Grzymislawski", " K Slowinski", " J Nowacki", " R Susmaga" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Identifying Important Attributes for the Siberian Forests Management Using Rough Sets Analysis",
+    "authors" : [ "M Flinkman", " W Michalowski", " S Nilsson", " R Slowinski", " R Susmaga", " S Wilk" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Tentative clinical data versus disease compications in the course of hepatic cirrhosis-an analysis of a clinical experience using rough set methodology",
+    "authors" : [ "K Slowinski", " M Grzymislawski", " J Nowacki", " R Susmaga" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Ъ й из Ю жзйз гвзижй из в мд ж б ви а к ай и гв",
+    "authors" : [ "R Susmaga" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Tetrahedron: Barycentric Measure Visualizer",
+    "authors" : [ "D Brzezinski", " J Stefanowski", " R Susmaga", " I Szczęch" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "ADBIS 2012 Workshops and PhD Consortium program",
+    "authors" : [ "G Toppin", " M Grzegorowski", " PW Pardel", " S Stawicki", " K Stencel", " FM Schleif", " ..." ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "The Property of χ2",
+    "authors" : [ "R Susmaga", " I Szczech" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Classification Experiments with Stop Consonants",
+    "authors" : [ "E Lukasik", " R Susmaga" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Identification of Dominant Forest System Conditions Using Rough Sets Analysis: Siberian Forest Case Study",
+    "authors" : [ "M Flinkman", " W Michalowski", " S Nilsson", " R Slowinski", " R Susmaga", " S Wilk" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Wyjściowe dane kliniczne a występowanie powikłań w przebiegu marskości wątroby–analiza doświadczenia klinicznego z zastosowaniem metodyki zbiorów przybli...",
+    "authors" : [ "M Grzymisławski", " K Słowiński", " J Nowacki", " R Susmaga" ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 17
+}

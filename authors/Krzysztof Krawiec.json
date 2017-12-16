@@ -1,0 +1,407 @@
+{
+  "name" : "K Krawiec",
+  "citations" : 2572,
+  "tenIndex" : 58,
+  "articles" : [ {
+    "title" : "Rough set reduction of attributes and their domains for neural networks",
+    "authors" : [ "J Jelonek", " K Krawiec", " R Slowiński" ],
+    "year" : "1995",
+    "citations" : "419"
+  }, {
+    "title" : "Geometric semantic genetic programming",
+    "authors" : [ "A Moraglio", " K Krawiec", " CG Johnson" ],
+    "year" : "2012",
+    "citations" : "186"
+  }, {
+    "title" : "Genetic programming-based construction of features for machine learning and knowledge discovery tasks",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2002",
+    "citations" : "142"
+  }, {
+    "title" : "Genetic programming needs better benchmarks",
+    "authors" : [ "J McDermott", " DR White", " S Luke", " L Manzoni", " M Castelli", " L Vanneschi", " ..." ],
+    "year" : "2012",
+    "citations" : "139"
+  }, {
+    "title" : "Visual learning by coevolutionary feature synthesis",
+    "authors" : [ "K Krawiec", " B Bhanu" ],
+    "year" : "2005",
+    "citations" : "120"
+  }, {
+    "title" : "Approximating geometric crossover in semantic space",
+    "authors" : [ "K Krawiec", " P Lichocki" ],
+    "year" : "2009",
+    "citations" : "76"
+  }, {
+    "title" : "Visual learning by evolutionary and coevolutionary feature synthesis",
+    "authors" : [ "K Krawiec", " B Bhanu" ],
+    "year" : "2007",
+    "citations" : "55"
+  }, {
+    "title" : "Segmenting Retinal Blood Vessels With<? Pub _newline?> Deep Neural Networks",
+    "authors" : [ "P Liskowski", " K Krawiec" ],
+    "year" : "2016",
+    "citations" : "53"
+  }, {
+    "title" : "Evolutionary synthesis of pattern recognition systems",
+    "authors" : [ "B Bhanu", " Y Lin", " K Krawiec" ],
+    "year" : "2005",
+    "citations" : "40"
+  }, {
+    "title" : "Learning decision rules from similarity based rough approximations",
+    "authors" : [ "K Krawiec", " R Słowiński", " D Vanderpooten" ],
+    "year" : "1998",
+    "citations" : "40"
+  }, {
+    "title" : "Semantic backpropagation for designing search operators in genetic programming",
+    "authors" : [ "TP Pawlak", " B Wieloch", " K Krawiec" ],
+    "year" : "2015",
+    "citations" : "39"
+  }, {
+    "title" : "Behavioral programming: a broader and more detailed take on semantic GP",
+    "authors" : [ "K Krawiec", " UM O'Reilly" ],
+    "year" : "2014",
+    "citations" : "38"
+  }, {
+    "title" : "Evolutionary weighting of image features for diagnosing of CNS tumors",
+    "authors" : [ "M Komosiński", " K Krawiec" ],
+    "year" : "2000",
+    "citations" : "38"
+  }, {
+    "title" : "Multiple regression genetic programming",
+    "authors" : [ "I Arnaldo", " K Krawiec", " UM O'Reilly" ],
+    "year" : "2014",
+    "citations" : "33"
+  }, {
+    "title" : "Construction of rough classifiers based on application of a similarity relation",
+    "authors" : [ "K Krawiec", " R Slowinski", " D Vanderpooten" ],
+    "year" : "1996",
+    "citations" : "33"
+  }, {
+    "title" : "Locally geometric semantic crossover: a study on the roles of semantics and homology in recombination operators",
+    "authors" : [ "K Krawiec", " T Pawlak" ],
+    "year" : "2013",
+    "citations" : "30"
+  }, {
+    "title" : "Coevolution and linear genetic programming for visual learning",
+    "authors" : [ "K Krawiec", " B Bhanu" ],
+    "year" : "2003",
+    "citations" : "28"
+  }, {
+    "title" : "Uczenie maszynowe i sieci neuronowe",
+    "authors" : [ "K Krawiec", " J Stefanowski" ],
+    "year" : "2003",
+    "citations" : "27"
+  }, {
+    "title" : "Neural networks and rough sets—comparison and combination for classification of histological pictures",
+    "authors" : [ "J Jelonek", " K Krawiec", " R Słowiński", " J Stefanowski", " J Szymaś" ],
+    "year" : "1994",
+    "citations" : "27"
+  }, {
+    "title" : "Coevolutionary temporal difference learning for Othello",
+    "authors" : [ "M Szubert", " W Jaskowski", " K Krawiec" ],
+    "year" : "2009",
+    "citations" : "25"
+  }, {
+    "title" : "Review and comparative analysis of geometric semantic crossovers",
+    "authors" : [ "TP Pawlak", " B Wieloch", " K Krawiec" ],
+    "year" : "2015",
+    "citations" : "24"
+  }, {
+    "title" : "Generative learning of visual concepts using multiobjective genetic programming",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2007",
+    "citations" : "24"
+  }, {
+    "title" : "Overview of object detection and image analysis by means of genetic programming techniques",
+    "authors" : [ "K Krawiec", " D Howard", " M Zhang" ],
+    "year" : "2007",
+    "citations" : "24"
+  }, {
+    "title" : "Learning n-tuple networks for Othello by coevolutionary gradient search",
+    "authors" : [ "K Krawiec", " MG Szubert" ],
+    "year" : "2011",
+    "citations" : "22"
+  }, {
+    "title" : "On scalability, generalization, and hybridization of coevolutionary learning: a case study for othello",
+    "authors" : [ "M Szubert", " W Jaśkowski", " K Krawiec" ],
+    "year" : "2013",
+    "citations" : "21"
+  }, {
+    "title" : "Pattern-guided genetic programming",
+    "authors" : [ "K Krawiec", " J Swan" ],
+    "year" : "2013",
+    "citations" : "20"
+  }, {
+    "title" : "Improving coevolution by random sampling",
+    "authors" : [ "W Jaśkowski", " P Liskowski", " M Szubert", " K Krawiec" ],
+    "year" : "2013",
+    "citations" : "20"
+  }, {
+    "title" : "Genetic Programming",
+    "authors" : [ "K Krawiec", " T Pawlak" ],
+    "year" : "2012",
+    "citations" : "20"
+  }, {
+    "title" : "Modeling global temperature changes with genetic programming",
+    "authors" : [ "K Stanislawska", " K Krawiec", " ZW Kundzewicz" ],
+    "year" : "2012",
+    "citations" : "19"
+  }, {
+    "title" : "Winning ant wars: Evolving a human-competitive game strategy using fitnessless selection",
+    "authors" : [ "W Jaskowski", " K Krawiec", " B Wieloch" ],
+    "year" : "2008",
+    "citations" : "19"
+  }, {
+    "title" : "Coevolutionary construction of features for transformation of representation in machine learning",
+    "authors" : [ "B Bhanu", " K Krawiec" ],
+    "year" : "2002",
+    "citations" : "19"
+  }, {
+    "title" : "Comparative study of feature subset selection techniques for machine learning tasks",
+    "authors" : [ "J Jelonek", " K Krawiec", " J Stefanowski" ],
+    "year" : "1998",
+    "citations" : "19"
+  }, {
+    "title" : "Analysis of semantic modularity for genetic programming",
+    "authors" : [ "K Krawiec", " B Wieloch" ],
+    "year" : "2009",
+    "citations" : "18"
+  }, {
+    "title" : "Pairwise comparison of hypotheses in evolutionary learning",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2001",
+    "citations" : "18"
+  }, {
+    "title" : "OCT angiography by absolute intensity difference applied to normal and diseased human retinas",
+    "authors" : [ "D Ruminski", " BL Sikorski", " D Bukowska", " M Szkulmowski", " K Krawiec", " ..." ],
+    "year" : "2015",
+    "citations" : "17"
+  }, {
+    "title" : "Automatic derivation of search objectives for test-based genetic programming",
+    "authors" : [ "K Krawiec", " P Liskowski" ],
+    "year" : "2015",
+    "citations" : "17"
+  }, {
+    "title" : "Approximating geometric crossover by semantic backpropagation",
+    "authors" : [ "K Krawiec", " T Pawlak" ],
+    "year" : "2013",
+    "citations" : "16"
+  }, {
+    "title" : "Evolving strategy for a probabilistic game of imperfect information using genetic programming",
+    "authors" : [ "W Jaśkowski", " K Krawiec", " B Wieloch" ],
+    "year" : "2008",
+    "citations" : "16"
+  }, {
+    "title" : "Behavioral program synthesis with genetic programming",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2016",
+    "citations" : "15"
+  }, {
+    "title" : "ESAGP–A semantic GP framework based on alignment in the error space",
+    "authors" : [ "S Ruberto", " L Vanneschi", " M Castelli", " S Silva" ],
+    "year" : "2014",
+    "citations" : "15"
+  }, {
+    "title" : "Functional modularity for genetic programming",
+    "authors" : [ "K Krawiec", " B Wieloch" ],
+    "year" : "2009",
+    "citations" : "15"
+  }, {
+    "title" : "Rough set reduction of features for picture-based reasoning",
+    "authors" : [ "J Jelonek", " K Krawiec", " R Slowinski", " J Stefanowski", " J Szymas" ],
+    "year" : "1995",
+    "citations" : "15"
+  }, {
+    "title" : "A research agenda for metaheuristic standardization",
+    "authors" : [ "J Swan", " S Adriaensen", " M Bishr", " EK Burke", " JA Clark", " P De Causmaecker", " ..." ],
+    "year" : "2015",
+    "citations" : "14"
+  }, {
+    "title" : "Learning high-level visual concepts using attributed primitives and genetic programming",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2006",
+    "citations" : "14"
+  }, {
+    "title" : "On diversity, teaming, and hierarchical policies: Observations from the Keepaway soccer task",
+    "authors" : [ "S Kelly", " MI Heywood" ],
+    "year" : "2014",
+    "citations" : "13"
+  }, {
+    "title" : "Formal analysis, hardness, and algorithms for extracting internal structure of test-based problems",
+    "authors" : [ "W Jaśkowski", " K Krawiec" ],
+    "year" : "2011",
+    "citations" : "13"
+  }, {
+    "title" : "Learning and recognition of hand-drawn shapes using generative genetic programming",
+    "authors" : [ "W Jaśkowski", " K Krawiec", " B Wieloch" ],
+    "year" : "2007",
+    "citations" : "13"
+  }, {
+    "title" : "Comparison of semantic-aware selection methods in genetic programming",
+    "authors" : [ "P Liskowski", " K Krawiec", " T Helmuth", " L Spector" ],
+    "year" : "2015",
+    "citations" : "12"
+  }, {
+    "title" : "Automatic generation and exploitation of related problems in genetic programming",
+    "authors" : [ "K Krawiec", " B Wieloch" ],
+    "year" : "2010",
+    "citations" : "12"
+  }, {
+    "title" : "Using co-solvability to model and exploit synergetic effects in evolution",
+    "authors" : [ "K Krawiec", " P Lichocki" ],
+    "year" : "2010",
+    "citations" : "12"
+  }, {
+    "title" : "Extracting fuzzy symbolic representation from artificial neural networks",
+    "authors" : [ "M Faifer", " CZ Janikow", " K Krawiec" ],
+    "year" : "1999",
+    "citations" : "12"
+  }, {
+    "title" : "Evolving teams of cooperating agents for real-time strategy game",
+    "authors" : [ "P Lichocki", " K Krawiec", " W Jaśkowski" ],
+    "year" : "2009",
+    "citations" : "11"
+  }, {
+    "title" : "Genetic programming: where meaning emerges from program code",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2014",
+    "citations" : "10"
+  }, {
+    "title" : "Running programs backwards: instruction inversion for effective search in semantic spaces",
+    "authors" : [ "B Wieloch", " K Krawiec" ],
+    "year" : "2013",
+    "citations" : "10"
+  }, {
+    "title" : "Locally geometric semantic crossover",
+    "authors" : [ "K Krawiec", " T Pawlak" ],
+    "year" : "2012",
+    "citations" : "10"
+  }, {
+    "title" : "Evolving small-board Go players using coevolutionary temporal difference learning with archives",
+    "authors" : [ "K Krawiec", " W Jaśkowski", " M Szubert" ],
+    "year" : "2011",
+    "citations" : "10"
+  }, {
+    "title" : "Coordinate system archive for coevolution",
+    "authors" : [ "W Jaśkowski", " K Krawiec" ],
+    "year" : "2010",
+    "citations" : "10"
+  }, {
+    "title" : "Genetic programming with local improvement for visual learning from examples",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2001",
+    "citations" : "10"
+  }, {
+    "title" : "Discovery of implicit objectives by compression of interaction matrix in test-based problems",
+    "authors" : [ "P Liskowski", " K Krawiec" ],
+    "year" : "2014",
+    "citations" : "9"
+  }, {
+    "title" : "Learning board evaluation function for Othello by hybridizing coevolution with temporal difference learning",
+    "authors" : [ "M Szubert", " W Jaśkowski", " K Krawiec" ],
+    "year" : "2011",
+    "citations" : "9"
+  }, {
+    "title" : "Evolutionary learning of primitive-based visual concepts",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2006",
+    "citations" : "9"
+  }, {
+    "title" : "A multi-dimensional genetic programming approach for multi-class classification problems",
+    "authors" : [ "V Ingalalli", " S Silva", " M Castelli", " L Vanneschi" ],
+    "year" : "2014",
+    "citations" : "8"
+  }, {
+    "title" : "Shaping fitness function for evolutionary learning of game strategies",
+    "authors" : [ "M Szubert", " W Jaśkowski", " P Liskowski", " K Krawiec" ],
+    "year" : "2013",
+    "citations" : "8"
+  }, {
+    "title" : "Quantitative analysis of locally geometric semantic crossover",
+    "authors" : [ "K Krawiec", " T Pawlak" ],
+    "year" : "2012",
+    "citations" : "8"
+  }, {
+    "title" : "Application of time-series analysis in foundry production",
+    "authors" : [ "M Perzyk", " K Krawiec", " J Kozłowski" ],
+    "year" : "2009",
+    "citations" : "8"
+  }, {
+    "title" : "Multitask visual learning using genetic programming",
+    "authors" : [ "W Jaśkowski", " K Krawiec", " B Wieloch" ],
+    "year" : "2008",
+    "citations" : "8"
+  }, {
+    "title" : "On the use of pairwise comparison of hypotheses in evolutionary learning applied to learning from visual examples",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2001",
+    "citations" : "8"
+  }, {
+    "title" : "Behavioral program synthesis: Insights and prospects",
+    "authors" : [ "K Krawiec", " J Swan", " UM O’Reilly" ],
+    "year" : "2016",
+    "citations" : "7"
+  }, {
+    "title" : "Guarantees of progress for geometric semantic genetic programming",
+    "authors" : [ "TP Pawlak", " K Krawiec" ],
+    "year" : "2014",
+    "citations" : "7"
+  }, {
+    "title" : "Behavioral search drivers for genetic programing",
+    "authors" : [ "K Krawiec", " UM O’Reilly" ],
+    "year" : "2014",
+    "citations" : "7"
+  }, {
+    "title" : "Semantic crossover based on the partial derivative error",
+    "authors" : [ "M Graff", " A Graff-Guerrero", " J Cerda-Jacobo" ],
+    "year" : "2014",
+    "citations" : "7"
+  }, {
+    "title" : "NEAT, there’s no bloat",
+    "authors" : [ "L Trujillo", " L Muñoz", " E Naredo", " Y Martínez" ],
+    "year" : "2014",
+    "citations" : "7"
+  }, {
+    "title" : "Implicit Fitness Sharing for Evolutionary Synthesis of License Plate Detectors.",
+    "authors" : [ "K Krawiec", " M Nawrocki" ],
+    "year" : "2013",
+    "citations" : "7"
+  }, {
+    "title" : "On relationships between semantic diversity, complexity and modularity of programming tasks",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2012",
+    "citations" : "7"
+  }, {
+    "title" : "Fitnessless coevolution",
+    "authors" : [ "W Jaśkowski", " K Krawiec", " B Wieloch" ],
+    "year" : "2008",
+    "citations" : "7"
+  }, {
+    "title" : "Knowledge reuse in genetic programming applied to visual learning",
+    "authors" : [ "W Jaskowski", " K Krawiec", " B Wieloch" ],
+    "year" : "2007",
+    "citations" : "7"
+  }, {
+    "title" : "Online discovery of search objectives for test-based problems",
+    "authors" : [ "P Liskowski", " K Krawiec" ],
+    "year" : "2017",
+    "citations" : "6"
+  }, {
+    "title" : "High-dimensional function approximation for knowledge-free reinforcement learning: A case study in SZ-Tetris",
+    "authors" : [ "W Jaśkowski", " M Szubert", " P Liskowski", " K Krawiec" ],
+    "year" : "2015",
+    "citations" : "6"
+  }, {
+    "title" : "Improving genetic programming with behavioral consistency measure",
+    "authors" : [ "K Krawiec", " A Solar-Lezama" ],
+    "year" : "2014",
+    "citations" : "6"
+  }, {
+    "title" : "Learning dynamical systems using standard symbolic regression",
+    "authors" : [ "S Gaucel", " M Keijzer", " E Lutton", " A Tonda" ],
+    "year" : "2014",
+    "citations" : "6"
+  } ],
+  "hindex" : 23
+}

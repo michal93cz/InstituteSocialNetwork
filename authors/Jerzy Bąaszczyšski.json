@@ -1,0 +1,297 @@
+{
+  "name" : "J Błaszczyński",
+  "citations" : 923,
+  "tenIndex" : 17,
+  "articles" : [ {
+    "title" : "Multi-criteria classification–A new scheme for application of dominance-based decision rules",
+    "authors" : [ "J Błaszczyński", " S Greco", " R Słowiński" ],
+    "year" : "2007",
+    "citations" : "178"
+  }, {
+    "title" : "Sequential covering rule induction algorithm for variable consistency rough set approaches",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2011",
+    "citations" : "124"
+  }, {
+    "title" : "Monotonic variable consistency rough set approaches",
+    "authors" : [ "J Błaszczyński", " S Greco", " R Słowiński", " M Szelg" ],
+    "year" : "2009",
+    "citations" : "112"
+  }, {
+    "title" : "Incremental induction of decision rules from dominance-based rough approximations",
+    "authors" : [ "J Błaszczyński", " R Słowiński" ],
+    "year" : "2003",
+    "citations" : "62"
+  }, {
+    "title" : "Inductive discovery of laws using monotonic rules",
+    "authors" : [ "J BŁaszczyński", " S Greco", " R SŁowiński" ],
+    "year" : "2012",
+    "citations" : "44"
+  }, {
+    "title" : "Integrating selective pre-processing of imbalanced data with ivotes ensemble",
+    "authors" : [ "J Błaszczyński", " M Deckert", " J Stefanowski", " S Wilk" ],
+    "year" : "2010",
+    "citations" : "42"
+  }, {
+    "title" : "Neighbourhood sampling in bagging for imbalanced data",
+    "authors" : [ "J Błaszczyński", " J Stefanowski" ],
+    "year" : "2015",
+    "citations" : "37"
+  }, {
+    "title" : "jMAF-Dominance-based rough set data analysis framework",
+    "authors" : [ "J Błaszczyński", " S Greco", " B Matarazzo", " R Słowiński", " M Szela̧g" ],
+    "year" : "2013",
+    "citations" : "33"
+  }, {
+    "title" : "On variable consistency dominance-based rough set approaches",
+    "authors" : [ "J Błaszczyński", " S Greco", " R Słowiński", " M Szeląg" ],
+    "year" : "2006",
+    "citations" : "33"
+  }, {
+    "title" : "A green chemistry-based classification model for the synthesis of silver nanoparticles",
+    "authors" : [ "M Cinelli", " SR Coles", " MN Nadagouda", " J Błaszczyński", " R Słowiński", " ..." ],
+    "year" : "2015",
+    "citations" : "28"
+  }, {
+    "title" : "Extending bagging for imbalanced data",
+    "authors" : [ "J Błaszczyński", " J Stefanowski", " Ł Idkowiak" ],
+    "year" : "2013",
+    "citations" : "24"
+  }, {
+    "title" : "Rule-based estimation of attribute relevance",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " R Susmaga" ],
+    "year" : "2011",
+    "citations" : "17"
+  }, {
+    "title" : "Variable consistency bagging ensembles",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " J Stefanowski" ],
+    "year" : "2010",
+    "citations" : "17"
+  }, {
+    "title" : "Ensembles of abstaining classifiers based on rule sets",
+    "authors" : [ "J Błaszczyński", " J Stefanowski", " M Zając" ],
+    "year" : "2009",
+    "citations" : "13"
+  }, {
+    "title" : "Antimicrobial Activity and SAR Study of New Gemini Imidazolium‐Based Chlorides",
+    "authors" : [ "Ł Pałkowski", " J Błaszczyński", " A Skrzypczak", " J Błaszczak", " K Kozakowska", " ..." ],
+    "year" : "2014",
+    "citations" : "11"
+  }, {
+    "title" : "Probabilistic rough set approaches to ordinal classification with monotonicity constraints",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2010",
+    "citations" : "10"
+  }, {
+    "title" : "Mining clinical data: selecting decision support algorithm for the MET-AP system",
+    "authors" : [ "J Blaszczynski", " K Farion", " W Michalowski", " S Wilk", " S Rubin", " D Weiss" ],
+    "year" : "2005",
+    "citations" : "10"
+  }, {
+    "title" : "Comparative analysis of targeted metabolomics: dominance-based rough set approach versus orthogonal partial least square-discriminant analysis",
+    "authors" : [ "H Blasco", " J Błaszczyński", " JC Billaut", " L Nadal-Desbarats", " PF Pradat", " ..." ],
+    "year" : "2015",
+    "citations" : "9"
+  }, {
+    "title" : "Induction of ordinal classification rules from incomplete data",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2012",
+    "citations" : "9"
+  }, {
+    "title" : "Ensemble of decision rules",
+    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "year" : "2006",
+    "citations" : "9"
+  }, {
+    "title" : "A novel method for elimination of inconsistencies in ordinal classification with monotonicity constraints",
+    "authors" : [ "W Deng", " F Hu", " G Wang", " J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2013",
+    "citations" : "8"
+  }, {
+    "title" : "Feature set-based consistency sampling in bagging ensembles",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " J Stefanowski" ],
+    "year" : "2009",
+    "citations" : "8"
+  }, {
+    "title" : "Prediction of antifungal activity of gemini imidazolium compounds",
+    "authors" : [ "Ł Pałkowski", " J Błaszczyński", " A Skrzypczak", " J Błaszczak", " A Nowaczyk", " ..." ],
+    "year" : "2015",
+    "citations" : "6"
+  }, {
+    "title" : "Readmission to an intensive care unit after cardiac surgery: reasons and outcomes",
+    "authors" : [ "R Jarząbek", " P Bugajski", " K Greberski", " J Błaszczyński", " ..." ],
+    "year" : "2014",
+    "citations" : "6"
+  }, {
+    "title" : "Ontologies for knowledge modeling and creating user interface in the framework of telemedical portal",
+    "authors" : [ "J Błaszczyński", " M Kosiedowski", " C Mazurek", " S Wilk" ],
+    "year" : "2006",
+    "citations" : "6"
+  }, {
+    "title" : "Empirical risk minimization for variable precision dominance-based rough set approach",
+    "authors" : [ "Y Kusunoki", " J Błaszczyński", " M Inuiguchi", " R Słowiński" ],
+    "year" : "2013",
+    "citations" : "5"
+  }, {
+    "title" : "IIvotes ensemble for imbalanced data",
+    "authors" : [ "J Błaszczyński", " M Deckert", " J Stefanowski", " S Wilk" ],
+    "year" : "2012",
+    "citations" : "5"
+  }, {
+    "title" : "Ordinal classification with monotonicity constraints by variable consistency bagging",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " J Stefanowski" ],
+    "year" : "2010",
+    "citations" : "5"
+  }, {
+    "title" : "Ensembles of decision rules for solving binary classification problems in the presence of missing values",
+    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "Interactive analysis of preference-ordered data using dominance-based rough set approach",
+    "authors" : [ "J Błaszczyński", " K Dembczyński", " R Słowiński" ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "Telemedical Portal ‘Telemedycyna Wielkopolska’",
+    "authors" : [ "J Błaszczyński", " M Kosiedowski", " C Mazurek", " R Słowiński", " K Słowiński", " ..." ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "Learnability in rough set approaches",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szela̧g" ],
+    "year" : "2010",
+    "citations" : "4"
+  }, {
+    "title" : "VC-DomLEM: Rule induction algorithm for variable consistency rough set approaches",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2009",
+    "citations" : "4"
+  }, {
+    "title" : "Mining direct marketing data by ensembles of weak learners and rough set methods",
+    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " M Pawłowski" ],
+    "year" : "2006",
+    "citations" : "4"
+  }, {
+    "title" : "Diversity Analysis on Imbalanced Data Using Neighbourhood and Roughly Balanced Bagging Ensembles",
+    "authors" : [ "J Błaszczyński", " M Lango" ],
+    "year" : "2016",
+    "citations" : "3"
+  }, {
+    "title" : "On different ways of handling inconsistencies in ordinal classification with monotonicity constraints",
+    "authors" : [ "J Błaszczyński", " W Deng", " F Hu", " R Słowiński", " M Szeląg", " G Wang" ],
+    "year" : "2012",
+    "citations" : "3"
+  }, {
+    "title" : "Application of rough set theory to prediction of antimicrobial activity of bis-quaternary ammonium chlorides",
+    "authors" : [ "Ł Pałkowski", " J Błaszczyński", " J Krysiński", " R Słowiński", " A Skrzypczak", " ..." ],
+    "year" : "2012",
+    "citations" : "3"
+  }, {
+    "title" : "Case-based reasoning using dominance-based decision rules",
+    "authors" : [ "M Szeląg", " S Greco", " J Błaszczyński", " R Słowiński" ],
+    "year" : "2011",
+    "citations" : "3"
+  }, {
+    "title" : "Actively balanced bagging for imbalanced data",
+    "authors" : [ "J Błaszczyński", " J Stefanowski" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Application of rough set theory to prediction of antimicrobial activity of bis-quaternary imidazolium chlorides",
+    "authors" : [ "Ł Pałkowski", " J Krysiński", " J Błaszczyński", " R Słowiński", " A Skrzypczak", " ..." ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Rule Models for Ordinal Classification in Variable Consistency Rough Set Approaches",
+    "authors" : [ "J Błaszczyński" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Local data characteristics in learning classifiers from imbalanced data",
+    "authors" : [ "J Błaszczyński", " J Stefanowski" ],
+    "year" : "2018",
+    "citations" : "1"
+  }, {
+    "title" : "Learning ensemble classifiers for diabetic retinopathy assessment",
+    "authors" : [ "E Saleh", " J Błaszczyński", " A Moreno", " A Valls", " P Romero-Aroca", " ..." ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Consistency Driven Feature Subspace Aggregating for Ordinal Classification",
+    "authors" : [ "J Błaszczyński", " J Stefanowski", " R Słowiński" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Multi-objective Search for Comprehensible Rule Ensembles",
+    "authors" : [ "J Błaszczyński", " B Prusak", " R Słowiński" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Empirical Risk Minimization for Variable Consistency Dominance-Based Rough Set Approach",
+    "authors" : [ "J Błaszczyński", " Y Kusunoki", " M Inuiguchi", " R Słowiński" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Daily biorhythms of ocular volume changes and the cardiovascular system functional parameters in healthy, ocular hypertension, normal tension and primary open a...",
+    "authors" : [ "RH Wasilewicz", " P Wasilewicz", " J Kociecki", " C Ewa", " A Radziemski", " ..." ],
+    "year" : "2014",
+    "citations" : "1"
+  }, {
+    "title" : "Rough set approach to classification of incomplete data",
+    "authors" : [ "J Błaszczyński", " R Słowiński", " M Szeląg" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Improving Bagging Ensembles for Class Imbalanced Data by Active Learning",
+    "authors" : [ "J Błaszczyński", " J Stefanowski" ],
+    "year" : "2018",
+    "citations" : ""
+  }, {
+    "title" : "With a little help from a computer: discriminating between bacterial and viral meningitis based on dominance-based rough set approach analysis",
+    "authors" : [ "E Gowin", " D Januszkiewicz-Lewandowska", " R Słowiński", " J Błaszczyński", " ..." ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Rough Set Analysis of Classification Data with Missing Values",
+    "authors" : [ "M Szeląg", " J Błaszczyński", " R Słowiński" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Robustness analysis of a green chemistry-based model for the classification of silver nanoparticles synthesis processes",
+    "authors" : [ "M Cinelli", " SR Coles", " MN Nadagouda", " J Błaszczyński", " R Słowiński", " ..." ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "A Rough Set Approach to Novel Compounds Activity Prediction Based on Surface Active Properties and Molecular Descriptors",
+    "authors" : [ "J Błaszczyński", " Ł Pałkowski", " A Skrzypczak", " J Błaszczak", " A Nowaczyk", " ..." ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "24 hour continuous ocular tonography Triggerfish and biorhythms of the cardiovascular system functional parameters in healthy and glaucoma populations",
+    "authors" : [ "R Wasilewicz", " P Wasilewicz", " E Czaplicka", " J Kociecki", " J Blaszczynski", " ..." ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Telesfor–Telemedical Real-Time Communication Support System",
+    "authors" : [ "J Błaszczyński", " B Prędki", " R Słowiński" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Incomplete/Nondeterministic Information Systems-Ensembles of Decision Rules for Solving Binary Classification Problems in the Presence of Missing Values",
+    "authors" : [ "JDK Blaszczynski", " WSR Kotlowski", " M Szelag" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "The application of decision rules in abdominal emergency cases of neonates",
+    "authors" : [ "M BŁASZCZYŃSKI", " J BŁASZCZYŃSKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "WSPOMAGANIE KOMUNIKACJI I DECYZJI W ŒRODOWISKU US£ UG TELEMEDYCZNYCH",
+    "authors" : [ "R Słowiński", " J Błaszczyński", " S Wilk" ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 13
+}

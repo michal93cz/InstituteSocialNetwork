@@ -1,0 +1,407 @@
+{
+  "name" : "S Wilk",
+  "citations" : 1553,
+  "tenIndex" : 38,
+  "articles" : [ {
+    "title" : "ROSE - software implementation of the rough set theory",
+    "authors" : [ "B Predki", " R Słowiński", " J Stefanowski", " R Susmaga", " S Wilk" ],
+    "year" : "1998",
+    "citations" : "177"
+  }, {
+    "title" : "Rough set based data exploration using ROSE system",
+    "authors" : [ "B Prędki", " S Wilk" ],
+    "year" : "1999",
+    "citations" : "158"
+  }, {
+    "title" : "Learning from imbalanced data in presence of noisy and borderline examples",
+    "authors" : [ "K Napierała", " J Stefanowski", " S Wilk" ],
+    "year" : "2010",
+    "citations" : "91"
+  }, {
+    "title" : "Mobile clinical support system for pediatric emergencies",
+    "authors" : [ "W Michalowski", " S Rubin", " R Slowinski", " S Wilk" ],
+    "year" : "2003",
+    "citations" : "87"
+  }, {
+    "title" : "Selective pre-processing of imbalanced data for improving classification performance",
+    "authors" : [ "J Stefanowski", " S Wilk" ],
+    "year" : "2008",
+    "citations" : "85"
+  }, {
+    "title" : "Design and development of a mobile system for supporting emergency triage",
+    "authors" : [ "W Michalowski", " R Slowinski", " S Wilk", " KJ Farion", " J Pike", " S Rubin" ],
+    "year" : "2005",
+    "citations" : "57"
+  }, {
+    "title" : "Supporting triage of children with abdominal pain in the emergency room",
+    "authors" : [ "S Wilk", " R Słowiński", " W Michałowski", " S Greco" ],
+    "year" : "2005",
+    "citations" : "48"
+  }, {
+    "title" : "A comparison of two approaches to data mining from imbalanced data",
+    "authors" : [ "JW Grzymala-Busse", " J Stefanowski", " S Wilk" ],
+    "year" : "2005",
+    "citations" : "45"
+  }, {
+    "title" : "Mitigation of adverse interactions in pairs of clinical practice guidelines using constraint logic programming",
+    "authors" : [ "S Wilk", " W Michalowski", " M Michalowski", " K Farion", " MM Hing", " S Mohapatra" ],
+    "year" : "2013",
+    "citations" : "42"
+  }, {
+    "title" : "Integrating selective pre-processing of imbalanced data with Ivotes ensemble",
+    "authors" : [ "J Błaszczyński", " M Deckert", " J Stefanowski", " S Wilk" ],
+    "year" : "2010",
+    "citations" : "42"
+  }, {
+    "title" : "Clinical decision support system for point of care use: ontology driven design and software implementation",
+    "authors" : [ "K Farion", " W Michalowski", " S Wilk", " D O’Sullivan", " S Rubin", " D Weiss" ],
+    "year" : "2009",
+    "citations" : "42"
+  }, {
+    "title" : "Evaluating business credit risk by means of approach‐integrating decision rules and case‐based learning",
+    "authors" : [ "J Stefanowski", " S Wilk" ],
+    "year" : "2001",
+    "citations" : "42"
+  }, {
+    "title" : "Implementing an integrative multi-agent clinical decision support system with open source software",
+    "authors" : [ "JS Shirabad", " S Wilk", " W Michalowski", " K Farion" ],
+    "year" : "2012",
+    "citations" : "30"
+  }, {
+    "title" : "Designing man–machine interactions for mobile clinical systems: MET triage support using Palm handhelds",
+    "authors" : [ "W Michalowski", " M Kersten", " S Wilk", " R Słowiński" ],
+    "year" : "2007",
+    "citations" : "27"
+  }, {
+    "title" : "Improving rule based classifiers induced by MODLEM by selective pre-processing of imbalanced data",
+    "authors" : [ "J Stefanowski", " S Wilk" ],
+    "year" : "2007",
+    "citations" : "25"
+  }, {
+    "title" : "A comparison of two approaches to data mining from imbalanced data",
+    "authors" : [ "JW Grzymala-Busse", " J Stefanowski", " S Wilk" ],
+    "year" : "2004",
+    "citations" : "25"
+  }, {
+    "title" : "Development of a decision algorithm to support emergency triage of scrotal pain and its implementation in the MET system",
+    "authors" : [ "W Michalowski", " S Wilk", " K Farion", " J Pike", " S Rubin", " R Slowinski" ],
+    "year" : "2005",
+    "citations" : "24"
+  }, {
+    "title" : "Prospective evaluation of the MET-AP system providing triage plans for acute pediatric abdominal pain",
+    "authors" : [ "KJ Farion", " W Michalowski", " S Rubin", " S Wilk", " R Correll", " I Gaboury" ],
+    "year" : "2008",
+    "citations" : "23"
+  }, {
+    "title" : "A tree-based decision model to support prediction of the severity of asthma exacerbations in children",
+    "authors" : [ "K Farion", " W Michalowski", " S Wilk", " D O’Sullivan", " S Matwin" ],
+    "year" : "2010",
+    "citations" : "21"
+  }, {
+    "title" : "A task-based support architecture for developing point-of-care clinical decision support systems for the emergency department",
+    "authors" : [ "S Wilk", " W Michalowski", " D O’Sullivan", " K Farion", " J Sayyad-Shirabad", " ..." ],
+    "year" : "2013",
+    "citations" : "20"
+  }, {
+    "title" : "Triage of the child with abdominal pain: A clinical algorithm for emergency patient management",
+    "authors" : [ "W Michalowski", " S Rubin", " R Słowiński", " S Wilk" ],
+    "year" : "2001",
+    "citations" : "20"
+  }, {
+    "title" : "Use of rough sets analysis to classify siberian forest ecosystems according to net primary production of phytomass",
+    "authors" : [ "M Flinkman", " W Michalowski", " S Nilsson", " R Słowiński", " R Susmaga", " S Wilk" ],
+    "year" : "2000",
+    "citations" : "20"
+  }, {
+    "title" : "Comparing predictions made by a prediction model, clinical score, and physicians: pediatric asthma exacerbations in the emergency department.",
+    "authors" : [ "KJ Farion", " S Wilk", " W Michalowski", " D O'Sullivan", " J Sayyad-Shirabad" ],
+    "year" : "2013",
+    "citations" : "19"
+  }, {
+    "title" : "Reconciling pairs of concurrently used clinical practice guidelines using constraint logic programming",
+    "authors" : [ "S Wilk", " M Michalowski", " W Michalowski", " MM Hing", " K Farion" ],
+    "year" : "2011",
+    "citations" : "18"
+  }, {
+    "title" : "Identifying inconsistencies in multiple clinical practice guidelines for a patient with co-morbidity",
+    "authors" : [ "MM Hing", " M Michalowski", " S Wilk", " W Michalowski", " K Farion" ],
+    "year" : "2010",
+    "citations" : "18"
+  }, {
+    "title" : "Automatic indexing and retrieval of encounter-specific evidence for point-of-care support",
+    "authors" : [ "DM O’Sullivan", " SA Wilk", " WJ Michalowski", " KJ Farion" ],
+    "year" : "2010",
+    "citations" : "18"
+  }, {
+    "title" : "Rough sets for handling imbalanced data: combining filtering and rule-based classifiers",
+    "authors" : [ "J Stefanowski", " S Wilk" ],
+    "year" : "2006",
+    "citations" : "17"
+  }, {
+    "title" : "Using constraint logic programming to implement iterative actions and numerical measures during mitigation of concurrently applied clinical practice guidelines",
+    "authors" : [ "M Michalowski", " S Wilk", " W Michalowski", " D Lin", " K Farion", " S Mohapatra" ],
+    "year" : "2013",
+    "citations" : "16"
+  }, {
+    "title" : "Predicting the need for CT imaging in children with minor head injury using an ensemble of Naive Bayes classifiers",
+    "authors" : [ "W Klement", " S Wilk", " W Michalowski", " KJ Farion", " MH Osmond", " V Verter" ],
+    "year" : "2012",
+    "citations" : "16"
+  }, {
+    "title" : "Dealing with severely imbalanced data",
+    "authors" : [ "W Klement", " S Wilk", " W Michaowski", " S Matwin" ],
+    "year" : "2009",
+    "citations" : "15"
+  }, {
+    "title" : "Extending rule-based classifiers to improve recognition of imbalanced classes",
+    "authors" : [ "J Stefanowski", " S Wilk" ],
+    "year" : "2009",
+    "citations" : "15"
+  }, {
+    "title" : "Rough set methodology in clinical practice: controlled hospital trial of the MET system",
+    "authors" : [ "K Farion", " W Michalowski", " R Słowiński", " S Wilk", " S Rubin" ],
+    "year" : "2004",
+    "citations" : "15"
+  }, {
+    "title" : "Classifying severely imbalanced data",
+    "authors" : [ "W Klement", " S Wilk", " W Michalowski", " S Matwin" ],
+    "year" : "2011",
+    "citations" : "14"
+  }, {
+    "title" : "Engineering of a clinical decision support framework for the point of care use",
+    "authors" : [ "S Wilk", " W Michalowski", " D O’Sullivan", " K Farion", " S Matwin" ],
+    "year" : "2008",
+    "citations" : "13"
+  }, {
+    "title" : "MET system: a new approach to m-health in emergency triage",
+    "authors" : [ "W Michalowski", " R Slowinski", " S Wilk" ],
+    "year" : "2004",
+    "citations" : "12"
+  }, {
+    "title" : "Using first-order logic to represent clinical practice guidelines and to mitigate adverse interactions",
+    "authors" : [ "S Wilk", " M Michalowski", " X Tan", " W Michalowski" ],
+    "year" : "2014",
+    "citations" : "11"
+  }, {
+    "title" : "Decision making by emergency room physicians and residents: implications for the design of clinical decision support systems",
+    "authors" : [ "MJ Hine", " KJ Farion", " W Michalowski", " S Wilk" ],
+    "year" : "2009",
+    "citations" : "11"
+  }, {
+    "title" : "Mining clinical data: selecting decision support algorithm for the MET-AP system",
+    "authors" : [ "J Blaszczynski", " K Farion", " W Michalowski", " S Wilk", " S Rubin", " D Weiss" ],
+    "year" : "2005",
+    "citations" : "10"
+  }, {
+    "title" : "Application of preprocessing methods to imbalanced clinical data: an experimental study",
+    "authors" : [ "S Wilk", " J Stefanowski", " S Wojciechowski", " KJ Farion", " W Michalowski" ],
+    "year" : "2016",
+    "citations" : "8"
+  }, {
+    "title" : "Interaction design for mobile clinical decision support systems: the MET system solutions",
+    "authors" : [ "S Wilk", " W Michalowski", " K Farion", " M Kersten" ],
+    "year" : "2007",
+    "citations" : "8"
+  }, {
+    "title" : "Triage of acute abdominal pain in childhood: clinical use of a Palm handheld in a pediatric emergency department",
+    "authors" : [ "W Michalowski", " R Słowiński", " S Rubin", " S Wilk" ],
+    "year" : "2004",
+    "citations" : "8"
+  }, {
+    "title" : "A framework for incorporating patient preferences to deliver participatory medicine via interdisciplinary healthcare teams",
+    "authors" : [ "C Kuziemsky", " D Astaraky", " S Wilk", " W Michalowski", " P Andreev" ],
+    "year" : "2014",
+    "citations" : "7"
+  }, {
+    "title" : "Using PICO to align medical evidence with MDs decision making models",
+    "authors" : [ "D O'Sullivan", " S Wilk", " W Michalowski", " K Farion" ],
+    "year" : "2012",
+    "citations" : "7"
+  }, {
+    "title" : "A constraint logic programming approach to identifying inconsistencies in clinical practice guidelines for patients with comorbidity",
+    "authors" : [ "M Michalowski", " MM Hing", " S Wilk", " W Michalowski", " K Farion" ],
+    "year" : "2011",
+    "citations" : "7"
+  }, {
+    "title" : "Mobile emergency triage: lessons from a clinical trial",
+    "authors" : [ "W Michalowski", " R Slowinski", " S Wilk", " K Farion" ],
+    "year" : "2004",
+    "citations" : "7"
+  }, {
+    "title" : "Using semantic components to represent dynamics of an interdisciplinary healthcare team in a multi-agent decision support system",
+    "authors" : [ "S Wilk", " M Kezadri-Hamiaz", " D Rosu", " C Kuziemsky", " W Michalowski", " ..." ],
+    "year" : "2016",
+    "citations" : "6"
+  }, {
+    "title" : "First-order logic theory for manipulating clinical practice guidelines applied to comorbid patients: a case study",
+    "authors" : [ "M Michalowski", " S Wilk", " X Tan" ],
+    "year" : "2014",
+    "citations" : "6"
+  }, {
+    "title" : "MET3-AE system to support management of pediatric asthma exacerbation in the emergency department",
+    "authors" : [ "S Wilk", " W Michalowski", " K Farion", " J Sayyad Shirabad" ],
+    "year" : "2010",
+    "citations" : "6"
+  }, {
+    "title" : "Combining rough sets and rule based classifiers for handling imbalanced data",
+    "authors" : [ "J Stefanowski", " S Wilk" ],
+    "year" : "2006",
+    "citations" : "6"
+  }, {
+    "title" : "Ontologies for knowledge modeling and creating user interface in the framework of telemedical portal",
+    "authors" : [ "J Błaszczyński", " M Kosiedowski", " C Mazurek", " S Wilk" ],
+    "year" : "2006",
+    "citations" : "6"
+  }, {
+    "title" : "A Multiagent System to Support an Interdisciplinary Healthcare Team: a Case Study of Clinical Obesity Management in Children",
+    "authors" : [ "D Astaraky", " S Wilk", " W Michalowski", " P Andreev", " C Kuziemsky", " ..." ],
+    "year" : "2013",
+    "citations" : "5"
+  }, {
+    "title" : "IIvotes ensemble for imbalanced data",
+    "authors" : [ "J Błaszczyński", " M Deckert", " J Stefanowski", " S Wilk" ],
+    "year" : "2012",
+    "citations" : "5"
+  }, {
+    "title" : "Assessing the motivation of MDs to use computer-based support at the point-of-care in the emergency department",
+    "authors" : [ "DM O’Sullivan", " JS Doyle", " WJ Michalowski", " SA Wilk", " KJ Farion", " ..." ],
+    "year" : "2011",
+    "citations" : "5"
+  }, {
+    "title" : "Using secondary knowledge to support decision tree classification of retrospective clinical data",
+    "authors" : [ "D O’Sullivan", " W Elazmeh", " S Wilk", " K Farion", " S Matwin", " W Michalowski", " ..." ],
+    "year" : "2008",
+    "citations" : "5"
+  }, {
+    "title" : "Using a Bayesian belief network model to categorize length of stay for radical prostatectomy patients",
+    "authors" : [ "W Michalowski", " S Wilk", " A Thijssen", " M Li" ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "Telemedical Portal „Telemedycyna Wielkopolska”",
+    "authors" : [ "J Błaszczyński", " M Kosiedowski", " C Mazurek", " R Słowiński", " K Słowiński", " ..." ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "Learning the preferences of physicians for the organization of result lists of medical evidence articles",
+    "authors" : [ "S Wilk", " W Michalowski", " R Slowinski", " R Thomas", " M Kadzinski", " K Farion" ],
+    "year" : "2014",
+    "citations" : "4"
+  }, {
+    "title" : "New technologies for advancing healthcare and clinical practices",
+    "authors" : [ "JKH Tan" ],
+    "year" : "2011",
+    "citations" : "4"
+  }, {
+    "title" : "Reconciliation of concurrently applied clinical practice guidelines using constraint logic programming",
+    "authors" : [ "S Wilk", " M Michalowski", " MM Hing", " W Michalowski", " K Farion" ],
+    "year" : "2011",
+    "citations" : "4"
+  }, {
+    "title" : "Computer-assisted triage of abdominal pain in childhood: a suggested clinical algorithm",
+    "authors" : [ "S Rubin", " W Michalowski", " R Slowinski", " S Wilk" ],
+    "year" : "2001",
+    "citations" : "4"
+  }, {
+    "title" : "Difficulty factors and preprocessing in imbalanced data sets: an experimental study on artificial data",
+    "authors" : [ "S Wojciechowski", " S Wilk" ],
+    "year" : "2017",
+    "citations" : "3"
+  }, {
+    "title" : "Expanding usability analysis with intrinsic motivation concepts to learn about CDSS adoption: a case study",
+    "authors" : [ "D O’Sullivan", " J Doyle", " W Michalowski", " S Wilk", " R Thomas", " K Farion" ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "Procedural approach to mitigating concurrently applied clinical practice guidelines",
+    "authors" : [ "M Michalowski", " S Wilk", " D Lin", " W Michalowski", " X Tan", " S Mohapatra" ],
+    "year" : "2013",
+    "citations" : "3"
+  }, {
+    "title" : "Designing man-machine interactions for mobile clinical systems: MET triage support on Palm handheld",
+    "authors" : [ "M Kersten", " W Michalowski", " S Wilk" ],
+    "year" : "2003",
+    "citations" : "3"
+  }, {
+    "title" : "Comprehensive mitigation framework for concurrent application of multiple clinical practice guidelines",
+    "authors" : [ "S Wilk", " M Michalowski", " W Michalowski", " D Rosu", " M Carrier", " ..." ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Expanding a first-order logic mitigation framework to handle multimorbid patient preferences",
+    "authors" : [ "M Michalowski", " S Wilk", " D Rosu", " M Kezadri", " W Michalowski", " M Carrier" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "A Framework for Modeling Workflow Execution by an Interdisciplinary Healthcare Team.",
+    "authors" : [ "M Kezadri-Hamiaz", " D Rosu", " S Wilk", " C Kuziemsky", " W Michalowski", " ..." ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "MET4: supporting workflow execution for interdisciplinary healthcare teams",
+    "authors" : [ "S Wilk", " D Astaraky", " W Michalowski", " D Amyot", " R Li", " C Kuziemsky", " ..." ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Lecturer",
+    "authors" : [ "S Wilk" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Identification of Biodiversity and Other Forest Attributes for Sustainable Forest Management: Siberian Forest Case Study",
+    "authors" : [ "S Wilk", " M Flinkman", " W Michalowski", " S Nilsson", " R Slowinski", " R Susmaga" ],
+    "year" : "1998",
+    "citations" : "2"
+  }, {
+    "title" : "Aligning Interdisciplinary Healthcare Team Behavior with Workflow Execution: An Example of a Radical Prostatectomy Workflow",
+    "authors" : [ "S Wilk", " D O'Sullivan", " M Kezadri-Hamiaz", " C Kuziemsky", " D Rosu", " ..." ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Is there a consensus when physicians evaluate the relevance of retrieved systematic reviews?",
+    "authors" : [ "D O'Sullivan", " S Wilk", " C Kuziemsky", " W Michalowski", " K Farion" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Classification with test costs and background knowledge",
+    "authors" : [ "T Łukaszewski", " S Wilk" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Sequential classification by exploring levels of abstraction",
+    "authors" : [ "T Łukaszewski", " S Wilk" ],
+    "year" : "2014",
+    "citations" : "1"
+  }, {
+    "title" : "Clinical practice guidelines and comorbid diseases: a MiniZinc representation of guideline models for mitigating adverse interactions.",
+    "authors" : [ "S Wilk", " M Michalowski", " W Michalowski", " K Farion", " D Lin", " MM Hing", " ..." ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Indexing and retrieval of medical resources for a telemedical platform",
+    "authors" : [ "B Kukawka", " S Wilk" ],
+    "year" : "2012",
+    "citations" : "1"
+  }, {
+    "title" : "Experienced physicians and automatic generation of decision rules from clinical data",
+    "authors" : [ "W Klement", " S Wilk", " M Michalowski", " K Farion" ],
+    "year" : "2010",
+    "citations" : "1"
+  }, {
+    "title" : "A concept-based framework for retrieving evidence to support emergency physician decision making at the point of care",
+    "authors" : [ "D O'Sullivan", " K Farion", " S Matwin", " W Michalowski", " S Wilk" ],
+    "year" : "2008",
+    "citations" : "1"
+  }, {
+    "title" : "Clinical decision making by emergency room physicians and residents",
+    "authors" : [ "K Farion", " M Hine", " W Michalowski", " S Wilk" ],
+    "year" : "2008",
+    "citations" : "1"
+  }, {
+    "title" : "New machine learning methods for prediction of protein secondary structures",
+    "authors" : [ "J Błażewicz", " P Łukasiak", " S Wilk" ],
+    "year" : "2007",
+    "citations" : "1"
+  } ],
+  "hindex" : 20
+}

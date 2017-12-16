@@ -1,0 +1,242 @@
+{
+  "name" : "M Sterna",
+  "citations" : 505,
+  "tenIndex" : 17,
+  "articles" : [ {
+    "title" : "The disjunctive graph machine representation of the job shop scheduling problem",
+    "authors" : [ "J Bl̶ażewicz", " E Pesch", " M Sterna" ],
+    "year" : "2000",
+    "citations" : "67"
+  }, {
+    "title" : "Open shop scheduling problems with late work criteria",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2004",
+    "citations" : "52"
+  }, {
+    "title" : "Metaheuristic approaches for the two-machine flow-shop problem with weighted late work criterion and common due date",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2008",
+    "citations" : "51"
+  }, {
+    "title" : "A survey of scheduling problems with late work criteria",
+    "authors" : [ "M Sterna" ],
+    "year" : "2011",
+    "citations" : "40"
+  }, {
+    "title" : "The two-machine flow-shop problem with weighted late work criterion and common due date",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2005",
+    "citations" : "38"
+  }, {
+    "title" : "A comparison of solution procedures for two-machine flow shop scheduling with late work criterion",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2005",
+    "citations" : "32"
+  }, {
+    "title" : "Problems and algorithms in non-classical shop scheduling",
+    "authors" : [ "M Sterna" ],
+    "year" : "2000",
+    "citations" : "28"
+  }, {
+    "title" : "A novel representation of graph structures in web mining and data analysis",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna" ],
+    "year" : "2005",
+    "citations" : "24"
+  }, {
+    "title" : "Total late work criteria for shop scheduling problems",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2000",
+    "citations" : "23"
+  }, {
+    "title" : "Total late work criteria for shop scheduling problems",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2000",
+    "citations" : "23"
+  }, {
+    "title" : "A note on the two machine job shop with the weighted late work criterion",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2007",
+    "citations" : "20"
+  }, {
+    "title" : "Late work minimization in a small flexible manufacturing system",
+    "authors" : [ "M Sterna" ],
+    "year" : "2007",
+    "citations" : "20"
+  }, {
+    "title" : "Late work minimization in flow shops by a genetic algorithm",
+    "authors" : [ "E Pesch", " M Sterna" ],
+    "year" : "2009",
+    "citations" : "19"
+  }, {
+    "title" : "Metaheuristics for late work minimization in two-machine flow shop with common due date",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2005",
+    "citations" : "15"
+  }, {
+    "title" : "Dominance relations for two-machine flow shop problem with late work criterion",
+    "authors" : [ "M Sterna" ],
+    "year" : "2007",
+    "citations" : "13"
+  }, {
+    "title" : "Flow shop scheduling with late work criterion-choosing the best solution strategy",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2004",
+    "citations" : "12"
+  }, {
+    "title" : "A branch and bound algorithm for the job shop scheduling problem",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna" ],
+    "year" : "1998",
+    "citations" : "12"
+  }, {
+    "title" : "Late work scheduling in shop systems",
+    "authors" : [ "M Sterna" ],
+    "year" : "2006",
+    "citations" : "11"
+  }, {
+    "title" : "Selected combinatorial optimization problem arising in molecular biology",
+    "authors" : [ "J Blazewicz", " M Kasprzak", " M Sterna", " J Weglarz" ],
+    "year" : "1996",
+    "citations" : "8"
+  }, {
+    "title" : "Revenue management in a job-shop: a dynamic programming approach",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2007",
+    "citations" : "5"
+  }, {
+    "title" : "Scheduling on parallel identical machines with late work criterion: Offline and online cases",
+    "authors" : [ "X Chen", " M Sterna", " X Han", " J Blazewicz" ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "A note on disjunctive graph representation",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna" ],
+    "year" : "1999",
+    "citations" : "3"
+  }, {
+    "title" : "Genetic algorithm for late work minimization in a flow shop system",
+    "authors" : [ "M Sterna", " J Blazewicz", " E Pesch" ],
+    "year" : "2007",
+    "citations" : "2"
+  }, {
+    "title" : "Heuristic algorithm for schedule optimization in FMS environment",
+    "authors" : [ "J Błażewicz", " G Pawlak", " M Sterna", " B Walter", " M Zawirski" ],
+    "year" : "1999",
+    "citations" : "2"
+  }, {
+    "title" : "Complexity of late work minimization in flow shop systems and a particle swarm optimization algorithm for learning effect",
+    "authors" : [ "X Chen", " V Chau", " P Xie", " M Sterna", " J Błażewicz" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Revenue maximization on parallel machines",
+    "authors" : [ "J Juraszek", " M Sterna", " E Pesch" ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "Revenue management in a job-shop: a dynamic programming approach",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "Extension of disjunctive graph model for job shop scheduling problem",
+    "authors" : [ "J Blażewicz", " E Pesch", " M Sterna" ],
+    "year" : "2001",
+    "citations" : "1"
+  }, {
+    "title" : "Polynomial Time Approximation Scheme for Two Parallel Machines Scheduling with a Common Due Date to Maximize Early Work",
+    "authors" : [ "M Sterna", " K Czerniachowska" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Complexity of Scheduling Problem in Single-Machine Flexible Manufacturing System with Cyclic Transportation and Unlimited Buffers",
+    "authors" : [ "ML Espinouse", " G Pawlak", " M Sterna" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Supporting supply process in charitable organizations by genetic algorithm",
+    "authors" : [ "M Cichenski", " M Jarus", " M Miszkiewicz", " M Sterna", " J Szymczak" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "RFID–Possible Applications and Challenging Problems",
+    "authors" : [ "G Fenrich", " M Sterna" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Genetic Algorithm for Order Completion and Delivery Problem",
+    "authors" : [ "M Cicheński", " M Jarus", " M Miszkiewicz", " M Sterna", " J Szymczak" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "On-line scheduler for web service for language translation",
+    "authors" : [ "M Sterna", " J Juraszek" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Revenue maximization problem on parallel machines",
+    "authors" : [ "J Juraszek", " E Pesh", " M Sterna" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Revenue Maximization on Parallel Machines",
+    "authors" : [ "M Sterna", " J Juraszek", " E Pesch" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Shop scheduling problems with late work criteria",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Modelowanie rzeczywistego elastycznego systemu produkcyjnego w środowisku maszyn dedykowanych",
+    "authors" : [ "M Sterna" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling production tasks in a two stage FMS",
+    "authors" : [ "A Blażewicz", " G Finke", " G Pawlak", " M Sterna" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Nowa reprezentacja maszynowa grafu dysjunkcyjnego dla problemu szeregowania w ogólnym systemie obsługi",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "The Binary NP-hardness of the Two-Machine Job Shop Problem",
+    "authors" : [ "J Blazewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "EMAES: Order Completion and Delivery Problem",
+    "authors" : [ "M Cichenski", " M Jarus", " M Miszkiewicz", " M Sterna", " J Szymczak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Weighted Flow Shop Problem with a Common Due Date and Late Work Criterion",
+    "authors" : [ "E Pesch", " M Sterna", " F Werner" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Revenue Management in a Job-Shop: A Dynamic Programming Approach",
+    "authors" : [ "E Pesch", " M Sterna", " F Werner" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "A Comparison of Solution Procedures for the Flow Shop Scheduling Problem with Late Work Criterion",
+    "authors" : [ "J Błażewicz", " E Pesch", " M Sterna", " F Werner" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Simulated Annealing Method for Maximizing Revenue on Parallel Machines",
+    "authors" : [ "J Juraszek", " E Pesch", " M Sterna" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling policy for on-line translation service",
+    "authors" : [ "M Sterna", " J Juraszek" ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 13
+}
