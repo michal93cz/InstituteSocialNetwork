@@ -2,6 +2,7 @@ from pymongo import MongoClient
 from operator import itemgetter
 import matplotlib.pyplot as plt
 import numpy as np
+import sys, getopt
 
 
 def draw_plot(collection, title, file_name, count):
@@ -69,7 +70,7 @@ def collaborators_by_decade(decade):
     return authors_collaboration
 
 
-def most_collaborators(decade, count):
+def most_collaborators(decade, count, dir):
     authors_internal_dict = dict()
     authors_external_dict = dict()
     for key, value in collaborators_by_decade(decade).items():
@@ -80,9 +81,9 @@ def most_collaborators(decade, count):
     authors_external_dict = sorted(authors_external_dict.items(), key=itemgetter(1))
 
     draw_plot(authors_internal_dict, 'Internal collaborators in ' + str(decade),
-              'internal_collaborators_' + str(decade) + '.png', count)
+              dir + 'internal_collaborators_' + str(decade) + '.png', count)
     draw_plot(authors_external_dict, 'External collaborators in ' + str(decade),
-              'external_collaborators_' + str(decade) + '.png', count)
+              dir + 'external_collaborators_' + str(decade) + '.png', count)
 
 
-most_collaborators(2000, 0)
+most_collaborators(2000, 0, './')
