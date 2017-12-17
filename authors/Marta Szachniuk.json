@@ -1,0 +1,257 @@
+{
+  "name" : "M Szachniuk",
+  "citations" : 624,
+  "tenIndex" : 14,
+  "articles" : [ {
+    "title" : "Automated 3D structure composition for large RNAs",
+    "authors" : [ "M Popenda", "M Szachniuk", "M Antczak", "KJ Purzycka", "P Lukasiak", "N Bartol", "..." ],
+    "year" : "2012",
+    "citations" : "186"
+  }, {
+    "title" : "RNA FRABASE 2.0: an advanced web-accessible database with the capacity to search the three-dimensional fragments within RNA structures",
+    "authors" : [ "M Popenda", "M Szachniuk", "M Blazewicz", "S Wasik", "EK Burke", "J Blazewicz", "..." ],
+    "year" : "2010",
+    "citations" : "89"
+  }, {
+    "title" : "RNA-Puzzles Round II: Assessment of RNA structure prediction programs applied to three large RNA structures",
+    "authors" : [ "Z Miao", "RW Adamiak", "MF Blanchet", "M Boniecki", "JM Bujnicki", "SJ Chen", "..." ],
+    "year" : "2015",
+    "citations" : "65"
+  }, {
+    "title" : "RNA FRABASE version 1.0: an engine with a database to search for the three-dimensional fragments within RNA structures",
+    "authors" : [ "M Popenda", "M Błażewicz", "M Szachniuk", "RW Adamiak" ],
+    "year" : "2007",
+    "citations" : "58"
+  }, {
+    "title" : "RNApdbee—a webserver to derive secondary structures from pdb files of knotted and unknotted RNAs",
+    "authors" : [ "M Antczak", "T Zok", "M Popenda", "P Lukasiak", "RW Adamiak", "J Blazewicz", "..." ],
+    "year" : "2014",
+    "citations" : "26"
+  }, {
+    "title" : "RNA tertiary structure determination: NOE pathways construction by tabu search",
+    "authors" : [ "J Blazewicz", "M Szachniuk", "A Wojtowicz" ],
+    "year" : "2005",
+    "citations" : "20"
+  }, {
+    "title" : "MCQ4Structures to compute similarity of molecule structures",
+    "authors" : [ "T Zok", "M Popenda", "M Szachniuk" ],
+    "year" : "2014",
+    "citations" : "18"
+  }, {
+    "title" : "RNAlyzer—novel approach for quality analysis of RNA structural models",
+    "authors" : [ "P Lukasiak", "M Antczak", "T Ratajczak", "JM Bujnicki", "M Szachniuk", "..." ],
+    "year" : "2013",
+    "citations" : "17"
+  }, {
+    "title" : "An algorithm for an automatic NOE pathways analysis of 2D NMR spectra of RNA duplexes",
+    "authors" : [ "RW Adamiak", "J Blazewicz", "P Formanowicz", "Z Gdaniec", "M Kasprzak", "..." ],
+    "year" : "2004",
+    "citations" : "17"
+  }, {
+    "title" : "Sorting signal targeting mRNA into hepatic extracellular vesicles",
+    "authors" : [ "N Szostak", "F Royo", "A Rybarczyk", "M Szachniuk", "J Blazewicz", "A del Sol", "..." ],
+    "year" : "2014",
+    "citations" : "15"
+  }, {
+    "title" : "RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme",
+    "authors" : [ "Z Miao", "RW Adamiak", "M Antczak", "RT Batey", "AJ Becka", "M Biesiada", "..." ],
+    "year" : "2017",
+    "citations" : "14"
+  }, {
+    "title" : "The orderly colored longest path problem–a survey of applications and new algorithms",
+    "authors" : [ "M Szachniuk", "MC De Cola", "G Felici", "J Blazewicz" ],
+    "year" : "2014",
+    "citations" : "11"
+  }, {
+    "title" : "New in silico approach to assessing RNA secondary structures with non-canonical base pairs",
+    "authors" : [ "A Rybarczyk", "N Szostak", "M Antczak", "T Zok", "M Popenda", "R Adamiak", "..." ],
+    "year" : "2015",
+    "citations" : "10"
+  }, {
+    "title" : "Automated 3D RNA structure prediction using the RNAComposer method for riboswitches",
+    "authors" : [ "RWA K.J. Purzycka", "M. Popenda", "M. Szachniuk", "M. Antczak", "P. Lukasiak", "J ..." ],
+    "year" : "2014",
+    "citations" : "10"
+  }, {
+    "title" : "RNAssess - a webserver for quality assessment of RNA 3D structures",
+    "authors" : [ "P Lukasiak", "M Antczak", "T Ratajczak", "M Szachniuk", "M Popenda", "..." ],
+    "year" : "2015",
+    "citations" : "9"
+  }, {
+    "title" : "Evolutionary approach to NOE paths assignment in RNA structure elucidation",
+    "authors" : [ "J Blazewicz", "M Szachniuk", "A Wojtowicz" ],
+    "year" : "2004",
+    "citations" : "9"
+  }, {
+    "title" : "An assignment walk through 3D NMR spectrum",
+    "authors" : [ "M Szachniuk", "M Popenda", "RW Adamiak", "J Blazewicz" ],
+    "year" : "2009",
+    "citations" : "8"
+  }, {
+    "title" : "MLP accompanied beam search for the resonance assignment problem",
+    "authors" : [ "M Szachniuk", "M Malaczynski", "E Pesch", "EK Burke", "J Blazewicz" ],
+    "year" : "2013",
+    "citations" : "6"
+  }, {
+    "title" : "Poseidon: An information retrieval and extraction system for metagenomic marine science",
+    "authors" : [ "M Radom", "A Rybarczyk", "R Kottmann", "P Formanowicz", "M Szachniuk", "..." ],
+    "year" : "2012",
+    "citations" : "6"
+  }, {
+    "title" : "New functionality of RNAComposer: application to shape the axis of miR160 precursor structure",
+    "authors" : [ "M Antczak", "M Popenda", "T Zok", "J Sarzynska", "T Ratajczak", "K Tomczyk", "..." ],
+    "year" : "2017",
+    "citations" : "5"
+  }, {
+    "title" : "A combinatorial analysis of 2D NMR spectra of RNA duplexes",
+    "authors" : [ "M Szachniuk", "RW Adamiak", "P Formanowicz", "Z Gdaniec", "M Kasprzak", "..." ],
+    "year" : "2003",
+    "citations" : "5"
+  }, {
+    "title" : "Automated RNA 3D structure prediction with RNAcomposer",
+    "authors" : [ "M Biesiada", "KJ Purzycka", "M Szachniuk", "J Blazewicz", "RW Adamiak" ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "Optimal pathway reconstruction on 3D NMR maps",
+    "authors" : [ "M Szachniuk", "MC De Cola", "D Felici", "Giovanni", "de Werra", "J Blazewicz" ],
+    "year" : "2015",
+    "citations" : "4"
+  }, {
+    "title" : "Evolutionary algorithm for a reconstruction of NOE paths in NMR spectra of RNA chains",
+    "authors" : [ "J Błażewicz", "M Szachniuk", "A Wojtowicz" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "Building the library of RNA 3D nucleotide conformations using clustering approach",
+    "authors" : [ "T Zok", "M Antczak", "M Riedel", "D Nebel", "T Villmann", "P Lukasiak", "J Blazewicz", "..." ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "NMR analysis of RNA bulged structures: tabu search application in NOE signal assignment",
+    "authors" : [ "M Szachniuk", "L Popenda", "Z Gdaniec", "RW Adamiak", "J Blazewicz" ],
+    "year" : "2005",
+    "citations" : "2"
+  }, {
+    "title" : "Combinatorial analysis of 2D-NOESY spectra in nuclear magnetic resonance spectroscopy of RNA molecules",
+    "authors" : [ "M Szachniuk" ],
+    "year" : "2005",
+    "citations" : "2"
+  }, {
+    "title" : "LCS-TA to identify similar fragments in RNA 3D structures",
+    "authors" : [ "J Wiedemann", "T Zok", "M Milostan", "M Szachniuk" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Bioinformatics Study of Structural Patterns in Plant MicroRNA Precursors",
+    "authors" : [ "J Miskiewicz", "K Tomczyk", "A Mickiewicz", "J Sarzynska", "M Szachniuk" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Cerberus: a new information retrieval tool for marine metagenomics",
+    "authors" : [ "M Radom", "R Kottmann", "A Rybarczyk", "P Formanowicz", "M Szachniuk", "..." ],
+    "year" : "2010",
+    "citations" : "1"
+  }, {
+    "title" : "New algorithms to represent complex pseudoknotted RNA structures in dot-bracket notation",
+    "authors" : [ "M Antczak", "M Popenda", "T Zok", "M Zurkowski", "RW Adamiak", "M Szachniuk" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Recent Advances in Operations Research in Computational Biology, Bioinformatics and Medicine",
+    "authors" : [ "M Turkay", "G Felici", "M Szachniuk", "P Lukasiak" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Assigning NMR spectra of irregular RNAs by heuristic algorithms",
+    "authors" : [ "M Szachniuk" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Clustering approach to create libraries of representative RNA conformers",
+    "authors" : [ "T Zok", "M Antczak", "M Riedel", "D Nebel", "T Villmann", "P Lukasiak", "J Blazewicz", "..." ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Automated RNA 3D structure prediction with RNAComposer: guidance for molecular biologists",
+    "authors" : [ "RWA M. Biesiada", "K.J. Purzycka", "M. Szachniuk", "J. Blazewicz" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Turning data into folds using RNAComposer",
+    "authors" : [ "M Szachniuk", "J Sarzyńska", "J Blazewicz" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Comparison of multiple structures in torsion angle space",
+    "authors" : [ "T Zok", "M Popenda", "M Szachniuk" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "RNAComposer and the art of composing RNA structures",
+    "authors" : [ "M Szachniuk", "M Popenda", "M Antczak", "KJ Purzycka", "P Lukasiak", "N Bartol", "..." ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Comparison of RNA structures in torsional angle space",
+    "authors" : [ "T Zok", "M Szachniuk", "M Antczak" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Comparison of RNA Structures–Concepts and Measures",
+    "authors" : [ "T Zok", "M Popenda", "M Szachniuk" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "ISTITUTO DI ANALISI DEI SISTEMI ED INFORMATICA",
+    "authors" : [ "MC De Cola", "G Felici", "M Szachniuk" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Session 2. Genomics, Proteomics, Metabolomics—Medical and Environmental Implications",
+    "authors" : [ "M Popenda", "M Szachniuk", "M Antczak", "KJ Purzycka", "P Lukasiak", "N Bartol", "..." ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "3D–RNA–Pred: An Automatic Construction of Three–Dimensional RNA Structures",
+    "authors" : [ "M Antczak", "J Blazewicz", "R Adamiak", "P Lukasiak", "M Popenda", "..." ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "RNA FRABASE–a database of RNA fragments",
+    "authors" : [ "M Blazewicz", "M Popenda", "RW Adamiak", "M Szachniuk" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Strategies of signal assignment in NMR spectra of RNAs with different structural motifs",
+    "authors" : [ "M Szachniuk", "M Popenda", "L Popenda" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Graphs in NMR analysis of RNAs",
+    "authors" : [ "M Szachniuk", "M Popenda", "L Popenda" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Obliczenia strukturalne RNA",
+    "authors" : [ "M Szachniuk" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "A new tool for fundamental analysis of NMR spectra",
+    "authors" : [ "W Paczkowski", "M Milawski", "L Popenda", "M Szachniuk" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "On the complexity of NOE pathway construction of RNA duplexes",
+    "authors" : [ "M Szachniuk", "R Adamiak", "J Błażewicz", "M Kasprzak", "P Formanowicz", "..." ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "From Documents Processing to an Identification of Marine Organisms’ Habitat Specificity",
+    "authors" : [ "M Szachniuk", "M Radom", "A Rybarczyk", "P Formanowicz", "J Blazewicz" ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 11
+}

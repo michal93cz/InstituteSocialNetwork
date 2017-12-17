@@ -1,0 +1,167 @@
+{
+  "name" : "B Wieloch",
+  "citations" : 217,
+  "tenIndex" : 9,
+  "articles" : [ {
+    "title" : "Semantic Backpropagation for Designing Search Operators in Genetic Programming",
+    "authors" : [ "T Pawlak", "B Wieloch", "K Krawiec" ],
+    "year" : "2014",
+    "citations" : "39"
+  }, {
+    "title" : "Review and comparative analysis of geometric semantic crossovers",
+    "authors" : [ "TP Pawlak", "B Wieloch", "K Krawiec" ],
+    "year" : "2015",
+    "citations" : "24"
+  }, {
+    "title" : "Winning ant wars: Evolving a human-competitive game strategy using fitnessless selection",
+    "authors" : [ "W Jaskowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2008",
+    "citations" : "19"
+  }, {
+    "title" : "Analysis of semantic modularity for genetic programming",
+    "authors" : [ "K Krawiec", "B Wieloch" ],
+    "year" : "2009",
+    "citations" : "18"
+  }, {
+    "title" : "Evolving strategy for a probabilistic game of imperfect information using genetic programming",
+    "authors" : [ "W Jaśkowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2008",
+    "citations" : "16"
+  }, {
+    "title" : "Functional modularity for genetic programming",
+    "authors" : [ "K Krawiec", "B Wieloch" ],
+    "year" : "2009",
+    "citations" : "15"
+  }, {
+    "title" : "Learning and recognition of hand-drawn shapes using generative genetic programming",
+    "authors" : [ "W Jaśkowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2007",
+    "citations" : "13"
+  }, {
+    "title" : "Automatic generation and exploitation of related problems in genetic programming",
+    "authors" : [ "K Krawiec", "B Wieloch" ],
+    "year" : "2010",
+    "citations" : "12"
+  }, {
+    "title" : "Running programs backwards: instruction inversion for effective search in semantic spaces",
+    "authors" : [ "B Wieloch", "K Krawiec" ],
+    "year" : "2013",
+    "citations" : "10"
+  }, {
+    "title" : "Multitask visual learning using genetic programming",
+    "authors" : [ "W Jaśkowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2008",
+    "citations" : "8"
+  }, {
+    "title" : "Fitnessless coevolution",
+    "authors" : [ "W Jaśkowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2008",
+    "citations" : "7"
+  }, {
+    "title" : "Knowledge reuse in genetic programming applied to visual learning",
+    "authors" : [ "W Jaskowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2007",
+    "citations" : "7"
+  }, {
+    "title" : "Cross-task code reuse in genetic programming applied to visual learning",
+    "authors" : [ "W Jaskowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2014",
+    "citations" : "6"
+  }, {
+    "title" : "Genetic programming for cross-task knowledge sharing",
+    "authors" : [ "W Jaskowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2007",
+    "citations" : "6"
+  }, {
+    "title" : "Genetic programming with knowledge modularization for learning of visual concepts",
+    "authors" : [ "B Wieloch" ],
+    "year" : "2006",
+    "citations" : "6"
+  }, {
+    "title" : "Semantic Extensions for Genetic Programming",
+    "authors" : [ "B Wieloch" ],
+    "year" : "2013",
+    "citations" : "3"
+  }, {
+    "title" : "Neurohunter-an entry for the balanced diet contest",
+    "authors" : [ "W Jaskowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2008",
+    "citations" : "3"
+  }, {
+    "title" : "Optical coherence microscopy as a novel, non-invasive method for the 4D live imaging of early mammalian embryos",
+    "authors" : [ "K Karnowski", "A Ajduk", "B Wieloch", "S Tamborski", "K Krawiec", "M Wojtkowski", "..." ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Multi-task code reuse in genetic programming",
+    "authors" : [ "W Jaskowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2008",
+    "citations" : "2"
+  }, {
+    "title" : "OCT retinal angiography using neural networks",
+    "authors" : [ "M Szkulmowski", "D Ruminski", "P Liskowski", "B Wieloch", "K Krawiec", "..." ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Convolutional neural networks for artifact free OCT retinal angiography",
+    "authors" : [ "M Szkulmowski", "P Liskowski", "B Wieloch", "K Krawiec", "B Sikorski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "We propose a method that enables effective code reuse between evolutionary runs that solve a set of related visual learning tasks. We start with introducing a visual...",
+    "authors" : [ "K Janiszowski", "A Bartoszewicz", "P Leśniewski", "V Kapustyan", "V Maksimov", "..." ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Genetic Programming for Generative Learning and Recognition of Hand-Drawn Shapes",
+    "authors" : [ "W Jaśkowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Fitnessless Coevolution",
+    "authors" : [ "K Krawiec", "B Wieloch" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Evolutionary Learning with Cross-Class Knowledge Reuse for Handwritten Character Recognition",
+    "authors" : [ "W Jaąkowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Poznan University of Technology, Pozna «, Poland Institute of Computing Science Research Report RA-05/07 July 14, 2007",
+    "authors" : [ "W Ja±kowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "1 Motivations for our ant design",
+    "authors" : [ "W Jaśkowski", "K Krawiec", "B Wieloch" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Knowledge reuse for an ensemble of GP-based learners",
+    "authors" : [ "WJKKB Wieloch" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Fitnessless Coevolution",
+    "authors" : [ "WJKKB Wieloch" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Supplementary materials: Optical coherence microscopy as a novel, non-invasive 2 method for the 4D live imaging of early mammalian 3 embryos 4",
+    "authors" : [ "K Karnowski", "A Ajduk", "B Wieloch", "S Tamborski", "K Krawiec", "M Wojtkowski", "..." ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Semantyczne rozszerzenia programowania genetycznego",
+    "authors" : [ "B Wieloch" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Analysis of Semantic Modularity for Genetic",
+    "authors" : [ "K Krawiec", "B Wieloch" ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 9
+}

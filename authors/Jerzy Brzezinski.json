@@ -1,0 +1,377 @@
+{
+  "name" : "J Brzezinski",
+  "citations" : 252,
+  "tenIndex" : 5,
+  "articles" : [ {
+    "title" : "Deadlock models and a general algorithm for distributed deadlock detection",
+    "authors" : [ "J Brzeziński", "JM Helary", "M Raynal", "M Singhal" ],
+    "year" : "1995",
+    "citations" : "64"
+  }, {
+    "title" : "Time-stamp approach to store-and-forward deadlock prevention",
+    "authors" : [ "J Błażewicz", "J Brzeziński", "G Gambosi" ],
+    "year" : "1987",
+    "citations" : "32"
+  }, {
+    "title" : "Characterization of consistent global checkpoints in large-scale distributed systems",
+    "authors" : [ "R Baldoni", "J Brzezinski", "JM Hélary", "A Mostefaoui", "M Raynal" ],
+    "year" : "1995",
+    "citations" : "18"
+  }, {
+    "title" : "D-reserve: Distributed reliable service environment",
+    "authors" : [ "J Brzeziński", "A Danilecki", "M Hołenko", "A Kobusińska", "J Kobusiński", "..." ],
+    "year" : "2012",
+    "citations" : "12"
+  }, {
+    "title" : "Safety of a server-based version vector protocol implementing session guarantees",
+    "authors" : [ "J Brzeziński", "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2005",
+    "citations" : "11"
+  }, {
+    "title" : "Healthcare integration platform",
+    "authors" : [ "J Brzeziński", "S Czajka", "J Kobusiński", "M Piernik" ],
+    "year" : "2011",
+    "citations" : "9"
+  }, {
+    "title" : "Semantics of recovery lines for backward recovery in distributed systems",
+    "authors" : [ "J BrzeziŃski", "JM Helary", "M Raynal" ],
+    "year" : "1995",
+    "citations" : "9"
+  }, {
+    "title" : "ROSWeL workflow language: A declarative, resource-oriented approach",
+    "authors" : [ "J Brzeziński", "A Danilecki", "J Flotyński", "A Kobusińska", "A Stroiński" ],
+    "year" : "2012",
+    "citations" : "7"
+  }, {
+    "title" : "Checkpointing and rollback-recovery protocol for mobile systems with MW session guarantee",
+    "authors" : [ "J Brzezinski", "A Kobusinska", "M Szychowiak" ],
+    "year" : "2006",
+    "citations" : "6"
+  }, {
+    "title" : "Session guarantees to achieve PRAM consistency of replicated shared objects",
+    "authors" : [ "J Brzeziński", "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2003",
+    "citations" : "6"
+  }, {
+    "title" : "Resource mining: Applying process mining to resource-oriented systems",
+    "authors" : [ "A Stroiński", "D Dwornikowski", "J Brzeziński" ],
+    "year" : "2014",
+    "citations" : "5"
+  }, {
+    "title" : "Workflow engine supporting RESTful web services",
+    "authors" : [ "J Brzeziński", "A Danilecki", "J Flotyński", "A Kobusińska", "A Stroiński" ],
+    "year" : "2011",
+    "citations" : "5"
+  }, {
+    "title" : "FADE: RESTful service for failure detection in SOA environment",
+    "authors" : [ "J Brzeziński", "D Dwornikowski", "J Kobusiński" ],
+    "year" : "2011",
+    "citations" : "5"
+  }, {
+    "title" : "Replication of Checkpoints in Recoverable DSM Systems",
+    "authors" : [ "J Brzeziński", "M Szychowiak" ],
+    "year" : "2003",
+    "citations" : "5"
+  }, {
+    "title" : "On time constraints of reliable broadcast protocols for ad hoc networks with the liveness property",
+    "authors" : [ "J Brzeziński", "M Kalewski", "D Wawrzyniak" ],
+    "year" : "2011",
+    "citations" : "4"
+  }, {
+    "title" : "Time-stamp approach to prevention of different deadlock types in store-and-forward networks",
+    "authors" : [ "J Blazewicz", "J Brzezinski", "G Gambosi" ],
+    "year" : "1987",
+    "citations" : "4"
+  }, {
+    "title" : "Protoidealizacyjny model procesu badawczego. Próba konkretyzacji",
+    "authors" : [ "J Brzeziński" ],
+    "year" : "1982",
+    "citations" : "4"
+  }, {
+    "title" : "Dependability infrastructure for SOA applications",
+    "authors" : [ "J Brzeziński", "D Dwornikowski", "A Kobusińska", "J Kobusiński", "M Sajkowski", "..." ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "An extended coherence protocol for recoverable dsm systems with causal consistency",
+    "authors" : [ "J Brzeziński", "M Szychowiak" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "A branch hash function as a method of message synchronization in anonymous P2P conversations",
+    "authors" : [ "A Kobusińska", "J Brzeziński", "M Boroń", "Ł Inatlewski", "M Jabczyński", "..." ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Conformance checking of communicating resource systems with RAs calculus",
+    "authors" : [ "D Dwornikowski", "A Stroinski", "J Brzezinski" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Towards relaxed rollback-recovery consistency in soa",
+    "authors" : [ "J Brzeziński", "M Hołenko", "A Kobusińska", "D Wawrzyniak", "P Zierhoffer" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Distribution of Liveness Property Connectivity Interval in Selected Mobility Models of Wireless Ad Hoc Networks.",
+    "authors" : [ "J Brzezinski", "M Kalewski", "M Kosiba", "M Libuda" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Reliable Broadcast Protocol Independent of System Parameters for Ad Hoc Networks with Liveness Property.",
+    "authors" : [ "J Brzezinski", "M Kalewski", "C Sobaniec" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Modality conflict discovery for SOA security policies",
+    "authors" : [ "B Brodecki", "J Brzeziński", "P Sasak", "M Szychowiak" ],
+    "year" : "2011",
+    "citations" : "2"
+  }, {
+    "title" : "ModCon algorithm for discovering security policy conflicts",
+    "authors" : [ "B Brodecki", "J Brzeziński", "P Sasak", "M Szychowiak" ],
+    "year" : "2011",
+    "citations" : "2"
+  }, {
+    "title" : "Safety of a session guarantees protocol using plausible clocks",
+    "authors" : [ "J Brzeziński", "M Kalewski", "C Sobaniec" ],
+    "year" : "2007",
+    "citations" : "2"
+  }, {
+    "title" : "Safety of an object-based version vector consistency protocol of session guarantees",
+    "authors" : [ "J Brzeziński", "C Sobaniec" ],
+    "year" : "2005",
+    "citations" : "2"
+  }, {
+    "title" : "Low cost coherence protocol for DSM systems with processor consistency",
+    "authors" : [ "J Brzeziński", "M Szychowiak" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "A survey of software failure detector protocols",
+    "authors" : [ "J Brzeziński", "J Kobusiński" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "A polygon time structure for protocol verification",
+    "authors" : [ "J Brzeziński", "M Sajkowski" ],
+    "year" : "1999",
+    "citations" : "2"
+  }, {
+    "title" : "RPC-based coherence protocols for distributed shared memory",
+    "authors" : [ "J BRZEZIŃSKI", "M Szychowiak", "D Wawrzyniak" ],
+    "year" : "1997",
+    "citations" : "2"
+  }, {
+    "title" : "Optimization aspects of deadlock prevention in packet-switching networks",
+    "authors" : [ "J Błażewicz", "J Brzeziński", "G Gambosi" ],
+    "year" : "1992",
+    "citations" : "2"
+  }, {
+    "title" : "On the applicability of an interval time structure for protocol verification “",
+    "authors" : [ "J Brzeziński", "M Sajkowski" ],
+    "year" : "",
+    "citations" : "2"
+  }, {
+    "title" : "Towards a process calculus for REST: current state of the art",
+    "authors" : [ "D Dwornikowski", "A Stroiński", "J Brzeziński" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Consistency Maintenance of Modern Security Policies.",
+    "authors" : [ "B Brodecki", "J Brzezinski", "P Sasak", "M Szychowiak" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "MDL: metrics definition language",
+    "authors" : [ "J Brzeziński", "D Dwornikowski", "M Kalewski", "T Pawlak", "M Sajkowski" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Safety of a client-based version vector consistency protocol of session guarantees",
+    "authors" : [ "J Brzeziński", "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Bounding recovery time in rollback-recovery protocol for mobile systems preserving session guarantees",
+    "authors" : [ "J Brzeziński", "A Kobusińska", "J Kobusiński" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Multi-version coherence protocol for replicated shared objects",
+    "authors" : [ "J Brzeziński", "J Kobusiński", "D Wawrzyniak" ],
+    "year" : "2005",
+    "citations" : "1"
+  }, {
+    "title" : "Fast and Low Cost Recovery Techniques for Distributed Shared Memory1",
+    "authors" : [ "J Brzeziński", "M Szychowiak" ],
+    "year" : "2002",
+    "citations" : "1"
+  }, {
+    "title" : "Detection of livelocks in communication protocols by means of a polygon time structure",
+    "authors" : [ "J Brzezinski", "M Sajkowski" ],
+    "year" : "2000",
+    "citations" : "1"
+  }, {
+    "title" : "Reliable Services for CORBA Environment",
+    "authors" : [ "J Brzeziński", "A Kobusińska", "J Kobusiński", "M Szychowiak" ],
+    "year" : "1999",
+    "citations" : "1"
+  }, {
+    "title" : "Algorytmy optymalizacji zapytań eksploracyjnych z wykorzystaniem materializowanej perspektywy eksploracyjnej",
+    "authors" : [ "J Brzeziński", "M Morzy", "T Morzy", "Ł Rutkowski" ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "SelfAid Network—a P2P Matchmaking Service",
+    "authors" : [ "M Boroń", "J Brzeziński", "A Kobusińska" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Distributed Content Dissemination with a Rank Function",
+    "authors" : [ "A Kobusińska", "J Brzeziński", "J Aftowicz", "G Grzelachowski" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Advanced SOA Tools and Applications",
+    "authors" : [ "S Ambroszkiewicz", "J Brzeziński", "W Cellary", "A Grzech", "K Zieliński" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Mobile platform for executing medical business processes and data collecting",
+    "authors" : [ "J Brzeziński", "A Kobusińska", "J Kobusiński", "A Stroiński", "K Szałkowski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Modelling Failures of Distributed Systems in Stochastic Process Algebras",
+    "authors" : [ "J Brzeziński", "D Dwornikowski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Consistency guarantees for recovery of service-oriented distributed processing",
+    "authors" : [ "J Brzeziński", "A Danilecki", "A Kobusińska", "M Szychowiak" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "COBRA-THE LIBRARY FOR BUILDING RELIABLE APPLICATIONS IN DISTRIBUTED",
+    "authors" : [ "J Brzeziński", "A Kobusińska", "J Kobusiński", "M Szychowiak" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "K-resilient session guarantees synchronization protocol for mobile ad-hoc networks",
+    "authors" : [ "J Brzeziński", "D Dwornikowski", "Ł Piątkowski", "G Sobański" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "From session guarantees to contract guarantees for consistency of SOA-compliant processing",
+    "authors" : [ "J Brzeziński", "A Danilecki", "A Kobusińska", "M Szychowiak" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "A formal approach to replica consistency in directory service",
+    "authors" : [ "J Brzeziński", "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "On the optimality of rollback-recovery protocol preserving session guarantees",
+    "authors" : [ "J Brzezinski", "A Kobusinska", "J Kobusinski" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Checkpointing and rollback-recovery protocol integrated with VsSG protocol for RYW session guarantee",
+    "authors" : [ "J Brzeziński", "A Kobusińska" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Rollback-recovery protocol guarantying MR session guarantee in distributed systems with mobile clients",
+    "authors" : [ "J Brzeziński", "A Kobusińska", "M Szychowiak" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Safety of recovery protocol preserving MW session guarantee in mobile systems",
+    "authors" : [ "J Brzezinski", "A Kobusinska" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Safety of rollback-recovery protocol maintaining WFR session guarantee",
+    "authors" : [ "J Brzezinski", "A Kobusinska", "J Kobusinski" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Consistency requirements of Peterson’s algorithm for mutual exclusion of n processes in a distributed shared memory system",
+    "authors" : [ "J Brzeziński", "D Wawrzyniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "COBRA–THE LIBRARY FOR BUILDING RELIABLE APPLICATIONS IN DISTRIBUTED ENVIRONMENT",
+    "authors" : [ "J Brzeziński", "A Kobusińska", "J Kobusiński", "M Szychowiak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "The application of computational geometry algorithms to the timed verification of communication protocols",
+    "authors" : [ "J Brzeziński", "M Sajkowski" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "On time complexity of distributed algorithms for generalized deadlock detection",
+    "authors" : [ "J Brzeziński" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Graph theoretical issues in computer networks",
+    "authors" : [ "J Błażwicz", "J Brzeziński", "G Gambosi" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "A family of compatible single-and multimicroprocessor systems with 8-bit and 16-bit microprocessors",
+    "authors" : [ "J Brzeziński", "W Cellary", "J Krȩglewski" ],
+    "year" : "1984",
+    "citations" : ""
+  }, {
+    "title" : "Problemy bezpieczeństwa w architekturze SOA1",
+    "authors" : [ "B Brodecki", "J Brzeziński", "P Sasak", "M Szychowiak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Komunikacja grupowa",
+    "authors" : [ "M Libuda", "J Brzeziński", "C Sobaniec" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "DESIGN AND IMPLEMENTATION OF COMMUNICATION PROTOCOLS FOR SELF-ORGANIZING MULTI-HOP AD HOC NETWORKS USING XBEEPRO-868 PLATF...",
+    "authors" : [ "J Brzeziński" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Koncepcje zarządzanie w SOA",
+    "authors" : [ "J Brzeziński", "D Dwornikowski", "M Sajkowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Wybrane zastosowania spekulacji w systemach z rozproszoną pamięcią współdzieloną",
+    "authors" : [ "J BRZEZIŃSKI", "A DANILECKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Page-based Distributed Shared Memory for OSF/DCE",
+    "authors" : [ "J Brzeziński", "M Szychowiak", "D Wawrzyniak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Analysis of security policy requirements in SOA-based technologies",
+    "authors" : [ "B Brodecki", "J Brzeziński", "S Górecki", "P Sasak", "M Szychowiak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Systemy operacyjne",
+    "authors" : [ "J Brzeziński" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Rozproszone systemy operacyjne",
+    "authors" : [ "J Brzeziński" ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 7
+}

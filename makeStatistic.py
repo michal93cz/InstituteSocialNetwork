@@ -2,7 +2,6 @@ from pymongo import MongoClient
 from operator import itemgetter
 import matplotlib.pyplot as plt
 import numpy as np
-import sys, getopt
 
 
 def draw_plot(collection, title, file_name, count):
@@ -86,4 +85,4 @@ def most_collaborators(decade, count, dir):
               dir + 'external_collaborators_' + str(decade) + '.png', count)
 
 
-most_collaborators(2000, 0, './')
+most_collaborators(2000, 10, './')

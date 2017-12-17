@@ -1,0 +1,157 @@
+{
+  "name" : "M Kierzynka",
+  "citations" : 236,
+  "tenIndex" : 8,
+  "articles" : [ {
+    "title" : "Protein alignment algorithms with an efficient backtracking routine on multiple GPUs",
+    "authors" : [ "J Blazewicz", "W Frohmberg", "M Kierzynka", "E Pesch", "P Wojciechowski" ],
+    "year" : "2011",
+    "citations" : "56"
+  }, {
+    "title" : "G-MSA—A GPU-based, fast and accurate algorithm for multiple sequence alignment",
+    "authors" : [ "J Blazewicz", "W Frohmberg", "M Kierzynka", "P Wojciechowski" ],
+    "year" : "2013",
+    "citations" : "36"
+  }, {
+    "title" : "Real-time motion tracking using optical flow on multiple GPUs",
+    "authors" : [ "SA Mahmoudi", "M Kierzynka", "P Manneback", "K Kurowski" ],
+    "year" : "2014",
+    "citations" : "23"
+  }, {
+    "title" : "From physics model to results: An optimizing framework for cross-architecture code generation",
+    "authors" : [ "M Blazewicz", "I Hinder", "DM Koppelman", "SR Brandt", "M Ciznicki", "..." ],
+    "year" : "2013",
+    "citations" : "21"
+  }, {
+    "title" : "CaKernel–a parallel application programming framework for heterogenous computing architectures",
+    "authors" : [ "M Blazewicz", "SR Brandt", "M Kierzynka", "K Kurowski", "B Ludwiczak", "J Tao", "..." ],
+    "year" : "2011",
+    "citations" : "18"
+  }, {
+    "title" : "G-DNA–a highly efficient multi-GPU/MPI tool for aligning nucleotide reads",
+    "authors" : [ "W Frohmberg", "M Kierzynka", "J Blazewicz", "P Gawron", "P Wojciechowski" ],
+    "year" : "2013",
+    "citations" : "12"
+  }, {
+    "title" : "Benchmarking data and compute intensive applications on modern CPU and GPU architectures",
+    "authors" : [ "M Ciżnicki", "M Kierzynka", "P Kopta", "K Kurowski", "P Gepner" ],
+    "year" : "2012",
+    "citations" : "12"
+  }, {
+    "title" : "Efficient isosurface extraction using marching tetrahedra and histogram pyramids on multiple GPUs",
+    "authors" : [ "M Ciżnicki", "M Kierzynka", "K Kurowski", "B Ludwiczak", "K Napierała", "..." ],
+    "year" : "2011",
+    "citations" : "12"
+  }, {
+    "title" : "Parallel architecture benchmarking: From embedded computing to hpc, a fips project perspective",
+    "authors" : [ "Y Lhuillier", "JM Philippe", "A Guerre", "M Kierzynka", "A Oleksia" ],
+    "year" : "2014",
+    "citations" : "8"
+  }, {
+    "title" : "Benchmarking JPEG 2000 implementations on modern CPU and GPU architectures",
+    "authors" : [ "M Ciżnicki", "M Kierzynka", "P Kopta", "K Kurowski", "P Gepner" ],
+    "year" : "2014",
+    "citations" : "7"
+  }, {
+    "title" : "DNA sequence assembly involving an acyclic graph model",
+    "authors" : [ "J Blazewicz", "W Frohmberg", "P Gawron", "M Kasprzak", "M Kierzynka", "..." ],
+    "year" : "2013",
+    "citations" : "7"
+  }, {
+    "title" : "G-PAS 2.0–an improved version of protein alignment tool with an efficient backtracking routine on multiple GPUs",
+    "authors" : [ "W Frohmberg", "M Kierzynka", "J Blazewicz", "P Wojciechowski" ],
+    "year" : "2012",
+    "citations" : "7"
+  }, {
+    "title" : "Real-Time GPU-Based Motion Detection and Tracking Using Full HD Videos",
+    "authors" : [ "SA Mahmoudi", "M Kierzynka", "P Manneback" ],
+    "year" : "2013",
+    "citations" : "4"
+  }, {
+    "title" : "Energy efficiency of sequence alignment tools—Software and hardware perspectives",
+    "authors" : [ "M Kierzynka", "L Kosmann", "M vor dem Berge", "S Krupop", "J Hagemeyer", "..." ],
+    "year" : "2017",
+    "citations" : "3"
+  }, {
+    "title" : "G-MAPSEQ–a new method for mapping reads to a reference genome",
+    "authors" : [ "P Wojciechowski", "W Frohmberg", "M Kierzynka", "P Zurkowski", "J Blazewicz" ],
+    "year" : "2016",
+    "citations" : "3"
+  }, {
+    "title" : "M2DC–Modular Microserver DataCentre with Heterogeneous Hardware",
+    "authors" : [ "A Oleksiak", "M Kierzynka", "W Piatek", "G Agosta", "A Barenghi", "C Brandolese", "..." ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "The M2DC Project: Modular Microserver DataCentre",
+    "authors" : [ "M Cecowski", "G Agosta", "A Oleksiak", "M Kierzynka", "M vor dem Berge", "..." ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Cloud and automated computations in modern personalized medicine-AirPROM project perspective",
+    "authors" : [ "M Kierzynka", "M Adamski", "A Fritz", "D Galka", "I Jones", "D Maier", "..." ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "GPU-accelerated graph construction for the whole genome assembly",
+    "authors" : [ "M Kierzynka" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "FPGA-accelerated Heterogeneous Hyperscale Server Architecture for Next-Generation Compute Clusters",
+    "authors" : [ "R Griessl", "M Peykanu", "J Hagemeyer", "M Porrmann", "S Krupop", "L Kosmann", "..." ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Computational automation in modern personalized medicine-AirPROM project perspective",
+    "authors" : [ "M Kierzynka", "M Adamski", "A Fritz", "D Galka", "IP Jones", "D Maier", "AK Wells" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Modern hardware architectures accelerate porous media flow computations",
+    "authors" : [ "M Kulczewski", "K Kurowski", "M Kierzynka", "M Dohnalik", "J Kaczmarczyk", "..." ],
+    "year" : "2012",
+    "citations" : "1"
+  }, {
+    "title" : "Data centres for IoT applications: The M2DC approach",
+    "authors" : [ "MKA Oleksiak", "G Agosta", "C Brandolese", "W Fornaciari", "G Pelosi", "..." ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Graph algorithms for DNA sequencing–origins, current models and the future",
+    "authors" : [ "J Blazewicz", "M Kasprzak", "M Kierzynka", "W Frohmberg", "A Swiercz", "..." ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "G-DNA–a highly efficient multi-GPU/MPI tool for aligning nucleotide reads",
+    "authors" : [ "P Gawron", "W Frohmberg", "M Kierzynka", "J Blazewicz", "P Wojciechowski" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Different approaches to parallel computing in the DNA assembly problem.",
+    "authors" : [ "P Gawron", "W Frohmberg", "M Kierzynka" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "The issue number is given in front of the page numbers.",
+    "authors" : [ "S Gil", "A Brown", "MC Morse", "H Feshbach", "K Church", "M Dillencourt", "..." ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "MEDPOZ-SYSTEM ZARZĄDZANIA PRZYCHODNIĄ LEKARZA RODZINNEGO",
+    "authors" : [ "T Buchert", "W Frohmberg", "M Kierzynka", "M Sikorski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "DEVELOPMENT OF SEQUENCE ALIGNMENT METHODS ON GRAPHICS PROCESSING UNIT",
+    "authors" : [ "W Frohmberg", "M Kierzynka" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "G-MSA-a powerful GPU-based tool for multiple sequence alignment",
+    "authors" : [ "W Frohmberg", "M Kierzynka", "J Błażewicz", "P Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 8
+}

@@ -1,0 +1,287 @@
+{
+  "name" : "M Komosinski",
+  "citations" : 724,
+  "tenIndex" : 19,
+  "articles" : [ {
+    "title" : "Comparison of different genotype encodings for simulated three-dimensional agents",
+    "authors" : [ "M Komosiński", "A Rotaru-Varga" ],
+    "year" : "2001",
+    "citations" : "118"
+  }, {
+    "title" : "Framsticks: Towards a simulation of a nature-like world, creatures and evolution",
+    "authors" : [ "M Komosiński", "S Ulatowski" ],
+    "year" : "1999",
+    "citations" : "118"
+  }, {
+    "title" : "The world of framsticks: Simulation, evolution, interaction",
+    "authors" : [ "M Komosinski" ],
+    "year" : "2000",
+    "citations" : "68"
+  }, {
+    "title" : "Artificial life models in software",
+    "authors" : [ "A Adamatzky", "M Komosinski" ],
+    "year" : "2005",
+    "citations" : "41"
+  }, {
+    "title" : "The Framsticks system: versatile simulator of 3D agents and their evolution",
+    "authors" : [ "M Komosinski" ],
+    "year" : "2003",
+    "citations" : "39"
+  }, {
+    "title" : "Evolutionary weighting of image features for diagnosing of CNS tumors",
+    "authors" : [ "M Komosiński", "K Krawiec" ],
+    "year" : "2000",
+    "citations" : "38"
+  }, {
+    "title" : "Artificial life models in software",
+    "authors" : [ "M Komosinski", "A Adamatzky" ],
+    "year" : "2009",
+    "citations" : "28"
+  }, {
+    "title" : "From directed to open-ended evolution in a complex simulation model",
+    "authors" : [ "M Komosinski", "A Rotaru-Varga" ],
+    "year" : "2000",
+    "citations" : "27"
+  }, {
+    "title" : "On estimating similarity of artificial and real organisms",
+    "authors" : [ "M Komosiński", "G Koczyk", "M Kubiak" ],
+    "year" : "2001",
+    "citations" : "24"
+  }, {
+    "title" : "Framsticks: Creating and understanding complexity of life",
+    "authors" : [ "M Komosinski", "S Ulatowski" ],
+    "year" : "2009",
+    "citations" : "19"
+  }, {
+    "title" : "Artificial life models in hardware",
+    "authors" : [ "A Adamatzky", "M Komosinski" ],
+    "year" : "2009",
+    "citations" : "19"
+  }, {
+    "title" : "Framsticks: a platform for modeling, simulating and evolving 3D creatures",
+    "authors" : [ "M Komosinski" ],
+    "year" : "2005",
+    "citations" : "14"
+  }, {
+    "title" : "Framsticks web site",
+    "authors" : [ "M Komosinski", "S Ulatowski" ],
+    "year" : "1997",
+    "citations" : "14"
+  }, {
+    "title" : "Identifying efficient abductive hypotheses using multicriteria dominance relation",
+    "authors" : [ "M Komosinski", "A Kups", "D Leszczyńska-Jasion", "M Urbański" ],
+    "year" : "2014",
+    "citations" : "11"
+  }, {
+    "title" : "The numerical measure of symmetry for 3D stick creatures",
+    "authors" : [ "W Jaśkowski", "M Komosinski" ],
+    "year" : "2008",
+    "citations" : "11"
+  }, {
+    "title" : "Evolutionary design of interpretable fuzzy controllers",
+    "authors" : [ "M Hapke", "M Komosinski" ],
+    "year" : "2008",
+    "citations" : "11"
+  }, {
+    "title" : "Quantitative measure of structural and geometric similarity of 3D morphologies",
+    "authors" : [ "M Komosinski", "M Kubiak" ],
+    "year" : "2011",
+    "citations" : "10"
+  }, {
+    "title" : "Biologically-inspired visual-motor coordination model in a navigation problem",
+    "authors" : [ "J Jelonek", "M Komosinski" ],
+    "year" : "2006",
+    "citations" : "10"
+  }, {
+    "title" : "Genetic mappings in artificial genomes",
+    "authors" : [ "M Komosinski", "S Ulatowski" ],
+    "year" : "2004",
+    "citations" : "10"
+  }, {
+    "title" : "Framsticks-artificial life",
+    "authors" : [ "M Komosinski", "S Ulatowski" ],
+    "year" : "1998",
+    "citations" : "9"
+  }, {
+    "title" : "Evolving free-form stick ski jumpers and their neural control systems",
+    "authors" : [ "M Komosinski", "J Polak" ],
+    "year" : "2009",
+    "citations" : "7"
+  }, {
+    "title" : "Taxonomy in alife. Measures of similarity for complex artificial organisms",
+    "authors" : [ "M Komosiński", "M Kubiak" ],
+    "year" : "2001",
+    "citations" : "7"
+  }, {
+    "title" : "Framsticks web site (2015)",
+    "authors" : [ "M Komosinski", "S Ulatowski" ],
+    "year" : "",
+    "citations" : "6"
+  }, {
+    "title" : "Application of a morphological similarity measure to the analysis of shell morphogenesis in Foraminifera",
+    "authors" : [ "M Komosinski", "A Mensfelt", "P Topa", "J Tyszka" ],
+    "year" : "2016",
+    "citations" : "5"
+  }, {
+    "title" : "eVolutus: a configurable platform designed for ecological and evolutionary experiments tested on Foraminifera",
+    "authors" : [ "P Topa", "M Komosinski", "M Bassara", "J Tyszka" ],
+    "year" : "2016",
+    "citations" : "5"
+  }, {
+    "title" : "Multi-criteria evaluation of abductive hypotheses: Towards efficient optimization in proof theory",
+    "authors" : [ "M Komosinski", "A Kups", "M Urbanski" ],
+    "year" : "2012",
+    "citations" : "5"
+  }, {
+    "title" : "Sztuczne życie. Algorytmy inspirowane biologicznie",
+    "authors" : [ "M Komosiński" ],
+    "year" : "2008",
+    "citations" : "5"
+  }, {
+    "title" : "Framsticks Internet site",
+    "authors" : [ "M Komosinski", "S Ulatowski" ],
+    "year" : "",
+    "citations" : "5"
+  }, {
+    "title" : "Agent-oriented foraminifera habitat simulation",
+    "authors" : [ "M Kaziród", "W Korczyński", "E Fernández", "A Byrski", "M Kisiel-Dorohinicki", "..." ],
+    "year" : "2015",
+    "citations" : "4"
+  }, {
+    "title" : "Measuring quantities using oscillators and pulse generators",
+    "authors" : [ "M Komosinski" ],
+    "year" : "2012",
+    "citations" : "4"
+  }, {
+    "title" : "Implementation and Simulation of the Scalar Timing Model.",
+    "authors" : [ "M Komosinski", "A Kups" ],
+    "year" : "2011",
+    "citations" : "4"
+  }, {
+    "title" : "Application of evolutionarily optimized fuzzy controllers for virtual robots",
+    "authors" : [ "M Hapke", "M Komosinski", "D Waclawski" ],
+    "year" : "2003",
+    "citations" : "4"
+  }, {
+    "title" : "Modelling ecology and evolution of Foraminifera in the agent-oriented distributed platform",
+    "authors" : [ "P Topa", "Ł Faber", "J Tyszka", "M Komosinski" ],
+    "year" : "2017",
+    "citations" : "3"
+  }, {
+    "title" : "Applications of a similarity measure in the analysis of populations of 3D agents",
+    "authors" : [ "M Komosinski" ],
+    "year" : "2016",
+    "citations" : "3"
+  }, {
+    "title" : "Time-order error and scalar variance in a computational model of human timing: simulations and predictions",
+    "authors" : [ "M Komosinski", "A Kups" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "Automatic species counterpoint composition by means of the dominance relation",
+    "authors" : [ "M Komosinski", "P Szachewicz" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "Multi-agent simulation of benthic foraminifera response to annual variability of feeding fluxes",
+    "authors" : [ "M Komosinski", "A Mensfelt", "J Tyszka", "J Goleń" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "eVolutus: A New Platform for Evolutionary Experiments",
+    "authors" : [ "P Topa", "M Komosinski", "J Tyszka", "A Mensfelt", "S Rokitta", "A Byrski", "..." ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Framsticks manual",
+    "authors" : [ "M Komosinski", "S Ulatowski" ],
+    "year" : "2000",
+    "citations" : "2"
+  }, {
+    "title" : "Genetic algorithms in constructive induction",
+    "authors" : [ "J Jelonek", "M Komosiński" ],
+    "year" : "1999",
+    "citations" : "2"
+  }, {
+    "title" : "Automated Generation of Erotetic Search Scenarios: Classification, Optimization, and Knowledge Extraction",
+    "authors" : [ "S Chlebowski", "M Komosinski", "A Kups" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Multithreaded computing in evolutionary design and in artificial life simulations",
+    "authors" : [ "M Komosinski", "S Ulatowski" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Parallel computing in Framsticks",
+    "authors" : [ "M Komosinski", "S Ulatowski" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Życie w komputerze: symulacja czy rzeczywistość?",
+    "authors" : [ "M Komosiński" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Życie w komputerze: symulacja czy rzeczywistość?",
+    "authors" : [ "M Komosiński" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Emotions Perceived and Emotions Experienced in Response to Computer-Generated Music",
+    "authors" : [ "M Komosinski", "A Mensfelt" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Realizacja modelu skalarnego postrzegania upªywu czasu w sztucznych sieciach neuronowych",
+    "authors" : [ "M Komosinski", "A Kupś" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Life in computer: simulation or reality?",
+    "authors" : [ "M Komosiński" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Artificial Life. Biologically-inspired algorithms",
+    "authors" : [ "M Komosiński" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "ARTIFICIAL LIFE. BIOLOGICALLY-INSPIRED ALGORITHMS (Sztuczne zycie. Algorytmy inspirowane biologicznie)",
+    "authors" : [ "M Komosinski" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Nature-Like World, Creatures and Evolution",
+    "authors" : [ "M Komosiński", "S Ulatowski" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Evolutionary and Self-organising Sensors, Actuators and Processing Hardware-Biologically-Inspired Visual-Motor Coordination Model in a Navigation Problem",
+    "authors" : [ "J Jelonek", "M Komosinski" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Postrzeganie czasu przez człowieka: specyfika, modele i symulacje Human timing: characteristics, models and simulations",
+    "authors" : [ "M Komosinski", "A Kups" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Framsticks: Evolved running, swimming, and ski-jumping",
+    "authors" : [ "M Komosinski", "S Ulatowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Measuring symmetry of moving stick creatures",
+    "authors" : [ "W Jaśkowski", "M Komosinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "1. Czym jest sztuczne życie?",
+    "authors" : [ "M KOMOSIŃSKI" ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 13
+}

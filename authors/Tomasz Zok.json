@@ -1,0 +1,147 @@
+{
+  "name" : "T Zok",
+  "citations" : 226,
+  "tenIndex" : 7,
+  "articles" : [ {
+    "title" : "RNA-Puzzles Round II: assessment of RNA structure prediction programs applied to three large RNA structures",
+    "authors" : [ "Z Miao", "RW Adamiak", "MF Blanchet", "M Boniecki", "JM Bujnicki", "SJ Chen", "..." ],
+    "year" : "2015",
+    "citations" : "65"
+  }, {
+    "title" : "The European Integrated Tokamak Modelling (ITM) effort: achievements and first physics results",
+    "authors" : [ "GL Falchetto", "D Coster", "R Coelho", "BD Scott", "L Figini", "D Kalupin", "E Nardon", "..." ],
+    "year" : "2014",
+    "citations" : "46"
+  }, {
+    "title" : "RNApdbee—a webserver to derive secondary structures from pdb files of knotted and unknotted RNAs",
+    "authors" : [ "M Antczak", "T Zok", "M Popenda", "P Lukasiak", "RW Adamiak", "J Blazewicz", "..." ],
+    "year" : "2014",
+    "citations" : "26"
+  }, {
+    "title" : "MCQ4Structures to compute similarity of molecule structures",
+    "authors" : [ "T Zok", "M Popenda", "M Szachniuk" ],
+    "year" : "2014",
+    "citations" : "18"
+  }, {
+    "title" : "RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme",
+    "authors" : [ "Z Miao", "RW Adamiak", "M Antczak", "RT Batey", "AJ Becka", "M Biesiada", "..." ],
+    "year" : "2017",
+    "citations" : "14"
+  }, {
+    "title" : "Approaches to distributed execution of scientific workflows in kepler",
+    "authors" : [ "M Płóciennik", "T Żok", "I Altintas", "J Wang", "D Crawl", "D Abramson", "F Imbeaux", "..." ],
+    "year" : "2013",
+    "citations" : "12"
+  }, {
+    "title" : "New in silico approach to assessing RNA secondary structures with non-canonical base pairs",
+    "authors" : [ "A Rybarczyk", "N Szostak", "M Antczak", "T Zok", "M Popenda", "R Adamiak", "..." ],
+    "year" : "2015",
+    "citations" : "10"
+  }, {
+    "title" : "New functionality of RNAComposer: application to shape the axis of miR160 precursor structure",
+    "authors" : [ "M Antczak", "M Popenda", "T Zok", "J Sarzynska", "T Ratajczak", "K Tomczyk", "..." ],
+    "year" : "2017",
+    "citations" : "5"
+  }, {
+    "title" : "User-Friendly frameworks for accessing computational resources",
+    "authors" : [ "B Palak", "P Wolniewicz", "M Płóciennik", "M Owsiak", "T Żok" ],
+    "year" : "2012",
+    "citations" : "5"
+  }, {
+    "title" : "First physics applications of the Integrated Tokamak Modelling (ITM-TF) tools to the MHD stability analysis of experimental data and ITER scenarios",
+    "authors" : [ "C Konz", "W Zwingmann", "F Osmanlic", "B Guillerminet", "F Imbeaux", "P Huynh", "..." ],
+    "year" : "2011",
+    "citations" : "5"
+  }, {
+    "title" : "High level tools for fusion simulations workflows in distributed computing environment",
+    "authors" : [ "M Płóciennik", "T Żok", "M Owsiak", "B Palak", "B Guillerminet", "Y Frauel", "..." ],
+    "year" : "2012",
+    "citations" : "4"
+  }, {
+    "title" : "Tools, methods and services enhancing the usage of the Kepler-based scientific workflow framework",
+    "authors" : [ "M Płóciennik", "S Winczewski", "P Ciecieląg", "F Imbeaux", "B Guillerminet", "..." ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "Running simultaneous Kepler sessions for the parallelization of parametric scans and optimization studies applied to complex workflows",
+    "authors" : [ "M Owsiak", "M Plociennik", "B Palak", "T Zok", "C Reux", "L Di Gallo", "D Kalupin", "..." ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Distributed and cloud-based multi-model analytics experiments on large volumes of climate change data in the earth system grid federation eco-system",
+    "authors" : [ "S Fiore", "M Płóciennik", "C Doutriaux", "C Palazzo", "J Boutte", "T Żok", "D Elia", "..." ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Building the library of RNA 3D nucleotide conformations using the clustering approach",
+    "authors" : [ "T Zok", "M Antczak", "M Riedel", "D Nebel", "T Villmann", "P Lukasiak", "J Blazewicz", "..." ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Application Scenarios Using Serpens Suite for Kepler Scientific Workflow System",
+    "authors" : [ "M Płóciennik", "M Owsiak", "T Zok", "B Palak", "A Gómez-Iglesias", "F Castejón", "..." ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Studies of Resistive Wall Mode stability in multi-parametric space using Grid infrastructure",
+    "authors" : [ "D Yadykin", "T Żok", "M Plóciennik", "M Owsiak", "P Strand" ],
+    "year" : "2011",
+    "citations" : "2"
+  }, {
+    "title" : "LCS-TA to identify similar fragments in RNA 3D structures",
+    "authors" : [ "J Wiedemann", "T Zok", "M Milostan", "M Szachniuk" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Workflows orchestration in distributed computing infrastructures",
+    "authors" : [ "M Płóciennik", "T Żok", "A Gómez-Iglesias", "F Castejón", "A Bustos", "..." ],
+    "year" : "2012",
+    "citations" : "1"
+  }, {
+    "title" : "Serpens suite for Kepler workflow orchestration system",
+    "authors" : [ "M Płóciennik", "M Owsiak", "T Zok", "A Gómez-Iglesias", "F Castejón" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "New algorithms to represent complex pseudoknotted RNA structures in dot-bracket notation",
+    "authors" : [ "M Antczak", "M Popenda", "T Zok", "M Zurkowski", "RW Adamiak", "M Szachniuk" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Best Practices in Debugging Kepler Workflows",
+    "authors" : [ "M Owsiak", "M Płóciennik", "B Palak", "T Zok", "O Hoenen" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "EUROfusion Integrated Modelling (EU-IM) capabilities and selected physics applications",
+    "authors" : [ "GL Falchetto", "MI Airila", "AA Morillas", "EA Sundén", "T Aniel", "JF Artaud", "..." ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Clustering approach to create libraries of representative RNA conformers",
+    "authors" : [ "T Zok", "M Antczak", "M Riedel", "D Nebel", "T Villmann", "P Lukasiak", "J Blazewicz", "..." ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Kepler-Based Workflow Environment for Astronomy",
+    "authors" : [ "P Ciecieląg", "M Płóciennik", "P Spyra", "M Urbaniak", "T Żok", "W Pych", "A Hypki" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Flexible approach to astronomical data reduction workflows in Kepler",
+    "authors" : [ "P Ciecieląg", "M Płóciennik", "P Spyra", "M Urbaniak", "T Żok", "W Pych" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Comparison of RNA structures in torsional angle space",
+    "authors" : [ "T Zok", "M Szachniuk", "M Antczak" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Comparison of RNA Structures–Concepts and Measures",
+    "authors" : [ "T Zok", "M Popenda", "M Szachniuk" ],
+    "year" : "2008",
+    "citations" : ""
+  } ],
+  "hindex" : 7
+}

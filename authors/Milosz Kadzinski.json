@@ -1,0 +1,252 @@
+{
+  "name" : "M Kadzinski",
+  "citations" : 834,
+  "tenIndex" : 21,
+  "articles" : [ {
+    "title" : "Extreme ranking analysis in robust ordinal regression",
+    "authors" : [ "M Kadziński", "S Greco", "R Słowiński" ],
+    "year" : "2012",
+    "citations" : "75"
+  }, {
+    "title" : "ELECTRE^GKMS: Robust ordinal regression for outranking methods",
+    "authors" : [ "S Greco", "M Kadziński", "V Mousseau", "R Słowiński" ],
+    "year" : "2011",
+    "citations" : "73"
+  }, {
+    "title" : "Selection of a representative value function in robust multiple criteria sorting",
+    "authors" : [ "S Greco", "M Kadziński", "R Słowiński" ],
+    "year" : "2011",
+    "citations" : "64"
+  }, {
+    "title" : "Robust ordinal regression for multiple criteria group decision: UTA^GMS-GROUP and UTADIS^GMS-GROUP",
+    "authors" : [ "S Greco", "M Kadziński", "V Mousseau", "R Słowiński" ],
+    "year" : "2012",
+    "citations" : "60"
+  }, {
+    "title" : "Selection of a representative value function in robust multiple criteria ranking and choice",
+    "authors" : [ "M Kadziński", "S Greco", "R Słowiński" ],
+    "year" : "2012",
+    "citations" : "58"
+  }, {
+    "title" : "Robust ordinal regression in preference learning and ranking",
+    "authors" : [ "S Corrente", "S Greco", "M Kadziński", "R Słowiński" ],
+    "year" : "2013",
+    "citations" : "57"
+  }, {
+    "title" : "Robust multi-criteria ranking with additive value models and holistic pair-wise preference statements",
+    "authors" : [ "M Kadziński", "T Tervonen" ],
+    "year" : "2013",
+    "citations" : "55"
+  }, {
+    "title" : "Stochastic ordinal regression for multiple criteria sorting problems",
+    "authors" : [ "M Kadziński", "T Tervonen" ],
+    "year" : "2013",
+    "citations" : "49"
+  }, {
+    "title" : "Selection of a representative value function for robust ordinal regression in group decision making",
+    "authors" : [ "M Kadziński", "S Greco", "R Słowiński" ],
+    "year" : "2013",
+    "citations" : "39"
+  }, {
+    "title" : "RUTA: a framework for assessing and selecting additive value functions on the basis of rank related requirements",
+    "authors" : [ "M Kadziński", "S Greco", "R Słowiński" ],
+    "year" : "2013",
+    "citations" : "36"
+  }, {
+    "title" : "Robust ordinal regression for dominance-based rough set approach to multiple criteria sorting",
+    "authors" : [ "M Kadziński", "S Greco", "R Słowiński" ],
+    "year" : "2014",
+    "citations" : "26"
+  }, {
+    "title" : "Robust multi-criteria sorting with the outranking preference model and characteristic profiles",
+    "authors" : [ "M Kadziński", "T Tervonen", "JR Figueira" ],
+    "year" : "2015",
+    "citations" : "23"
+  }, {
+    "title" : "Modeling assignment-based pairwise comparisons within integrated framework for value-driven multiple criteria sorting",
+    "authors" : [ "M Kadziński", "K Ciomek", "R Słowiński" ],
+    "year" : "2015",
+    "citations" : "21"
+  }, {
+    "title" : "DIS-CARD: a new method of multiple criteria sorting to classes with desired cardinality",
+    "authors" : [ "M Kadziński", "R Słowiński" ],
+    "year" : "2013",
+    "citations" : "20"
+  }, {
+    "title" : "Robust ordinal regression",
+    "authors" : [ "S Corrente", "S Greco", "M Kadziński", "R Słowiński" ],
+    "year" : "2014",
+    "citations" : "16"
+  }, {
+    "title" : "Selection of a representative set of parameters for robust ordinal regression outranking methods",
+    "authors" : [ "M Kadziński", "S Greco", "R Słowiński" ],
+    "year" : "2012",
+    "citations" : "16"
+  }, {
+    "title" : "Multiple criteria ranking and choice with all compatible minimal cover sets of decision rules",
+    "authors" : [ "M Kadziński", "R Słowiński", "S Greco" ],
+    "year" : "2015",
+    "citations" : "15"
+  }, {
+    "title" : "Preferential reducts and constructs in robust multiple criteria ranking and sorting",
+    "authors" : [ "M Kadziński", "S Corrente", "S Greco", "R Słowiński" ],
+    "year" : "2014",
+    "citations" : "14"
+  }, {
+    "title" : "Interactive robust cone contraction method for multiple objective optimization problems",
+    "authors" : [ "M Kadziński", "R Słowiński" ],
+    "year" : "2012",
+    "citations" : "14"
+  }, {
+    "title" : "Parametric evaluation of research units with respect to reference profiles",
+    "authors" : [ "M Kadziński", "R Słowiński" ],
+    "year" : "2015",
+    "citations" : "13"
+  }, {
+    "title" : "Application of a novel PROMETHEE-based method for construction of a group compromise ranking to prioritization of green suppliers in food supply chain",
+    "authors" : [ "K Govindan", "M Kadziński", "R Sivakumar" ],
+    "year" : "2017",
+    "citations" : "11"
+  }, {
+    "title" : "Integrated framework for preference modeling and robustness analysis for outranking-based multiple criteria sorting with ELECTRE and PROMETHEE",
+    "authors" : [ "M Kadziński", "K Ciomek" ],
+    "year" : "2016",
+    "citations" : "9"
+  }, {
+    "title" : "Heuristics for prioritizing pair-wise elicitation questions with additive multi-attribute value models",
+    "authors" : [ "K Ciomek", "M Kadziński", "T Tervonen" ],
+    "year" : "2017",
+    "citations" : "8"
+  }, {
+    "title" : "A multi-criteria inference approach for anti-desertification management",
+    "authors" : [ "T Tervonen", "A Sepehr", "M Kadziński" ],
+    "year" : "2015",
+    "citations" : "8"
+  }, {
+    "title" : "Post factum analysis for robust multiple criteria ranking and sorting",
+    "authors" : [ "M Kadziński", "K Ciomek", "P Rychły", "R Słowiński" ],
+    "year" : "2016",
+    "citations" : "7"
+  }, {
+    "title" : "Scoring procedures for multiple criteria decision aiding with robust and stochastic ordinal regression",
+    "authors" : [ "M Kadziński", "M Michalski" ],
+    "year" : "2016",
+    "citations" : "6"
+  }, {
+    "title" : "Robustness analysis for decision under uncertainty with rule-based preference model",
+    "authors" : [ "M Kadziński", "R Słowiński", "S Greco" ],
+    "year" : "2016",
+    "citations" : "6"
+  }, {
+    "title" : "Robust ordinal regression for dominance-based rough set approach under uncertainty",
+    "authors" : [ "R Słowiński", "M Kadziński", "S Greco" ],
+    "year" : "2014",
+    "citations" : "5"
+  }, {
+    "title" : "Evaluation of multi-objective optimization approaches for solving green supply chain design problems",
+    "authors" : [ "M Kadziński", "T Tervonen", "MK Tomczyk", "R Dekker" ],
+    "year" : "2017",
+    "citations" : "4"
+  }, {
+    "title" : "Integrated framework for robustness analysis using ratio-based efficiency model with application to evaluation of Polish airports",
+    "authors" : [ "M Kadziński", "A Labijak", "M Napieraj" ],
+    "year" : "2017",
+    "citations" : "4"
+  }, {
+    "title" : "Co-constructive development of a green chemistry-based model for the assessment of nanoparticles synthesis",
+    "authors" : [ "M Kadziński", "M Cinelli", "K Ciomek", "SR Coles", "MN Nadagouda", "RS Varma", "..." ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "Learning the preferences of physicians for the organization of result lists of medical evidence articles.",
+    "authors" : [ "D O'Sullivan", "S Wilk", "W Michalowski", "R Słowiński", "R Thomas", "M Kadziński", "..." ],
+    "year" : "2014",
+    "citations" : "4"
+  }, {
+    "title" : "Interactive evolutionary multiple objective optimization for group decision incorporating value-based preference disaggregation methods",
+    "authors" : [ "M Kadziński", "MK Tomczyk" ],
+    "year" : "2017",
+    "citations" : "3"
+  }, {
+    "title" : "Expressiveness and robustness measures for the evaluation of an additive value function in multiple criteria preference disaggregation methods: An experimental an...",
+    "authors" : [ "M Kadziński", "M Ghaderi", "J Wąsikowski", "N Agell" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Heuristics for selecting pair-wise elicitation questions in multiple criteria choice problems",
+    "authors" : [ "K Ciomek", "M Kadziński", "T Tervonen" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Inducing probability distributions on the set of value functions by Subjective Stochastic Ordinal Regression",
+    "authors" : [ "S Corrente", "S Greco", "M Kadziński", "R Słowiński" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Dominance-based rough set approach to multiple criteria ranking with sorting-specific preference information",
+    "authors" : [ "M Kadziński", "R Słowiński", "M Szeląg" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Using ordinal regression for interactive evolutionary multiple objective optimization with multiple decision makers",
+    "authors" : [ "M Kadziński", "M Tomczyk" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "New Directions in Robustness Analysis and Preference Modeling in Multiple Criteria Decision Aiding: Doctoral Dissertation",
+    "authors" : [ "M Kadziński" ],
+    "year" : "2012",
+    "citations" : "1"
+  }, {
+    "title" : "Embedding carbon impact assessment in multi-criteria supplier segmentation using ELECTRE TRI-rC",
+    "authors" : [ "J Rezaei", "M Kadziński", "C Vana", "L Tavasszy" ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "Feature cluster: Learning perspectives in Multiple Criteria Decision Analysis",
+    "authors" : [ "S Greco", "M Kadziński" ],
+    "year" : "2018",
+    "citations" : ""
+  }, {
+    "title" : "Interactive Cone Contraction for Evolutionary Mutliple Objective Optimization",
+    "authors" : [ "M Kadziński", "MK Tomczyk", "R Słowiński" ],
+    "year" : "2018",
+    "citations" : ""
+  }, {
+    "title" : "Predictive analytics and disused railways requalification: Insights from a Post Factum Analysis perspective",
+    "authors" : [ "K Ciomek", "V Ferretti", "M Kadziński" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Optimization of multiple satisfaction levels in portfolio decision analysis",
+    "authors" : [ "M Barbati", "S Greco", "M Kadziński", "R Słowiński" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Preference-Driven Multiobjective Optimization Using Robust Ordinal Regression for Cone Contraction",
+    "authors" : [ "M Kadziński", "R Słowiński" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Nowe Kierunki w Analizie Odporności oraz Modelowaniu Preferencji w Wielokryterialnym Wspomaganiu Decyzji",
+    "authors" : [ "M Kadziński" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Multiple Criteria Assessment of Insulating Materials with a Group Decision Framework Incorporating Outranking Preference Model and Characteristic Class Profiles",
+    "authors" : [ "M Kadziński", "L Rocchi", "G Miebs", "D Grohmann", "ME Menconi", "L Paolotti" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Modeling Behavior-Realistic Artificial Decision-Makers to Test Preference-Based Multiple Objective Optimization Methods",
+    "authors" : [ "J Branke", "S Corrente", "S Greco", "M Kadziński", "M López-Ibáñez", "..." ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "4 Working Groups (WGs) 4.1 Modeling Behavior-Realistic Artificial Decision-Makers to Test Preference-Based Multiple Objective Optimization Methods (WG1)",
+    "authors" : [ "J Branke", "S Corrente", "S Greco", "M Kadziński", "M López-Ibáñez", "..." ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 16
+}

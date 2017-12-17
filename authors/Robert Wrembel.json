@@ -1,0 +1,407 @@
+{
+  "name" : "R Wrembel",
+  "citations" : 1009,
+  "tenIndex" : 24,
+  "articles" : [ {
+    "title" : "Creation and management of versions in multiversion data warehouse",
+    "authors" : [ "B Bȩbel", "J Eder", "C Koncilia", "T Morzy", "R Wrembel" ],
+    "year" : "2004",
+    "citations" : "136"
+  }, {
+    "title" : "Data warehouses and OLAP: concepts, architectures, and solutions",
+    "authors" : [ "R Wrembel", "C Koncilia" ],
+    "year" : "2007",
+    "citations" : "112"
+  }, {
+    "title" : "On querying versions of multiversion data warehouse",
+    "authors" : [ "T Morzy", "R Wrembel" ],
+    "year" : "2004",
+    "citations" : "105"
+  }, {
+    "title" : "RLH: Bitmap compression technique based on run-length and Huffman encoding",
+    "authors" : [ "M Stabno", "R Wrembel" ],
+    "year" : "2009",
+    "citations" : "62"
+  }, {
+    "title" : "Metadata management in a multiversion data warehouse",
+    "authors" : [ "R Wrembel", "B Bębel" ],
+    "year" : "2007",
+    "citations" : "43"
+  }, {
+    "title" : "New Trends in Data Warehousing and Data Analysis",
+    "authors" : [ "S Kozielski", "R Wrembel" ],
+    "year" : "2008",
+    "citations" : "34"
+  }, {
+    "title" : "Modeling a Multiversion Data Warehouse: A Formal Approach.",
+    "authors" : [ "T Morzy", "R Wrembel" ],
+    "year" : "2003",
+    "citations" : "32"
+  }, {
+    "title" : "GPU-WAH: Applying GPUs to compressing bitmap indexes with word aligned hybrid",
+    "authors" : [ "W Andrzejewski", "R Wrembel" ],
+    "year" : "2010",
+    "citations" : "27"
+  }, {
+    "title" : "A survey of managing the evolution of data warehouses",
+    "authors" : [ "R Wrembel" ],
+    "year" : "2009",
+    "citations" : "26"
+  }, {
+    "title" : "Metadata management in a multiversion data warehouse",
+    "authors" : [ "R Wrembel", "B Bębel" ],
+    "year" : "2005",
+    "citations" : "26"
+  }, {
+    "title" : "Formal approach to modelling a multiversion data warehouse",
+    "authors" : [ "B Bebel", "Z Krolikowski", "R Wrembel" ],
+    "year" : "2006",
+    "citations" : "25"
+  }, {
+    "title" : "On-demand ELT architecture for right-time BI: extending the vision",
+    "authors" : [ "F Waas", "R Wrembel", "T Freudenreich", "M Thiele", "C Koncilia", "P Furtado" ],
+    "year" : "2013",
+    "citations" : "22"
+  }, {
+    "title" : "Managing and querying versions of multiversion data warehouse",
+    "authors" : [ "R Wrembel", "T Morzy" ],
+    "year" : "2006",
+    "citations" : "19"
+  }, {
+    "title" : "OLAP-Like Analysis of Time Point-Based Sequential Data.",
+    "authors" : [ "B Bebel", "M Morzy", "T Morzy", "Z Królikowski", "R Wrembel" ],
+    "year" : "2012",
+    "citations" : "16"
+  }, {
+    "title" : "Multiversion data warehouses: Challenges and solutions",
+    "authors" : [ "R Wrembel", "T Morzy" ],
+    "year" : "2005",
+    "citations" : "16"
+  }, {
+    "title" : "HOBI: Hierarchically Organized Bitmap Index for Indexing Dimensional Data.",
+    "authors" : [ "J Chmiel", "T Morzy", "R Wrembel" ],
+    "year" : "2009",
+    "citations" : "13"
+  }, {
+    "title" : "Multiversion join index for multiversion data warehouse",
+    "authors" : [ "J Chmiel", "T Morzy", "R Wrembel" ],
+    "year" : "2009",
+    "citations" : "13"
+  }, {
+    "title" : "On handling the evolution of external data sources in a data warehouse architecture",
+    "authors" : [ "R Wrembel" ],
+    "year" : "2011",
+    "citations" : "12"
+  }, {
+    "title" : "Time-HOBI: indexing dimension hierarchies by means of hierarchically organized bitmaps",
+    "authors" : [ "J Chmiel", "T Morzy", "R Wrembel" ],
+    "year" : "2010",
+    "citations" : "12"
+  }, {
+    "title" : "Oracle. Projektowanie rozproszonych baz danych",
+    "authors" : [ "R Wrembel", "B Bębel" ],
+    "year" : "2003",
+    "citations" : "12"
+  }, {
+    "title" : "Object-oriented views: Virtues and limitations",
+    "authors" : [ "R Wrembel" ],
+    "year" : "1998",
+    "citations" : "12"
+  }, {
+    "title" : "The Modern Invention of Information: Discourse",
+    "authors" : [ "R Day" ],
+    "year" : "2008",
+    "citations" : "11"
+  }, {
+    "title" : "On materialising object-oriented views",
+    "authors" : [ "R Wrembel" ],
+    "year" : "2001",
+    "citations" : "11"
+  }, {
+    "title" : "GPU-PLWAH: GPU-based implementation of the PLWAH algorithm for compressing bitmaps",
+    "authors" : [ "W Andrzejewski", "R Wrembel" ],
+    "year" : "2011",
+    "citations" : "10"
+  }, {
+    "title" : "Interval OLAP: analyzing interval data",
+    "authors" : [ "C Koncilia", "T Morzy", "R Wrembel", "J Eder" ],
+    "year" : "2014",
+    "citations" : "9"
+  }, {
+    "title" : "The framework for detecting and propagating changes from data sources structure into a data wareshouse",
+    "authors" : [ "R Wrembel", "B Bębel", "Z Królikowski" ],
+    "year" : "2005",
+    "citations" : "8"
+  }, {
+    "title" : "The Construction and Maintenance of Materialised Object-Oriented Views in Data Warehousing Systems.",
+    "authors" : [ "R Wrembel" ],
+    "year" : "2000",
+    "citations" : "8"
+  }, {
+    "title" : "Managing Multiple Real and Simulation Business Scenarios by Means of a Multiversion Data Warehouse.",
+    "authors" : [ "B Bebel", "Z Królikowski", "R Wrembel" ],
+    "year" : "2006",
+    "citations" : "7"
+  }, {
+    "title" : "Designing storage structures for management of materialised methods in object-oriented databases",
+    "authors" : [ "J Jezierski", "M Masewicz", "R Wrembel", "B Czejdo" ],
+    "year" : "2003",
+    "citations" : "7"
+  }, {
+    "title" : "On a Formal Model of an Object-Oriented Database with Views Supporting Data Materialisation.",
+    "authors" : [ "R Wrembel" ],
+    "year" : "1999",
+    "citations" : "7"
+  }, {
+    "title" : "Prototype system for method materialisation and maintenance in object-oriented databases",
+    "authors" : [ "J Jezierski", "M Masewicz", "R Wrembel" ],
+    "year" : "2004",
+    "citations" : "6"
+  }, {
+    "title" : "Hierarchical materialisation of methods in object-oriented views: design, maintenance, and experimental evaluation",
+    "authors" : [ "B Bębel", "R Wrembel" ],
+    "year" : "2001",
+    "citations" : "6"
+  }, {
+    "title" : "Design of a data warehouse over object-oriented and dynamically evolving data sources",
+    "authors" : [ "B Czejdo", "J Eder", "T Morzy", "R Wrembel" ],
+    "year" : "2001",
+    "citations" : "6"
+  }, {
+    "title" : "Magazyny danych–stan obecny i kierunki rozwoju",
+    "authors" : [ "R Wrembel", "Z Królikowski", "M Morzy" ],
+    "year" : "2000",
+    "citations" : "6"
+  }, {
+    "title" : "Designing an Object-Relational Data Warehousing System: Project ORDAWA.",
+    "authors" : [ "J Eder", "H Frank", "T Morzy", "R Wrembel", "M Zakrzewicz" ],
+    "year" : "2000",
+    "citations" : "6"
+  }, {
+    "title" : "Deriving consistent view schemas in an object-oriented database",
+    "authors" : [ "R Wrembel" ],
+    "year" : "1999",
+    "citations" : "6"
+  }, {
+    "title" : "Management of schema versions and versions of schema instance in a multiversion database",
+    "authors" : [ "MJ Bellosta", "R Wrembel", "G Jomier" ],
+    "year" : "1996",
+    "citations" : "6"
+  }, {
+    "title" : "Temporal DataWarehouses: Logical Models and Querying.",
+    "authors" : [ "W Ahmed", "E Zimányi", "R Wrembel" ],
+    "year" : "2015",
+    "citations" : "5"
+  }, {
+    "title" : "Requirements Engineering for Data Warehouses.",
+    "authors" : [ "A Nasiri", "E Zimányi", "R Wrembel" ],
+    "year" : "2015",
+    "citations" : "5"
+  }, {
+    "title" : "An On-Demand ELT Architecture for Real-Time BI",
+    "authors" : [ "T Freudenreich", "P Furtado", "C Koncilia", "M Thiele", "F Waas", "R Wrembel" ],
+    "year" : "2012",
+    "citations" : "5"
+  }, {
+    "title" : "RTDW-bench: Benchmark for testing refreshing performance of real-time data warehouse",
+    "authors" : [ "J Jedrzejczak", "T Koszlajda", "R Wrembel" ],
+    "year" : "2012",
+    "citations" : "5"
+  }, {
+    "title" : "Management of schema and data evolution in multiversion data warehouse",
+    "authors" : [ "R Wrembel" ],
+    "year" : "2007",
+    "citations" : "5"
+  }, {
+    "title" : "Managing evolution of data warehouses by means of nested transactions",
+    "authors" : [ "B Bebel", "Z Królikowski", "R Wrembel" ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "Hierarchical materialisation of method results in object-oriented views",
+    "authors" : [ "T Morzy", "R Wrembel", "T Koszlajda" ],
+    "year" : "2000",
+    "citations" : "5"
+  }, {
+    "title" : "Towards intelligent data analysis: the metadata challenge",
+    "authors" : [ "B Bilalli", "A Abelló", "T Aluja-Banet", "R Wrembel" ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "Formal model of time point-based sequential data for OLAP-like analysis",
+    "authors" : [ "B Bębel", "T Morzy", "Z Królikowski", "R Wrembel" ],
+    "year" : "2014",
+    "citations" : "4"
+  }, {
+    "title" : "Special Issue on: Evolution and Versioning in Semantic Data Integration Systems",
+    "authors" : [ "L Bellatreche", "R Wrembel" ],
+    "year" : "2013",
+    "citations" : "4"
+  }, {
+    "title" : "Data warehouse performance: selected techniques and data structures",
+    "authors" : [ "R Wrembel" ],
+    "year" : "2012",
+    "citations" : "4"
+  }, {
+    "title" : "Guest Editors' Introduction",
+    "authors" : [ "M Gorawski", "T Morzy", "R Wrembel" ],
+    "year" : "2009",
+    "citations" : "4"
+  }, {
+    "title" : "Towards a Hybrid Imputation Approach Using Web Tables",
+    "authors" : [ "A Ahmadov", "M Thiele", "J Eberius", "W Lehner", "R Wrembel" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "Model-Based Requirements Engineering for Data Warehouses: From Multidimensional Modelling to KPI Monitoring",
+    "authors" : [ "A Nasiri", "R Wrembel", "E Zimányi" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "A logical model for multiversion data warehouses",
+    "authors" : [ "W Ahmed", "E Zimányi", "R Wrembel" ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "Storing and sharing versions of data in multiversion data warehouse: implementation and experimental evaluation",
+    "authors" : [ "J Chmiel", "R Wrembel" ],
+    "year" : "2007",
+    "citations" : "3"
+  }, {
+    "title" : "On optimising data access via materialised methods in object-oriented systems",
+    "authors" : [ "J Jezierski", "M Masewicz", "R Wrembel" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "Designing and implementing an object-relational data warehousing system",
+    "authors" : [ "B Czejdo", "J Eder", "T Morzy", "R Wrembel" ],
+    "year" : "2002",
+    "citations" : "3"
+  }, {
+    "title" : "System zarza̜dzania baza̜ danych Oracle 7 i Oracle 8",
+    "authors" : [ "R Wrembel", "J Jezierski", "M Zakrzewicz" ],
+    "year" : "1999",
+    "citations" : "3"
+  }, {
+    "title" : "Sequential data analytics by means of Seq-SQL language",
+    "authors" : [ "B Bebel", "T Cichowicz", "T Morzy", "F Rytwiński", "R Wrembel", "C Koncilia" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Advances in databases and information systems",
+    "authors" : [ "T Morzy", "T Härder", "R Wrembel" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Time–HOBI: Index for optimizing star queries",
+    "authors" : [ "T Morzy", "R Wrembel", "J Chmiel", "A Wojciechowski" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Research Problems of the ETL Technology",
+    "authors" : [ "A Wojciechowski", "R Wrembel" ],
+    "year" : "2010",
+    "citations" : "2"
+  }, {
+    "title" : "New Trends in Data Warehousing and Data Analysis",
+    "authors" : [ "Wrembel" ],
+    "year" : "2009",
+    "citations" : "2"
+  }, {
+    "title" : "Optimising Performance of Object-Oriented and Object-Relational Systems by Dynamic Method Materialization.",
+    "authors" : [ "M Masewicz", "R Wrembel", "J Jezierski" ],
+    "year" : "2005",
+    "citations" : "2"
+  }, {
+    "title" : "Transaction Concepts for Supporting Changes in Data Warehouses.",
+    "authors" : [ "B Bebel", "Z Królikowski", "T Morzy", "R Wrembel" ],
+    "year" : "2004",
+    "citations" : "2"
+  }, {
+    "title" : "Data Warehousing",
+    "authors" : [ "R Lang" ],
+    "year" : "2000",
+    "citations" : "2"
+  }, {
+    "title" : "Perspektywy (views) w systemach baz danych: aktualny stan technologii",
+    "authors" : [ "R Wrembel" ],
+    "year" : "2000",
+    "citations" : "2"
+  }, {
+    "title" : "Projektowanie aplikacji bazy danych Oracle",
+    "authors" : [ "R Wrembel", "W Wieczerzycki" ],
+    "year" : "1997",
+    "citations" : "2"
+  }, {
+    "title" : "Modelowanie danych",
+    "authors" : [ "R Wrembel" ],
+    "year" : "",
+    "citations" : "2"
+  }, {
+    "title" : "On Representing Interval Measures by Means of Functions",
+    "authors" : [ "G Bakkalian", "C Koncilia", "R Wrembel" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Automated data pre-processing via meta-learning",
+    "authors" : [ "B Bilalli", "A Abelló", "T Aluja-Banet", "R Wrembel" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "A generic data warehouse architecture for analyzing workflow logs",
+    "authors" : [ "C Koncilia", "H Pichler", "R Wrembel" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Modelling Data Warehouses with Multiversion and Temporal Functionality",
+    "authors" : [ "W Ahmed", "E Zimányi", "R Wrembel" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Computer Science and Its Applications",
+    "authors" : [ "A Amine", "L Bellatreche", "Z Elberrichi", "EJ Neuhold", "R Wrembel" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Social Network Analysis on Highly Aggregated Data: What Can We Find?",
+    "authors" : [ "M Morzy", "K Forenc" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Advances in Databases and Information Systems",
+    "authors" : [ "B Catania", "G Guerrini", "J Pokorn" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "On Querying Data and Metadata in Multiversion Data Warehouse",
+    "authors" : [ "W Leja", "R Wrembel", "R Ziembicki" ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "Predicting access to materialized methods by means of hidden Markov model.",
+    "authors" : [ "M Masewicz", "W Andrzejewski", "R Wrembel", "Z Królikowski" ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "Advanced ad hoc star query processing",
+    "authors" : [ "N Karayannidis", "A Tsois", "T Sellis" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Dynamic method materialization: A framework for optimizing data access via methods",
+    "authors" : [ "R Wrembel", "M Masewicz", "K Jankiewicz" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Pmap: Framework to predicting method access patterns for materialized methods",
+    "authors" : [ "M Masewicz", "R Wrembel", "M Stabno", "R Staniszewski" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Hurtownie danych oparte o Oracle9i/10g–przegląd funkcjonalności",
+    "authors" : [ "R Wrembel" ],
+    "year" : "2004",
+    "citations" : "1"
+  } ],
+  "hindex" : 15
+}
