@@ -1,13 +1,15 @@
 from pymongo import MongoClient
 from operator import itemgetter
 import matplotlib.pyplot as plt
+import numpy as np
 
 
 def draw_plot(collection, title, file_name, count):
     fig = plt.figure()
     ax = fig.add_subplot(111)
 
-    collection = collection[-count:]
+    if count != 0:
+        collection = collection[-count:]
 
     authors_labels, ys, xs = [], [], []
     index = 0
@@ -24,18 +26,63 @@ def draw_plot(collection, title, file_name, count):
     fig.savefig(file_name)
 
 
-client = MongoClient()
-db = client['INS']
-authors_collection = db['authors']
+def collaborators_by_decade(decade):
+    client = MongoClient()
+    db = client['INS']
+    authors_collection = db['authors']
 
-authors_internal_dict = dict()
-authors_external_dict = dict()
-for document in authors_collection.find():
-    authors_internal_dict[document['name']] = len(document['internal_collaborators'])
-    authors_external_dict[document['name']] = len(document['external_collaborators'])
+    exceptions = ['...']
+    authors_in_institute = []
+    authors_collaboration = dict()
 
-authors_internal_dict = sorted(authors_internal_dict.items(), key=itemgetter(1))
-authors_external_dict = sorted(authors_external_dict.items(), key=itemgetter(1))
+    for document in authors_collection.find():
+        authors_in_institute.append(document['name'])
 
-draw_plot(authors_internal_dict, 'Internal collaborators', 'internal_collaborators.png', 5)
-draw_plot(authors_external_dict, 'External collaborators', 'external_collaborators.png', 5)
+    for document in authors_collection.find():
+        cooperating_authors = []
+        for article in document['articles']:
+            if article['year'] != '':
+                if int(article['year']) in range(decade+1, decade + 10):
+                    for author in article['authors']:
+                        cooperating_authors.append(author.lstrip())
+
+        cooperating_authors = np.unique(cooperating_authors).tolist()
+
+        for exception in exceptions:
+            if exception in cooperating_authors:
+                cooperating_authors.remove(exception)
+
+        if document['name'] in cooperating_authors:
+            cooperating_authors.remove(document['name'])
+
+        cooperating_internal_authors = []
+        cooperating_external_authors = []
+        for author in cooperating_authors:
+            if author in authors_in_institute:
+                cooperating_internal_authors.append(author)
+            else:
+                cooperating_external_authors.append(author)
+
+        authors_collaboration[document['name']] = {'internal': len(cooperating_internal_authors),
+                                                   'external': len(cooperating_external_authors)}
+
+    return authors_collaboration
+
+
+def most_collaborators(decade, count):
+    authors_internal_dict = dict()
+    authors_external_dict = dict()
+    for key, value in collaborators_by_decade(decade).items():
+        authors_internal_dict[key] = value['internal']
+        authors_external_dict[key] = value['external']
+
+    authors_internal_dict = sorted(authors_internal_dict.items(), key=itemgetter(1))
+    authors_external_dict = sorted(authors_external_dict.items(), key=itemgetter(1))
+
+    draw_plot(authors_internal_dict, 'Internal collaborators in ' + str(decade),
+              'internal_collaborators_' + str(decade) + '.png', count)
+    draw_plot(authors_external_dict, 'External collaborators in ' + str(decade),
+              'external_collaborators_' + str(decade) + '.png', count)
+
+
+most_collaborators(2000, 0)
