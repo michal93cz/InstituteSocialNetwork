@@ -1,0 +1,408 @@
+{
+  "name" : "J Brzezinski",
+  "fullName" : "Jerzy Brzeziński",
+  "citations" : 393,
+  "tenIndex" : 10,
+  "articles" : [ {
+    "title" : "Deadlock models and a general algorithm for distributed deadlock detection",
+    "authors" : [ "J Helary", "M Raynal", "M Singhal" ],
+    "year" : "1995",
+    "citations" : "64"
+  }, {
+    "title" : "From Session Causality to Causal Consistency.",
+    "authors" : [ "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2004",
+    "citations" : "32"
+  }, {
+    "title" : "Time-stamp approach to store-and-forward deadlock prevention",
+    "authors" : [ "J Blazewicz", "G Gambosi" ],
+    "year" : "1987",
+    "citations" : "32"
+  }, {
+    "title" : "Characterization of consistent global checkpoints in large-scale distributed systems",
+    "authors" : [ "R Baldoni", "J Helary", "A Mostefaoui", "M Raynal" ],
+    "year" : "1995",
+    "citations" : "18"
+  }, {
+    "title" : "Self-stabilization in distributed systems-a short survey",
+    "authors" : [ "M Szychowiak", "D Wawrzyniak" ],
+    "year" : "2000",
+    "citations" : "15"
+  }, {
+    "title" : "Session guarantees to achieve PRAM consistency of replicated shared objects",
+    "authors" : [ "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2003",
+    "citations" : "14"
+  }, {
+    "title" : "D-reserve: Distributed reliable service environment",
+    "authors" : [ "A Danilecki", "M Holenko", "A Kobusinska", "J Kobusinski" ],
+    "year" : "2012",
+    "citations" : "13"
+  }, {
+    "title" : "Safety of a server-based version vector protocol implementing session guarantees",
+    "authors" : [ "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2005",
+    "citations" : "11"
+  }, {
+    "title" : "Optimal centralized algorithms for store-and-forward deadlock avoidance",
+    "authors" : [ "J Blazewicz", "D Bovet", "G Gambosi", "M Talamo" ],
+    "year" : "1994",
+    "citations" : "11"
+  }, {
+    "title" : "Termination detection in a very general distributed computing model",
+    "authors" : [ "J Helary", "M Raynal" ],
+    "year" : "1993",
+    "citations" : "10"
+  }, {
+    "title" : "Healthcare integration platform",
+    "authors" : [ "S Czajka", "J Kobusinski", "M Piernik" ],
+    "year" : "2011",
+    "citations" : "9"
+  }, {
+    "title" : "Semantics of recovery lines for backward recovery in distributed systems",
+    "authors" : [ "J BrzeziNski", "J Helary", "M Raynal" ],
+    "year" : "1995",
+    "citations" : "9"
+  }, {
+    "title" : "Distributed termination detection: General model and algorithms",
+    "authors" : [ "J Helary", "M Raynal" ],
+    "year" : "1993",
+    "citations" : "8"
+  }, {
+    "title" : "ROSWeL workflow language: A declarative, resource-oriented approach",
+    "authors" : [ "A Danilecki", "J Flotynski", "A Kobusinska", "A Stroinski" ],
+    "year" : "2012",
+    "citations" : "7"
+  }, {
+    "title" : "Checkpointing and rollback-recovery protocol for mobile systems with MW session guarantee",
+    "authors" : [ "A Kobusinska", "M Szychowiak" ],
+    "year" : "2006",
+    "citations" : "6"
+  }, {
+    "title" : "Session guarantees to achieve PRAM consistency of replicated shared objects",
+    "authors" : [ "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2003",
+    "citations" : "6"
+  }, {
+    "title" : "Reliable Services for Distributed Environment",
+    "authors" : [ "A Kobusinska", "J Kobusinski" ],
+    "year" : "2000",
+    "citations" : "6"
+  }, {
+    "title" : "RESTful Web Service Mining: simple algorithm supporting resource-oriented systems",
+    "authors" : [ "A Stroinski", "D Dwornikowski" ],
+    "year" : "2014",
+    "citations" : "5"
+  }, {
+    "title" : "Resource mining: Applying process mining to resource-oriented systems",
+    "authors" : [ "A Stroinski", "D Dwornikowski" ],
+    "year" : "2014",
+    "citations" : "5"
+  }, {
+    "title" : "Workflow engine supporting RESTful web services",
+    "authors" : [ "A Danilecki", "J Flotynski", "A Kobusinska", "A Stroinski" ],
+    "year" : "2011",
+    "citations" : "5"
+  }, {
+    "title" : "FADE: RESTful service for failure detection in SOA environment",
+    "authors" : [ "D Dwornikowski", "J Kobusinski" ],
+    "year" : "2011",
+    "citations" : "5"
+  }, {
+    "title" : "Ontology Scripting Language to Represent and Interpret Conglomerates of IoT Devices Accessed by SOA Services",
+    "authors" : [ "J Rykowski", "P Hanicki", "M Stawniak", "S Ambroszkiewicz" ],
+    "year" : "2010",
+    "citations" : "5"
+  }, {
+    "title" : "Replication of Checkpoints in Recoverable DSM Systems",
+    "authors" : [ "M Szychowiak" ],
+    "year" : "2003",
+    "citations" : "5"
+  }, {
+    "title" : "On time constraints of reliable broadcast protocols for ad hoc networks with the liveness property",
+    "authors" : [ "M Kalewski", "D Wawrzyniak" ],
+    "year" : "2011",
+    "citations" : "4"
+  }, {
+    "title" : "A short survey of basic algorithmic problems in distributed ad hoc systems",
+    "authors" : [ "M Kalewski", "M Libuda" ],
+    "year" : "2006",
+    "citations" : "4"
+  }, {
+    "title" : "An extended coherence protocol for recoverable dsm systems with causal consistency",
+    "authors" : [ "M Szychowiak" ],
+    "year" : "2004",
+    "citations" : "4"
+  }, {
+    "title" : "Consistency requirements of distributed shared memory for Dijkstra's mutual exclusion algorithm",
+    "authors" : [ "D Wawrzyniak" ],
+    "year" : "2000",
+    "citations" : "4"
+  }, {
+    "title" : "Deadlocks in distributed systems: request models and definitions",
+    "authors" : [ "J Helary", "M Raynal" ],
+    "year" : "1995",
+    "citations" : "4"
+  }, {
+    "title" : "Time-stamp approach to prevention of different deadlock types in store-and-forward networks",
+    "authors" : [ "J Blazewicz", "G Gambosi" ],
+    "year" : "1987",
+    "citations" : "4"
+  }, {
+    "title" : "Protoidealizacyjny model procesu badawczego. Próba konkretyzacji",
+    "authors" : [ ],
+    "year" : "1982",
+    "citations" : "4"
+  }, {
+    "title" : "Dependability infrastructure for SOA applications",
+    "authors" : [ "D Dwornikowski", "A Kobusinska", "J Kobusinski", "M Sajkowski" ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "Selected aspects of management in SOA",
+    "authors" : [ "B Brodecki", "D Dwornikowski", "J Kobusinski", "M Sajkowski" ],
+    "year" : "2010",
+    "citations" : "3"
+  }, {
+    "title" : "Technical Specification of the GridLab Resource Management System",
+    "authors" : [ "J Nabrzyski", "J Puckacki", "T Piontek", "K Kurowski", "L Ludwiczak" ],
+    "year" : "2002",
+    "citations" : "3"
+  }, {
+    "title" : "PORSHE–a Reliable Object-Based DSM System",
+    "authors" : [ "M Szychowiak" ],
+    "year" : "2000",
+    "citations" : "3"
+  }, {
+    "title" : "Supporting multiple consistency models in distributed shared memory system",
+    "authors" : [ "D Wawrzyniak" ],
+    "year" : "1998",
+    "citations" : "3"
+  }, {
+    "title" : "A branch hash function as a method of message synchronization in anonymous P2P conversations",
+    "authors" : [ "A Kobusinska", "M Boron", "Ł Inatlewski", "M Jabczynski" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Conformance checking of communicating resource systems with RAs calculus",
+    "authors" : [ "D Dwornikowski", "A Stroinski" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Towards relaxed rollback-recovery consistency in soa",
+    "authors" : [ "M Holenko", "A Kobusinska", "D Wawrzyniak", "P Zierhoffer" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Providing uniform reliable broadcast delivery for mobile ad hoc networks with manet liveness property",
+    "authors" : [ "M Kalewski", "J Kobusinski" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Distribution of Liveness Property Connectivity Interval in Selected Mobility Models of Wireless Ad Hoc Networks.",
+    "authors" : [ "M Kalewski", "M Kosiba", "M Libuda" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Reliable Broadcast Protocol Independent of System Parameters for Ad Hoc Networks with Liveness Property.",
+    "authors" : [ "M Kalewski", "C Sobaniec" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Modality conflict discovery for SOA security policies",
+    "authors" : [ "B Brodecki", "P Sasak", "M Szychowiak" ],
+    "year" : "2011",
+    "citations" : "2"
+  }, {
+    "title" : "ModCon algorithm for discovering security policy conflicts",
+    "authors" : [ "B Brodecki", "P Sasak", "M Szychowiak" ],
+    "year" : "2011",
+    "citations" : "2"
+  }, {
+    "title" : "Safety of a session guarantees protocol using plausible clocks",
+    "authors" : [ "M Kalewski", "C Sobaniec" ],
+    "year" : "2007",
+    "citations" : "2"
+  }, {
+    "title" : "Safety of an object-based version vector consistency protocol of session guarantees",
+    "authors" : [ "C Sobaniec" ],
+    "year" : "2005",
+    "citations" : "2"
+  }, {
+    "title" : "Low cost coherence protocol for DSM systems with processor consistency",
+    "authors" : [ "M Szychowiak" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "A survey of software failure detector protocols",
+    "authors" : [ "J Kobusinski" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "Consistency requirements of distributed shared memory for Lamport's Bakery algorithm for mutual exclusion",
+    "authors" : [ "D Wawrzyniak" ],
+    "year" : "2000",
+    "citations" : "2"
+  }, {
+    "title" : "A polygon time structure for protocol verification",
+    "authors" : [ "M Sajkowski" ],
+    "year" : "1999",
+    "citations" : "2"
+  }, {
+    "title" : "RPC-based coherence protocols for distributed shared memory",
+    "authors" : [ "J BRZEZINSKI", "M Szychowiak", "D Wawrzyniak" ],
+    "year" : "1997",
+    "citations" : "2"
+  }, {
+    "title" : "Optimization aspects of deadlock prevention in packet-switching networks",
+    "authors" : [ "J Blazewicz", "G Gambosi" ],
+    "year" : "1992",
+    "citations" : "2"
+  }, {
+    "title" : "On the applicability of an interval time structure for protocol verification “",
+    "authors" : [ "M Sajkowski" ],
+    "year" : "",
+    "citations" : "2"
+  }, {
+    "title" : "Towards a process calculus for REST: current state of the art",
+    "authors" : [ "D Dwornikowski", "A Stroinski" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Łukasz Pi atkowski, and Grzegorz Sobanski",
+    "authors" : [ "D Dwornikowski" ],
+    "year" : "2012",
+    "citations" : "1"
+  }, {
+    "title" : "Consistency Maintenance of Modern Security Policies.",
+    "authors" : [ "B Brodecki", "P Sasak", "M Szychowiak" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "MDL: metrics definition language",
+    "authors" : [ "D Dwornikowski", "M Kalewski", "T Pawlak", "M Sajkowski" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Safety of a client-based version vector consistency protocol of session guarantees",
+    "authors" : [ "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Bounding recovery time in rollback-recovery protocol for mobile systems preserving session guarantees",
+    "authors" : [ "A Kobusinska", "J Kobusinski" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Multi-version coherence protocol for replicated shared objects",
+    "authors" : [ "J Kobusinski", "D Wawrzyniak" ],
+    "year" : "2005",
+    "citations" : "1"
+  }, {
+    "title" : "Fast and Low Cost Recovery Techniques for Distributed Shared Memory1",
+    "authors" : [ "M Szychowiak" ],
+    "year" : "2002",
+    "citations" : "1"
+  }, {
+    "title" : "Detection of livelocks in communication protocols by means of a polygon time structure",
+    "authors" : [ "M Sajkowski" ],
+    "year" : "2000",
+    "citations" : "1"
+  }, {
+    "title" : "Reliable Services for CORBA Environment",
+    "authors" : [ "A Kobusinska", "J Kobusinski", "M Szychowiak" ],
+    "year" : "1999",
+    "citations" : "1"
+  }, {
+    "title" : "Multi-criterion coherence protocol for distributed shared memory",
+    "authors" : [ "D Wawrzyniak" ],
+    "year" : "1997",
+    "citations" : "1"
+  }, {
+    "title" : "Deadlock Models and a General Algorithm for Distributed Deadlock Detection: Volume31, Number 2 (1995), pages 112–125",
+    "authors" : [ "J Helary", "M Raynal", "M Singhal" ],
+    "year" : "1996",
+    "citations" : "1"
+  }, {
+    "title" : "A general definition of deadlocks for distributed systems",
+    "authors" : [ "J Helary", "M Raynal" ],
+    "year" : "1995",
+    "citations" : "1"
+  }, {
+    "title" : "Optimal algorithm for prevention of different deadlock types in store-and-forward computer networks",
+    "authors" : [ "J BLAZEWICZ", "J BRZEZINSKI", "G Gambosi" ],
+    "year" : "1988",
+    "citations" : "1"
+  }, {
+    "title" : "Algorytmy optymalizacji zapytań eksploracyjnych z wykorzystaniem materializowanej perspektywy eksploracyjnej",
+    "authors" : [ "M Morzy", "T Morzy", "Ł Rutkowski" ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "Big Data fingerprinting information analytics for sustainability",
+    "authors" : [ "A Kobusinska", "K Pawluczuk" ],
+    "year" : "2018",
+    "citations" : ""
+  }, {
+    "title" : "P2P Web Browser Middleware to Enhance Service Oriented Computing—Analysis and Evaluation",
+    "authors" : [ "A Kobusinska", "A Wolski", "M Ge" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "SelfAid Network—a P2P Matchmaking Service",
+    "authors" : [ "M Boron", "A Kobusinska" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Distributed Content Dissemination with a Rank Function",
+    "authors" : [ "A Kobusinska", "J Aftowicz", "G Grzelachowski" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "A distributed discovery of communicating resource systems models.",
+    "authors" : [ "A Stroinski", "D Dwornikowski" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "On the equivalence of SOA rollback-recovery consistency models",
+    "authors" : [ "A Kobusinska" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Advanced SOA Tools and Applications",
+    "authors" : [ "S Ambroszkiewicz", "W Cellary", "A Grzech", "K Zielinski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Mobile platform for executing medical business processes and data collecting",
+    "authors" : [ "A Kobusinska", "J Kobusinski", "A Stroinski", "K Szalkowski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Modelling Failures of Distributed Systems in Stochastic Process Algebras",
+    "authors" : [ "D Dwornikowski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Consistency guarantees for recovery of service-oriented distributed processing",
+    "authors" : [ "A Danilecki", "A Kobusinska", "M Szychowiak" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Garbage Collection for Service Oriented Distributed Reliable Environment D-ReServE",
+    "authors" : [ "A Danilecki", "M Holenko", "A Kobusinska", "P Zierhoffer" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "COBRA-THE LIBRARY FOR BUILDING RELIABLE APPLICATIONS IN DISTRIBUTED",
+    "authors" : [ "A Kobusinska", "J Kobusinski", "M Szychowiak" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "K-resilient session guarantees synchronization protocol for mobile ad-hoc networks",
+    "authors" : [ "D Dwornikowski", "Ł Piatkowski", "G Sobanski" ],
+    "year" : "2011",
+    "citations" : ""
+  } ],
+  "hindex" : 10
+}

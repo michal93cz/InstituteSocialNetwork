@@ -1,125 +1,131 @@
 {
   "name" : "D Brzezinski",
-  "citations" : 487,
+  "fullName" : "Dariusz Brzezinski",
+  "citations" : 513,
   "tenIndex" : 9,
   "articles" : [ {
     "title" : "Reacting to different types of concept drift: The accuracy updated ensemble algorithm",
-    "authors" : [ "D Brzezinski", " J Stefanowski" ],
+    "authors" : [ "J Stefanowski" ],
     "year" : "2014",
-    "citations" : "142"
+    "citations" : "148"
   }, {
     "title" : "Open challenges for data stream mining research",
-    "authors" : [ "G Krempl", " I Žliobaite", " D Brzeziński", " E Hüllermeier", " M Last", " V Lemaire", " ..." ],
+    "authors" : [ "G Krempl", "I Zliobaite", "E Hullermeier", "M Last", "V Lemaire" ],
     "year" : "2014",
-    "citations" : "92"
+    "citations" : "95"
   }, {
     "title" : "Accuracy updated ensemble for data streams with concept drift",
-    "authors" : [ "D Brzeziński", " J Stefanowski" ],
+    "authors" : [ "J Stefanowski" ],
     "year" : "2011",
-    "citations" : "75"
+    "citations" : "78"
   }, {
     "title" : "Combining block-based and online methods in learning ensembles from concept drifting data streams",
-    "authors" : [ "D Brzezinski", " J Stefanowski" ],
+    "authors" : [ "J Stefanowski" ],
     "year" : "2014",
-    "citations" : "52"
+    "citations" : "56"
   }, {
     "title" : "Mining data streams with concept drift",
-    "authors" : [ "D Brzeziński" ],
+    "authors" : [ ],
     "year" : "2010",
-    "citations" : "46"
+    "citations" : "47"
+  }, {
+    "title" : "Prequential AUC for classifier evaluation and drift detection in evolving data streams",
+    "authors" : [ "J Stefanowski" ],
+    "year" : "2014",
+    "citations" : "16"
   }, {
     "title" : "XML clustering: a review of structural approaches",
-    "authors" : [ "M Piernik", " D Brzezinski", " T Morzy", " A Lesniewska" ],
+    "authors" : [ "M Piernik", "T Morzy", "A Lesniewska" ],
     "year" : "2015",
     "citations" : "15"
   }, {
-    "title" : "Prequential AUC for classifier evaluation and drift detection in evolving data streams",
-    "authors" : [ "D Brzezinski", " J Stefanowski" ],
-    "year" : "2014",
-    "citations" : "14"
-  }, {
     "title" : "Clustering XML documents by patterns",
-    "authors" : [ "M Piernik", " D Brzezinski", " T Morzy" ],
+    "authors" : [ "M Piernik", "T Morzy" ],
     "year" : "2016",
     "citations" : "11"
   }, {
     "title" : "XCleaner: A new method for clustering XML documents by structure",
-    "authors" : [ "D Brzeziński", " A Leśniewska", " T Morzy", " M Piernik" ],
+    "authors" : [ "A Lesniewska", "T Morzy", "M Piernik" ],
     "year" : "2011",
     "citations" : "11"
   }, {
+    "title" : "Prequential auc: properties of the area under the roc curve for data streams with concept drift",
+    "authors" : [ "J Stefanowski" ],
+    "year" : "2017",
+    "citations" : "6"
+  }, {
     "title" : "From block-based ensembles to online learners in changing data streams: If-and how-to",
-    "authors" : [ "D Brzezinski", " J Stefanowski" ],
+    "authors" : [ "J Stefanowski" ],
     "year" : "2012",
     "citations" : "6"
   }, {
-    "title" : "Prequential auc: properties of the area under the roc curve for data streams with concept drift",
-    "authors" : [ "D Brzezinski", " J Stefanowski" ],
-    "year" : "2017",
-    "citations" : "3"
-  }, {
     "title" : "Ensemble diversity in evolving data streams",
-    "authors" : [ "D Brzezinski", " J Stefanowski" ],
+    "authors" : [ "J Stefanowski" ],
     "year" : "2016",
-    "citations" : "3"
-  }, {
-    "title" : "PUT at SemEval-2016 Task 4: The ABC of Twitter Sentiment Analysis.",
-    "authors" : [ "M Lango", " D Brzezinski", " J Stefanowski" ],
-    "year" : "2016",
-    "citations" : "3"
+    "citations" : "4"
   }, {
     "title" : "Structural XML Classification in Concept Drifting Data Streams.",
-    "authors" : [ "D Brzezinski", " M Piernik" ],
+    "authors" : [ "M Piernik" ],
     "year" : "2015",
+    "citations" : "4"
+  }, {
+    "title" : "Classifiers for concept-drifting data streams: evaluating things that really matter",
+    "authors" : [ "J Stefanowski" ],
+    "year" : "2013",
+    "citations" : "4"
+  }, {
+    "title" : "PUT at SemEval-2016 Task 4: The ABC of Twitter Sentiment Analysis.",
+    "authors" : [ "M Lango", "J Stefanowski" ],
+    "year" : "2016",
     "citations" : "3"
   }, {
     "title" : "Block-based and online ensembles for concept-drifting data streams",
-    "authors" : [ "D Brzeziński" ],
+    "authors" : [ ],
     "year" : "2015",
     "citations" : "3"
   }, {
     "title" : "Adaptive XML stream classification using partial tree-edit distance",
-    "authors" : [ "D Brzezinski", " M Piernik" ],
+    "authors" : [ "M Piernik" ],
     "year" : "2014",
     "citations" : "3"
   }, {
-    "title" : "Classifiers for concept-drifting data streams: evaluating things that really matter",
-    "authors" : [ "D Brzezinski", " J Stefanowski" ],
-    "year" : "2013",
-    "citations" : "3"
+    "title" : "Conformation-dependent restraints for polynucleotides: I. Clustering of the geometry of the phosphodiester group",
+    "authors" : [ "M Kowiel", "M Jaskolski" ],
+    "year" : "2016",
+    "citations" : "2"
   }, {
     "title" : "Visual-Based Analysis of Classification Measures with Applications to Imbalanced Data",
-    "authors" : [ "D Brzezinski", " J Stefanowski", " R Susmaga", " I Szczęch" ],
+    "authors" : [ "J Stefanowski", "R Susmaga", "I Szczech" ],
     "year" : "2017",
-    "citations" : "1"
-  }, {
-    "title" : "Conformation-dependent restraints for polynucleotides: I. Clustering of the geometry of the phosphodiester group",
-    "authors" : [ "M Kowiel", " D Brzezinski", " M Jaskolski" ],
-    "year" : "2016",
     "citations" : "1"
   }, {
     "title" : "Discovering Minority Sub-clusters and Local Difficulty Factors from Imbalanced Data",
-    "authors" : [ "M Lango", " D Brzezinski", " S Firlik", " J Stefanowski" ],
+    "authors" : [ "M Lango", "S Firlik", "J Stefanowski" ],
     "year" : "2017",
     "citations" : ""
   }, {
-    "title" : "Using Network Analysis to Improve Nearest Neighbor Classification of Non-Network Data",
-    "authors" : [ "M Piernik", " D Brzezinski", " T Morzy", " M Morzy" ],
+    "title" : "Tetrahedron: Barycentric Measure Visualizer",
+    "authors" : [ "J Stefanowski", "R Susmaga", "I Szczech" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Using Network Analysis to Improve Nearest Neighbor Classification of Non-network Data",
+    "authors" : [ "M Piernik", "T Morzy", "M Morzy" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "Stream Classification.",
-    "authors" : [ "J Stefanowski", " D Brzezinski" ],
+    "authors" : [ "J Stefanowski" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "Bayesian Confirmation Measures in Rule-based Classification",
-    "authors" : [ "D Brzezinski", " Z Grudziński", " I Szczęch" ],
+    "authors" : [ "Z Grudzinski", "I Szczech" ],
     "year" : "2016",
     "citations" : ""
   }, {
-    "title" : "Tetrahedron: Barycentric Measure Visualizer",
-    "authors" : [ "D Brzezinski", " J Stefanowski", " R Susmaga", " I Szczęch" ],
+    "title" : "Ensemble Classifiers for Imbalanced and Evolving Data Streams",
+    "authors" : [ "J Stefanowski", "A Nienkotter", "X Jiang", "M Last", "M Stoliar" ],
     "year" : "",
     "citations" : ""
   } ],

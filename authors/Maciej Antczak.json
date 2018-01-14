@@ -1,165 +1,166 @@
 {
   "name" : "M Antczak",
-  "citations" : 293,
-  "tenIndex" : 6,
+  "fullName" : "Maciej Antczak",
+  "citations" : 303,
+  "tenIndex" : 7,
   "articles" : [ {
     "title" : "Automated 3D structure composition for large RNAs",
-    "authors" : [ "M Popenda", "M Szachniuk", "M Antczak", "KJ Purzycka", "P Lukasiak", "N Bartol", "..." ],
+    "authors" : [ "M Popenda", "M Szachniuk", "K Purzycka", "P Lukasiak", "N Bartol" ],
     "year" : "2012",
-    "citations" : "186"
+    "citations" : "190"
   }, {
     "title" : "RNApdbee—a webserver to derive secondary structures from pdb files of knotted and unknotted RNAs",
-    "authors" : [ "M Antczak", "T Zok", "M Popenda", "P Lukasiak", "RW Adamiak", "J Blazewicz", "..." ],
+    "authors" : [ "T Zok", "M Popenda", "P Lukasiak", "R Adamiak", "J Blazewicz" ],
     "year" : "2014",
     "citations" : "26"
   }, {
+    "title" : "RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme",
+    "authors" : [ "Z Miao", "R Adamiak", "R Batey", "A Becka", "M Biesiada" ],
+    "year" : "2017",
+    "citations" : "18"
+  }, {
     "title" : "RNAlyzer—novel approach for quality analysis of RNA structural models",
-    "authors" : [ "P Lukasiak", "M Antczak", "T Ratajczak", "JM Bujnicki", "M Szachniuk", "..." ],
+    "authors" : [ "P Lukasiak", "T Ratajczak", "J Bujnicki", "M Szachniuk" ],
     "year" : "2013",
     "citations" : "17"
   }, {
-    "title" : "RNA-Puzzles Round III: 3D RNA structure prediction of five riboswitches and one ribozyme",
-    "authors" : [ "Z Miao", "RW Adamiak", "M Antczak", "RT Batey", "AJ Becka", "M Biesiada", "..." ],
-    "year" : "2017",
-    "citations" : "14"
-  }, {
     "title" : "Chapter One-Automated 3D RNA Structure Prediction Using the RNAComposer Method for Riboswitches",
-    "authors" : [ "KJ Purzycka", "M Popenda", "M Szachniuk", "M Antczak", "P Lukasiak", "..." ],
+    "authors" : [ "K Purzycka", "M Popenda", "M Szachniuk", "P Lukasiak" ],
     "year" : "2015",
-    "citations" : "10"
+    "citations" : "11"
   }, {
     "title" : "New in silico approach to assessing RNA secondary structures with non-canonical base pairs",
-    "authors" : [ "A Rybarczyk", "N Szostak", "M Antczak", "T Zok", "M Popenda", "R Adamiak", "..." ],
+    "authors" : [ "A Rybarczyk", "N Szostak", "T Zok", "M Popenda", "R Adamiak" ],
     "year" : "2015",
     "citations" : "10"
   }, {
     "title" : "RNAssess—a web server for quality assessment of RNA 3D structures",
-    "authors" : [ "P Lukasiak", "M Antczak", "T Ratajczak", "M Szachniuk", "M Popenda", "..." ],
+    "authors" : [ "P Lukasiak", "T Ratajczak", "M Szachniuk", "M Popenda" ],
     "year" : "2015",
-    "citations" : "9"
+    "citations" : "10"
   }, {
     "title" : "New functionality of RNAComposer: application to shape the axis of miR160 precursor structure",
-    "authors" : [ "M Antczak", "M Popenda", "T Zok", "J Sarzynska", "T Ratajczak", "K Tomczyk", "..." ],
+    "authors" : [ "M Popenda", "T Zok", "J Sarzynska", "T Ratajczak", "K Tomczyk" ],
     "year" : "2016",
-    "citations" : "5"
+    "citations" : "6"
   }, {
     "title" : "SphereGrinder - reference structure-based tool for quality assessment of protein structural models",
-    "authors" : [ "P Lukasiak", "M Antczak", "T Ratajczak", "J Blazewicz" ],
+    "authors" : [ "P Lukasiak", "T Ratajczak", "J Blazewicz" ],
     "year" : "2015",
     "citations" : "5"
   }, {
-    "title" : "High-order statistical compressor for long-term storage of DNA sequencing data",
-    "authors" : [ "M Chlopkowski", "M Antczak", "M Slusarczyk", "A Wdowinski", "M Zajaczkowski", "..." ],
-    "year" : "2016",
-    "citations" : "3"
-  }, {
     "title" : "Optil.io: Cloud Based Platform For Solving Optimization Problems Using Crowdsourcing Approach",
-    "authors" : [ "S Wasik", "M Antczak", "J Badura", "A Laskowski", "T Sternal" ],
+    "authors" : [ "S Wasik", "J Badura", "A Laskowski", "T Sternal" ],
     "year" : "2016",
     "citations" : "3"
   }, {
     "title" : "Structural alignment of protein descriptors – a combinatorial model",
-    "authors" : [ "M Antczak", "M Kasprzak", "P Lukasiak", "J Blazewicz" ],
+    "authors" : [ "M Kasprzak", "P Lukasiak", "J Blazewicz" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "High-order statistical compressor for long-term storage of DNA sequencing data",
+    "authors" : [ "M Chlopkowski", "M Slusarczyk", "A Wdowinski", "M Zajaczkowski" ],
     "year" : "2016",
     "citations" : "2"
   }, {
     "title" : "Building the library of RNA 3D nucleotide conformations using the clustering approach",
-    "authors" : [ "T Zok", "M Antczak", "M Riedel", "D Nebel", "T Villmann", "P Lukasiak", "J Blazewicz", "..." ],
+    "authors" : [ "T Zok", "M Riedel", "D Nebel", "T Villmann", "P Lukasiak", "J Blazewicz" ],
     "year" : "2015",
     "citations" : "2"
   }, {
     "title" : "DomAns—Pattern based method for protein domain boundaries prediction and analysis",
-    "authors" : [ "M Antczak", "J Blazewicz", "P Lukasiak", "M Milostan", "N Krasnogor", "G Palik" ],
+    "authors" : [ "J Blazewicz", "P Lukasiak", "M Milostan", "N Krasnogor", "G Palik" ],
     "year" : "2011",
     "citations" : "1"
   }, {
     "title" : "New algorithms to represent complex pseudoknotted RNA structures in dot-bracket notation",
-    "authors" : [ "M Antczak", "M Popenda", "T Zok", "M Zurkowski", "RW Adamiak", "M Szachniuk" ],
+    "authors" : [ "M Popenda", "T Zok", "M Zurkowski", "R Adamiak", "M Szachniuk" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "A Survey on Online Judge Systems and Their Applications",
-    "authors" : [ "S Wasik", "M Antczak", "J Badura", "A Laskowski", "T Sternal" ],
+    "authors" : [ "S Wasik", "J Badura", "A Laskowski", "T Sternal" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "Optil.io Platform: Evaluation as a Service for Metaheuristics",
-    "authors" : [ "S Wasik", "M Antczak", "J Badura", "A Laskowski", "M Olszowy", "T Sternal", "..." ],
+    "authors" : [ "S Wasik", "J Badura", "A Laskowski", "M Olszowy", "T Sternal" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "Computational approaches for quality analysis of RNA structures",
-    "authors" : [ "P Lukasiak", "T Ratajczak", "M Antczak" ],
+    "authors" : [ "P Lukasiak", "T Ratajczak" ],
     "year" : "2015",
     "citations" : ""
   }, {
     "title" : "RNAsprite - a concept of tool to calculate RNA structural data",
-    "authors" : [ "P Ceranek", "T Zok", "M Antczak", "M Szachniuk" ],
+    "authors" : [ "P Ceranek", "T Zok", "M Szachniuk" ],
     "year" : "2015",
     "citations" : ""
   }, {
     "title" : "New in silico approach to assess RNA secondary structures with non-canonical base pairs",
-    "authors" : [ "N Szostak", "A Rybarczyk", "M Antczak", "T Zok", "M Popenda", "RW Adamiak", "..." ],
+    "authors" : [ "N Szostak", "A Rybarczyk", "T Zok", "M Popenda", "R Adamiak" ],
     "year" : "2015",
     "citations" : ""
   }, {
     "title" : "Clustering approach to create libraries of representative RNA conformers",
-    "authors" : [ "T Zok", "M Antczak", "M Riedel", "D Nebel", "T Villmann", "P Lukasiak", "J Blazewicz", "..." ],
+    "authors" : [ "T Zok", "M Riedel", "D Nebel", "T Villmann", "P Lukasiak", "J Blazewicz" ],
     "year" : "2015",
     "citations" : ""
   }, {
     "title" : "Algorytmiczne aspekty modelowania i ewaluacji biomolekuł",
-    "authors" : [ "M Antczak" ],
+    "authors" : [ ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Session 2. Genomics, Proteomics, Metabolomics—Medical and Environmental Implications",
-    "authors" : [ "M Popenda", "M Szachniuk", "M Antczak", "KJ Purzycka", "P Lukasiak", "N Bartol", "..." ],
+    "authors" : [ "M Popenda", "M Szachniuk", "K Purzycka", "P Lukasiak", "N Bartol" ],
     "year" : "2012",
     "citations" : ""
   }, {
     "title" : "Protein structure quality assessment and modeling support techniques",
-    "authors" : [ "M Antczak", "P Lukasiak", "K Fidelis", "A Kryshtafovych", "J Blazewicz" ],
+    "authors" : [ "P Lukasiak", "K Fidelis", "A Kryshtafovych", "J Blazewicz" ],
     "year" : "2012",
     "citations" : ""
   }, {
     "title" : "Automated prediction of 3D structure of proteins based on descriptors approach",
-    "authors" : [ "P Lukasiak", "K Fidelis", "M Antczak", "A Kryshtafovych", "J Blazewicz" ],
+    "authors" : [ "P Lukasiak", "K Fidelis", "A Kryshtafovych", "J Blazewicz" ],
     "year" : "2011",
     "citations" : ""
   }, {
     "title" : "RNAComposer and the art of composing RNA structures",
-    "authors" : [ "M Szachniuk", "M Popenda", "M Antczak", "KJ Purzycka", "P Lukasiak", "N Bartol", "..." ],
+    "authors" : [ "M Szachniuk", "M Popenda", "K Purzycka", "P Lukasiak", "N Bartol" ],
     "year" : "2011",
     "citations" : ""
   }, {
     "title" : "Comparison of RNA structures in torsional angle space",
-    "authors" : [ "T Zok", "M Szachniuk", "M Antczak" ],
+    "authors" : [ "T Zok", "M Szachniuk" ],
     "year" : "2011",
     "citations" : ""
   }, {
     "title" : "Protein structure modelling–case study",
-    "authors" : [ "M Milostan", "J Sarzynska", "A Mickiewicz", "M Antczak", "P Lukasiak", "..." ],
+    "authors" : [ "M Milostan", "J Sarzynska", "A Mickiewicz", "P Lukasiak" ],
     "year" : "2009",
     "citations" : ""
   }, {
     "title" : "ProDomAn-Protein Domains Analysis platform",
-    "authors" : [ "P Lukasiak", "M Antczak", "A Hoffa", "W Biniecki", "M Wojciechowski" ],
+    "authors" : [ "P Lukasiak", "A Hoffa", "W Biniecki", "M Wojciechowski" ],
     "year" : "2009",
     "citations" : ""
   }, {
     "title" : "3D–RNA–Pred: An Automatic Construction of Three–Dimensional RNA Structures",
-    "authors" : [ "M Antczak", "J Blazewicz", "R Adamiak", "P Lukasiak", "M Popenda", "..." ],
+    "authors" : [ "J Blazewicz", "R Adamiak", "P Lukasiak", "M Popenda" ],
     "year" : "2008",
     "citations" : ""
   }, {
     "title" : "Domain Analysis Server (DomAnS)–Protein domains prediction algorithm (DomAn)",
-    "authors" : [ "J Blazewicz", "P Lukasiak", "M Antczak", "M Milostan", "G Palik" ],
+    "authors" : [ "J Blazewicz", "P Lukasiak", "M Milostan", "G Palik" ],
     "year" : "2007",
     "citations" : ""
   }, {
     "title" : "Graph clustering approach for protein domain decomposition",
-    "authors" : [ "M Milostan", "J Blazewicz", "P Lukasiak", "M Antczak" ],
+    "authors" : [ "M Milostan", "J Blazewicz", "P Lukasiak" ],
     "year" : "2007",
     "citations" : ""
   } ],

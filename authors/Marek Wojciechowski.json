@@ -1,405 +1,406 @@
 {
   "name" : "M Wojciechowski",
-  "citations" : 452,
+  "fullName" : "Marek Wojciechowski",
+  "citations" : 457,
   "tenIndex" : 16,
   "articles" : [ {
     "title" : "Scalable hierarchical clustering method for sequences of categorical values",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2001",
-    "citations" : "39"
+    "citations" : "41"
   }, {
     "title" : "Dataset filtering techniques in constraint-based frequent pattern mining",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2002",
-    "citations" : "36"
+    "citations" : "37"
   }, {
     "title" : "Materialized data mining views",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2000",
     "citations" : "35"
   }, {
     "title" : "Pattern-oriented hierarchical clustering",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "1999",
     "citations" : "28"
   }, {
     "title" : "Interactive constraint-based sequential pattern mining",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "2001",
     "citations" : "19"
   }, {
     "title" : "Data mining support in database management systems",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2000",
     "citations" : "18"
   }, {
     "title" : "Evaluation of Common Counting Method for Concurrent Data Mining Queries",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2003",
     "citations" : "17"
   }, {
     "title" : "Web users clustering",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2000",
     "citations" : "17"
   }, {
     "title" : "Itemset materializing for fast mining of association rules",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "1998",
     "citations" : "17"
   }, {
+    "title" : "Discovering Frequent Episodes in Sequences of Complex Events.",
+    "authors" : [ ],
+    "year" : "2000",
+    "citations" : "15"
+  }, {
     "title" : "Evaluation of the Mine-Merge Method for Data Mining Query Processing.",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2004",
     "citations" : "14"
   }, {
-    "title" : "Discovering Frequent Episodes in Sequences of Complex Events.",
-    "authors" : [ "M Wojciechowski" ],
-    "year" : "2000",
-    "citations" : "14"
-  }, {
     "title" : "Materialized views in data mining",
-    "authors" : [ "B Czejdo", " M Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "B Czejdo", "M Morzy", "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "13"
   }, {
     "title" : "Concurrent Processing of Frequent Itemset Queries Using FP-Growth Algorithm",
-    "authors" : [ "M Wojciechowski", " K Galecki", " K Gawronek" ],
+    "authors" : [ "K Galecki", "K Gawronek" ],
     "year" : "2005",
     "citations" : "11"
   }, {
     "title" : "On multiple query optimization in data mining",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2005",
     "citations" : "11"
   }, {
     "title" : "Methods for batch processing of data mining queries",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "11"
   }, {
     "title" : "A study on answering a data mining query using a materialized view",
-    "authors" : [ "M Zakrzewicz", " M Morzy", " M Wojciechowski" ],
+    "authors" : [ "M Zakrzewicz", "M Morzy" ],
     "year" : "2004",
     "citations" : "10"
   }, {
     "title" : "Efficient constraint-based sequential pattern mining using dataset filtering techniques",
-    "authors" : [ "M Wojciechowski", " T Morzy", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "9"
   }, {
     "title" : "Optimizing pattern queries for web access logs",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2001",
     "citations" : "8"
   }, {
     "title" : "Mining Various Patterns in Sequential Data in an SQL-like Manner.",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "1999",
     "citations" : "8"
   }, {
     "title" : "Three strategies for concurrent processing of frequent itemset queries using FP-growth",
-    "authors" : [ "M Wojciechowski", " K Galecki", " K Gawronek" ],
+    "authors" : [ "K Galecki", "K Gawronek" ],
     "year" : "2006",
     "citations" : "7"
   }, {
     "title" : "Data Mining Query Scheduling for Apriori Common Counting",
-    "authors" : [ "M WOJCIECHOWSKI", " M ZAKRZEWICZ" ],
+    "authors" : [ "M WOJCIECHOWSKI", "M ZAKRZEWICZ" ],
     "year" : "2005",
     "citations" : "7"
   }, {
     "title" : "Intelligent reputation assessment for participants of web-based customer-to-customer auctions",
-    "authors" : [ "M Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Morzy", "M Zakrzewicz" ],
     "year" : "2005",
     "citations" : "7"
   }, {
     "title" : "Indexing techniques for web access logs",
-    "authors" : [ "Y Manolopoulos", " M Morzy", " T Morzy", " A Nanopoulos", " M Wojciechowski", " ..." ],
+    "authors" : [ "Y Manolopoulos", "M Morzy", "T Morzy", "A Nanopoulos" ],
     "year" : "2004",
     "citations" : "7"
   }, {
     "title" : "Odkrywanie wzorców zachowań użytkowników WWW",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "1999",
     "citations" : "7"
   }, {
     "title" : "New Trends in Databases and Information Systems, Workshop Proceedings of the 16th East European Conference, ADBIS 2012, Pozna, Poland, September 17-21,...",
-    "authors" : [ "M Pechenizkiy", " M Wojciechowski (Eds.)" ],
+    "authors" : [ "M Pechenizkiy" ],
     "year" : "2013",
     "citations" : "6"
   }, {
     "title" : "Integration of candidate hash trees in concurrent processing of frequent itemset queries using Apriori",
-    "authors" : [ "P Grudziński", " M Wojciechowski" ],
+    "authors" : [ "P Grudzinski" ],
     "year" : "2009",
     "citations" : "6"
   }, {
     "title" : "Efficient Constraint-Based Sequential Pattern Mining Using Dataset Filtering Techniques",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "6"
   }, {
     "title" : "Automatyczna personalizacja serwerów WWW z wykorzystaniem metod eksploracji danych",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "5"
   }, {
     "title" : "HASH-MINE: A New Frameword for Discovery of Frequent Itemsets.",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2000",
     "citations" : "5"
   }, {
     "title" : "Optimizing a sequence of frequent pattern queries",
-    "authors" : [ "M Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Morzy", "M Zakrzewicz" ],
     "year" : "2005",
     "citations" : "4"
   }, {
     "title" : "Standard SQL/MM: SQL Multimedia and Application Packages",
-    "authors" : [ "K Jankiewicz", " M Wojciechowski" ],
+    "authors" : [ "K Jankiewicz" ],
     "year" : "2004",
     "citations" : "4"
   }, {
     "title" : "Analiza porównawcza technologii tworzenia aplikacji internetowych dla baz danych Oracle",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "4"
   }, {
     "title" : "Cost-based sequential pattern query optimization in presence of materialized results of previous queries",
-    "authors" : [ "M Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Morzy", "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "4"
   }, {
     "title" : "A greedy approach to concurrent processing of frequent itemset queries",
-    "authors" : [ "P Boinski", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "P Boinski", "M Zakrzewicz" ],
     "year" : "2006",
     "citations" : "3"
   }, {
     "title" : "Mechanizm perspektyw materializowanych w eksploracji danych",
-    "authors" : [ "M Morzy", " M Wojciechowski" ],
+    "authors" : [ "M Morzy" ],
     "year" : "2002",
     "citations" : "3"
   }, {
     "title" : "System informatyczny Zintegrowanego Monitoringu Środowiska Przyrodniczego–architektura i funkcje systemu",
-    "authors" : [ "R Kruszyk", " M Wojciechowski" ],
+    "authors" : [ "R Kruszyk" ],
     "year" : "2014",
     "citations" : "2"
   }, {
     "title" : "Analiza porównawcza technologii odwzorowania obiektowo-relacyjnego dla aplikacji Java",
-    "authors" : [ "P Błoch", " M Wojciechowski" ],
+    "authors" : [ "P Bloch" ],
     "year" : "2007",
     "citations" : "2"
   }, {
     "title" : "Improving Quality of Agglomerative Scheduling in Concurrent Processing of Frequent Itemset Queries",
-    "authors" : [ "P Boinski", " K Jozwiak", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "P Boinski", "K Jozwiak", "M Zakrzewicz" ],
     "year" : "2006",
     "citations" : "2"
   }, {
     "title" : "PARTYCJONOWANIE GRAFÓW A OPTYMALIZACJA WYKONANIA ZBIORU ZAPYTAŃ EKSPLORACYJNYCH",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2005",
     "citations" : "2"
   }, {
+    "title" : "Implementing Adaptive User Interface for Web Applications",
+    "authors" : [ "T Morzy", "M Zakrzewicz", "P Dachtera", "P Jurga" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
     "title" : "TPC Benchmarking",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "2"
   }, {
     "title" : "On Efficiency of Dataset Filtering Implementations in Constraint-Based Discovery of Frequent Itemsets",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "2"
   }, {
     "title" : "Java Server Pages: koncepcje i zastosowania",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2001",
     "citations" : "2"
   }, {
     "title" : "Fast Discovery of Sequential Patterns Using Materialized Data Mining Views",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2000",
     "citations" : "2"
   }, {
     "title" : "DISTRIBUTING AND REPLICATING DATA IN HOSPITAL INFORMATION SYSTEMS",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "1999",
     "citations" : "2"
   }, {
     "title" : "Integration of dataset scans in processing sets of frequent itemset queries",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz", " P Boinski" ],
+    "authors" : [ "M Zakrzewicz", "P Boinski" ],
     "year" : "2012",
     "citations" : "1"
   }, {
     "title" : "Data access paths in processing of sets of frequent itemset queries",
-    "authors" : [ "P Jędrzejczak", " M Wojciechowski" ],
+    "authors" : [ "P Jedrzejczak" ],
     "year" : "2011",
     "citations" : "1"
   }, {
     "title" : "Integrated Candidate Generation in Processing Batches of Frequent Itemset Queries Using Apriori",
-    "authors" : [ "P Jędrzejczak", " M Wojciechowski" ],
+    "authors" : [ "P Jedrzejczak" ],
     "year" : "2010",
     "citations" : "1"
   }, {
     "title" : "Pruning discovered sequential patterns using minimum improvement threshold",
-    "authors" : [ "S Prinke", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "S Prinke", "M Zakrzewicz" ],
     "year" : "2006",
     "citations" : "1"
   }, {
     "title" : "AJAX–rewolucja w tworzeniu aplikacji internetowych",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "2006",
     "citations" : "1"
   }, {
     "title" : "Estimating Hash-Tree Sizes in Concurrent Processing of Frequent Itemset Queries",
-    "authors" : [ "P Boinski", " K Jozwiak", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "P Boinski", "K Jozwiak", "M Zakrzewicz" ],
     "year" : "2006",
     "citations" : "1"
   }, {
     "title" : "Partition-Based approach to processing batches of frequent itemset queries",
-    "authors" : [ "P Grudzinski", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "P Grudzinski", "M Zakrzewicz" ],
     "year" : "2006",
     "citations" : "1"
   }, {
     "title" : "Incremental data mining using concurrent online refresh of materialized data mining views",
-    "authors" : [ "M Morzy", " T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Morzy", "T Morzy", "M Zakrzewicz" ],
     "year" : "2005",
     "citations" : "1"
   }, {
     "title" : "Heuristic scheduling of concurrent data mining queries",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2005",
     "citations" : "1"
   }, {
     "title" : "Efficient Processing of Frequent Itemset Queries Using a Collection of Materialized Views.",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2005",
     "citations" : "1"
   }, {
-    "title" : "Implementing Adaptive User Interface for Web Applications",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz", " P Dachtera", " P Jurga" ],
-    "year" : "2003",
-    "citations" : "1"
-  }, {
     "title" : "Supporting interactive sequential pattern discovery in databases",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "2003",
     "citations" : "1"
   }, {
     "title" : "Discovering and Processing Sequential Patterns in Databases.",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "2000",
     "citations" : "1"
   }, {
     "title" : "Zalety i wady architektury rozproszonej wykorzystującej migawki tylko do odczytu",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "",
     "citations" : "1"
   }, {
     "title" : "Efficient Processing of Streams of Frequent Itemset Queries",
-    "authors" : [ "M Rokosik", " M Wojciechowski" ],
+    "authors" : [ "M Rokosik" ],
     "year" : "2015",
     "citations" : ""
   }, {
     "title" : "Cost-based Sequential Pattern Query Optimization in Presence of Materialized",
-    "authors" : [ "M Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Morzy", "M Zakrzewicz" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "SEQUENTIAL PATTERN MINING USING DATASETFILTERING TECHNIQUES",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Processing Sets of Frequent Itemset Queries",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Dostosowywanie wyglądu aplikacji ADF Faces",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "2011",
     "citations" : ""
   }, {
     "title" : "Ścieżki dostępu do danych dla algorytmów przetwarzania zbiorów zapytań eksploracyjnych",
-    "authors" : [ "P Jędrzejczak", " M Wojciechowski" ],
+    "authors" : [ "P Jedrzejczak" ],
     "year" : "2010",
     "citations" : ""
   }, {
     "title" : "Materializowane perspektywy eksploracyjne w praktyce: Wnioski z implementacji w Oracle 11g",
-    "authors" : [ "D Mierzwiński", " M Wojciechowski" ],
+    "authors" : [ "D Mierzwinski" ],
     "year" : "2010",
     "citations" : ""
   }, {
     "title" : "Tworzenie aplikacji dla Oracle Application Server 10g R3 w technologii EJB 3.0",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "2007",
     "citations" : ""
   }, {
     "title" : "Integracja drzew kandydatów w przetwarzaniu zbiorów zapytań eksploracyjnych algorytmem Apriori",
-    "authors" : [ "P Grudziński", " M Wojciechowski" ],
+    "authors" : [ "P Grudzinski" ],
     "year" : "2007",
     "citations" : ""
   }, {
     "title" : "Co nowego w Java EE?",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "2006",
     "citations" : ""
   }, {
     "title" : "1st ADBIS Workshop on Data Mining and Knowledge Discovery, ADMKD'2005, 15-16 September 2005, Tallinn, Estonia: Proceedings",
-    "authors" : [ "T Morzy", " M Morzy", " M Wojciechowski" ],
+    "authors" : [ "T Morzy", "M Morzy" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Signature-Based Indexing Techniques for Web Access Logs",
-    "authors" : [ "Y Manolopoulos", " A Nanopoulos", " M Morzy", " T Morzy", " M Wojciechowski", " ..." ],
+    "authors" : [ "Y Manolopoulos", "A Nanopoulos", "M Morzy", "T Morzy" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Data Mining Support in Database Management",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2003",
     "citations" : ""
   }, {
     "title" : "Wyszukiwanie obrazów w bazach danych",
-    "authors" : [ "Ł Matuszczak", " M Wojciechowski" ],
+    "authors" : [ "Ł Matuszczak" ],
     "year" : "2003",
     "citations" : ""
   }, {
     "title" : "AdAgent: Template-based approach to Adaptive Web Sites",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz", " P Dachtera", " P Jurga" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz", "P Dachtera", "P Jurga" ],
     "year" : "2003",
     "citations" : ""
   }, {
     "title" : "Data access paths for frequent itemsets discovery",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : ""
   }, {
     "title" : "SQLJ w Oracle9i–rozszerzenia standardu",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2001",
     "citations" : ""
   }, {
     "title" : "Clustering sequences of categorical values",
-    "authors" : [ "T Morzy", " M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Zakrzewicz" ],
     "year" : "2000",
     "citations" : ""
   }, {
     "title" : "Adaptatywne serwery WWW",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "2000",
     "citations" : ""
   }, {
     "title" : "Oracle ADF i JBoss Seam–dwa skrajnie różne podejścia do współpracy JSF z EJB",
-    "authors" : [ "B Mordaka", " M Wojciechowski" ],
+    "authors" : [ "B Mordaka" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Od interMedia do Multimedia–obsługa danych multime-dialnych w Oracle 10g/11g",
-    "authors" : [ "M Wojciechowski" ],
+    "authors" : [ ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Obs³uga transakcji rozproszonych w jêzyku Java",
-    "authors" : [ "M Wojciechowski", " M Zakrzewicz" ],
+    "authors" : [ "M Zakrzewicz" ],
     "year" : "",
     "citations" : ""
   } ],

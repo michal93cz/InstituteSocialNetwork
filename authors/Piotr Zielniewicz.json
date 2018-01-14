@@ -1,150 +1,151 @@
 {
   "name" : "P Zielniewicz",
-  "citations" : 721,
+  "fullName" : "Piotr Zielniewicz",
+  "citations" : 727,
   "tenIndex" : 13,
   "articles" : [ {
     "title" : "A user-oriented implementation of the ELECTRE-TRI method integrating preference elicitation support",
-    "authors" : [ "V Mousseau", "R Slowinski", "P Zielniewicz" ],
+    "authors" : [ "V Mousseau", "R Slowinski" ],
     "year" : "2000",
-    "citations" : "284"
+    "citations" : "285"
   }, {
     "title" : "ELECTRE TRI 2.0 a Methodological Guide and user’s Manual",
-    "authors" : [ "V Mousseau", "R Slowinski", "P Zielniewicz" ],
+    "authors" : [ "V Mousseau", "R Slowinski" ],
     "year" : "1999",
-    "citations" : "78"
+    "citations" : "80"
   }, {
     "title" : "Electre III-IV, version 3. x(aspects méthodologiques. Tome 1)",
-    "authors" : [ "D Vallée", "P Zielniewicz" ],
+    "authors" : [ "D Vallee" ],
     "year" : "1994",
     "citations" : "54"
   }, {
     "title" : "Interactive evolutionary multiobjective optimization using robust ordinal regression",
-    "authors" : [ "J Branke", "S Greco", "R Słowiński", "P Zielniewicz" ],
+    "authors" : [ "J Branke", "S Greco", "R Slowinski" ],
     "year" : "2009",
-    "citations" : "51"
+    "citations" : "52"
   }, {
     "title" : "Pareto memetic algorithm with path relinking for bi-objective traveling salesperson problem",
-    "authors" : [ "A Jaszkiewicz", "P Zielniewicz" ],
+    "authors" : [ "A Jaszkiewicz" ],
     "year" : "2009",
     "citations" : "39"
   }, {
     "title" : "Interactive evolutionary multiobjective optimization driven by robust ordinal regression",
-    "authors" : [ "J Branke", "S Greco", "R Słowiński", "P Zielniewicz" ],
+    "authors" : [ "J Branke", "S Greco", "R Slowinski" ],
     "year" : "2010",
     "citations" : "33"
   }, {
     "title" : "Putting dominance-based rough set approach and robust ordinal regression together",
-    "authors" : [ "S Greco", "R Słowiński", "P Zielniewicz" ],
+    "authors" : [ "S Greco", "R Slowinski" ],
     "year" : "2013",
     "citations" : "30"
   }, {
     "title" : "Learning value functions in interactive evolutionary multiobjective optimization",
-    "authors" : [ "J Branke", "S Greco", "R Słowiński", "P Zielniewicz" ],
+    "authors" : [ "J Branke", "S Greco", "R Slowinski" ],
     "year" : "2015",
-    "citations" : "28"
+    "citations" : "29"
   }, {
     "title" : "Using Choquet integral as preference model in interactive evolutionary multiobjective optimization",
-    "authors" : [ "J Branke", "S Corrente", "S Greco", "R Słowiński", "P Zielniewicz" ],
+    "authors" : [ "J Branke", "S Corrente", "S Greco", "R Slowinski" ],
     "year" : "2016",
-    "citations" : "26"
+    "citations" : "27"
   }, {
     "title" : "ELECTRE TRI 2.0 a: Methodological guide and user’s documentation",
-    "authors" : [ "V Mousseau", "R Slowinski", "P Zielniewicz" ],
+    "authors" : [ "V Mousseau", "R Slowinski" ],
     "year" : "1999",
     "citations" : "24"
   }, {
     "title" : "ELECTRE-III-H: An outranking-based decision aiding method for hierarchically structured criteria",
-    "authors" : [ "L Del Vasto-Terrientes", "A Valls", "R Slowinski", "P Zielniewicz" ],
+    "authors" : [ "A Valls", "R Slowinski" ],
     "year" : "2015",
     "citations" : "20"
   }, {
     "title" : "Electre III-IV, version 3. x-Guide d'utilisation (Tome 2)",
-    "authors" : [ "D Vallée", "P Zielniewicz" ],
+    "authors" : [ "D Vallee" ],
     "year" : "1994",
     "citations" : "14"
   }, {
     "title" : "Electre III-IV, version 3. x",
-    "authors" : [ "D Vallée", "P Zielniewicz" ],
+    "authors" : [ "D Vallee" ],
     "year" : "1994",
     "citations" : "12"
   }, {
     "title" : "OPHELIA: Open platform for distributed software development",
-    "authors" : [ "M Hapke", "A Jaszkiewicz", "K Kowalczykiewicz", "D Weiss", "P Zielniewicz" ],
+    "authors" : [ "M Hapke", "A Jaszkiewicz", "K Kowalczykiewicz", "D Weiss" ],
     "year" : "2004",
-    "citations" : "9"
+    "citations" : "8"
   }, {
     "title" : "Electre TRI 2.0 a",
-    "authors" : [ "V Mousseau", "R Slowinski", "P Zielniewicz" ],
+    "authors" : [ "V Mousseau", "R Slowinski" ],
     "year" : "2002",
     "citations" : "7"
   }, {
     "title" : "Extending concordance and discordance relations to hierarchical sets of criteria in ELECTRE-III method",
-    "authors" : [ "L Del Vasto-Terrientes", "A Valls", "R Slowinski", "P Zielniewicz" ],
+    "authors" : [ "A Valls", "R Slowinski" ],
     "year" : "2012",
     "citations" : "4"
   }, {
     "title" : "A hierarchical multi-criteria sorting approach for recommender systems",
-    "authors" : [ "L Del Vasto-Terrientes", "A Valls", "P Zielniewicz", "J Borràs" ],
+    "authors" : [ "A Valls", "J Borras" ],
     "year" : "2016",
-    "citations" : "2"
+    "citations" : "3"
   }, {
     "title" : "Robust ordinal regression applied to TOPSIS",
-    "authors" : [ "P Zielniewicz" ],
+    "authors" : [ ],
     "year" : "2013",
     "citations" : "2"
   }, {
     "title" : "Presentation of the ELECTRE Tri 2.0 a software",
-    "authors" : [ "V Mousseau", "R Slowinski", "P Zielniewicz" ],
+    "authors" : [ "V Mousseau", "R Slowinski" ],
     "year" : "2000",
     "citations" : "2"
   }, {
     "title" : "A ranking method based on the aggregate distance measure function in the value space",
-    "authors" : [ "P Zielniewicz" ],
+    "authors" : [ ],
     "year" : "2017",
     "citations" : "1"
   }, {
     "title" : "Community Traffic: A Technology for the Next Generation Car Navigation",
-    "authors" : [ "P Gaweł", "K Dembczyński", "W Kotłowski", "M Kubiak", "R Susmaga", "P Wesołek", "..." ],
+    "authors" : [ "P Gawel", "K Dembczynski", "W Kotlowski", "M Kubiak", "R Susmaga", "P Wesolek" ],
     "year" : "2013",
     "citations" : "1"
   }, {
     "title" : "A hierarchical multi-criteria sorting approach for recommender systems (vol 46, pg 313, 2016)",
-    "authors" : [ "L Del Vasto-Terrientes", "A Valls", "P Zielniewicz", "J Borras" ],
+    "authors" : [ "A Valls", "J Borras" ],
     "year" : "2016",
     "citations" : ""
   }, {
     "title" : "Erratum to: A hierarchical multi-criteria sorting approach for recommender systems",
-    "authors" : [ "L Del Vasto-Terrientes", "A Valls", "P Zielniewicz", "J Borràs" ],
+    "authors" : [ "A Valls", "J Borras" ],
     "year" : "2016",
     "citations" : ""
   }, {
     "title" : "Adapting Travel Time Estimates to Current Traffic Conditions",
-    "authors" : [ "P Gaweł", "K Dembczyński", "R Susmaga", "P Wesołek", "P Zielniewicz", "..." ],
+    "authors" : [ "P Gawel", "K Dembczynski", "R Susmaga", "P Wesolek" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Community Traffic: a technology for the next generation car navigation",
-    "authors" : [ "K Dembczyński", "P Gaweł", "A Jaszkiewicz", "W Kotłowski", "M Kubiak", "..." ],
+    "authors" : [ "K Dembczynski", "P Gawel", "A Jaszkiewicz", "W Kotlowski", "M Kubiak" ],
     "year" : "2012",
     "citations" : ""
   }, {
     "title" : "A User-Oriented Implementation of the ELECTRE TRI Method Integrating Preference Elicitation Support",
-    "authors" : [ "P Zielniewicz", "R Slowinski", "V Mousseau" ],
+    "authors" : [ "R Slowinski", "V Mousseau" ],
     "year" : "2000",
     "citations" : ""
   }, {
     "title" : "ARTIFICIAL INTELLIGENCE AND DECISION SUPPORT WITH MULTIPLE CRITERIA-A user-oriented implementation of the ELECTRE-TRI method integrating prefer...",
-    "authors" : [ "V Mousseau", "R Slowinski", "P Zielniewicz" ],
+    "authors" : [ "V Mousseau", "R Slowinski" ],
     "year" : "2000",
     "citations" : ""
   }, {
     "title" : "ADBIS 2012 Workshops and PhD Consortium program",
-    "authors" : [ "G Toppin", "M Grzegorowski", "PW Pardel", "S Stawicki", "K Stencel", "FM Schleif", "..." ],
+    "authors" : [ "G Toppin", "M Grzegorowski", "P Pardel", "S Stawicki", "K Stencel", "F Schleif" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "OPHELIA–zintegrowane środowisko wytwarzania oprogramowania",
-    "authors" : [ "M Hapke", "A Jaszkiewicz", "K Kowalczykiewicz", "D Weiss", "P Zielniewicz" ],
+    "authors" : [ "M Hapke", "A Jaszkiewicz", "K Kowalczykiewicz", "D Weiss" ],
     "year" : "",
     "citations" : ""
   } ],

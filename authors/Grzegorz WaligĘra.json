@@ -1,290 +1,291 @@
 {
   "name" : "G Waligora",
-  "citations" : 1126,
-  "tenIndex" : 19,
+  "fullName" : "Grzegorz Waligóra",
+  "citations" : 1134,
+  "tenIndex" : 20,
   "articles" : [ {
     "title" : "Project scheduling with finite or infinite number of activity processing modes–A survey",
-    "authors" : [ "J Węglarz", "J Józefowska", "M Mika", "G Waligóra" ],
+    "authors" : [ "J Weglarz", "J Jozefowska", "M Mika" ],
     "year" : "2011",
     "citations" : "194"
   }, {
     "title" : "Simulated annealing and tabu search for multi-mode resource-constrained project scheduling with positive discounted cash flows and different payment models",
-    "authors" : [ "M Mika", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "M Mika", "J Weglarz" ],
     "year" : "2005",
-    "citations" : "189"
+    "citations" : "191"
   }, {
     "title" : "Simulated annealing for multi-mode resource-constrained project scheduling",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "2001",
-    "citations" : "185"
+    "citations" : "187"
   }, {
     "title" : "Tabu search for multi-mode resource-constrained project scheduling with schedule-dependent setup times",
-    "authors" : [ "M Mika", "G Waligora", "J Węglarz" ],
+    "authors" : [ "M Mika", "J Weglarz" ],
     "year" : "2008",
-    "citations" : "95"
+    "citations" : "96"
   }, {
     "title" : "Discrete–continuous project scheduling with discounted cash flows—A tabu search approach",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2008",
     "citations" : "67"
   }, {
     "title" : "Local search metaheuristics for discrete–continuous scheduling problems",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "1998",
     "citations" : "60"
   }, {
     "title" : "A metaheuristic approach to scheduling workflow jobs on a grid",
-    "authors" : [ "M Mika", "G Waligora", "J Węglarz" ],
+    "authors" : [ "M Mika", "J Weglarz" ],
     "year" : "2004",
     "citations" : "36"
   }, {
     "title" : "Tabu list management methods for a discrete–continuous scheduling problem",
-    "authors" : [ "J Józefowska", "G Waligóra", "J Wȩglarz" ],
+    "authors" : [ "J Jozefowska", "J Weglarz" ],
     "year" : "2002",
     "citations" : "31"
   }, {
     "title" : "Tabu search for discrete–continuous scheduling problems with heuristic continuous resource allocation",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2009",
     "citations" : "30"
   }, {
     "title" : "A heuristic approach to allocating the continuous resource in discrete–continuous scheduling problems to minimize the makespan",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "2002",
     "citations" : "29"
   }, {
     "title" : "Solving the discrete-continuous project scheduling problem via its discretization",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Weglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "2000",
     "citations" : "27"
   }, {
     "title" : "Modelling and solving grid resource allocation problem with network resources for workflow applications",
-    "authors" : [ "M Mika", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "M Mika", "J Weglarz" ],
     "year" : "2011",
     "citations" : "25"
   }, {
     "title" : "Heuristic approaches to discrete-continuous project scheduling problems to minimize the makespan",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2011",
     "citations" : "18"
   }, {
     "title" : "Modelling setup times in project scheduling",
-    "authors" : [ "M Mika", "G Waligóra", "J Weglarz" ],
+    "authors" : [ "M Mika", "J Weglarz" ],
     "year" : "2006",
     "citations" : "17"
   }, {
     "title" : "Discrete-continuous project scheduling with discounted cash inflows and various payment models—a review of recent results",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2014",
     "citations" : "13"
   }, {
     "title" : "Project scheduling under discrete and continuous resources",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "1999",
     "citations" : "12"
   }, {
     "title" : "An Almost Optimal Heuristic for Preemptive C max Scheduling of Dependent Tasks on Parallel Identical Machines",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "2004",
     "citations" : "11"
   }, {
     "title" : "Discretecontinuous scheduling to minimize maximum lateness",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "1997",
     "citations" : "11"
   }, {
     "title" : "A tabu search algorithm for some discrete-continuous scheduling problems",
-    "authors" : [ "J Józefowska" ],
+    "authors" : [ "J Jozefowska" ],
     "year" : "1996",
     "citations" : "11"
   }, {
     "title" : "Simulated annealing and tabu search for discrete-continuous project scheduling with discounted cash flows",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2014",
-    "citations" : "9"
+    "citations" : "10"
   }, {
     "title" : "Solving discrete-continuous scheduling problems by Tabu Search",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "2001",
     "citations" : "9"
   }, {
     "title" : "Rozwiązywanie dyskretno-ciągłych problemów rozdziału zasobów przez dyskretyzację zasobu ciągłego",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "2000",
     "citations" : "8"
   }, {
     "title" : "Discrete-continuous scheduling to minimize the makespan for power processing rates of jobs",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Wȩglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "1999",
     "citations" : "7"
   }, {
     "title" : "Multi-mode resource-constrained project schedulig problem with discounted positive cash flows-simulated annealing vs. tabu search",
-    "authors" : [ "J Józefowska", "M Mika", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "J Weglarz" ],
     "year" : "2002",
     "citations" : "6"
   }, {
+    "title" : "Overview and State of the Art",
+    "authors" : [ "M Mika", "J Weglarz" ],
+    "year" : "2015",
+    "citations" : "5"
+  }, {
     "title" : "Discretecontinuous scheduling to minimize the mean flow time–computational experiments",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "1997",
     "citations" : "5"
   }, {
-    "title" : "Overview and State of the Art",
-    "authors" : [ "M Mika", "G Waligóra", "J Wȩglarz" ],
-    "year" : "2015",
-    "citations" : "3"
-  }, {
     "title" : "Discrete-continuous project scheduling-models and algorithms",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2008",
     "citations" : "3"
   }, {
     "title" : "Heuristic procedures for allocating the continuous resource in discrete-continuous scheduling problems",
-    "authors" : [ "J Józefowska", "G Waligóra" ],
+    "authors" : [ "J Jozefowska" ],
     "year" : "2004",
     "citations" : "3"
   }, {
     "title" : "Maksymalizacja zaktualizowanej wartości netto w problemach rozdziału zasobów-przegląd modeli i algorytmów",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "2002",
     "citations" : "2"
   }, {
     "title" : "Scheduling preemptable jobs on identical processors under varying availability of an additional continuous resource",
-    "authors" : [ "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "R Rozycki", "J Weglarz" ],
     "year" : "2016",
     "citations" : "1"
   }, {
     "title" : "Heuristic solving some discrete-continuous project scheduling problems with discounted cash flows",
-    "authors" : [ "G Waligóra", "R Różycki" ],
+    "authors" : [ "R Rozycki" ],
     "year" : "2016",
     "citations" : "1"
   }, {
     "title" : "Discrete-continuous project scheduling with preemptable activities",
-    "authors" : [ "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "R Rozycki", "J Weglarz" ],
     "year" : "2016",
     "citations" : "1"
   }, {
     "title" : "Comparative Analysis of Some Metaheuristics for Discrete-Continuous Project Scheduling with Activities of Identical Processing Rates",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2016",
     "citations" : "1"
   }, {
     "title" : "Scheduling Computational and Transmission Tasks in Computational Grids",
-    "authors" : [ "M Mika", "G Waligóra" ],
+    "authors" : [ "M Mika" ],
     "year" : "2015",
     "citations" : "1"
   }, {
     "title" : "Some new concepts of setup costs in multimode resource-constrained project scheduling problem",
-    "authors" : [ "M Mika", "R Różycki", "G Waligóra" ],
+    "authors" : [ "M Mika", "R Rozycki" ],
     "year" : "2012",
     "citations" : "1"
   }, {
     "title" : "Local search metaheuristics for some discrete-continuous project scheduling problems with discounted cash flows",
-    "authors" : [ "M Mika", "R Rozycki", "G Waligóra" ],
+    "authors" : [ "M Mika", "R Rozycki" ],
     "year" : "2011",
     "citations" : "1"
   }, {
     "title" : "Computational Experiments for Scheduling Workflow Applications in Grid Environment",
-    "authors" : [ "M Mika", "W Piątek", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "M Mika", "W Piatek", "J Weglarz" ],
     "year" : "2011",
     "citations" : "1"
   }, {
     "title" : "A performance analysis of tabu search for discrete-continuous scheduling problems",
-    "authors" : [ "J Józefowska", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "J Weglarz" ],
     "year" : "2003",
     "citations" : "1"
   }, {
     "title" : "Minimalizacja maksymalnego opóźnienia w dyskretno-ciągłych problemach szeregowania-algorytmy heurystyczne",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "1998",
     "citations" : "1"
   }, {
     "title" : "Energy-aware scheduling of jobs performed sequentially",
-    "authors" : [ "R Różycki", "G Waligóra" ],
+    "authors" : [ "R Rozycki" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "Metaheuristics for some discrete-continuous project scheduling problems to maximize the net present value",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "Optimal allocation of power—Graphical interpretation of some scheduling problem",
-    "authors" : [ "R Różycki", "G Waligóra" ],
+    "authors" : [ "R Rozycki" ],
     "year" : "2016",
     "citations" : ""
   }, {
     "title" : "Genetic algorithm for a discrete-continuous project scheduling problem with discounted cash flows",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2015",
     "citations" : ""
   }, {
     "title" : "Continuous Resources",
-    "authors" : [ "G Waligóra", "J Wȩglarz" ],
+    "authors" : [ "J Weglarz" ],
     "year" : "2015",
     "citations" : ""
   }, {
     "title" : "Algorithm for optimal allocation of a continuous resource varying over time",
-    "authors" : [ "M Mika", "R Różycki", "G Waligóra" ],
+    "authors" : [ "M Mika", "R Rozycki" ],
     "year" : "2014",
     "citations" : ""
   }, {
     "title" : "New resource concepts in project scheduling including multi-site resources with transportation network",
-    "authors" : [ "M Mika", "G Waligóra", "J Weglarz" ],
+    "authors" : [ "M Mika", "J Weglarz" ],
     "year" : "2010",
     "citations" : ""
   }, {
     "title" : "Activity sequencing in some discrete-continuous project scheduling problems with discounted cash inflows",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2009",
     "citations" : ""
   }, {
     "title" : "Project scheduling problem with multiple modes, multisite renewable resources and transportation network",
-    "authors" : [ "J Weglarz", "M Mika", "G Waligóra" ],
+    "authors" : [ "J Weglarz", "M Mika" ],
     "year" : "2009",
     "citations" : ""
   }, {
     "title" : "Exact vs. Heuristic Approach to Continuous Resource Allocation in Discrete-Continuous Project Scheduling",
-    "authors" : [ "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Weglarz" ],
     "year" : "2008",
     "citations" : ""
   }, {
     "title" : "Maksymalizacja zaktualizowanej wartości netto w dyskretno-ciągłych problemach rozdziału zasobów",
-    "authors" : [ "G Waligóra" ],
+    "authors" : [ ],
     "year" : "2008",
     "citations" : ""
   }, {
     "title" : "Probabilistic tabu search for makespan minimization discrete-continuous scheduling",
-    "authors" : [ "J Józefowska", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "J Weglarz" ],
     "year" : "2003",
     "citations" : ""
   }, {
     "title" : "Maksymalizacja zaktualizowanej wartości netto w problemach rozdziału zasobów z wieloma sposobami wykonywania czynności",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "2002",
     "citations" : ""
   }, {
     "title" : "Algorytm symulowanego wyżarzania dla problemu rozdziału zasobów z wieloma sposobami wykonywania czynności",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "2000",
     "citations" : ""
   }, {
     "title" : "PROJECT SCHEDULING UNDER DISCRETE AND CONTINUOUS RESOURCES",
-    "authors" : [ "G Waligora" ],
+    "authors" : [ ],
     "year" : "1999",
     "citations" : ""
   }, {
     "title" : "Parallel tabu search algorithms for scheduling independent jobs on parallel machines to minimize the makespan",
-    "authors" : [ "J Józefowska", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "J Weglarz" ],
     "year" : "1999",
     "citations" : ""
   }, {
     "title" : "Optymalizacja przydziału zasobów ciągłych i dyskretnych w kompleksie operacji niepodzielnych",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "1998",
     "citations" : ""
   }, {
     "title" : "AN OPTIMAL PROCEDURE FOR THE PREEMPTIVE CMAX SCHEDULING OF DEPENDENT TASKS ON PARALLEL IDENTICAL MACHINES",
-    "authors" : [ "J Józefowska", "M Mika", "R Różycki", "G Waligóra", "J Węglarz" ],
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "J Weglarz" ],
     "year" : "",
     "citations" : ""
   } ],

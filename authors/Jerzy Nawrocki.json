@@ -1,110 +1,111 @@
 {
   "name" : "J Nawrocki",
-  "citations" : 879,
+  "fullName" : "Jerzy Nawrocki",
+  "citations" : 887,
   "tenIndex" : 18,
   "articles" : [ {
     "title" : "Experimental evaluation of pair programming",
-    "authors" : [ "J Nawrocki", "A Wojciechowski" ],
+    "authors" : [ "A Wojciechowski" ],
     "year" : "2001",
     "citations" : "197"
   }, {
     "title" : "Simplifying effort estimation based on Use Case Points",
-    "authors" : [ "M Ochodek", "J Nawrocki", "K Kwarciak" ],
+    "authors" : [ "M Ochodek", "K Kwarciak" ],
     "year" : "2011",
-    "citations" : "103"
+    "citations" : "108"
   }, {
     "title" : "Extreme programming modified: embrace requirements engineering practices",
-    "authors" : [ "J Nawrocki", "M Jasiñski", "B Walter", "A Wojciechowski" ],
+    "authors" : [ "M Jasinski", "B Walter", "A Wojciechowski" ],
     "year" : "2002",
-    "citations" : "97"
+    "citations" : "98"
   }, {
     "title" : "Toward maturity model for extreme programming",
-    "authors" : [ "J Nawrocki", "B Walter", "A Wojciechowski" ],
+    "authors" : [ "B Walter", "A Wojciechowski" ],
     "year" : "2001",
-    "citations" : "56"
+    "citations" : "57"
   }, {
     "title" : "Pair programming vs. side-by-side programming",
-    "authors" : [ "J Nawrocki", "M Jasiński", "Ł Olek", "B Lange" ],
+    "authors" : [ "M Jasinski", "Ł Olek", "B Lange" ],
     "year" : "2005",
     "citations" : "42"
   }, {
     "title" : "Comparison of CMM level 2 and eXtreme programming",
-    "authors" : [ "JR Nawrocki", "B Walter", "A Wojciechowski" ],
+    "authors" : [ "B Walter", "A Wojciechowski" ],
     "year" : "2002",
     "citations" : "42"
   }, {
+    "title" : "Improving the reliability of transaction identification in use cases",
+    "authors" : [ "M Ochodek", "B Alchimowicz", "J Jurkiewicz" ],
+    "year" : "2011",
+    "citations" : "23"
+  }, {
     "title" : "Balancing agility and discipline with xprince",
-    "authors" : [ "J Nawrocki", "L Olek", "M Jasinski", "B Paliświat", "B Walter", "B Pietrzak", "P Godek" ],
+    "authors" : [ "L Olek", "M Jasinski", "B Paliswiat", "B Walter", "B Pietrzak", "P Godek" ],
     "year" : "2006",
     "citations" : "23"
   }, {
-    "title" : "Improving the reliability of transaction identification in use cases",
-    "authors" : [ "M Ochodek", "B Alchimowicz", "J Jurkiewicz", "J Nawrocki" ],
-    "year" : "2011",
-    "citations" : "22"
-  }, {
     "title" : "Describing Business Processes with Use Cases.",
-    "authors" : [ "JR Nawrocki", "T Nedza", "M Ochodek", "L Olek" ],
+    "authors" : [ "T Nedza", "M Ochodek", "L Olek" ],
     "year" : "2006",
     "citations" : "22"
   }, {
     "title" : "Automatic transactions identification in use cases",
-    "authors" : [ "M Ochodek", "J Nawrocki" ],
+    "authors" : [ "M Ochodek" ],
     "year" : "2008",
     "citations" : "20"
   }, {
     "title" : "Supporting use-case reviews",
-    "authors" : [ "A Ciemniewska", "J Jurkiewicz", "Ł Olek", "J Nawrocki" ],
+    "authors" : [ "A Ciemniewska", "J Jurkiewicz", "Ł Olek" ],
     "year" : "2007",
     "citations" : "17"
   }, {
     "title" : "Combining extreme programming with ISO 9000",
-    "authors" : [ "JR Nawrocki", "M Jasiñski", "B Walter", "A Wojciechowski" ],
+    "authors" : [ "M Jasinski", "B Walter", "A Wojciechowski" ],
     "year" : "2002",
     "citations" : "17"
   }, {
     "title" : "UC Workbench-A Tool for Writing Use Cases and Generating Mockups.",
-    "authors" : [ "JR Nawrocki", "L Olek" ],
+    "authors" : [ "L Olek" ],
     "year" : "2005",
     "citations" : "16"
   }, {
     "title" : "Building Benchmarks for Use Cases",
-    "authors" : [ "M Ochodek", "J Nawrocki", "B Alchimowicz", "J Jurkiewicz" ],
+    "authors" : [ "M Ochodek", "B Alchimowicz", "J Jurkiewicz" ],
     "year" : "2010",
     "citations" : "15"
   }, {
     "title" : "Conflict detection and resolution in a lexical analyzer generator",
-    "authors" : [ "JR Nawrocki" ],
+    "authors" : [ ],
     "year" : "1991",
     "citations" : "14"
   }, {
     "title" : "Programowanie komputerów IBM PC w języku asemblera metodą systematyczną",
-    "authors" : [ "JR Nawrocki" ],
+    "authors" : [ ],
     "year" : "1991",
     "citations" : "11"
   }, {
     "title" : "Software development studio: bringing industrial environment to a classroom",
-    "authors" : [ "S Kopczyńska", "J Nawrocki", "M Ochodek" ],
+    "authors" : [ "S Kopczynska", "M Ochodek" ],
     "year" : "2012",
     "citations" : "10"
   }, {
     "title" : "Towards educating leaders of software teams: a new software engineering programme at PUT",
-    "authors" : [ "JR Nawrocki" ],
+    "authors" : [ ],
     "year" : "1998",
     "citations" : "10"
   }, {
     "title" : "Scheduling cyclic tasks with binary periods",
-    "authors" : [ "JR Nawrocki", "A Czajka", "W Complak" ],
+    "authors" : [ "A Czajka", "W Complak" ],
     "year" : "1998",
     "citations" : "9"
   }, {
     "title" : "Using non-functional requirements templates for elicitation: A case study",
-    "authors" : [ "S Kopczyńska", "J Nawrocki" ],
+    "authors" : [ "S Kopczynska" ],
     "year" : "2014",
     "citations" : "8"
   }, {
     "title" : "Enhancing use-case-based effort estimation with transaction types",
-    "authors" : [ "M Ochodek", "J Nawrocki" ],
+    "authors" : [ "M Ochodek" ],
     "year" : "2010",
     "citations" : "8"
   }, {
@@ -114,292 +115,292 @@
     "citations" : "8"
   }, {
     "title" : "HAZOP-based identification of events in use cases",
-    "authors" : [ "J Jurkiewicz", "J Nawrocki", "M Ochodek", "T Głowacki" ],
+    "authors" : [ "J Jurkiewicz", "M Ochodek", "T Glowacki" ],
     "year" : "2015",
     "citations" : "7"
   }, {
     "title" : "Towards use-cases benchmark",
-    "authors" : [ "B Alchimowicz", "J Jurkiewicz", "J Nawrocki", "M Ochodek" ],
+    "authors" : [ "B Alchimowicz", "J Jurkiewicz", "M Ochodek" ],
     "year" : "2011",
     "citations" : "7"
   }, {
     "title" : "Automatyczne przetwarzanie tekstów AWK Lex YAC",
-    "authors" : [ "J Cybulka", "B Jankowska", "JR Nawrocki" ],
+    "authors" : [ "J Cybulka", "B Jankowska" ],
     "year" : "2002",
     "citations" : "7"
   }, {
     "title" : "Szeregowanie zadań o okresach binarnych w systemach silnie uwarunkowanych czasowo, I Krajowa Konferencja Metody i systemy komputerowe w badaniach nau...",
-    "authors" : [ "A Czajka", "J Nawrocki" ],
+    "authors" : [ "A Czajka" ],
     "year" : "1997",
     "citations" : "6"
   }, {
+    "title" : "Automated events identification in use cases",
+    "authors" : [ "J Jurkiewicz" ],
+    "year" : "2015",
+    "citations" : "5"
+  }, {
     "title" : "Agile Requirements Engineering: A Research Perspective.",
-    "authors" : [ "JR Nawrocki", "M Ochodek", "J Jurkiewicz", "S Kopczynska", "B Alchimowicz" ],
+    "authors" : [ "M Ochodek", "J Jurkiewicz", "S Kopczynska", "B Alchimowicz" ],
     "year" : "2014",
     "citations" : "5"
   }, {
     "title" : "SOFSEM 2009: Theory and Practice of Computer Science: 35th Conference on Current Trends in Theory and Practice of Computer Science, Špindleruv Mlýn, Czech...",
-    "authors" : [ "M Nielsen", "A Kucera", "PB Miltersen", "C Palamidessi", "P Tuma", "F Valencia" ],
+    "authors" : [ "M Nielsen", "A Kucera", "P Miltersen", "C Palamidessi", "P Tuma", "F Valencia" ],
     "year" : "2009",
     "citations" : "5"
   }, {
     "title" : "3-Step Knowledge Transition: A Case-Study in Architecture Evaluation",
-    "authors" : [ "B Michalik", "J Nawrocki", "M Ochodek" ],
+    "authors" : [ "B Michalik", "M Ochodek" ],
     "year" : "2008",
     "citations" : "5"
   }, {
     "title" : "ISO 9001: 2000 z perspektywy CMMI a poznańska rzeczywistość",
-    "authors" : [ "M Dorsz", "J Nawrocki" ],
+    "authors" : [ "M Dorsz" ],
     "year" : "2003",
     "citations" : "5"
   }, {
     "title" : "Algorithms for fair and efficient educational recruitment",
-    "authors" : [ "AP Urbanski", "J Nawrocki" ],
+    "authors" : [ "A Urbanski" ],
     "year" : "2003",
     "citations" : "5"
   }, {
-    "title" : "Automated events identification in use cases",
-    "authors" : [ "J Jurkiewicz", "J Nawrocki" ],
-    "year" : "2015",
-    "citations" : "4"
-  }, {
     "title" : "The Knapsack-Lightening problem and its application to scheduling HRT tasks",
-    "authors" : [ "JR Nawrocki", "W Complak", "J Błażewicz", "S Kopczyńska", "M Maćkowiak" ],
+    "authors" : [ "W Complak", "J Blazewicz", "S Kopczynska", "M Mackowiak" ],
     "year" : "2009",
     "citations" : "4"
   }, {
     "title" : "Balancing agility and formalism in software engineering, CEE-SET 2007, Revised selected papers",
-    "authors" : [ "B Meyer", "JR Nawrocki", "B Walter" ],
+    "authors" : [ "B Meyer", "B Walter" ],
     "year" : "2008",
     "citations" : "4"
   }, {
     "title" : "Structured meetings for non-functional requirements elicitation",
-    "authors" : [ "S Kopczynska", "M Mackowiak", "J Nawrocki" ],
+    "authors" : [ "S Kopczynska", "M Mackowiak" ],
     "year" : "2011",
     "citations" : "3"
   }, {
     "title" : "Towards Decision Centric Repository of Architectural Knowledge.",
-    "authors" : [ "B Michalik", "JR Nawrocki" ],
+    "authors" : [ "B Michalik" ],
     "year" : "2009",
     "citations" : "3"
   }, {
     "title" : "Quick prototyping of web applications",
-    "authors" : [ "Ł Olek", "B Michalik", "J Nawrocki", "M Ochodek" ],
+    "authors" : [ "Ł Olek", "B Michalik", "M Ochodek" ],
     "year" : "2007",
     "citations" : "3"
   }, {
     "title" : "Binaryzacja okresów zadań cyklicznych",
-    "authors" : [ "J Nawrocki", "A Czajka" ],
+    "authors" : [ "A Czajka" ],
     "year" : "2000",
     "citations" : "3"
   }, {
     "title" : "Dynamic storage allocation with limited compaction-complexity and some practical implications",
-    "authors" : [ "J Błażewicz", "JR Nawrocki" ],
+    "authors" : [ "J Blazewicz" ],
     "year" : "1985",
     "citations" : "3"
   }, {
     "title" : "Acceptance testing of web applications with test description language",
-    "authors" : [ "Ł Olek", "B Alchimowicz", "J Nawrocki" ],
+    "authors" : [ "Ł Olek", "B Alchimowicz" ],
     "year" : "2014",
     "citations" : "2"
   }, {
     "title" : "Investigating the usefulness of notations in the context of requirements engineering",
-    "authors" : [ "A Gross", "J Jurkiewicz", "J Doerr", "J Nawrocki" ],
+    "authors" : [ "A Gross", "J Jurkiewicz", "J Doerr" ],
     "year" : "2012",
     "citations" : "2"
   }, {
     "title" : "Enhancing Use Cases with Screen Designs. A Comparison of Two Approaches",
-    "authors" : [ "L Olek", "M Ochodek", "J Nawrocki" ],
+    "authors" : [ "L Olek", "M Ochodek" ],
     "year" : "2010",
     "citations" : "2"
   }, {
     "title" : "Extreme89: An XP War Game",
-    "authors" : [ "J Nawrocki", "A Wojciechowski" ],
+    "authors" : [ "A Wojciechowski" ],
     "year" : "2006",
     "citations" : "2"
   }, {
     "title" : "Real-time systems education III: proceedings, November 21, 1998, Poznań, Poland",
-    "authors" : [ "J Nawrocki" ],
+    "authors" : [ ],
     "year" : "1999",
     "citations" : "2"
   }, {
-    "title" : "Real-Time Systems Education",
-    "authors" : [ "J Nawrocki", "JJ Schwarz", "J Zalewski" ],
-    "year" : "1998",
-    "citations" : "2"
-  }, {
     "title" : "Szeregowanie zadań w systemach silnie uwarunkowanych czasowo metodą cyklicznego obciążenia",
-    "authors" : [ "JR Nawrocki", "A Czajka" ],
+    "authors" : [ "A Czajka" ],
     "year" : "1998",
     "citations" : "2"
   }, {
     "title" : "Wprowadzenie do przetwarzania tekstów w języku AWK",
-    "authors" : [ "JR Nawrocki", "W Complak" ],
+    "authors" : [ "W Complak" ],
     "year" : "1994",
     "citations" : "2"
   }, {
     "title" : "Fixed-sized blocks optimization",
-    "authors" : [ "JR Nawrocki", "A Urbański" ],
+    "authors" : [ "A Urbanski" ],
     "year" : "1988",
     "citations" : "2"
   }, {
     "title" : "Równowaga między zwinnością a dyscypliną z wykorzystaniem Xprince",
-    "authors" : [ "J Nawrocki", "Ł Olek", "M Jasiński", "B Paliświat", "B Walter", "N Pietrzak", "P Godek" ],
+    "authors" : [ "Ł Olek", "M Jasinski", "B Paliswiat", "B Walter", "N Pietrzak", "P Godek" ],
     "year" : "",
     "citations" : "2"
   }, {
     "title" : "Enhancing use cases with screen designs",
-    "authors" : [ "Ł Olek", "J Nawrocki", "M Ochodek" ],
+    "authors" : [ "Ł Olek", "M Ochodek" ],
     "year" : "2011",
     "citations" : "1"
   }, {
     "title" : "Generating syntax diagrams from regular expressions",
-    "authors" : [ "B Alchimowicz", "J Nawrocki" ],
+    "authors" : [ "B Alchimowicz" ],
     "year" : "2011",
     "citations" : "1"
   }, {
     "title" : "ATG: Platforma do automatycznego generowania symulacyjnych systemów szkoleniowych",
-    "authors" : [ "M Dorsz", "J Nawrocki", "A Demuth" ],
+    "authors" : [ "M Dorsz", "A Demuth" ],
     "year" : "2005",
     "citations" : "1"
   }, {
     "title" : "Making a capture-and-play tool suitable for agile software development",
-    "authors" : [ "M Gabor", "G Jachimko", "JR Nawrocki" ],
+    "authors" : [ "M Gabor", "G Jachimko" ],
     "year" : "2004",
     "citations" : "1"
   }, {
     "title" : "Automatic bad-smell detection in Java programs",
-    "authors" : [ "B Pietrzak", "B Walter", "JR Nawrocki" ],
+    "authors" : [ "B Pietrzak", "B Walter" ],
     "year" : "2004",
     "citations" : "1"
   }, {
+    "title" : "Real-Time Systems Education",
+    "authors" : [ "J Schwarz", "J Zalewski" ],
+    "year" : "1998",
+    "citations" : "1"
+  }, {
     "title" : "HRT-HOOD: metoda projektowania systemów uwarunkowanych czasowo",
-    "authors" : [ "W Complak", "A Czajka", "JR Nawrocki" ],
+    "authors" : [ "W Complak", "A Czajka" ],
     "year" : "1998",
     "citations" : "1"
   }, {
     "title" : "Design of HRT Systems and Their Implementation in C",
-    "authors" : [ "JR Nawrocki", "W Complak", "A Czajka" ],
+    "authors" : [ "W Complak", "A Czajka" ],
     "year" : "1997",
     "citations" : "1"
   }, {
     "title" : "Optimization of region-based storage allocation",
-    "authors" : [ "JR Nawrocki", "A URBANSKI" ],
+    "authors" : [ "A URBANSKI" ],
     "year" : "1994",
     "citations" : "1"
   }, {
     "title" : "Wzbogacalniki z cieczą zawiesinową oraz metody oceny ich pracy",
-    "authors" : [ "J Nawrocki", "A Świerkot-Kopała" ],
+    "authors" : [ "A Swierkot-Kopala" ],
     "year" : "1992",
     "citations" : "1"
   }, {
     "title" : "On display optimization for Algol-like languages",
-    "authors" : [ "JR Nawrocki", "CHA Koster" ],
+    "authors" : [ "C Koster" ],
     "year" : "1990",
     "citations" : "1"
   }, {
     "title" : "Contiguous segmentation with limited compacting",
-    "authors" : [ "JR Nawrocki" ],
+    "authors" : [ ],
     "year" : "1983",
     "citations" : "1"
   }, {
     "title" : "Extreme89-gra symulacyjna pomagająca zrozumieć Programowanie Ekstremalne",
-    "authors" : [ "JR Nawrocki", "A Wojciechowski" ],
+    "authors" : [ "A Wojciechowski" ],
     "year" : "",
     "citations" : "1"
   }, {
     "title" : "Programowanie ekstremalne i PRINCE2",
-    "authors" : [ "JR Nawrocki", "M Jasiński" ],
+    "authors" : [ "M Jasinski" ],
     "year" : "",
     "citations" : "1"
   }, {
     "title" : "HAZOP-based Approach to Pattern Identification for Non-functional Requirements",
-    "authors" : [ "S Kopczynska", "J Nawrocki" ],
+    "authors" : [ "S Kopczynska" ],
     "year" : "2015",
     "citations" : ""
   }, {
     "title" : "The COCA quality model for user documentation",
-    "authors" : [ "B Alchimowicz", "JR Nawrocki" ],
+    "authors" : [ "B Alchimowicz" ],
     "year" : "2014",
     "citations" : ""
   }, {
     "title" : "SOFSEM 2013: Theory and Practice of Computer Science: 39th conference on current trends in theory and practice of computer science: Špindlerův Mlýn, Czech...",
-    "authors" : [ "P van Emde Boas", "FCA Groen", "GF Italiano", "J Nawrocki", "H Sack" ],
+    "authors" : [ "F Groen", "G Italiano", "H Sack" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Reliability of transaction identification in use cases",
-    "authors" : [ "M Ochodek", "B Alchimowicz", "J Jurkiewicz", "J Nawrocki" ],
+    "authors" : [ "M Ochodek", "B Alchimowicz", "J Jurkiewicz" ],
     "year" : "2010",
     "citations" : ""
   }, {
     "title" : "Software Engineering Techniques in Progress",
-    "authors" : [ "Z Huzar", "JR Nawrocki", "M Szpyrka" ],
+    "authors" : [ "Z Huzar", "M Szpyrka" ],
     "year" : "2009",
     "citations" : ""
   }, {
     "title" : "Software Engineering in East and South Europe (SEESE'08)",
-    "authors" : [ "I Crnkovic", "J Nawrocki" ],
+    "authors" : [ "I Crnkovic" ],
     "year" : "2008",
     "citations" : ""
   }, {
     "title" : "Zastosowanie nowoczesnych technik multimedialnych i komunikacji do tworzenia materiałów dla systemów zdalnego nauczania",
-    "authors" : [ "J Nawrocki", "S Kopczyńska", "M Maćkowiak" ],
+    "authors" : [ "S Kopczynska", "M Mackowiak" ],
     "year" : "2008",
     "citations" : ""
   }, {
     "title" : "Doświadczenia Wielkopolskiego projektu InMoST dotyczącego transferu wiedzy na temat metod wytwarzania oprogramowania",
-    "authors" : [ "E Nawrocka", "J Nawrocki", "B Bogacki" ],
+    "authors" : [ "E Nawrocka", "B Bogacki" ],
     "year" : "2007",
     "citations" : ""
   }, {
     "title" : "Animacja przypadków użycia za pomocą diagramów sekwencji",
-    "authors" : [ "M Pietrzak", "M Olek", "J Nawrocki" ],
+    "authors" : [ "M Pietrzak", "M Olek" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Historia rezultatów testów jednostkowych tworzona za pomocą CruiseControl i Maven",
-    "authors" : [ "J Nawrocki", "P Pawłowski", "M Werla" ],
+    "authors" : [ "P Pawlowski", "M Werla" ],
     "year" : "2004",
     "citations" : ""
   }, {
     "title" : "Introduction to the Special issue on software engineering",
-    "authors" : [ "Z Huzar", "Z Mazur", "JR Nawrocki" ],
+    "authors" : [ "Z Huzar", "Z Mazur" ],
     "year" : "2004",
     "citations" : ""
   }, {
     "title" : "ProInfo: system zarządzania informacją o przedsięwzięciu programistycznym",
-    "authors" : [ "J Nawrocki", "K Pospiech", "M Dorsz" ],
+    "authors" : [ "K Pospiech", "M Dorsz" ],
     "year" : "2004",
     "citations" : ""
   }, {
     "title" : "Warstwa prezentacji w wielowarstwowych systemach informacyjnych",
-    "authors" : [ "B Paliświat", "J Nawrocki" ],
+    "authors" : [ "B Paliswiat" ],
     "year" : "2004",
     "citations" : ""
   }, {
     "title" : "Internetowy system informacyjny o projektach studenckich",
-    "authors" : [ "J Nawrocki", "R Peliwo", "J Maza" ],
+    "authors" : [ "R Peliwo", "J Maza" ],
     "year" : "2004",
     "citations" : ""
   }, {
     "title" : "Algorytmy sprawiedliwej kwalifikacji uczniów i studentów w szkołach średnich i wyższych",
-    "authors" : [ "AP Urbański", "JR Nawrocki" ],
+    "authors" : [ "A Urbanski" ],
     "year" : "2003",
     "citations" : ""
   }, {
     "title" : "System internetowy wspomagający wytwarzanie oprogramowania metodą PRINCE 2",
-    "authors" : [ "J Nawrocki", "P Pawałowski", "K Pospiech" ],
+    "authors" : [ "P Pawalowski", "K Pospiech" ],
     "year" : "2003",
     "citations" : ""
   }, {
     "title" : "Paleomagnetyzm sekwencji lessowo-glebowych z odsłonięć Zahvizdja i Yezupil",
-    "authors" : [ "J Nawrocki" ],
+    "authors" : [ ],
     "year" : "2002",
     "citations" : ""
   }, {
     "title" : "Introduction to the special issue on software engineering",
-    "authors" : [ "JR Nawrocki", "B Walter" ],
+    "authors" : [ "B Walter" ],
     "year" : "2002",
     "citations" : ""
   } ],

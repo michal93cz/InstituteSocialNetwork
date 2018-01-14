@@ -1,300 +1,301 @@
 {
   "name" : "K Dembczynski",
-  "citations" : 1787,
+  "fullName" : "Krzysztof Dembczynski",
+  "citations" : 1816,
   "tenIndex" : 33,
   "articles" : [ {
-    "title" : "Bayes optimal multilabel classification via probabilistic classifier chains",
-    "authors" : [ "W Cheng", " E Hüllermeier", " KJ Dembczynski" ],
+    "title" : "Bayes Optimal Multilabel Classification via Probabilistic Classifier Chains.",
+    "authors" : [ "W Cheng", "E Hullermeier" ],
     "year" : "2010",
-    "citations" : "299"
+    "citations" : "306"
   }, {
     "title" : "On label dependence and loss minimization in multi-label classification",
-    "authors" : [ "K Dembczyński", " W Waegeman", " W Cheng", " E Hüllermeier" ],
+    "authors" : [ "W Waegeman", "W Cheng", "E Hullermeier" ],
     "year" : "2012",
-    "citations" : "152"
+    "citations" : "155"
   }, {
     "title" : "Rough set approach to multiple criteria classification with imprecise evaluations and assignments",
-    "authors" : [ "K Dembczyński", " S Greco", " R Słowiński" ],
+    "authors" : [ "S Greco", "R Slowinski" ],
     "year" : "2009",
     "citations" : "129"
   }, {
     "title" : "Stochastic dominance-based rough set model for ordinal classification",
-    "authors" : [ "W Kotłowski", " K Dembczyński", " S Greco", " R Słowiński" ],
+    "authors" : [ "W Kotlowski", "S Greco", "R Slowinski" ],
     "year" : "2008",
-    "citations" : "115"
+    "citations" : "116"
   }, {
     "title" : "An exact algorithm for F-measure maximization",
-    "authors" : [ "KJ Dembczynski", " W Waegeman", " W Cheng", " E Hüllermeier" ],
+    "authors" : [ "W Waegeman", "W Cheng", "E Hullermeier" ],
     "year" : "2011",
-    "citations" : "82"
+    "citations" : "85"
   }, {
     "title" : "Predicting ads clickthrough rate with decision rules",
-    "authors" : [ "K Dembczynski", " W Kotlowski", " D Weiss" ],
+    "authors" : [ "W Kotlowski", "D Weiss" ],
     "year" : "2008",
-    "citations" : "66"
+    "citations" : "67"
   }, {
     "title" : "On label dependence in multilabel classification",
-    "authors" : [ "K Dembszynski", " W Waegeman", " W Cheng", " E Hüllermeier" ],
+    "authors" : [ "K Dembszynski", "W Waegeman", "W Cheng", "E Hullermeier" ],
     "year" : "2010",
     "citations" : "65"
   }, {
     "title" : "Generation of exhaustive set of rules within dominance-based rough set approach",
-    "authors" : [ "K Dembczyński", " R Pindur", " R Susmaga" ],
+    "authors" : [ "R Pindur", "R Susmaga" ],
     "year" : "2003",
     "citations" : "63"
   }, {
+    "title" : "Label ranking methods based on the Plackett-Luce model",
+    "authors" : [ "W Cheng", "E Hullermeier" ],
+    "year" : "2010",
+    "citations" : "58"
+  }, {
     "title" : "Bipartite ranking through minimization of univariate loss",
-    "authors" : [ "W Kotlowski", " KJ Dembczynski", " E Huellermeier" ],
+    "authors" : [ "W Kotlowski", "E Huellermeier" ],
     "year" : "2011",
     "citations" : "56"
   }, {
     "title" : "Learning monotone nonlinear models using the Choquet integral",
-    "authors" : [ "AF Tehrani", " W Cheng", " K Dembczyński", " E Hüllermeier" ],
+    "authors" : [ "A Tehrani", "W Cheng", "E Hullermeier" ],
     "year" : "2012",
     "citations" : "55"
   }, {
-    "title" : "Label ranking methods based on the Plackett-Luce model",
-    "authors" : [ "W Cheng", " E Hüllermeier", " KJ Dembczynski" ],
-    "year" : "2010",
-    "citations" : "55"
-  }, {
     "title" : "Optimizing the F-measure in multi-label classification: Plug-in rule approach versus structured loss minimization",
-    "authors" : [ "K Dembczynski", " A Jachnik", " W Kotlowski", " W Waegeman", " E Hüllermeier" ],
+    "authors" : [ "A Jachnik", "W Kotlowski", "W Waegeman", "E Hullermeier" ],
     "year" : "2013",
-    "citations" : "51"
+    "citations" : "54"
   }, {
     "title" : "An analysis of chaining in multi-label classification",
-    "authors" : [ "K Dembczyński", " W Waegeman", " E Hüllermeier" ],
+    "authors" : [ "W Waegeman", "E Hullermeier" ],
     "year" : "2012",
     "citations" : "50"
   }, {
     "title" : "Dominance-based rough set classifier without induction of decision rules",
-    "authors" : [ "K Dembczyński", " R Pindur", " R Susmaga" ],
+    "authors" : [ "R Pindur", "R Susmaga" ],
     "year" : "2003",
     "citations" : "45"
   }, {
     "title" : "ENDER: a statistical framework for boosting decision rules",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "authors" : [ "W Kotlowski", "R Slowinski" ],
     "year" : "2010",
     "citations" : "41"
   }, {
     "title" : "Statistical model for rough set approach to multicriteria classification",
-    "authors" : [ "K Dembczyński", " S Greco", " W Kotłowski", " R Słowiński" ],
+    "authors" : [ "S Greco", "W Kotlowski", "R Slowinski" ],
     "year" : "2007",
-    "citations" : "36"
+    "citations" : "37"
+  }, {
+    "title" : "Graded multilabel classification: The ordinal case",
+    "authors" : [ "W Cheng", "E Hullermeier" ],
+    "year" : "2010",
+    "citations" : "31"
   }, {
     "title" : "Methodology of rough-set-based classification and sorting with hierarchical structure of attributes and criteria",
-    "authors" : [ "K Dembczyński", " S Greco", " R Słowiński" ],
+    "authors" : [ "S Greco", "R Slowinski" ],
     "year" : "2002",
     "citations" : "31"
   }, {
-    "title" : "Graded multilabel classification: The ordinal case",
-    "authors" : [ "W Cheng", " E Hüllermeier", " KJ Dembczynski" ],
-    "year" : "2010",
-    "citations" : "29"
-  }, {
     "title" : "Regret analysis for performance metrics in multi-label classification: the case of hamming and subset zero-one loss",
-    "authors" : [ "K Dembczyński", " W Waegeman", " W Cheng", " E Hüllermeier" ],
+    "authors" : [ "W Waegeman", "W Cheng", "E Hullermeier" ],
     "year" : "2010",
     "citations" : "26"
   }, {
+    "title" : "Ordinal classification with decision rules",
+    "authors" : [ "W Kotlowski", "R Slowinski" ],
+    "year" : "2007",
+    "citations" : "25"
+  }, {
     "title" : "Second-order rough approximations in multi-criteria classification with imprecise evaluations and assignments",
-    "authors" : [ "K Dembczyński", " S Greco", " R Słowiński" ],
+    "authors" : [ "S Greco", "R Slowinski" ],
     "year" : "2005",
     "citations" : "25"
   }, {
-    "title" : "Ordinal classification with decision rules",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
-    "year" : "2007",
-    "citations" : "24"
-  }, {
     "title" : "Maximum likelihood rule ensembles",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "authors" : [ "W Kotlowski", "R Slowinski" ],
     "year" : "2008",
     "citations" : "23"
   }, {
     "title" : "Ensemble of decision rules for ordinal classification with monotonicity constraints",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "authors" : [ "W Kotlowski", "R Slowinski" ],
     "year" : "2008",
     "citations" : "23"
   }, {
+    "title" : "Reliable classification: Learning classifiers that distinguish aleatoric and epistemic uncertainty",
+    "authors" : [ "R Senge", "S Bosner", "J Haasenritter", "O Hirsch" ],
+    "year" : "2014",
+    "citations" : "22"
+  }, {
     "title" : "Consistent multilabel ranking through univariate losses",
-    "authors" : [ "K Dembczynski", " W Kotlowski", " E Hüllermeier" ],
+    "authors" : [ "W Kotlowski", "E Hullermeier" ],
     "year" : "2012",
     "citations" : "22"
   }, {
-    "title" : "Reliable classification: Learning classifiers that distinguish aleatoric and epistemic uncertainty",
-    "authors" : [ "R Senge", " S Bösner", " K Dembczyński", " J Haasenritter", " O Hirsch", " ..." ],
-    "year" : "2014",
-    "citations" : "21"
-  }, {
     "title" : "Solving regression by learning an ensemble of decision rules",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "authors" : [ "W Kotlowski", "R Slowinski" ],
     "year" : "2008",
     "citations" : "21"
   }, {
+    "title" : "Learning rule ensembles for ordinal classification with monotonicity constraints",
+    "authors" : [ "R Slowinski" ],
+    "year" : "2009",
+    "citations" : "18"
+  }, {
     "title" : "On the bayes-optimality of F-measure maximizers",
-    "authors" : [ "W Waegeman", " K Dembczyńki", " A Jachnik", " W Cheng", " E Hüllermeier" ],
+    "authors" : [ "W Waegeman", "K Dembczynki", "A Jachnik", "W Cheng", "E Hullermeier" ],
     "year" : "2014",
     "citations" : "17"
   }, {
-    "title" : "Learning rule ensembles for ordinal classification with monotonicity constraints",
-    "authors" : [ "K Dembczyński", " R Słowiński" ],
-    "year" : "2009",
-    "citations" : "17"
-  }, {
     "title" : "Learning of rule ensembles for multiple attribute ranking problems",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "authors" : [ "W Kotlowski", "R Slowinski", "M Szelag" ],
     "year" : "2010",
     "citations" : "16"
   }, {
     "title" : "Effective Prediction of Web User Behaviour with User-Level Models.",
-    "authors" : [ "K Dembczynski", " W Kotlowski", " M Sydow" ],
+    "authors" : [ "W Kotlowski", "M Sydow" ],
     "year" : "2008",
     "citations" : "15"
   }, {
     "title" : "Optimized generalized decision in dominance-based rough set approach",
-    "authors" : [ "K Dembczyński", " S Greco", " W Kotłowski", " R Słowiński" ],
+    "authors" : [ "S Greco", "W Kotlowski", "R Slowinski" ],
     "year" : "2007",
     "citations" : "14"
   }, {
     "title" : "Quality of rough approximation in multi-criteria classification problems",
-    "authors" : [ "K Dembczyński", " S Greco", " W Kotłowski", " R Słowiński" ],
+    "authors" : [ "S Greco", "W Kotlowski", "R Slowinski" ],
     "year" : "2006",
     "citations" : "14"
   }, {
     "title" : "Additive preference model with piecewise linear components resulting from dominance-based rough set approximations",
-    "authors" : [ "K Dembczynski", " W Kotlowski", " R Slowinski" ],
+    "authors" : [ "W Kotlowski", "R Slowinski" ],
     "year" : "2006",
     "citations" : "12"
   }, {
     "title" : "Surrogate regret bounds for generalized classification performance metrics",
-    "authors" : [ "W Kotlowski", " K Dembczyński" ],
+    "authors" : [ "W Kotlowski" ],
     "year" : "2016",
     "citations" : "9"
   }, {
     "title" : "Ensemble of decision rules",
-    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "authors" : [ "J Blaszczynski", "W Kotlowski", "R Slowinski", "M Szelag" ],
     "year" : "2006",
     "citations" : "9"
   }, {
+    "title" : "F-measure maximization in topical classification",
+    "authors" : [ "W Cheng", "E Hullermeier", "A Jaroszewicz", "W Waegeman" ],
+    "year" : "2012",
+    "citations" : "8"
+  }, {
     "title" : "Multivariate modeling to identify patterns in clinical data: the example of chest pain",
-    "authors" : [ "O Hirsch", " S Bösner", " E Hüllermeier", " R Senge", " K Dembczynski", " ..." ],
+    "authors" : [ "O Hirsch", "S Bosner", "E Hullermeier", "R Senge" ],
     "year" : "2011",
     "citations" : "8"
   }, {
-    "title" : "F-measure maximization in topical classification",
-    "authors" : [ "W Cheng", " K Dembczyński", " E Hüllermeier", " A Jaroszewicz", " W Waegeman" ],
-    "year" : "2012",
-    "citations" : "6"
-  }, {
     "title" : "A general framework for learning an ensemble of decision rules",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "authors" : [ "W Kotlowski", "R Slowinski" ],
     "year" : "2008",
     "citations" : "6"
   }, {
     "title" : "Statistical model for rough set approach to multicriteria classification",
-    "authors" : [ "W Kotlowski", " K Dembczynski", " S Greco", " R Slowinski" ],
+    "authors" : [ "W Kotlowski", "S Greco", "R Slowinski" ],
     "year" : "2007",
     "citations" : "6"
   }, {
     "title" : "Joint mode estimation in multi-label classification by chaining",
-    "authors" : [ "K Dembczyński", " W Waegeman", " E Hüllermeier" ],
+    "authors" : [ "W Waegeman", "E Hullermeier" ],
     "year" : "2011",
     "citations" : "5"
   }, {
     "title" : "Ensembles of decision rules for solving binary classification problems in the presence of missing values",
-    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " R Słowiński", " M Szeląg" ],
+    "authors" : [ "J Blaszczynski", "W Kotlowski", "R Slowinski", "M Szelag" ],
     "year" : "2006",
     "citations" : "5"
   }, {
     "title" : "Interactive analysis of preference-ordered data using dominance-based rough set approach",
-    "authors" : [ "J Błaszczyński", " K Dembczyński", " R Słowiński" ],
+    "authors" : [ "J Blaszczynski", "R Slowinski" ],
     "year" : "2006",
     "citations" : "5"
   }, {
     "title" : "Decision rule-based algorithm for ordinal classification based on rank loss minimization",
-    "authors" : [ "K Dembczyński", " W Kotłowski" ],
+    "authors" : [ "W Kotlowski" ],
     "year" : "2009",
     "citations" : "4"
   }, {
     "title" : "Mining direct marketing data by ensembles of weak learners and rough set methods",
-    "authors" : [ "J Błaszczyński", " K Dembczyński", " W Kotłowski", " M Pawłowski" ],
+    "authors" : [ "J Blaszczynski", "W Kotlowski", "M Pawlowski" ],
     "year" : "2006",
     "citations" : "4"
   }, {
     "title" : "Exploring criteria in forest aesthetics: rough sets theory and discourse analysis",
-    "authors" : [ "R Kohsaka", " K Dembczynski" ],
+    "authors" : [ "R Kohsaka" ],
     "year" : "2003",
     "citations" : "3"
   }, {
     "title" : "Consistency of probabilistic classifier trees",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " W Waegeman", " R Busa-Fekete", " ..." ],
+    "authors" : [ "W Kotlowski", "W Waegeman", "R Busa-Fekete" ],
     "year" : "2016",
     "citations" : "2"
   }, {
     "title" : "Matrix factorization for travel time estimation in large traffic networks",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " P Gaweł", " A Szarecki", " A Jaszkiewicz" ],
+    "authors" : [ "W Kotlowski", "P Gawel", "A Szarecki", "A Jaszkiewicz" ],
     "year" : "2013",
     "citations" : "2"
   }, {
     "title" : "Community Traffic: A Technology for the Next Generation Car Navigation",
-    "authors" : [ "P Gaweł", " K Dembczyński", " W Kotłowski", " M Kubiak", " R Susmaga", " P Wesołek", " ..." ],
+    "authors" : [ "P Gawel", "W Kotlowski", "M Kubiak", "R Susmaga", "P Wesolek" ],
     "year" : "2013",
     "citations" : "1"
   }, {
     "title" : "Beyond sequential covering–boosted decision rules",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " R Słowiński" ],
+    "authors" : [ "W Kotlowski", "R Slowinski" ],
     "year" : "2010",
     "citations" : "1"
   }, {
     "title" : "Relationship between loss functions and confirmation measures",
-    "authors" : [ "K Dembczyński", " S Greco", " W Kotłowski", " R Słowiński" ],
+    "authors" : [ "S Greco", "W Kotlowski", "R Slowinski" ],
     "year" : "2007",
     "citations" : "1"
   }, {
     "title" : "Consistency Analysis for Binary Classification Revisited",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " O Koyejo", " N Natarajan" ],
+    "authors" : [ "W Kotlowski", "O Koyejo", "N Natarajan" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "Estimating relative depth in single images via rankboost",
-    "authors" : [ "R Ewerth", " M Springstein", " E Müller", " A Balz", " J Gehlhaar", " T Naziyok", " ..." ],
+    "authors" : [ "R Ewerth", "M Springstein", "E Muller", "A Balz", "J Gehlhaar", "T Naziyok" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "Extreme classification under limited space and time budget",
-    "authors" : [ "K Jasinska", " K Dembczyński", " N Karampatziakis" ],
+    "authors" : [ "K Jasinska", "N Karampatziakis" ],
     "year" : "2016",
     "citations" : ""
   }, {
     "title" : "Exact and efficient top-K inference for multi-target prediction by querying separable linear relational models",
-    "authors" : [ "M Stock", " K Dembczyński", " B De Baets", " W Waegeman" ],
+    "authors" : [ "M Stock", "W Waegeman" ],
     "year" : "2016",
     "citations" : ""
   }, {
     "title" : "Real-time travel time prediction models in routing for car navigation applications",
-    "authors" : [ "P Gaweł", " K Dembczyński", " W Kotłowski", " A Jaszkiewicz" ],
+    "authors" : [ "P Gawel", "W Kotlowski", "A Jaszkiewicz" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Adapting Travel Time Estimates to Current Traffic Conditions",
-    "authors" : [ "P Gaweł", " K Dembczyński", " R Susmaga", " P Wesołek", " P Zielniewicz", " ..." ],
+    "authors" : [ "P Gawel", "R Susmaga", "P Wesolek", "P Zielniewicz" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Bio-inspired surfactant-modified dextran nanogels mediate enhanced intracellular siRNA delivery",
-    "authors" : [ "L De Backer", " D Noré", " S Druais", " A Gauthier", " K Demyttenaere", " M Brignone", " ..." ],
+    "authors" : [ "D Nore", "S Druais", "A Gauthier", "K Demyttenaere", "M Brignone" ],
     "year" : "2012",
     "citations" : ""
   }, {
     "title" : "Using a deconvolution script to disentangle unseparated polymer peaks chemometrically in SEC-DAD separations",
-    "authors" : [ "T Van Hoeylandt", " F Goethals", " P Espeel", " L Petton", " ..." ],
+    "authors" : [ "F Lynen" ],
     "year" : "2012",
     "citations" : ""
   }, {
     "title" : "Community Traffic: a technology for the next generation car navigation",
-    "authors" : [ "K Dembczyński", " P Gaweł", " A Jaszkiewicz", " W Kotłowski", " M Kubiak", " ..." ],
+    "authors" : [ "P Gawel", "A Jaszkiewicz", "W Kotlowski", "M Kubiak" ],
     "year" : "2012",
     "citations" : ""
   }, {
@@ -304,32 +305,32 @@
     "citations" : ""
   }, {
     "title" : "Radiated emission of an inverter fed motor drive system in a frequency range from 30 to 200 MHz",
-    "authors" : [ "J Peuteman", " T Verbeerst", " J Knockaert", " D Pissoort", " D Vanoost", " I Vervenne" ],
+    "authors" : [ "J Peuteman", "T Verbeerst", "J Knockaert", "D Pissoort", "D Vanoost", "I Vervenne" ],
     "year" : "2011",
     "citations" : ""
   }, {
     "title" : "Improving the travel time prediction by using the real-time floating car data",
-    "authors" : [ "K Dembczynski", " P law Gawe", " A Szarecki" ],
+    "authors" : [ "A Szarecki" ],
     "year" : "2009",
     "citations" : ""
   }, {
     "title" : "Flexible Querying with Fuzzy Projection.",
-    "authors" : [ "K Dembczynski", " M Hapke", " D Przybyl" ],
+    "authors" : [ "M Hapke", "D Przybyl" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "ADBIS 2012 Workshops and PhD Consortium program",
-    "authors" : [ "G Toppin", " M Grzegorowski", " PW Pardel", " S Stawicki", " K Stencel", " FM Schleif", " ..." ],
+    "authors" : [ "G Toppin", "M Grzegorowski", "P Pardel", "S Stawicki", "K Stencel", "F Schleif" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Predicting Web User Behaviour–a Decision-theoretic Approach",
-    "authors" : [ "K Dembczyński", " W Kotłowski", " M Sydow" ],
+    "authors" : [ "W Kotlowski", "M Sydow" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Interim Report IR-03-038 Exploring Criteria in Forest Aesthetics: Rough Sets Theory and Discourse Analysis",
-    "authors" : [ "R Kohsaka", " K Dembczynski", " S Nilsson" ],
+    "authors" : [ "R Kohsaka", "S Nilsson" ],
     "year" : "",
     "citations" : ""
   } ],

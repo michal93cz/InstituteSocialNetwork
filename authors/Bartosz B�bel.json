@@ -1,197 +1,198 @@
 {
   "name" : "B Bebel",
-  "citations" : 312,
+  "fullName" : "Bartosz Bębel",
+  "citations" : 314,
   "tenIndex" : 6,
   "articles" : [ {
     "title" : "Creation and Management of Versions in Multiversion Data Warehouse",
-    "authors" : [ "B Bębel", "J Eder", "C Koncilia", "T Morzy", "R Wrembel" ],
+    "authors" : [ "J Eder", "C Koncilia", "T Morzy", "R Wrembel" ],
     "year" : "2004",
     "citations" : "139"
   }, {
     "title" : "Metadata management in a multiversion data warehouse",
-    "authors" : [ "R Wrembel", "B Bębel" ],
+    "authors" : [ "R Wrembel" ],
     "year" : "2007",
     "citations" : "43"
   }, {
     "title" : "Metadata management in a multiversion data warehouse",
-    "authors" : [ "R Wrembel", "B Bębel" ],
+    "authors" : [ "R Wrembel" ],
     "year" : "2005",
     "citations" : "26"
   }, {
     "title" : "Formal approach to modelling a multiversion data warehouse",
-    "authors" : [ "B Bebel", "Z Królikowski", "R Wrembel" ],
+    "authors" : [ "Z Krolikowski", "R Wrembel" ],
     "year" : "2006",
     "citations" : "25"
   }, {
     "title" : "OLAP-Like Analysis of Time Point-Based Sequential Data.",
-    "authors" : [ "B Bebel", "M Morzy", "T Morzy", "Z Królikowski", "R Wrembel" ],
+    "authors" : [ "M Morzy", "T Morzy", "Z Krolikowski", "R Wrembel" ],
     "year" : "2012",
     "citations" : "16"
   }, {
     "title" : "Oracle. Projektowanie rozproszonych baz danych",
-    "authors" : [ "R Wrembel", "B Bębel" ],
+    "authors" : [ "R Wrembel" ],
     "year" : "2003",
     "citations" : "12"
   }, {
+    "title" : "Managing Multiple Real and Simulation Business Scenarios by Means of a Multiversion Data Warehouse.",
+    "authors" : [ "Z Krolikowski", "R Wrembel" ],
+    "year" : "2006",
+    "citations" : "8"
+  }, {
     "title" : "The framework for detecting and propagating changes from data sources structure into a data wareshouse",
-    "authors" : [ "R Wrembel", "B Bębel", "Z Królikowski" ],
+    "authors" : [ "R Wrembel", "Z Krolikowski" ],
     "year" : "2005",
     "citations" : "8"
   }, {
-    "title" : "Managing Multiple Real and Simulation Business Scenarios by Means of a Multiversion Data Warehouse.",
-    "authors" : [ "B Bebel", "Z Królikowski", "R Wrembel" ],
-    "year" : "2006",
+    "title" : "Storage Structures for Sharing Data in Multiversion Data Warehouse",
+    "authors" : [ "R Wrembel", "B Czejdo" ],
+    "year" : "2004",
     "citations" : "7"
   }, {
-    "title" : "Storage Structures for Sharing Data in Multiversion Data Warehouse",
-    "authors" : [ "B Bębel", "R Wrembel", "B Czejdo" ],
-    "year" : "2004",
-    "citations" : "6"
-  }, {
     "title" : "Hierarchical materialisation of methods in object-oriented views: design, maintenance, and experimental evaluation",
-    "authors" : [ "B Bębel", "R Wrembel" ],
+    "authors" : [ "R Wrembel" ],
     "year" : "2001",
     "citations" : "6"
   }, {
     "title" : "Managing evolution of data warehouses by means of nested transactions",
-    "authors" : [ "B Bebel", "Z Królikowski", "R Wrembel" ],
+    "authors" : [ "Z Krolikowski", "R Wrembel" ],
     "year" : "2006",
     "citations" : "5"
   }, {
     "title" : "Formal model of time point-based sequential data for OLAP-like analysis",
-    "authors" : [ "B Bębel", "T Morzy", "Z Królikowski", "R Wrembel" ],
+    "authors" : [ "T Morzy", "Z Krolikowski", "R Wrembel" ],
     "year" : "2014",
     "citations" : "4"
   }, {
     "title" : "Formal Model for Sequential OLAP",
-    "authors" : [ "B Bębel", "P Krzyżagórski", "M Kujawa", "M Morzy", "T Morzy" ],
+    "authors" : [ "P Krzyzagorski", "M Kujawa", "M Morzy", "T Morzy" ],
     "year" : "2011",
     "citations" : "3"
   }, {
     "title" : "Schema Management in a Multiversion Data Warehouse",
-    "authors" : [ "R Wrembel", "B Bębel" ],
+    "authors" : [ "R Wrembel" ],
     "year" : "2003",
     "citations" : "3"
   }, {
     "title" : "Sequential data analytics by means of Seq-SQL language",
-    "authors" : [ "B Bebel", "T Cichowicz", "T Morzy", "F Rytwiński", "R Wrembel", "C Koncilia" ],
+    "authors" : [ "T Cichowicz", "T Morzy", "F Rytwinski", "R Wrembel", "C Koncilia" ],
     "year" : "2015",
     "citations" : "2"
   }, {
     "title" : "FOCUS: An index for continuous subsequence pattern queries",
-    "authors" : [ "W Andrzejewski", "B Bębel" ],
+    "authors" : [ "W Andrzejewski" ],
     "year" : "2012",
     "citations" : "2"
   }, {
     "title" : "Transaction Concepts for Supporting Changes in Data Warehouses.",
-    "authors" : [ "B Bebel", "Z Królikowski", "T Morzy", "R Wrembel" ],
+    "authors" : [ "Z Krolikowski", "T Morzy", "R Wrembel" ],
     "year" : "2004",
     "citations" : "2"
   }, {
     "title" : "On Methods’ Materialization in Object-Relational Data Warehouse",
-    "authors" : [ "B Bebel", "Z Królikowski", "R Wrembel" ],
+    "authors" : [ "Z Krolikowski", "R Wrembel" ],
     "year" : "2002",
     "citations" : "1"
   }, {
     "title" : "Projektowanie schematów logicznych dla magazynów danych",
-    "authors" : [ "B Bębel", "M Morzy" ],
+    "authors" : [ "M Morzy" ],
     "year" : "2000",
     "citations" : "1"
   }, {
     "title" : "Comparison of genetic and tabu search algorithms in multiquery optimization in advanced database systems",
-    "authors" : [ "Z Królikowski", "T Morzy", "B Bębel" ],
+    "authors" : [ "Z Krolikowski", "T Morzy" ],
     "year" : "2000",
     "citations" : "1"
   }, {
     "title" : "Searching for Patterns in Sequential Data: Functionality and Performance Assessment of Commercial and Open-Source Systems",
-    "authors" : [ "W Andrzejewski", "B Bębel", "S Kłosowski", "B Łukaszewski", "R Wrembel", "..." ],
+    "authors" : [ "W Andrzejewski", "S Klosowski", "B Łukaszewski", "R Wrembel" ],
     "year" : "2016",
     "citations" : ""
   }, {
     "title" : "Second International Conference on Ontologies, DataBases and Applications of Semantics (ODBASE 2005)-Metadata Management in a Multiversion Data Warehou...",
-    "authors" : [ "R Wrembel", "B Bebel" ],
+    "authors" : [ "R Wrembel" ],
     "year" : "2007",
     "citations" : ""
   }, {
     "title" : "Transakcyjne Odświeżanie Magazynów Danych (Transactional Refreshment of Data Warehouses)",
-    "authors" : [ "B Bębel" ],
+    "authors" : [ ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Problematyka implementacji wielowersyjnego magazynu danych",
-    "authors" : [ "B Bębel", "R Guzewicz", "T ", "Majchrzak", "R Wrembel" ],
+    "authors" : [ "R Guzewicz", "R Wrembel" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Dynamika magazynów danych – analiza problemu i propozycje implementacji",
-    "authors" : [ "B Bębel", "Z Królikowski" ],
+    "authors" : [ "Z Krolikowski" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "A Transactional Refreshment of Multiversion Data Warehouse",
-    "authors" : [ "B Bębel", "R Wrembel", "Z Królikowski" ],
+    "authors" : [ "R Wrembel", "Z Krolikowski" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Implementation and Evaluation of Storage Structures for Data Sharing in a Multiversion Data Warehouse",
-    "authors" : [ "R Wrembel", "B Bębel", "T Morzy" ],
+    "authors" : [ "R Wrembel", "T Morzy" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Ontologies, Databases and Applications of Semantics (ODBASE) 2005 International Conference-Metadata-Metadata Management in a Multiversion Data Warehouse",
-    "authors" : [ "R Wrembel", "B Bebel" ],
+    "authors" : [ "R Wrembel" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Porównanie wydajności hurtowni danych ROLAP i MOLAP w Oracle 10g",
-    "authors" : [ "B Bębel", "J Jezierski", "R Wrembel" ],
+    "authors" : [ "J Jezierski", "R Wrembel" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Querying a Multiversion Data Warehouse",
-    "authors" : [ "B Bębel", "T Morzy", "R Wrembel" ],
+    "authors" : [ "T Morzy", "R Wrembel" ],
     "year" : "2004",
     "citations" : ""
   }, {
     "title" : "Transaction Concepts of Data Warehouses",
-    "authors" : [ "B Bebel", "Z Królikowski", "R Wrembel" ],
+    "authors" : [ "Z Krolikowski", "R Wrembel" ],
     "year" : "2004",
     "citations" : ""
   }, {
     "title" : "Creation and Management of Versions in Multiversion Data Warehouses",
-    "authors" : [ "J Eder", "B Bebel", "C Koncilia", "T Morzy", "R Wrembel" ],
+    "authors" : [ "J Eder", "C Koncilia", "T Morzy", "R Wrembel" ],
     "year" : "2004",
     "citations" : ""
   }, {
     "title" : "Replikacja danych w bazach danych Oracle9i",
-    "authors" : [ "B Bębel", "R Wrembel" ],
+    "authors" : [ "R Wrembel" ],
     "year" : "2003",
     "citations" : ""
   }, {
     "title" : "Method Materialization Using the Hierarchical Technique: Experimental Evaluation",
-    "authors" : [ "B Bębel", "R Wrembel" ],
+    "authors" : [ "R Wrembel" ],
     "year" : "2002",
     "citations" : ""
   }, {
     "title" : "Sokrates - information system for education management",
-    "authors" : [ "B Bębel", "M Matysiak" ],
+    "authors" : [ "M Matysiak" ],
     "year" : "2000",
     "citations" : ""
   }, {
     "title" : "Performance Evaluation of Genetic and Combinatorial Algorithms in Multiquery Optimization in Advanced Database Systems",
-    "authors" : [ "Z Królikowski", "B Bębel" ],
+    "authors" : [ "Z Krolikowski" ],
     "year" : "2000",
     "citations" : ""
   }, {
     "title" : "Sequential Data Analytics by Means of Seq-SQL",
-    "authors" : [ "B Bebel", "T Cichowicz", "F Rytwinski", "R Wrembel", "W Andrzejewski", "..." ],
+    "authors" : [ "T Cichowicz", "F Rytwinski", "R Wrembel", "W Andrzejewski" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Zastosowanie Oracle Business Intelligence Beans w budowaniu aplikacji OLAP",
-    "authors" : [ "B Bębel" ],
+    "authors" : [ ],
     "year" : "",
     "citations" : ""
   } ],
-  "hindex" : 7
+  "hindex" : 8
 }

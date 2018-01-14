@@ -1,190 +1,191 @@
 {
   "name" : "M Morzy",
-  "citations" : 547,
+  "fullName" : "Mikołaj Morzy",
+  "citations" : 551,
   "tenIndex" : 14,
   "articles" : [ {
     "title" : "Mining frequent trajectories of moving objects for location prediction",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2007",
-    "citations" : "136"
+    "citations" : "138"
   }, {
     "title" : "Prediction of moving object location based on frequent trajectories",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2006",
-    "citations" : "60"
+    "citations" : "61"
   }, {
     "title" : "Hierarchical bitmap index: An efficient and scalable indexing technique for set-valued attributes",
-    "authors" : [ "M Morzy", "T Morzy", "A Nanopoulos", "Y Manolopoulos" ],
+    "authors" : [ "T Morzy", "A Nanopoulos", "Y Manolopoulos" ],
     "year" : "2003",
     "citations" : "43"
   }, {
     "title" : "New algorithms for mining the reputation of participants of online auctions",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2008",
     "citations" : "26"
   }, {
     "title" : "The Sound of Silence: Mining implicit feedbacks to compute reputation",
-    "authors" : [ "M Morzy", "A Wierzbicki" ],
+    "authors" : [ "A Wierzbicki" ],
     "year" : "2006",
     "citations" : "26"
   }, {
     "title" : "Efficient mining of dissociation rules",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2006",
     "citations" : "17"
   }, {
     "title" : "OLAP-Like Analysis of Time Point-Based Sequential Data.",
-    "authors" : [ "B Bebel", "M Morzy", "T Morzy", "Z Królikowski", "R Wrembel" ],
+    "authors" : [ "B Bebel", "T Morzy", "Z Krolikowski", "R Wrembel" ],
     "year" : "2012",
     "citations" : "16"
   }, {
     "title" : "On mining and social role discovery in Internet forums",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2009",
     "citations" : "16"
   }, {
     "title" : "Opinion mining and social networks: A promising match",
-    "authors" : [ "K Jedrzejewski", "M Morzy" ],
+    "authors" : [ "K Jedrzejewski" ],
     "year" : "2011",
     "citations" : "15"
   }, {
     "title" : "New algorithms for mining the reputation of participants of online auctions",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2005",
     "citations" : "15"
   }, {
     "title" : "Materialized views in data mining",
-    "authors" : [ "B Czejdo", "M Morzy", "M Wojciechowski", "M Zakrzewicz" ],
+    "authors" : [ "B Czejdo", "M Wojciechowski", "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "13"
   }, {
     "title" : "Ecml-pkdd 2011 discovery challenge overview",
-    "authors" : [ "N Antulov-Fantulin", "M Bošnjak", "M Znidaršic", "M Grcar", "M Morzy", "T Šmuc" ],
+    "authors" : [ "N Antulov-Fantulin", "M Bosnjak", "M Znidarsic", "M Grcar", "T Smuc" ],
     "year" : "2011",
     "citations" : "12"
   }, {
     "title" : "Cluster-based analysis and recommendation of sellers in online auctions",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2007",
     "citations" : "12"
   }, {
     "title" : "A study on answering a data mining query using a materialized view",
-    "authors" : [ "M Zakrzewicz", "M Morzy", "M Wojciechowski" ],
+    "authors" : [ "M Zakrzewicz", "M Wojciechowski" ],
     "year" : "2004",
     "citations" : "10"
   }, {
     "title" : "Mining online auction social networks for reputation and recommendation.",
-    "authors" : [ "M Morzy", "A Wierzbicki", "AN Papadopoulos" ],
+    "authors" : [ "A Wierzbicki", "A Papadopoulos" ],
     "year" : "2009",
     "citations" : "9"
   }, {
     "title" : "Oracle Data Mining–odkrywanie wiedzy w dużych wolumenach danych",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2005",
     "citations" : "8"
   }, {
     "title" : "Intelligent reputation assessment for participants of web-based customer-to-customer auctions",
-    "authors" : [ "M Morzy", "M Wojciechowski", "M Zakrzewicz" ],
+    "authors" : [ "M Wojciechowski", "M Zakrzewicz" ],
     "year" : "2005",
     "citations" : "7"
   }, {
     "title" : "Indexing techniques for web access logs",
-    "authors" : [ "Y Manolopoulos", "M Morzy", "T Morzy", "A Nanopoulos", "M Wojciechowski", "..." ],
+    "authors" : [ "Y Manolopoulos", "T Morzy", "A Nanopoulos", "M Wojciechowski" ],
     "year" : "2004",
     "citations" : "7"
   }, {
     "title" : "Measuring the importance of users in a social network based on email communication patterns",
-    "authors" : [ "P Lubarski", "M Morzy" ],
+    "authors" : [ "P Lubarski" ],
     "year" : "2012",
     "citations" : "6"
   }, {
     "title" : "Magazyny danych–stan obecny i kierunki rozwoju",
-    "authors" : [ "R Wrembel", "Z Królikowski", "M Morzy" ],
+    "authors" : [ "R Wrembel", "Z Krolikowski" ],
     "year" : "2000",
     "citations" : "6"
   }, {
     "title" : "Semantic Technologies, czyli Oracle i Web 3.0",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2009",
     "citations" : "5"
   }, {
     "title" : "Indexing of sequences of sets for efficient exact and similar subsequence matching",
-    "authors" : [ "W Andrzejewski", "T Morzy", "M Morzy" ],
+    "authors" : [ "W Andrzejewski", "T Morzy" ],
     "year" : "2005",
     "citations" : "5"
   }, {
     "title" : "Progressive random indexing: dimensionality reduction preserving local network dependencies",
-    "authors" : [ "M Ciesielczyk", "A Szwabe", "M Morzy", "P Misiorek" ],
+    "authors" : [ "M Ciesielczyk", "A Szwabe", "P Misiorek" ],
     "year" : "2017",
     "citations" : "4"
   }, {
     "title" : "ICT Services for open and citizen science",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2015",
     "citations" : "4"
   }, {
     "title" : "Internet forums: What knowledge can be mined",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2010",
     "citations" : "4"
   }, {
     "title" : "An analysis of communities in different types of online forums",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2010",
     "citations" : "4"
   }, {
     "title" : "Eksploracja danych-przegląd dostępnych metod i dziedzin zastosowań",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2006",
     "citations" : "4"
   }, {
     "title" : "Density-based measure of reputation of sellers in online auctions",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2006",
     "citations" : "4"
   }, {
     "title" : "Optimizing a sequence of frequent pattern queries",
-    "authors" : [ "M Morzy", "M Wojciechowski", "M Zakrzewicz" ],
+    "authors" : [ "M Wojciechowski", "M Zakrzewicz" ],
     "year" : "2005",
     "citations" : "4"
   }, {
     "title" : "Data Warehouses with Dynamically Changing Schemas and Data Sources",
-    "authors" : [ "B Czejdo", "K Messa", "T Morzy", "M Morzy", "J Czejdo" ],
+    "authors" : [ "B Czejdo", "K Messa", "T Morzy", "J Czejdo" ],
     "year" : "2003",
     "citations" : "4"
   }, {
     "title" : "Metody indeksowania atrybutów zawierajacych zbiory",
-    "authors" : [ "M Morzy", "Z Królikowski" ],
+    "authors" : [ "Z Krolikowski" ],
     "year" : "2003",
     "citations" : "4"
   }, {
     "title" : "Cost-based sequential pattern query optimization in presence of materialized results of previous queries",
-    "authors" : [ "M Morzy", "M Wojciechowski", "M Zakrzewicz" ],
+    "authors" : [ "M Wojciechowski", "M Zakrzewicz" ],
     "year" : "2002",
     "citations" : "4"
   }, {
     "title" : "Using substitutive itemset mining framework for finding synonymous properties in linked data",
-    "authors" : [ "M Morzy", "A Ławrynowicz", "M Zozuliński" ],
+    "authors" : [ "A Ławrynowicz", "M Zozulinski" ],
     "year" : "2015",
     "citations" : "3"
   }, {
     "title" : "Social network analysis in scientometrics",
-    "authors" : [ "A Matusiak", "M Morzy" ],
+    "authors" : [ "A Matusiak" ],
     "year" : "2012",
     "citations" : "3"
   }, {
     "title" : "Eksploracja aukcji internetowych w poszukiwaniu pozytywnej i negatywnej reputacji sprzedawców,[w:] T",
-    "authors" : [ "M Morzy", "A Wierzbicki" ],
+    "authors" : [ "A Wierzbicki" ],
     "year" : "2007",
     "citations" : "3"
   }, {
     "title" : "Incremental association rule mining using materialized data mining views",
-    "authors" : [ "M Morzy", "T Morzy", "Z Królikowski" ],
+    "authors" : [ "T Morzy", "Z Krolikowski" ],
     "year" : "2005",
     "citations" : "3"
   }, {
     "title" : "Aktywne hurtownie danych",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2004",
     "citations" : "3"
   }, {
@@ -194,77 +195,82 @@
     "citations" : "3"
   }, {
     "title" : "Wprowadzenie do analizy sieci społecznych",
-    "authors" : [ "M Morzy", "A Ławrynowicz" ],
+    "authors" : [ "A Ławrynowicz" ],
     "year" : "2015",
     "citations" : "2"
   }, {
     "title" : "On efficient link recommendation in social networks using actor-fact matrices",
-    "authors" : [ "M Ciesielczyk", "A Szwabe", "M Morzy" ],
+    "authors" : [ "M Ciesielczyk", "A Szwabe" ],
     "year" : "2015",
     "citations" : "2"
   }, {
     "title" : "Oracle TimesTen–cała baza danych w pamięci operacyjnej",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2009",
     "citations" : "2"
   }, {
     "title" : "Particle Swarm as a Model for Community Formation in Social Networks",
-    "authors" : [ "M Morzy", "T Kruk" ],
+    "authors" : [ "T Kruk" ],
     "year" : "2016",
     "citations" : "1"
   }, {
     "title" : "Using Graph and Vertex Entropy to Compare Empirical Graphs with Theoretical Graph Models",
-    "authors" : [ "T Kajdanowicz", "M Morzy" ],
+    "authors" : [ "T Kajdanowicz" ],
     "year" : "2016",
     "citations" : "1"
   }, {
     "title" : "Benford’s Distribution in Complex Networks",
-    "authors" : [ "M Morzy", "T Kajdanowicz", "BK Szymański" ],
+    "authors" : [ "T Kajdanowicz", "B Szymanski" ],
     "year" : "2016",
     "citations" : "1"
   }, {
     "title" : "Evolution of Online Forum Communities",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2013",
     "citations" : "1"
   }, {
     "title" : "Social Network Analysis on Highly Aggregated Data: What Can We Find?",
-    "authors" : [ "M Morzy", "K Forenc" ],
+    "authors" : [ "K Forenc" ],
     "year" : "2013",
     "citations" : "1"
   }, {
     "title" : "Analysis and Mining of Online Communities of Internet Forum Users",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2012",
     "citations" : "1"
   }, {
     "title" : "Incremental data mining using concurrent online refresh of materialized data mining views",
-    "authors" : [ "M Morzy", "T Morzy", "M Wojciechowski", "M Zakrzewicz" ],
+    "authors" : [ "T Morzy", "M Wojciechowski", "M Zakrzewicz" ],
     "year" : "2005",
     "citations" : "1"
   }, {
     "title" : "Hierarchiczny indeks bitmapowy wspierający wykonywanie zapytań w bazach danych z atrybutami zawierającymi zbiory",
-    "authors" : [ "W Andrzejewski", "Z Królikowski", "M Morzy", "T Morzy" ],
+    "authors" : [ "W Andrzejewski", "Z Krolikowski", "T Morzy" ],
     "year" : "2005",
     "citations" : "1"
   }, {
     "title" : "Ocena efektywności hierarchicznego indeksu bitmapowego wspierającego wykonywanie zapytań w bazach danych z atrybutami zawierającymi zbiory",
-    "authors" : [ "W Andrzejewski", "Z Królikowski", "M Morzy", "T Morzy" ],
+    "authors" : [ "W Andrzejewski", "Z Krolikowski", "T Morzy" ],
     "year" : "2005",
     "citations" : "1"
   }, {
     "title" : "Index-based processing of similarity queries for set and sequence-valued attributes",
-    "authors" : [ "B Czejdo", "Z Królikowski", "M laj Morzy", "T Morzy" ],
+    "authors" : [ "B Czejdo", "Z Krolikowski", "T Morzy" ],
     "year" : "2004",
     "citations" : "1"
   }, {
     "title" : "Projektowanie schematów logicznych dla magazynów danych",
-    "authors" : [ "B Bębel", "M Morzy" ],
+    "authors" : [ "B Bebel" ],
     "year" : "2002",
     "citations" : "1"
   }, {
+    "title" : "Prediction of Moving Object Location Based on Frequent Trajectories",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : "1"
+  }, {
     "title" : "Algorytmy optymalizacji zapytań eksploracyjnych z wykorzystaniem materializowanej perspektywy eksploracyjnej",
-    "authors" : [ "J Brzeziński", "M Morzy", "T Morzy", "Ł Rutkowski" ],
+    "authors" : [ "J Brzezinski", "T Morzy", "Ł Rutkowski" ],
     "year" : "",
     "citations" : "1"
   }, {
@@ -273,108 +279,108 @@
     "year" : "",
     "citations" : "1"
   }, {
-    "title" : "Using Network Analysis to Improve Nearest Neighbor Classification of Non-Network Data",
-    "authors" : [ "M Piernik", "D Brzezinski", "T Morzy", "M Morzy" ],
+    "title" : "Using Network Analysis to Improve Nearest Neighbor Classification of Non-network Data",
+    "authors" : [ "M Piernik", "D Brzezinski", "T Morzy" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "On Measuring the Complexity of Networks: Kolmogorov Complexity versus Entropy",
-    "authors" : [ "M Morzy", "T Kajdanowicz", "P Kazienko" ],
+    "authors" : [ "T Kajdanowicz", "P Kazienko" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "Priority rank model for social network generation",
-    "authors" : [ "M Morzy", "P Kazienko", "T Kajdanowicz" ],
+    "authors" : [ "P Kazienko", "T Kajdanowicz" ],
     "year" : "2016",
     "citations" : ""
   }, {
     "title" : "Using Graph and Vertex Entropy to Measure Similarity of Empirical Graphs with Theoretical Graph Models",
-    "authors" : [ "T Kajdanowicz", "M Morzy" ],
+    "authors" : [ "T Kajdanowicz" ],
     "year" : "2015",
     "citations" : ""
   }, {
     "title" : "@ Rank: Personalized Centrality Measure for Email Communication Networks",
-    "authors" : [ "P Lubarski", "M Morzy" ],
+    "authors" : [ "P Lubarski" ],
     "year" : "2014",
     "citations" : ""
   }, {
     "title" : "Erratum: Using E-mail Communication Network for Importance Measurement in Collaboration Environments",
-    "authors" : [ "P Lubarski", "P Łupkowski", "P Kleka", "M Morzy" ],
+    "authors" : [ "P Lubarski", "P Łupkowski", "P Kleka" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Using E-mail Communication Network for Importance Measurement in Collaboration Environments",
-    "authors" : [ "P Lubarski", "P Łupkowski", "P Kleka", "M Morzy" ],
+    "authors" : [ "P Lubarski", "P Łupkowski", "P Kleka" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Measurement Quality of Online Collaboration in Presence of Negative Relationships",
-    "authors" : [ "M Morzy", "T Bartkowski", "K Jędrzejewski" ],
+    "authors" : [ "T Bartkowski", "K Jedrzejewski" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Cost-based Sequential Pattern Query Optimization in Presence of Materialized",
-    "authors" : [ "M Morzy", "M Wojciechowski", "M Zakrzewicz" ],
+    "authors" : [ "M Wojciechowski", "M Zakrzewicz" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "How to Become Famous? Motives in Scientific Social Networks",
-    "authors" : [ "A Matusiak", "M Morzy" ],
+    "authors" : [ "A Matusiak" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Influence in the Blogosphere",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2010",
     "citations" : ""
   }, {
     "title" : "Yes No",
-    "authors" : [ "M Gorawski", "T Morzy", "R Wrembel", "S Greco", "R Słowiński", "I Szczęch", "..." ],
+    "authors" : [ "M Gorawski", "T Morzy", "R Wrembel", "S Greco", "R Slowinski", "I Szczech" ],
     "year" : "2009",
     "citations" : ""
   }, {
     "title" : "Mining Social-driven Data",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2009",
     "citations" : ""
   }, {
     "title" : "Mining Conditional Cardinality Patterns for Data Warehouse Query Optimization",
-    "authors" : [ "M laj Morzy", "M Krystek" ],
+    "authors" : [ "M Krystek" ],
     "year" : "2008",
     "citations" : ""
   }, {
     "title" : "Moppy-Mobile Object Position Prediction Application",
-    "authors" : [ "L Rosikiewicz", "M Morzy" ],
+    "authors" : [ "L Rosikiewicz" ],
     "year" : "2007",
     "citations" : ""
   }, {
     "title" : "Signature-Based Indexing Techniques for Web Access Logs",
-    "authors" : [ "Y Manolopoulos", "A Nanopoulos", "M Morzy", "T Morzy", "M Wojciechowski", "..." ],
+    "authors" : [ "Y Manolopoulos", "A Nanopoulos", "T Morzy", "M Wojciechowski" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "1st ADBIS Workshop on Data Mining and Knowledge Discovery, ADMKD'2005, 15-16 September 2005, Tallinn, Estonia: Proceedings",
-    "authors" : [ "T Morzy", "M Morzy", "M Wojciechowski" ],
+    "authors" : [ "T Morzy", "M Wojciechowski" ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Recommendation Rules—a Data Mining Tool to Enhance Business-to-Customer Communication in Web Applications",
-    "authors" : [ "M Morzy" ],
+    "authors" : [ ],
     "year" : "2005",
     "citations" : ""
   }, {
     "title" : "Approximate queries on set-valued attributes",
-    "authors" : [ "M Morzy", "Z Królikowski", "T Morzy" ],
+    "authors" : [ "Z Krolikowski", "T Morzy" ],
     "year" : "2003",
     "citations" : ""
   }, {
     "title" : "Set-Oriented Indexes for Data Mining Queries.",
-    "authors" : [ "Z Krolikowski", "M Morzy", "J Perek" ],
+    "authors" : [ "Z Krolikowski", "J Perek" ],
     "year" : "2003",
     "citations" : ""
   }, {
     "title" : "Querry Processing in Multidatabase Systems",
-    "authors" : [ "T Morzy", "Z Królikowski", "M Morzy" ],
+    "authors" : [ "T Morzy", "Z Krolikowski" ],
     "year" : "2001",
     "citations" : ""
   }, {
@@ -384,22 +390,17 @@
     "citations" : ""
   }, {
     "title" : "SNA/SMA Track Program Committee",
-    "authors" : [ "M Ahmad", "M Bielikova", "F Chua", "M Coscia", "PE Damiani", "..." ],
+    "authors" : [ "M Ahmad", "M Bielikova", "F Chua", "M Coscia", "P Damiani" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "BESC 2014 program committee",
-    "authors" : [ "J Shen", "T Zhu", "S Cheng", "Y Nojima", "G Liu", "Z Zhu", "W Lam", "J Gao", "G Li", "..." ],
+    "authors" : [ "J Shen", "T Zhu", "S Cheng", "Y Nojima", "G Liu", "Z Zhu", "W Lam", "J Gao", "G Li" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Fourth International Workshop on Intelligent, Mobile and Internet Services in Ubiquitous Computing (IMIS 2010) Reviewers List",
-    "authors" : [ "B Aziz", "MH ter Beek", "ED Martínez", "F Del Mastro", "M Morzy", "L Ogiela", "..." ],
-    "year" : "",
-    "citations" : ""
-  }, {
-    "title" : "Maja Dimc Euro-Mediterranean University Slovenia",
-    "authors" : [ "A Abraham", "T Ågotnes", "D Batorski", "E Damiani", "A Datta", "D Elgesem", "..." ],
+    "authors" : [ "B Aziz", "E Martinez", "L Ogiela" ],
     "year" : "",
     "citations" : ""
   } ],

@@ -1,296 +1,297 @@
 {
   "name" : "J Stefanowski",
-  "citations" : 5900,
-  "tenIndex" : 90,
+  "fullName" : "Jerzy Stefanowski",
+  "citations" : 5986,
+  "tenIndex" : 92,
   "articles" : [ {
     "title" : "Incomplete information tables and rough classification",
-    "authors" : [ "J Stefanowski", " A Tsoukiàs" ],
+    "authors" : [ "A Tsoukias" ],
     "year" : "2001",
-    "citations" : "449"
+    "citations" : "452"
   }, {
     "title" : "On the extension of rough sets under incomplete information",
-    "authors" : [ "J Stefanowski", " A Tsoukiàs" ],
+    "authors" : [ "A Tsoukias" ],
     "year" : "1999",
-    "citations" : "402"
+    "citations" : "404"
   }, {
     "title" : "Lingo: Search results clustering algorithm based on singular value decomposition",
-    "authors" : [ "S Osiński", " J Stefanowski", " D Weiss" ],
+    "authors" : [ "S Osinski", "D Weiss" ],
     "year" : "2004",
-    "citations" : "312"
+    "citations" : "318"
   }, {
     "title" : "On rough set based approaches to induction of decision rules",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "1998",
     "citations" : "300"
   }, {
     "title" : "ROSE-software implementation of the rough set theory",
-    "authors" : [ "B Predki", " R Słowiński", " J Stefanowski", " R Susmaga", " S Wilk" ],
+    "authors" : [ "B Predki", "R Slowinski", "R Susmaga", "S Wilk" ],
     "year" : "1998",
     "citations" : "177"
   }, {
     "title" : "Variable consistency model of dominance-based rough sets approach",
-    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski", " J Stefanowski" ],
+    "authors" : [ "S Greco", "B Matarazzo", "R Slowinski" ],
     "year" : "2000",
     "citations" : "168"
   }, {
+    "title" : "An algorithm for induction of decision rules consistent with the dominance principle",
+    "authors" : [ "S Greco", "B Matarazzo", "R Slowinski" ],
+    "year" : "2000",
+    "citations" : "163"
+  }, {
     "title" : "Rough classification in incomplete information systems",
-    "authors" : [ "R Słowiński", " J Stefanowski" ],
+    "authors" : [ "R Slowinski" ],
     "year" : "1989",
     "citations" : "162"
   }, {
-    "title" : "An algorithm for induction of decision rules consistent with the dominance principle",
-    "authors" : [ "S Greco", " B Matarazzo", " R Slowinski", " J Stefanowski" ],
-    "year" : "2000",
-    "citations" : "161"
-  }, {
     "title" : "Reacting to different types of concept drift: The accuracy updated ensemble algorithm",
-    "authors" : [ "D Brzezinski", " J Stefanowski" ],
+    "authors" : [ "D Brzezinski" ],
     "year" : "2014",
-    "citations" : "142"
+    "citations" : "148"
   }, {
     "title" : "Evaluation of vibroacoustic diagnostic symptoms by means of the rough sets theory",
-    "authors" : [ "R Nowicki", " R Słowiński", " J Stefanowski" ],
+    "authors" : [ "R Nowicki", "R Slowinski" ],
     "year" : "1992",
     "citations" : "120"
   }, {
     "title" : "Rough classification with valued closeness relation",
-    "authors" : [ "R Słowiński", " J Stefanowski" ],
+    "authors" : [ "R Slowinski" ],
     "year" : "1994",
-    "citations" : "115"
+    "citations" : "114"
   }, {
     "title" : "Three discretization methods for rule induction",
-    "authors" : [ "JW Grzymala‐Busse", " J Stefanowski" ],
+    "authors" : [ "J Grzymala‐Busse" ],
     "year" : "2001",
     "citations" : "109"
   }, {
     "title" : "The rough set based rule induction technique for classification problems",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "1998",
-    "citations" : "108"
+    "citations" : "107"
   }, {
     "title" : "‘Roughdas’ and ‘Roughclass’ Software Implementations of the Rough Sets Approach",
-    "authors" : [ "R Słowiński", " J Stefanowski" ],
+    "authors" : [ "R Slowinski" ],
     "year" : "1992",
     "citations" : "106"
   }, {
     "title" : "Rough sets approach to analysis of data from peritoneal lavage in acute pancreatitis",
-    "authors" : [ "K Slowiński", " R Slnowiński", " J Stefanowski" ],
+    "authors" : [ "K Slowinski", "R Slnowinski" ],
     "year" : "1988",
     "citations" : "106"
   }, {
     "title" : "Rough-set reasoning about uncertain data",
-    "authors" : [ "R Slowiński", " J Stefanowski" ],
+    "authors" : [ "R Slowinski" ],
     "year" : "1996",
     "citations" : "104"
   }, {
+    "title" : "Learning from imbalanced data in presence of noisy and borderline examples",
+    "authors" : [ "K Napierala", "S Wilk" ],
+    "year" : "2010",
+    "citations" : "97"
+  }, {
     "title" : "Open challenges for data stream mining research",
-    "authors" : [ "G Krempl", " I Žliobaite", " D Brzeziński", " E Hüllermeier", " M Last", " V Lemaire", " ..." ],
+    "authors" : [ "G Krempl", "I Zliobaite", "D Brzezinski", "E Hullermeier", "M Last", "V Lemaire" ],
     "year" : "2014",
-    "citations" : "92"
+    "citations" : "95"
   }, {
     "title" : "Carrot^ 2 and Language Properties in Web Search Results Clustering",
-    "authors" : [ "J Stefanowski", " D Weiss" ],
+    "authors" : [ "D Weiss" ],
     "year" : "2003",
     "citations" : "92"
   }, {
-    "title" : "Learning from imbalanced data in presence of noisy and borderline examples",
-    "authors" : [ "K Napierała", " J Stefanowski", " S Wilk" ],
-    "year" : "2010",
-    "citations" : "91"
-  }, {
     "title" : "Selective pre-processing of imbalanced data for improving classification performance",
-    "authors" : [ "J Stefanowski", " S Wilk" ],
+    "authors" : [ "S Wilk" ],
     "year" : "2008",
-    "citations" : "85"
+    "citations" : "90"
   }, {
     "title" : "Induction of decision rules in classification and discovery‐oriented perspectives",
-    "authors" : [ "J Stefanowski", " D Vanderpooten" ],
+    "authors" : [ "D Vanderpooten" ],
     "year" : "2001",
     "citations" : "84"
   }, {
     "title" : "Discriminant versus rough sets approach to vague data analysis",
-    "authors" : [ "E Krusińska", " R Slowinski", " J Stefanowski" ],
+    "authors" : [ "E Krusinska", "R Slowinski" ],
     "year" : "1992",
     "citations" : "81"
   }, {
     "title" : "Handling various types of uncertainty in the rough set approach",
-    "authors" : [ "R Słowiński", " J Stefanowski" ],
+    "authors" : [ "R Slowinski" ],
     "year" : "1994",
     "citations" : "80"
   }, {
+    "title" : "Accuracy updated ensemble for data streams with concept drift",
+    "authors" : [ "D Brzezinski" ],
+    "year" : "2011",
+    "citations" : "78"
+  }, {
     "title" : "Rough set based processing of inconsistent information in decision analysis",
-    "authors" : [ "R Słowiński", " J Stefanowski", " S Greco", " B Matarazzo" ],
+    "authors" : [ "R Slowinski", "S Greco", "B Matarazzo" ],
     "year" : "2000",
     "citations" : "78"
   }, {
     "title" : "Algorithms of decision rule induction in data mining",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "2001",
     "citations" : "77"
   }, {
-    "title" : "Accuracy updated ensemble for data streams with concept drift",
-    "authors" : [ "D Brzeziński", " J Stefanowski" ],
-    "year" : "2011",
+    "title" : "SMOTE–IPF: Addressing the noisy and borderline examples problem in imbalanced classification by a re-sampling method with filtering",
+    "authors" : [ "J Saez", "J Luengo", "F Herrera" ],
+    "year" : "2015",
     "citations" : "75"
   }, {
-    "title" : "SMOTE–IPF: Addressing the noisy and borderline examples problem in imbalanced classification by a re-sampling method with filtering",
-    "authors" : [ "JA Sáez", " J Luengo", " J Stefanowski", " F Herrera" ],
-    "year" : "2015",
-    "citations" : "73"
-  }, {
     "title" : "Algorytmy indukcji reguł decyzyjnych w odkrywaniu wiedzy",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "2001",
-    "citations" : "73"
+    "citations" : "74"
   }, {
     "title" : "Local neighbourhood extension of SMOTE for mining imbalanced data",
-    "authors" : [ "T Maciejewski", " J Stefanowski" ],
+    "authors" : [ "T Maciejewski" ],
     "year" : "2011",
-    "citations" : "63"
+    "citations" : "68"
   }, {
     "title" : "A general two-stage approach to inducing rules from examples",
-    "authors" : [ "J Stefanowski", " D Vanderpooten" ],
+    "authors" : [ "D Vanderpooten" ],
     "year" : "1994",
     "citations" : "61"
   }, {
+    "title" : "Combining block-based and online methods in learning ensembles from concept drifting data streams",
+    "authors" : [ "D Brzezinski" ],
+    "year" : "2014",
+    "citations" : "56"
+  }, {
     "title" : "On combined classifiers, rule induction and rough sets",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "2007",
     "citations" : "53"
   }, {
-    "title" : "Combining block-based and online methods in learning ensembles from concept drifting data streams",
-    "authors" : [ "D Brzezinski", " J Stefanowski" ],
-    "year" : "2014",
-    "citations" : "52"
-  }, {
     "title" : "Discovery-oriented induction of decision rules",
-    "authors" : [ "R Mienko", " J Stefanowski", " K Toumi", " D Vanderpooten" ],
+    "authors" : [ "R Mienko", "K Toumi", "D Vanderpooten" ],
     "year" : "1996",
     "citations" : "48"
   }, {
     "title" : "Valued tolerance and decision rules",
-    "authors" : [ "J Stefanowski", " A Tsoukiàs" ],
+    "authors" : [ "A Tsoukias" ],
     "year" : "2000",
     "citations" : "47"
   }, {
     "title" : "A comparison of two approaches to data mining from imbalanced data",
-    "authors" : [ "JW Grzymala-Busse", " J Stefanowski", " S Wilk" ],
+    "authors" : [ "J Grzymala-Busse", "S Wilk" ],
     "year" : "2005",
     "citations" : "45"
   }, {
+    "title" : "Evaluating business credit risk by means of approach‐integrating decision rules and case‐based learning",
+    "authors" : [ "S Wilk" ],
+    "year" : "2001",
+    "citations" : "43"
+  }, {
     "title" : "Experiments on solving multiclass learning problems by n 2-classifier",
-    "authors" : [ "J Jelonek", " J Stefanowski" ],
+    "authors" : [ "J Jelonek" ],
     "year" : "1998",
     "citations" : "43"
   }, {
     "title" : "BRACID: a comprehensive approach to learning rules from imbalanced data",
-    "authors" : [ "K Napierala", " J Stefanowski" ],
+    "authors" : [ "K Napierala" ],
     "year" : "2012",
     "citations" : "42"
   }, {
     "title" : "Integrating selective pre-processing of imbalanced data with ivotes ensemble",
-    "authors" : [ "J Błaszczyński", " M Deckert", " J Stefanowski", " S Wilk" ],
+    "authors" : [ "J Blaszczynski", "M Deckert", "S Wilk" ],
     "year" : "2010",
     "citations" : "42"
   }, {
-    "title" : "Evaluating business credit risk by means of approach‐integrating decision rules and case‐based learning",
-    "authors" : [ "J Stefanowski", " S Wilk" ],
-    "year" : "2001",
-    "citations" : "42"
-  }, {
     "title" : "Rough sets analysis of diagnostic capacity of vibroacoustic symptoms",
-    "authors" : [ "R Nowicki", " R Słowiński", " J Stefanowski" ],
+    "authors" : [ "R Nowicki", "R Slowinski" ],
     "year" : "1992",
     "citations" : "42"
   }, {
+    "title" : "Neighbourhood sampling in bagging for imbalanced data",
+    "authors" : [ "J Blaszczynski" ],
+    "year" : "2015",
+    "citations" : "40"
+  }, {
     "title" : "Feature subset selection for classification of histological images",
-    "authors" : [ "J Jelonek", " J Stefanowski" ],
+    "authors" : [ "J Jelonek" ],
     "year" : "1997",
     "citations" : "39"
   }, {
+    "title" : "Ensemble learning for data stream analysis: a survey",
+    "authors" : [ "B Krawczyk", "L Minku", "J Gama", "M Wozniak" ],
+    "year" : "2017",
+    "citations" : "38"
+  }, {
     "title" : "Web search results clustering in Polish: Experimental evaluation of Carrot",
-    "authors" : [ "D Weiss", " J Stefanowski" ],
+    "authors" : [ "D Weiss" ],
     "year" : "2003",
     "citations" : "38"
   }, {
-    "title" : "Neighbourhood sampling in bagging for imbalanced data",
-    "authors" : [ "J Błaszczyński", " J Stefanowski" ],
-    "year" : "2015",
-    "citations" : "37"
-  }, {
     "title" : "Incremental versus non-incremental rule induction for multicriteria classification",
-    "authors" : [ "S Greco", " R Słowiński", " J Stefanowski", " M Żurawski" ],
+    "authors" : [ "S Greco", "R Slowinski", "M Zurawski" ],
     "year" : "2004",
     "citations" : "37"
   }, {
     "title" : "Classification support based on the rough sets",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "1993",
     "citations" : "37"
   }, {
+    "title" : "Identification of different types of minority class examples in imbalanced data",
+    "authors" : [ "K Napierala" ],
+    "year" : "2012",
+    "citations" : "35"
+  }, {
     "title" : "Algorithms of rule induction for knowledge discovery",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "2001",
     "citations" : "34"
   }, {
-    "title" : "Identification of different types of minority class examples in imbalanced data",
-    "authors" : [ "K Napierala", " J Stefanowski" ],
-    "year" : "2012",
+    "title" : "Overlapping, rare examples and class decomposition in learning classifiers from imbalanced data",
+    "authors" : [ ],
+    "year" : "2013",
     "citations" : "33"
   }, {
-    "title" : "Ensemble learning for data stream analysis: a survey",
-    "authors" : [ "B Krawczyk", " LL Minku", " J Gama", " J Stefanowski", " M Woźniak" ],
-    "year" : "2017",
-    "citations" : "32"
-  }, {
-    "title" : "Overlapping, rare examples and class decomposition in learning classifiers from imbalanced data",
-    "authors" : [ "J Stefanowski" ],
-    "year" : "2013",
-    "citations" : "32"
+    "title" : "Types of minority class examples and their influence on learning classifiers from imbalanced data",
+    "authors" : [ "K Napierala" ],
+    "year" : "2016",
+    "citations" : "30"
   }, {
     "title" : "Application of rule induction and rough sets to verification of magnetic resonance diagnosis",
-    "authors" : [ "K Słowiński", " J Stefanowski", " D Siwiński" ],
+    "authors" : [ "K Slowinski", "D Siwinski" ],
     "year" : "2002",
     "citations" : "29"
   }, {
-    "title" : "Types of minority class examples and their influence on learning classifiers from imbalanced data",
-    "authors" : [ "K Napierala", " J Stefanowski" ],
-    "year" : "2016",
-    "citations" : "27"
-  }, {
-    "title" : "Uczenie maszynowe i sieci neuronowe",
-    "authors" : [ "K Krawiec", " J Stefanowski" ],
-    "year" : "2003",
-    "citations" : "27"
-  }, {
     "title" : "Rough set theory and rule induction techniques for discovery of attribute dependencies in medical information systems",
-    "authors" : [ "J Stefanowski", " K Slowiński" ],
+    "authors" : [ "K Slowinski" ],
     "year" : "1997",
     "citations" : "27"
   }, {
     "title" : "Neural networks and rough sets—comparison and combination for classification of histological pictures",
-    "authors" : [ "J Jelonek", " K Krawiec", " R Słowiński", " J Stefanowski", " J Szymaś" ],
+    "authors" : [ "J Jelonek", "K Krawiec", "R Slowinski", "J Szymas" ],
     "year" : "1994",
     "citations" : "27"
   }, {
     "title" : "Improving rule based classifiers induced by MODLEM by selective pre-processing of imbalanced data",
-    "authors" : [ "J Stefanowski", " S Wilk" ],
+    "authors" : [ "S Wilk" ],
     "year" : "2007",
+    "citations" : "26"
+  }, {
+    "title" : "Uczenie maszynowe i sieci neuronowe",
+    "authors" : [ "K Krawiec" ],
+    "year" : "2003",
+    "citations" : "26"
+  }, {
+    "title" : "An experimental study of methods combining multiple classifiers-diversified both by feature selection and bootstrap sampling",
+    "authors" : [ ],
+    "year" : "2005",
     "citations" : "25"
   }, {
     "title" : "A comparison of two approaches to data mining from imbalanced data",
-    "authors" : [ "JW Grzymala-Busse", " J Stefanowski", " S Wilk" ],
+    "authors" : [ "J Grzymala-Busse", "S Wilk" ],
     "year" : "2004",
     "citations" : "25"
   }, {
     "title" : "Extending bagging for imbalanced data",
-    "authors" : [ "J Błaszczyński", " J Stefanowski", " Ł Idkowiak" ],
+    "authors" : [ "J Blaszczynski", "Ł Idkowiak" ],
     "year" : "2013",
-    "citations" : "24"
-  }, {
-    "title" : "An experimental study of methods combining multiple classifiers-diversified both by feature selection and bootstrap sampling",
-    "authors" : [ "J Stefanowski" ],
-    "year" : "2005",
     "citations" : "24"
   }, {
     "title" : "Rough Sets, Fuzzy Sets, Data Mining and Granular Computing: 11th International Conference, RSFDGrC 2007, Toronto, Canada, May 14-16, 2007",
@@ -299,108 +300,108 @@
     "citations" : "22"
   }, {
     "title" : "Rough sets as a tool for studying attribute dependencies in the urinary stones treatment data set",
-    "authors" : [ "J Stefanowski", " K Słowiński" ],
+    "authors" : [ "K Slowinski" ],
     "year" : "1997",
     "citations" : "21"
   }, {
     "title" : "Medical information systems-problems with analysis and way of solution",
-    "authors" : [ "R Slowinski", " J Stefanowski" ],
+    "authors" : [ "R Slowinski" ],
     "year" : "1999",
     "citations" : "20"
   }, {
     "title" : "Handling continuous attributes in discovery of strong decision rules",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "1998",
     "citations" : "20"
   }, {
+    "title" : "Dealing with data difficulty factors while learning from imbalanced data",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : "19"
+  }, {
     "title" : "Mining Context Based Sequential Patterns.",
-    "authors" : [ "J Stefanowski", " R Ziembinski" ],
+    "authors" : [ "R Ziembinski" ],
     "year" : "2005",
     "citations" : "19"
   }, {
     "title" : "Multiple and hybrid classifiers",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "2001",
     "citations" : "19"
   }, {
     "title" : "Comparative study of feature subset selection techniques for machine learning tasks",
-    "authors" : [ "J Jelonek", " K Krawiec", " J Stefanowski" ],
+    "authors" : [ "J Jelonek", "K Krawiec" ],
     "year" : "1998",
     "citations" : "19"
   }, {
     "title" : "Classification support based on the rough sets theory",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "1993",
     "citations" : "19"
   }, {
     "title" : "The Bagging and n^ 2-Classifiers Based on Rules Induced by MODLEM",
-    "authors" : [ "J Stefanowski" ],
+    "authors" : [ ],
     "year" : "2004",
     "citations" : "18"
   }, {
     "title" : "Hyperplane aggregation of dominance decision rules",
-    "authors" : [ "R Pindur", " R Susmaga", " J Stefanowski" ],
+    "authors" : [ "R Pindur", "R Susmaga" ],
     "year" : "2004",
     "citations" : "18"
   }, {
     "title" : "Mining association rules in preference-ordered data",
-    "authors" : [ "S Greco", " R Slowinski", " J Stefanowski" ],
+    "authors" : [ "S Greco", "R Slowinski" ],
     "year" : "2002",
     "citations" : "18"
   }, {
-    "title" : "Dealing with data difficulty factors while learning from imbalanced data",
-    "authors" : [ "J Stefanowski" ],
-    "year" : "2016",
-    "citations" : "17"
-  }, {
     "title" : "Variable consistency bagging ensembles",
-    "authors" : [ "J Błaszczyński", " R Słowiński", " J Stefanowski" ],
+    "authors" : [ "J Blaszczynski", "R Slowinski" ],
     "year" : "2010",
     "citations" : "17"
   }, {
     "title" : "Comprehensible and accurate cluster labels in text clustering",
-    "authors" : [ "J Stefanowski", " D Weiss" ],
+    "authors" : [ "D Weiss" ],
     "year" : "2007",
     "citations" : "17"
   }, {
     "title" : "Rough sets for handling imbalanced data: combining filtering and rule-based classifiers",
-    "authors" : [ "J Stefanowski", " S Wilk" ],
+    "authors" : [ "S Wilk" ],
     "year" : "2006",
     "citations" : "17"
   }, {
+    "title" : "Prequential AUC for classifier evaluation and drift detection in evolving data streams",
+    "authors" : [ "D Brzezinski" ],
+    "year" : "2014",
+    "citations" : "16"
+  }, {
+    "title" : "Rough set reduction of features for picture-based reasoning",
+    "authors" : [ "J Jelonek", "K Krawiec", "R Slowinski", "J Szymas" ],
+    "year" : "1995",
+    "citations" : "16"
+  }, {
     "title" : "Extending rule-based classifiers to improve recognition of imbalanced classes",
-    "authors" : [ "J Stefanowski", " S Wilk" ],
+    "authors" : [ "S Wilk" ],
     "year" : "2009",
     "citations" : "15"
   }, {
     "title" : "Rough set theory and decision rules in data analysis of breast cancer patients",
-    "authors" : [ "J Załuski", " R Szoszkiewicz", " J Krysiński", " J Stefanowski" ],
+    "authors" : [ "J Zaluski", "R Szoszkiewicz", "J Krysinski" ],
     "year" : "2004",
     "citations" : "15"
   }, {
-    "title" : "Rough set reduction of features for picture-based reasoning",
-    "authors" : [ "J Jelonek", " K Krawiec", " R Slowinski", " J Stefanowski", " J Szymas" ],
-    "year" : "1995",
-    "citations" : "15"
-  }, {
-    "title" : "Prequential AUC for classifier evaluation and drift detection in evolving data streams",
-    "authors" : [ "D Brzezinski", " J Stefanowski" ],
-    "year" : "2014",
-    "citations" : "14"
-  }, {
     "title" : "Discretization of numerical attributes by direct use of the rule induction algorithm LEM2 with interval extension",
-    "authors" : [ "JW Grzymala-Busse", " J Stefanowski" ],
+    "authors" : [ "J Grzymala-Busse" ],
     "year" : "1997",
     "citations" : "14"
   }, {
     "title" : "Ensembles of abstaining classifiers based on rule sets",
-    "authors" : [ "J Błaszczyński", " J Stefanowski", " M Zając" ],
+    "authors" : [ "J Blaszczynski", "M Zajac" ],
     "year" : "2009",
     "citations" : "13"
   }, {
-    "title" : "An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples",
-    "authors" : [ "J Stefanowski" ],
-    "year" : "2004",
+    "title" : "Comparing performance of committee based approaches to active learning",
+    "authors" : [ "M Pachocki" ],
+    "year" : "2009",
     "citations" : "13"
   } ],
   "hindex" : 40

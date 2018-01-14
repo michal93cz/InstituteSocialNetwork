@@ -1,0 +1,373 @@
+{
+  "name" : "A Ławrynowicz",
+  "fullName" : "Agnieszka Ławrynowicz",
+  "citations" : 312,
+  "tenIndex" : 15,
+  "articles" : [ {
+    "title" : "The role of semantics in mining frequent patterns from knowledge bases in description logics with rules",
+    "authors" : [ "J JOzefowska", "T Łukaszewski" ],
+    "year" : "2010",
+    "citations" : "35"
+  }, {
+    "title" : "The data mining OPtimization ontology",
+    "authors" : [ "C Keet", "C d’Amato", "A Kalousis", "P Nguyen", "R Palma" ],
+    "year" : "2015",
+    "citations" : "22"
+  }, {
+    "title" : "Pattern based feature construction in semantic data mining",
+    "authors" : [ "J Potoniec" ],
+    "year" : "2014",
+    "citations" : "18"
+  }, {
+    "title" : "Categorize by: Deductive aggregation of semantic web query results",
+    "authors" : [ "C d’Amato", "N Fanizzi" ],
+    "year" : "2010",
+    "citations" : "17"
+  }, {
+    "title" : "Fr-ONT: An Algorithm for Frequent Concept Mining with Formal Ontologies.",
+    "authors" : [ "A Lawrynowicz", "J Potoniec" ],
+    "year" : "2011",
+    "citations" : "15"
+  }, {
+    "title" : "Faster frequent pattern mining from the semantic web",
+    "authors" : [ "J Jozefowska", "T Łukaszewski" ],
+    "year" : "2006",
+    "citations" : "15"
+  }, {
+    "title" : "Dynamic and contextualised behavioural knowledge in autonomic communications",
+    "authors" : [ "R Sterritt", "M Mulvenna", "A Lawrynowicz" ],
+    "year" : "2004",
+    "citations" : "14"
+  }, {
+    "title" : "Test-driven development of ontologies",
+    "authors" : [ "C Keet" ],
+    "year" : "2016",
+    "citations" : "13"
+  }, {
+    "title" : "Rmonto: ontological extension to rapidminer",
+    "authors" : [ "J Potoniec", "A Lawrynowicz" ],
+    "year" : "2011",
+    "citations" : "13"
+  }, {
+    "title" : "Towards discovery of frequent patterns in description logics with rules",
+    "authors" : [ "J Jozefowska", "T Łukaszewski" ],
+    "year" : "2005",
+    "citations" : "13"
+  }, {
+    "title" : "Modeling issues & choices in the data mining optimization ontology",
+    "authors" : [ "C Keet", "A Lawrynowicz", "C d'Amato", "M Hilario" ],
+    "year" : "2013",
+    "citations" : "12"
+  }, {
+    "title" : "On reducing redundancy in mining relational association rules from the semantic web",
+    "authors" : [ "J Jozefowska", "T Łukaszewski" ],
+    "year" : "2008",
+    "citations" : "12"
+  }, {
+    "title" : "Grouping results of queries to ontological knowledge bases by conceptual clustering",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : "11"
+  }, {
+    "title" : "Frequent pattern discovery from owl dlp knowledge bases",
+    "authors" : [ "J Jozefowska", "T Łukaszewski" ],
+    "year" : "2006",
+    "citations" : "11"
+  }, {
+    "title" : "Exploring Reasoning with the DMOP Ontology.",
+    "authors" : [ "C Keet", "C d'Amato", "Z Khan", "A Lawrynowicz" ],
+    "year" : "2014",
+    "citations" : "10"
+  }, {
+    "title" : "Query results clustering by extending SPARQL with CLUSTER BY",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : "9"
+  }, {
+    "title" : "The Hazardous Situation Ontology Design Pattern",
+    "authors" : [ "I Ławniczak" ],
+    "year" : "2015",
+    "citations" : "7"
+  }, {
+    "title" : "Attribute Value Ontology-Using Semantics in Data Mining.",
+    "authors" : [ "T Lukaszewski", "J Jozefowska", "A Lawrynowicz" ],
+    "year" : "2012",
+    "citations" : "7"
+  }, {
+    "title" : "Asparagus-a system for automatic sparql query results aggregation using semantics",
+    "authors" : [ "J Potoniec", "Ł Konieczny", "M Madziar", "A Nowak", "K Pawlak" ],
+    "year" : "2011",
+    "citations" : "6"
+  }, {
+    "title" : "A study of the SEMINTEC approach to frequent pattern mining",
+    "authors" : [ "J Jozefowska", "T Łukaszewski" ],
+    "year" : "2009",
+    "citations" : "6"
+  }, {
+    "title" : "Introducing machine learning",
+    "authors" : [ "V Tresp" ],
+    "year" : "2014",
+    "citations" : "4"
+  }, {
+    "title" : "Handling the description noise using an attribute value ontology",
+    "authors" : [ "T Łukaszewski", "J Jozefowska", "Ł Jozefowski" ],
+    "year" : "2011",
+    "citations" : "4"
+  }, {
+    "title" : "Using substitutive itemset mining framework for finding synonymous properties in linked data",
+    "authors" : [ "M Morzy", "M Zozulinski" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "Towards combining machine learning with attribute exploration for ontology refinement",
+    "authors" : [ "J Potoniec", "S Rudolph" ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "A refinement operator based method for semantic grouping of conjunctive query results",
+    "authors" : [ "C d’Amato", "N Fanizzi" ],
+    "year" : "2010",
+    "citations" : "3"
+  }, {
+    "title" : "A role for contextualised knowledge in autonomic communications",
+    "authors" : [ "R Sterritt", "M Mulvenna", "A Lawrynowicz" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "The TDDonto Tool for Test-Driven Development of DL Knowledge bases.",
+    "authors" : [ "A Lawrynowicz", "C Keet" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Test-driven development of ontologies (extended version)",
+    "authors" : [ "C Keet", "A Lawrynowicz" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Wprowadzenie do analizy sieci społecznych",
+    "authors" : [ "M Morzy" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Generating semantic media Wiki content from domain ontologies",
+    "authors" : [ "D Filipiak" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Extracting Usage Patterns of Ontologies on the Web: a Case Study on GoodRelations Vocabulary in RDFa.",
+    "authors" : [ "E Kowalczuk", "J Potoniec", "A Lawrynowicz" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Inductive reasoning and machine learning for the Semantic Web",
+    "authors" : [ "C d'Amato", "N Fanizzi", "M Grobelnik", "A Lawrynowicz", "V Svatek" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Applications of ontology design patterns in the transformation of multimedia repositories",
+    "authors" : [ "R Palma" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Controlling the prediction accuracy by adjusting the abstraction levels",
+    "authors" : [ "T Łukaszewski", "J Jozefowska", "Ł Jozefowski", "A Lisiecki" ],
+    "year" : "2011",
+    "citations" : "2"
+  }, {
+    "title" : "An ontology based semantic library catalogue",
+    "authors" : [ "D Dacko", "J Jozefowska" ],
+    "year" : "2007",
+    "citations" : "2"
+  }, {
+    "title" : "Reprezentacja wiedzy w indukcyjnym programowaniu logicznym",
+    "authors" : [ ],
+    "year" : "2006",
+    "citations" : "2"
+  }, {
+    "title" : "Select this result for bulk action Discovery of emerging design patterns in ontologies using tree mining",
+    "authors" : [ "J Potoniec", "M Robaczyk", "T Tudorache" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "An algorithm, implementation and execution ontology design pattern",
+    "authors" : [ "A Lawrynowicz", "D Esteves", "P Panov", "T Soru", "S Dzeroski", "J Vanschoren" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Combining Ontology Class Expression Generation with Mathematical Modeling for Ontology Learning",
+    "authors" : [ "J Potoniec" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "RMonto-towards KDD workflows for ontology-based data mining",
+    "authors" : [ "J Potoniec", "A Lawrynowicz" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Foundations of frequent concept mining with formal ontologies",
+    "authors" : [ "A Lawrynowicz" ],
+    "year" : "2010",
+    "citations" : "1"
+  }, {
+    "title" : "Clustering results of conjunctive queries over knowledge bases in OWL",
+    "authors" : [ "J Jozefowska", "A Lawrynowicz", "T Lukaszewski" ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "The Semantic Web: ESWC 2017 Satellite Events: ESWC 2017 Satellite Events, Portorož, Slovenia, May 28–June 1, 2017, Revised Selected Papers",
+    "authors" : [ "E Blomqvist", "K Hose", "H Paulheim", "F Ciravegna", "O Hartig" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Swift Linked Data Miner: Mining OWL 2 EL class expressions directly from online RDF datasets",
+    "authors" : [ "J Potoniec", "P Jakubowski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Considering Identification of Locality in Time: Theoretical and Practical Approach",
+    "authors" : [ "B Szady" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "TDDonto2: A Test-Driven Development Plugin for Arbitrary TBox and ABox Axioms",
+    "authors" : [ "K Davies", "C Keet" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Semantic Data Mining: An Ontology-based Approach",
+    "authors" : [ ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Swift Linked Data Miner Extension for WebProtégé",
+    "authors" : [ "T Sosnowski", "J Potoniec" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Ontology Engineering: 12th International Experiences and Directions Workshop on OWL, OWLED 2015, Co-located with ISWC 2015, Bethlehem, PA, USA, October...",
+    "authors" : [ "V Tamma", "M Dragoni", "R Goncalves" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "A Protege Plugin with Swift Linked Data Miner.",
+    "authors" : [ "J Potoniec", "A Lawrynowicz" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Extending FrameNet to Machine Learning Domain.",
+    "authors" : [ "P Jakubowski", "A Lawrynowicz" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Towards a Core Ontology of Occupational Safety and Health",
+    "authors" : [ "I Ławniczak" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "WOP 2014",
+    "authors" : [ "S Patterns" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Semantic Web Volume 5 Issue 1",
+    "authors" : [ "C d'Amato", "N Fanizzi", "M Grobelnik", "A Lawrynowicz", "V Svatek" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Frequent Pattern Discovery from Knowledge Bases in Description Logic with Rules",
+    "authors" : [ ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "The 2nd International Workshop on Inductive Reasoning and Machine Learning for the Semantic Web",
+    "authors" : [ "N Fanizzi", "M Grobelnik", "A Lawrynowicz", "V Svatek" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "The Open and Closed-World Assumptions in Representing Systems Biology Knowledge",
+    "authors" : [ "A Lawrynowicz", "R King" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "The Potential for Autonomic Service Delivery Platforms",
+    "authors" : [ "M Mulvenna", "G Valetto", "C Hayden", "R McConnell", "A Lawrynowicz" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Semantic annotation of hierarchical taxonomies",
+    "authors" : [ ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Service Delivery Platforms: Servicing Real-World mobile Ubiquitous Computing Applications",
+    "authors" : [ "M Mulvenna", "R Sterritt", "A Lawrynowicz", "G Devlin" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Tezaurusy, taksonomie, ontologie dziedzinowe geograficzne, historyczne oraz geograficzno-historyczne–rozwój i stan obecny",
+    "authors" : [ "P Garbacz", "P Kulicki", "R Trypuz", "B Szady34" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "User-friendly Visual Creation of R2RML Mappings in SQuaRE",
+    "authors" : [ "J Bak", "M Blinkiewicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Ontologie w historyczno-geograficznych systemach informacyjnych",
+    "authors" : [ "P Garbacz", "P Kulicki", "R Trypuz", "B Szady" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Frequent pattern discovery in description logics with rules",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "The Reporting Event Ontology Design Pattern and Its Extension to Report News Events",
+    "authors" : [ "E Kowalczuk", "A Lawrynowicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Susie Stephens A Realistic Architecture for the Semantic Web............................ 17 Michael Kifer, Jos de Bruijn, Harold Boley, and Dieter Fensel Active Rules in the Se...",
+    "authors" : [ "W May", "J Alferes", "R Amador", "A Giurca", "G Wagner", "J Rao", "N Sadeh" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "3rd International Workshop on Advances in Semantic Information Retrieval",
+    "authors" : [ "V Klyuev", "M Mozgovoy" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Kernels for Measuring Similarity of EL Description Logic Concepts",
+    "authors" : [ "L Jozefowski", "A Lawrynowicz", "J Jozefowska", "J Potoniec", "T Lukaszewski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Materialized views in mining ontology instances",
+    "authors" : [ "J Jozefowska", "A Lawrynowicz", "T Lukaszewski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Combining answer caching with smartcall optimization in mining frequent DL-safe queries",
+    "authors" : [ "J Jozefowska", "A Lawrynowicz", "T Lukaszewski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Description-noise Modelling in Naıve Bayesian Classifier by Complex Ontological Attributes",
+    "authors" : [ "J Jozefowska", "L Jozefowski", "A Lawrynowicz", "T Lukaszewski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Kernels for EL Description Logic Concepts",
+    "authors" : [ "L Jozefowski", "A Lawrynowicz", "J Jozefowska", "J Potoniec", "T Lukaszewski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Pattern discovery from the ontological layer of the Semantic Web (KWEPSY2006–extended abstract)",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  } ],
+  "hindex" : 12
+}

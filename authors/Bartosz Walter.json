@@ -1,130 +1,131 @@
 {
   "name" : "B Walter",
-  "citations" : 399,
-  "tenIndex" : 9,
+  "fullName" : "Bartosz Walter",
+  "citations" : 403,
+  "tenIndex" : 10,
   "articles" : [ {
     "title" : "Extreme programming modified: embrace requirements engineering practices",
-    "authors" : [ "J Nawrocki", " M Jasiñski", " B Walter", " A Wojciechowski" ],
+    "authors" : [ "J Nawrocki", "M Jasinski", "A Wojciechowski" ],
     "year" : "2002",
-    "citations" : "97"
+    "citations" : "98"
   }, {
     "title" : "Toward maturity model for extreme programming",
-    "authors" : [ "J Nawrocki", " B Walter", " A Wojciechowski" ],
+    "authors" : [ "J Nawrocki", "A Wojciechowski" ],
     "year" : "2001",
-    "citations" : "56"
+    "citations" : "57"
   }, {
     "title" : "Comparison of CMM level 2 and eXtreme programming",
-    "authors" : [ "JR Nawrocki", " B Walter", " A Wojciechowski" ],
+    "authors" : [ "J Nawrocki", "A Wojciechowski" ],
     "year" : "2002",
     "citations" : "42"
   }, {
     "title" : "Leveraging code smell detection with inter-smell relations",
-    "authors" : [ "B Pietrzak", " B Walter" ],
+    "authors" : [ "B Pietrzak" ],
     "year" : "2006",
     "citations" : "31"
   }, {
     "title" : "Multi-criteria Detection of Bad Smells in Code with UTA Method.",
-    "authors" : [ "B Walter", " B Pietrzak" ],
+    "authors" : [ "B Pietrzak" ],
     "year" : "2005",
     "citations" : "24"
   }, {
     "title" : "Balancing agility and discipline with xprince",
-    "authors" : [ "J Nawrocki", " L Olek", " M Jasinski", " B Paliświat", " B Walter", " B Pietrzak", " P Godek" ],
+    "authors" : [ "J Nawrocki", "L Olek", "M Jasinski", "B Paliswiat", "B Pietrzak", "P Godek" ],
     "year" : "2005",
     "citations" : "23"
   }, {
     "title" : "Investigating the impact of code smells on system's quality: An empirical study on systems of different application domains",
-    "authors" : [ "FA Fontana", " V Ferme", " A Marino", " B Walter", " P Martenka" ],
+    "authors" : [ "F Fontana", "V Ferme", "A Marino", "P Martenka" ],
     "year" : "2013",
-    "citations" : "21"
+    "citations" : "22"
   }, {
     "title" : "Combining extreme programming with ISO 9000",
-    "authors" : [ "JR Nawrocki", " M Jasiñski", " B Walter", " A Wojciechowski" ],
+    "authors" : [ "J Nawrocki", "M Jasinski", "A Wojciechowski" ],
     "year" : "2002",
     "citations" : "17"
   }, {
     "title" : "Aspect-oriented response injection: an alternative to classical mutation testing",
-    "authors" : [ "B Bogacki", " B Walter" ],
+    "authors" : [ "B Bogacki" ],
     "year" : "2006",
     "citations" : "15"
   }, {
     "title" : "Antipattern and code smell false positives: Preliminary conceptualization and classification",
-    "authors" : [ "FA Fontana", " J Dietrich", " B Walter", " A Yamashita", " M Zanoni" ],
+    "authors" : [ "F Fontana", "J Dietrich", "A Yamashita", "M Zanoni" ],
     "year" : "2016",
-    "citations" : "9"
+    "citations" : "10"
   }, {
     "title" : "Evaluation of test code quality with aspect-oriented mutations",
-    "authors" : [ "B Bogacki", " B Walter" ],
+    "authors" : [ "B Bogacki" ],
     "year" : "2006",
     "citations" : "9"
   }, {
     "title" : "Automated generation of unit tests for refactoring",
-    "authors" : [ "B Walter", " B Pietrzak" ],
+    "authors" : [ "B Pietrzak" ],
     "year" : "2004",
     "citations" : "7"
   }, {
     "title" : "Preliminary catalogue of anti-pattern and code smell false positives",
-    "authors" : [ "FA Fontana", " J Dietrich", " B Walter", " A Yamashita", " M Zanoni" ],
+    "authors" : [ "F Fontana", "J Dietrich", "A Yamashita", "M Zanoni" ],
     "year" : "2015",
     "citations" : "6"
   }, {
     "title" : "Inter-smell relations in industrial and open source systems: A replication and comparative analysis",
-    "authors" : [ "A Yamashita", " M Zanoni", " FA Fontana", " B Walter" ],
+    "authors" : [ "A Yamashita", "M Zanoni", "F Fontana" ],
     "year" : "2015",
     "citations" : "6"
   }, {
     "title" : "Balancing Agility and Formalism in Software Engineering: Second IFIP TC 2 Central and East European Conference on Software Engineering Techniques, CEE-SE...",
-    "authors" : [ "JR Nawrocki" ],
+    "authors" : [ "J Nawrocki" ],
     "year" : "2008",
     "citations" : "4"
   }, {
     "title" : "Scheduling production tasks in a two-stage FMS",
-    "authors" : [ "J Błażewicz", " G Pawlak", " B Walter" ],
+    "authors" : [ "J Blazewicz", "G Pawlak" ],
     "year" : "2002",
     "citations" : "4"
   }, {
     "title" : "Code Smells and Micro Patterns Correlations",
-    "authors" : [ "FA Fontana", " B Walter", " M Zanoni" ],
+    "authors" : [ "F Fontana", "M Zanoni" ],
     "year" : "2013",
     "citations" : "3"
   }, {
     "title" : "Code smells, micro patterns and their relations",
-    "authors" : [ "F Arcelli Fontana", " M Zanoni", " B Walter", " P Martenka" ],
+    "authors" : [ "M Zanoni", "P Martenka" ],
     "year" : "2012",
     "citations" : "3"
   }, {
     "title" : "Hierarchical Model for Evaluating Software Design Quality.",
-    "authors" : [ "P Martenka", " B Walter" ],
+    "authors" : [ "P Martenka" ],
     "year" : "2010",
     "citations" : "3"
   }, {
     "title" : "One Metric to Combine Them All: Experimental Comparison of Metric Aggregation Approaches in Software Quality Models",
-    "authors" : [ "M Wolski", " B Walter", " S Kupiński", " P Prominski" ],
+    "authors" : [ "M Wolski", "S Kupinski", "P Prominski" ],
     "year" : "2016",
     "citations" : "2"
   }, {
     "title" : "The relationship between design patterns and code smells: An exploratory study",
-    "authors" : [ "B Walter", " T Alkhaeir" ],
+    "authors" : [ "T Alkhaeir" ],
     "year" : "2016",
     "citations" : "2"
   }, {
     "title" : "Including structural factors into the metrics-based code smells detection",
-    "authors" : [ "B Walter", " B Matuszyk", " FA Fontana" ],
+    "authors" : [ "B Matuszyk", "F Fontana" ],
     "year" : "2015",
     "citations" : "2"
   }, {
     "title" : "Looking for patterns in code bad smells relations",
-    "authors" : [ "B Walter", " P Martenka" ],
+    "authors" : [ "P Martenka" ],
     "year" : "2011",
     "citations" : "2"
   }, {
     "title" : "Exploring Bad Code Smells Dependencies.",
-    "authors" : [ "B Pietrzak", " B Walter" ],
+    "authors" : [ "B Pietrzak" ],
     "year" : "2005",
     "citations" : "2"
   }, {
     "title" : "Extending testability for automated refactoring",
-    "authors" : [ "B Walter" ],
+    "authors" : [ ],
     "year" : "2003",
     "citations" : "2"
   }, {
@@ -134,134 +135,134 @@
     "citations" : "2"
   }, {
     "title" : "Heuristic algorithm for schedule optimization in FMS environment",
-    "authors" : [ "J Błażewicz", " G Pawlak", " M Sterna", " B Walter", " M Zawirski" ],
+    "authors" : [ "J Blazewicz", "G Pawlak", "M Sterna", "M Zawirski" ],
     "year" : "1999",
     "citations" : "2"
   }, {
     "title" : "Równowaga między zwinnością a dyscypliną z wykorzystaniem Xprince",
-    "authors" : [ "J Nawrocki", " Ł Olek", " M Jasiński", " B Paliświat", " B Walter", " N Pietrzak", " P Godek" ],
+    "authors" : [ "J Nawrocki", "Ł Olek", "M Jasinski", "B Paliswiat", "N Pietrzak", "P Godek" ],
     "year" : "",
     "citations" : "2"
   }, {
     "title" : "Automatic bad-smell detection in Java programs",
-    "authors" : [ "B Pietrzak", " B Walter", " JR Nawrocki" ],
+    "authors" : [ "B Pietrzak", "J Nawrocki" ],
     "year" : "2004",
     "citations" : "1"
   }, {
     "title" : "MaLTeSQE 2016",
-    "authors" : [ "FA Fontana", " S Counsell", " J Dietrich", " L Madeyski", " M Ochodek", " H Osman", " ..." ],
+    "authors" : [ "F Fontana", "S Counsell", "J Dietrich", "L Madeyski", "M Ochodek", "H Osman" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "Software quality model for a research‐driven organization—An experience report",
-    "authors" : [ "M Wolski", " B Walter", " S Kupiński", " J Chojnacki" ],
+    "authors" : [ "M Wolski", "S Kupinski", "J Chojnacki" ],
     "year" : "2017",
     "citations" : ""
   }, {
     "title" : "GN4-1 White Paper: Supporting the Service Validation and Testing Process in the GÉANT Project",
-    "authors" : [ "M Wolski", " B Walter", " S Kupiński", " P Promińsk", " I Golub" ],
+    "authors" : [ "M Wolski", "S Kupinski", "P Prominsk", "I Golub" ],
     "year" : "2016",
     "citations" : ""
   }, {
     "title" : "Code Smells and Micro Patterns Correlations",
-    "authors" : [ "F Arcelli Fontana", " B Walter", " M Zanoni" ],
+    "authors" : [ "M Zanoni" ],
     "year" : "2013",
     "citations" : ""
   }, {
     "title" : "Software Engineering Techniques: Third IFIP TC 2 Central and East-European Conference, CEE-SET 2008, Brno, Czech Republic, October 13-15, 2008, Revised S...",
-    "authors" : [ "Z Huzar", " R Koci", " B Meyer", " B Walter", " J Zendulka" ],
+    "authors" : [ "Z Huzar", "R Koci", "B Meyer", "J Zendulka" ],
     "year" : "2011",
     "citations" : ""
   }, {
     "title" : "Software Engineering Techniques",
-    "authors" : [ "Z Huzar", " R Koci", " B Meyer", " B Walter", " J Zendulka" ],
+    "authors" : [ "Z Huzar", "R Koci", "B Meyer", "J Zendulka" ],
     "year" : "2011",
     "citations" : ""
   }, {
     "title" : "Introduction to the special issue on software engineering",
-    "authors" : [ "JR Nawrocki", " B Walter" ],
+    "authors" : [ "J Nawrocki" ],
     "year" : "2002",
     "citations" : ""
   }, {
     "title" : "Experimental evaluation of two approaches to software artefacts review",
-    "authors" : [ "A Wojciechowski", " JR Nawrocki", " G Jachimko", " L Gawron", " M Jagielski", " ..." ],
+    "authors" : [ "A Wojciechowski", "J Nawrocki", "G Jachimko", "L Gawron", "M Jagielski" ],
     "year" : "2002",
     "citations" : ""
   }, {
     "title" : "Lecturer",
-    "authors" : [ "B Walter" ],
+    "authors" : [ ],
     "year" : "1887",
     "citations" : ""
   }, {
     "title" : "MaLTeSQuE 2017 Organization",
-    "authors" : [ "FA Fontana", " B Walter", " M Zanoni", " A Chatzigeorgiou", " J Dietrich", " F Khomh", " ..." ],
+    "authors" : [ "F Fontana", "M Zanoni", "A Chatzigeorgiou", "J Dietrich", "F Khomh" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Eksperymentalna ocena dwóch podejść do przeglądu artefaktów programowych",
-    "authors" : [ "A Wojciechowski", " L Gawron", " M Jagielski", " J Nawrocki" ],
+    "authors" : [ "A Wojciechowski", "L Gawron", "M Jagielski", "J Nawrocki" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Dostosowanie praktyk programowania ekstremalnego do wymogów standardu ISO 9000",
-    "authors" : [ "M Jasiński", " JR Nawrocki", " B Walter", " A Wojciechowski" ],
+    "authors" : [ "M Jasinski", "J Nawrocki", "A Wojciechowski" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Propozycja modelu dojrzałości dla Programowania Ekstremalnego",
-    "authors" : [ "JR Nawrocki", " B Walter", " A Wojciechowski" ],
+    "authors" : [ "J Nawrocki", "A Wojciechowski" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Рlanowanie pracy zespołu programistów z użyciem metody PROBE",
-    "authors" : [ "JR Nawrocki", " B Walter", " A Wojciechowski" ],
+    "authors" : [ "J Nawrocki", "A Wojciechowski" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Balancing Agility and Formalism in Software Engineering",
-    "authors" : [ "BMJR Nawrocki", " B Walter" ],
+    "authors" : [ "B Nawrocki" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Рlanowanie z użyciem metody PROBE",
-    "authors" : [ "JR Nawrocki", " B Walter", " A Wojciechowski" ],
+    "authors" : [ "J Nawrocki", "A Wojciechowski" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Programowania Ekstremalnego",
-    "authors" : [ "JR Nawrocki", " B Walter", " A Wojciechowski" ],
+    "authors" : [ "J Nawrocki", "A Wojciechowski" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Weryfikacja przekształceń refaktoryzacyjnych",
-    "authors" : [ "B Walter", " JR Nawrocki" ],
+    "authors" : [ "J Nawrocki" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Próba eksperymentalnej oceny metody PROBE",
-    "authors" : [ "JR Nawrocki", " M Szkopek", " B Walter", " A Wojciechowski" ],
+    "authors" : [ "J Nawrocki", "M Szkopek", "A Wojciechowski" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Welcome to Object-Oriented World",
-    "authors" : [ "B Walter" ],
+    "authors" : [ ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Testowanie ekstremalne i narzędzia xUnit",
-    "authors" : [ "M Gabor", " J Nawrocki", " B Walter" ],
+    "authors" : [ "M Gabor", "J Nawrocki" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Automatyczne wykrywanie duplikatów w kodzie programów",
-    "authors" : [ "B Pietrzak", " J Nawrocki", " B Wolter" ],
+    "authors" : [ "B Pietrzak", "J Nawrocki", "B Wolter" ],
     "year" : "",
     "citations" : ""
   }, {
     "title" : "Specyfikacja wymagań",
-    "authors" : [ "J Jurkiewicz", " M Ochodek", " B Walter" ],
+    "authors" : [ "J Jurkiewicz", "M Ochodek" ],
     "year" : "",
     "citations" : ""
   } ],
-  "hindex" : 9
+  "hindex" : 10
 }

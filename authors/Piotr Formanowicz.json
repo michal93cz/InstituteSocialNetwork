@@ -1,260 +1,266 @@
 {
   "name" : "P Formanowicz",
-  "citations" : 1236,
+  "fullName" : "Piotr Formanowicz",
+  "citations" : 1249,
   "tenIndex" : 33,
   "articles" : [ {
     "title" : "Two-machine flow shops with limited machine availability",
-    "authors" : [ "W Kubiak", "J Błażewicz", "P Formanowicz", "J Breit", "G Schmidt" ],
+    "authors" : [ "W Kubiak", "J Blazewicz", "J Breit", "G Schmidt" ],
     "year" : "2002",
     "citations" : "121"
   }, {
     "title" : "An improved approximation algorithm for the single machine total completion time scheduling problem with availability constraints",
-    "authors" : [ "C Sadfi", "B Penz", "C Rapine", "J Błażewicz", "P Formanowicz" ],
+    "authors" : [ "C Sadfi", "B Penz", "C Rapine", "J Blazewicz" ],
     "year" : "2005",
-    "citations" : "106"
+    "citations" : "107"
   }, {
     "title" : "DNA sequencing with positive and negative errors",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "M Kasprzak", "WT Markiewicz", "J Wȩglarz" ],
+    "authors" : [ "J Blazewicz", "M Kasprzak", "W Markiewicz", "J Weglarz" ],
     "year" : "1999",
     "citations" : "88"
   }, {
     "title" : "Heuristic algorithms for the two-machine flowshop with limited machine availability",
-    "authors" : [ "J Błażewicz", "J Breit", "P Formanowicz", "W Kubiak", "G Schmidt" ],
+    "authors" : [ "J Blazewicz", "J Breit", "W Kubiak", "G Schmidt" ],
     "year" : "2001",
     "citations" : "72"
   }, {
     "title" : "An analysis of the Petri net based model of the human body iron homeostasis process",
-    "authors" : [ "A Sackmann", "D Formanowicz", "P Formanowicz", "I Koch", "J Blazewicz" ],
+    "authors" : [ "A Sackmann", "D Formanowicz", "I Koch", "J Blazewicz" ],
     "year" : "2007",
-    "citations" : "60"
+    "citations" : "61"
   }, {
     "title" : "Tabu search for DNA sequencing with false negatives and false positives",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "M Kasprzak", "WT Markiewicz", "J Wȩglarz" ],
+    "authors" : [ "J Blazewicz", "M Kasprzak", "W Markiewicz", "J Weglarz" ],
     "year" : "2000",
     "citations" : "55"
   }, {
     "title" : "Scheduling preemptable tasks on parallel processors with limited availability",
-    "authors" : [ "J Błażewicz", "M Drozdowski", "P Formanowicz", "W Kubiak", "G Schmidt" ],
+    "authors" : [ "J Blazewicz", "M Drozdowski", "W Kubiak", "G Schmidt" ],
     "year" : "2000",
     "citations" : "42"
   }, {
     "title" : "Minimizing the makespan in the two-machine no-wait flow-shop with limited machine availability",
-    "authors" : [ "ML Espinouse", "P Formanowicz", "B Penz" ],
+    "authors" : [ "M Espinouse", "B Penz" ],
     "year" : "1999",
-    "citations" : "40"
+    "citations" : "41"
   }, {
     "title" : "Homologous crossovers among molecules of brome mosaic bromovirus RNA1 or RNA2 segments in vivo",
-    "authors" : [ "A Urbanowicz", "M Alejska", "P Formanowicz", "J Błażewicz", "M Figlerowicz", "..." ],
+    "authors" : [ "A Urbanowicz", "M Alejska", "J Blazewicz", "M Figlerowicz" ],
     "year" : "2005",
-    "citations" : "39"
+    "citations" : "40"
   }, {
     "title" : "A heuristic managing errors for DNA sequencing",
-    "authors" : [ "J Błazewicz", "P Formanowicz", "F Guinand", "M Kasprzak" ],
+    "authors" : [ "J Blazewicz", "F Guinand", "M Kasprzak" ],
     "year" : "2002",
     "citations" : "37"
   }, {
     "title" : "Petri net based model of the body iron homeostasis",
-    "authors" : [ "D Formanowicz", "A Sackmann", "P Formanowicz", "J Błażewicz" ],
+    "authors" : [ "D Formanowicz", "A Sackmann", "J Blazewicz" ],
     "year" : "2007",
-    "citations" : "34"
+    "citations" : "35"
   }, {
     "title" : "Selected combinatorial problems of computational biology",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "M Kasprzak" ],
+    "authors" : [ "J Blazewicz", "M Kasprzak" ],
     "year" : "2005",
     "citations" : "32"
   }, {
+    "title" : "Complexity results and approximation algorithms for the two machine no-wait flow-shop with limited machine availability",
+    "authors" : [ "M Espinouse", "B Penz" ],
+    "year" : "2001",
+    "citations" : "30"
+  }, {
     "title" : "Tabu search algorithm for DNA sequencing by hybridization with isothermic libraries",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "M Kasprzak", "WT Markiewicz", "A Świercz" ],
+    "authors" : [ "J Blazewicz", "M Kasprzak", "W Markiewicz", "A Swiercz" ],
     "year" : "2004",
     "citations" : "29"
   }, {
-    "title" : "Complexity results and approximation algorithms for the two machine no-wait flow-shop with limited machine availability",
-    "authors" : [ "ML Espinouse", "P Formanowicz", "B Penz" ],
-    "year" : "2001",
-    "citations" : "29"
-  }, {
     "title" : "Construction of DNA restriction maps based on a simplified experiment",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "M Kasprzak", "M Jaroszewski", "WT Markiewicz" ],
+    "authors" : [ "J Blazewicz", "M Kasprzak", "M Jaroszewski", "W Markiewicz" ],
     "year" : "2001",
     "citations" : "28"
   }, {
     "title" : "Sequencing by hybridization with isothermic oligonucleotide libraries",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "M Kasprzak", "W T Markiewicz" ],
+    "authors" : [ "J Blazewicz", "M Kasprzak" ],
     "year" : "2004",
     "citations" : "23"
   }, {
     "title" : "New insights into the human body iron metabolism analyzed by a Petri net based approach",
-    "authors" : [ "A Sackmann", "D Formanowicz", "P Formanowicz", "J Blazewicz" ],
+    "authors" : [ "A Sackmann", "D Formanowicz", "J Blazewicz" ],
     "year" : "2009",
     "citations" : "22"
   }, {
     "title" : "Some aspects of the anemia of chronic disorders modeled and analyzed by petri net based approach",
-    "authors" : [ "D Formanowicz", "A Sackmann", "A Kozak", "J Błażewicz", "P Formanowicz" ],
+    "authors" : [ "D Formanowicz", "A Sackmann", "A Kozak", "J Blazewicz" ],
     "year" : "2011",
-    "citations" : "20"
+    "citations" : "21"
   }, {
     "title" : "Hepatitis C virus quasispecies in chronically infected children subjected to interferon–ribavirin therapy",
-    "authors" : [ "M Figlerowicz", "P Jackowiak", "P Formanowicz", "P Kędziora", "M Alejska", "..." ],
+    "authors" : [ "M Figlerowicz", "P Jackowiak", "P Kedziora", "M Alejska" ],
     "year" : "2010",
     "citations" : "20"
   }, {
     "title" : "Computational methods in diagnostics of chronic hepatitis C",
-    "authors" : [ "P Kedziora", "M Figlerowicz", "P Formanowicz", "M Alejska", "P Jackowiak", "..." ],
+    "authors" : [ "P Kedziora", "M Figlerowicz", "M Alejska", "P Jackowiak" ],
     "year" : "2005",
     "citations" : "19"
   }, {
     "title" : "Modeling the process of human body iron homeostasis using a variant of timed Petri nets",
-    "authors" : [ "J Blazewicz", "D Formanowicz", "P Formanowicz", "A Sackmann", "M Sajkowski" ],
+    "authors" : [ "J Blazewicz", "D Formanowicz", "A Sackmann", "M Sajkowski" ],
     "year" : "2009",
     "citations" : "17"
   }, {
     "title" : "An algorithm for an automatic NOE pathways analysis of 2D NMR spectra of RNA duplexes",
-    "authors" : [ "RW Adamiak", "J Blazewicz", "P Formanowicz", "Z Gdaniec", "M Kasprzak", "..." ],
+    "authors" : [ "R Adamiak", "J Blazewicz", "Z Gdaniec", "M Kasprzak" ],
     "year" : "2004",
     "citations" : "17"
   }, {
     "title" : "On the recognition of de Bruijn graphs and their induced subgraphs",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "M Kasprzak", "D Kobler" ],
+    "authors" : [ "J Blazewicz", "M Kasprzak", "D Kobler" ],
     "year" : "2002",
     "citations" : "16"
   }, {
     "title" : "An improved tabu search algorithm for DNA sequencing with errors",
-    "authors" : [ "J Blazewicz", "P Formanowicz", "F Glover", "M Kasprzak", "J Weglarz" ],
+    "authors" : [ "J Blazewicz", "F Glover", "M Kasprzak", "J Weglarz" ],
     "year" : "1999",
     "citations" : "15"
   }, {
     "title" : "A tiling microarray for global analysis of chloroplast genome expression in cucumber and other plants",
-    "authors" : [ "A Żmieńko", "M Guzowska-Nowowiejska", "R Urbaniak", "W Pląder", "..." ],
+    "authors" : [ "A Zmienko", "M Guzowska-Nowowiejska", "R Urbaniak", "W Plader" ],
     "year" : "2011",
+    "citations" : "14"
+  }, {
+    "title" : "Human fertility protein PUMILIO2 interacts in vitro with testis mRNA encoding Cdc42 effector 3 (CEP3)",
+    "authors" : [ "A Spik", "S Oczkowski", "A Olszak", "J Blazewicz", "J Jaruzelska" ],
+    "year" : "2006",
     "citations" : "13"
   }, {
     "title" : "Selected combinatorial aspects of biological sequence analysis",
-    "authors" : [ "P Formanowicz" ],
+    "authors" : [ ],
     "year" : "2005",
     "citations" : "13"
   }, {
     "title" : "Towards prediction of HCV therapy efficiency",
-    "authors" : [ "S Wasik", "P Jackowiak", "JB Krawczyk", "P Kedziora", "P Formanowicz", "..." ],
+    "authors" : [ "S Wasik", "P Jackowiak", "J Krawczyk", "P Kedziora" ],
     "year" : "2010",
     "citations" : "12"
   }, {
-    "title" : "Human fertility protein PUMILIO2 interacts in vitro with testis mRNA encoding Cdc42 effector 3 (CEP3)",
-    "authors" : [ "A Spik", "S Oczkowski", "A Olszak", "P Formanowicz", "J Blazewicz", "J Jaruzelska" ],
-    "year" : "2006",
-    "citations" : "12"
-  }, {
     "title" : "A branch and bound algorithm for the two machine flow shops with limited machine availability",
-    "authors" : [ "W Kubiak", "J Blazewicz", "P Formanowicz", "G Schmidt" ],
+    "authors" : [ "W Kubiak", "J Blazewicz", "G Schmidt" ],
     "year" : "1997",
     "citations" : "12"
   }, {
+    "title" : "Hemojuvelin–hepcidin axis modeled and analyzed using Petri nets",
+    "authors" : [ "D Formanowicz", "A Kozak", "T Glowacki", "M Radom" ],
+    "year" : "2013",
+    "citations" : "11"
+  }, {
     "title" : "A survey of graph coloring-its types, methods and applications",
-    "authors" : [ "P Formanowicz", "K Tanaś" ],
+    "authors" : [ "K Tanas" ],
     "year" : "2012",
     "citations" : "11"
   }, {
     "title" : "DNA sequencing by hybridization with additional information available",
-    "authors" : [ "P Formanowicz" ],
+    "authors" : [ ],
     "year" : "2005",
     "citations" : "11"
   }, {
-    "title" : "Hemojuvelin–hepcidin axis modeled and analyzed using Petri nets",
-    "authors" : [ "D Formanowicz", "A Kozak", "T Głowacki", "M Radom", "P Formanowicz" ],
-    "year" : "2013",
-    "citations" : "10"
-  }, {
     "title" : "Some remarks on evaluating the quality of the multiple sequence alignment based on the BAliBASE benchmark",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "P Wojciechowski" ],
+    "authors" : [ "J Blazewicz", "P Wojciechowski" ],
     "year" : "2009",
     "citations" : "10"
   }, {
     "title" : "On graph theoretical models for peptide sequence assembly",
-    "authors" : [ "J Błażewicz", "M Borowski", "P Formanowicz", "T Głowacki" ],
+    "authors" : [ "J Blazewicz", "M Borowski", "T Glowacki" ],
     "year" : "2005",
     "citations" : "9"
   }, {
     "title" : "Transferrin changes in haemodialysed patients",
-    "authors" : [ "D Formanowicz", "P Formanowicz" ],
+    "authors" : [ "D Formanowicz" ],
     "year" : "2012",
     "citations" : "8"
   }, {
     "title" : "Multistage isothermic sequencing by hybridization",
-    "authors" : [ "J Błażewicz", "P Formanowicz" ],
+    "authors" : [ "J Blazewicz" ],
     "year" : "2005",
     "citations" : "8"
   }, {
     "title" : "Assembling the SARS-CoV genome–new method based on graph theoretical approach",
-    "authors" : [ "J Blazewicz", "M Figlerowicz", "P Formanowicz", "M Kasprzak", "B Nowierski", "..." ],
+    "authors" : [ "J Blazewicz", "M Figlerowicz", "M Kasprzak", "B Nowierski" ],
     "year" : "2004",
     "citations" : "8"
   }, {
     "title" : "DNA sequencing, Eulerian graphs, and the exact perfect matching problem",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "M Kasprzak", "P Schuurman", "GJ Woeginger" ],
+    "authors" : [ "J Blazewicz", "M Kasprzak", "P Schuurman", "G Woeginger" ],
     "year" : "2002",
     "citations" : "8"
   }, {
     "title" : "A greedy algorithm for the DNA sequencing by hybridization with positive and negative errors and information about repetitions",
-    "authors" : [ "K Kwarciak", "P Formanowicz" ],
+    "authors" : [ "K Kwarciak" ],
     "year" : "2011",
     "citations" : "7"
   }, {
     "title" : "Poseidon: An information retrieval and extraction system for metagenomic marine science",
-    "authors" : [ "M Radom", "A Rybarczyk", "R Kottmann", "P Formanowicz", "M Szachniuk", "..." ],
+    "authors" : [ "M Radom", "A Rybarczyk", "R Kottmann", "M Szachniuk" ],
     "year" : "2012",
     "citations" : "6"
   }, {
     "title" : "An overall view of the process of the regulation of human iron metabolism",
-    "authors" : [ "D Formanowicz", "P Formanowicz" ],
+    "authors" : [ "D Formanowicz" ],
     "year" : "2011",
+    "citations" : "6"
+  }, {
+    "title" : "A Petri net based model of oxidative stress in atherosclerosis",
+    "authors" : [ "D Formanowicz", "A Kozak" ],
+    "year" : "2012",
     "citations" : "5"
   }, {
     "title" : "Tabu search method for determining sequences of amino acids in long polypeptides",
-    "authors" : [ "J Błażewicz", "M Borowski", "P Formanowicz", "M Stobiecki" ],
+    "authors" : [ "J Blazewicz", "M Borowski", "M Stobiecki" ],
     "year" : "2005",
     "citations" : "5"
   }, {
     "title" : "[The clinical consequences of changes occurring in HCV population during the first weeks of chronic hepatitis C treatment with interferon and ribavirin].",
-    "authors" : [ "M Figlerowicz", "P Formanowicz", "P Kedziora", "M Alejska", "P Jackowiak", "..." ],
+    "authors" : [ "M Figlerowicz", "P Kedziora", "M Alejska", "P Jackowiak" ],
     "year" : "2004",
     "citations" : "5"
   }, {
     "title" : "Tabu search algorithm for DNA sequencing by hybridization with multiplicity information available",
-    "authors" : [ "K Kwarciak", "P Formanowicz" ],
+    "authors" : [ "K Kwarciak" ],
     "year" : "2014",
     "citations" : "4"
   }, {
-    "title" : "A Petri net based model of oxidative stress in atherosclerosis",
-    "authors" : [ "D Formanowicz", "A Kozak", "P Formanowicz" ],
-    "year" : "2012",
-    "citations" : "4"
-  }, {
     "title" : "Genetic and Tabu search algorithms for peptide assembly problem",
-    "authors" : [ "J Błażewicz", "M Borowski", "P Formanowicz", "T Głowacki" ],
+    "authors" : [ "J Blazewicz", "M Borowski", "T Glowacki" ],
     "year" : "2010",
     "citations" : "4"
   }, {
     "title" : "Asemblacja długich łańcuchów peptydowych przy wykorzystaniu metaheurystyki GRASP",
-    "authors" : [ "T Głowacki", "A Kozak", "P Formanowicz" ],
+    "authors" : [ "T Glowacki", "A Kozak" ],
     "year" : "2008",
     "citations" : "4"
   }, {
     "title" : "Scheduling jobs in open shops with limited machine availability",
-    "authors" : [ "J Błażewicz", "P Formanowicz" ],
+    "authors" : [ "J Blazewicz" ],
     "year" : "2002",
     "citations" : "4"
   }, {
     "title" : "Selected deterministic scheduling problems with limited machine availability",
-    "authors" : [ "P Formanowicz" ],
+    "authors" : [ ],
     "year" : "2001",
     "citations" : "4"
   }, {
     "title" : "Parallel branch and bound algorithms for the two-machine flow shop problem with limited machine availability",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "W Kubiak", "M Przysucha", "G Schmidt" ],
+    "authors" : [ "J Blazewicz", "W Kubiak", "M Przysucha", "G Schmidt" ],
     "year" : "2000",
     "citations" : "4"
   }, {
+    "title" : "The application of microarray technology to the identification of Tc1-like element sequences in fish genomes",
+    "authors" : [ "R Wenne", "L Handschuh", "A Pocwierz-Kotus", "R Urbaniak" ],
+    "year" : "2011",
+    "citations" : "3"
+  }, {
     "title" : "Adaptive memory programming: local search parallel algorithms for phylogenetic tree construction",
-    "authors" : [ "J Blazewicz", "P Formanowicz", "P Kedziora", "P Marciniak", "P Taront" ],
+    "authors" : [ "J Blazewicz", "P Kedziora", "P Marciniak", "P Taront" ],
     "year" : "2011",
     "citations" : "3"
   }, {
@@ -264,142 +270,137 @@
     "citations" : "3"
   }, {
     "title" : "Algorithms for sequencing by hybridization problems based on non-classical DNA chips",
-    "authors" : [ "M Radom", "P Formanowicz" ],
+    "authors" : [ "M Radom" ],
     "year" : "2010",
     "citations" : "3"
   }, {
     "title" : "327 TWO TYPES OF VIRAL QUASISPECIES IDENTIFIED IN CHILDREN SUFFERING FROM CHRONIC HEPATITIS C",
-    "authors" : [ "M Figlerowicz", "P Jackowiak", "M Alejska", "N Malinowska", "..." ],
+    "authors" : [ "M Figlerowicz", "P Jackowiak", "M Alejska", "N Malinowska" ],
     "year" : "2009",
     "citations" : "3"
   }, {
     "title" : "Sekwencjonowanie DNA z błędami negatywnymi oraz informacją o powtórzeniach",
-    "authors" : [ "K Kwarciak", "M Radom", "P Formanowicz" ],
+    "authors" : [ "K Kwarciak", "M Radom" ],
     "year" : "2008",
     "citations" : "3"
   }, {
     "title" : "A polynomial time equivalence between DNA sequencing and the exact perfect matching problem",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "M Kasprzak", "P Schuurman", "GJ Woeginger" ],
+    "authors" : [ "J Blazewicz", "M Kasprzak", "P Schuurman", "G Woeginger" ],
     "year" : "2007",
     "citations" : "3"
   }, {
     "title" : "Scheduling preemptable tasks on uniform processors with limited availability for maximum lateness criterion",
-    "authors" : [ "M Drozdowski", "J Błazewicz", "P Formanowicz", "W Kubiak", "G Schmidt" ],
+    "authors" : [ "M Drozdowski", "J Blazewicz", "W Kubiak", "G Schmidt" ],
     "year" : "2000",
     "citations" : "3"
   }, {
     "title" : "Reference Alignment Based Methods for Quality Evaluation of Multiple Sequence Alignment-A Survey",
-    "authors" : [ "P Wojciechowski", "P Formanowicz", "J Blazewicz" ],
+    "authors" : [ "P Wojciechowski", "J Blazewicz" ],
     "year" : "2014",
     "citations" : "2"
   }, {
     "title" : "On a generalized model of labeled graphs",
-    "authors" : [ "A Kozak", "T Głowacki", "P Formanowicz" ],
+    "authors" : [ "A Kozak", "T Glowacki" ],
     "year" : "2013",
     "citations" : "2"
   }, {
-    "title" : "The application of microarray technology to the identification of Tc1-like element sequences in fish genomes",
-    "authors" : [ "R Wenne", "L Handschuh", "A Pocwierz-Kotus", "R Urbaniak", "P Formanowicz", "..." ],
-    "year" : "2011",
-    "citations" : "2"
-  }, {
     "title" : "A certain model of HCV virus infection",
-    "authors" : [ "S Wasik", "P Jackowiak", "J Krawczyk", "P Kedziora", "P Formanowicz", "..." ],
+    "authors" : [ "S Wasik", "P Jackowiak", "J Krawczyk", "P Kedziora" ],
     "year" : "2009",
     "citations" : "2"
   }, {
     "title" : "Zastosowanie sieci Petriego do modelowania procesów biologicznych",
-    "authors" : [ "J Błażewicz", "D Formanowicz", "P Formanowicz" ],
+    "authors" : [ "J Blazewicz", "D Formanowicz" ],
     "year" : "2009",
     "citations" : "2"
   }, {
     "title" : "Constructing Oligonucleotide Libraries Based on Graph Theory Models",
-    "authors" : [ "A Kozak", "T Glowacki", "P Formanowicz" ],
+    "authors" : [ "A Kozak", "T Glowacki" ],
     "year" : "2008",
     "citations" : "2"
   }, {
     "title" : "Grafy bazowo-etykietowalne jako jednolita reprezentacja grafów sprzężonych",
-    "authors" : [ "A Kozak", "T Głowacki", "P Formanowicz" ],
+    "authors" : [ "A Kozak", "T Glowacki" ],
     "year" : "2008",
     "citations" : "2"
   }, {
     "title" : "Isothermic sequencing by hybridization problems with information about repetitions",
-    "authors" : [ "P Formanowicz" ],
+    "authors" : [ ],
     "year" : "2008",
     "citations" : "2"
   }, {
     "title" : "Candidate mRNAs interacting with fertility protein PUMILIO2 in the human germ line.",
-    "authors" : [ "A Spik", "S Oczkowski", "A Olszak", "M Kotecki", "P Formanowicz", "J Błazewicz", "..." ],
+    "authors" : [ "A Spik", "S Oczkowski", "A Olszak", "M Kotecki", "J Blazewicz" ],
     "year" : "2005",
     "citations" : "2"
   }, {
     "title" : "DNA computing",
-    "authors" : [ "P Formanowicz" ],
+    "authors" : [ ],
     "year" : "2005",
     "citations" : "2"
   }, {
     "title" : "Tabu Search Method for Determining Sequences of Amino Acids in Long Polypeptides.",
-    "authors" : [ "J Blazewicz", "M Borowski", "P Formanowicz", "M Stobiecki" ],
+    "authors" : [ "J Blazewicz", "M Borowski", "M Stobiecki" ],
     "year" : "2005",
     "citations" : "2"
   }, {
     "title" : "Assembling the SARS-CoV genome—new method based on graph theoretical approach",
-    "authors" : [ "J Błażewicz", "M Figlerowicz", "P Formanowicz", "M Kasprzak", "B Nowierski", "..." ],
+    "authors" : [ "J Blazewicz", "M Figlerowicz", "M Kasprzak", "B Nowierski" ],
     "year" : "2004",
     "citations" : "2"
   }, {
     "title" : "Parallel algorithms for evolutionary history reconstruction",
-    "authors" : [ "J Błażewicz", "P Formanowicz", "P Kędziora", "P Wojciechowski" ],
+    "authors" : [ "J Blazewicz", "P Kedziora", "P Wojciechowski" ],
     "year" : "2004",
     "citations" : "2"
   }, {
     "title" : "The Fan–Raspaud conjecture: A randomized algorithmic approach and application to the pair assignment problem in cubic networks",
-    "authors" : [ "P Formanowicz", "K Tanaś" ],
+    "authors" : [ "K Tanas" ],
     "year" : "2012",
     "citations" : "1"
   }, {
     "title" : "Cerberus: a new information retrieval tool for marine metagenomics",
-    "authors" : [ "M Radom", "R Kottmann", "A Rybarczyk", "P Formanowicz", "M Szachniuk", "..." ],
+    "authors" : [ "M Radom", "R Kottmann", "A Rybarczyk", "M Szachniuk" ],
     "year" : "2010",
     "citations" : "1"
   }, {
     "title" : "Mikromacierze DNA–zasady projektowania sond",
-    "authors" : [ "P Formanowicz", "R Urbaniak", "L Handschuh", "D Formanowicz", "..." ],
+    "authors" : [ "R Urbaniak", "L Handschuh", "D Formanowicz" ],
     "year" : "2008",
     "citations" : "1"
   }, {
     "title" : "Resolving power of isothermic DNA sequencing chips",
-    "authors" : [ "P Formanowicz" ],
+    "authors" : [ ],
     "year" : "2004",
     "citations" : "1"
   }, {
     "title" : "DNA based algorithms for some scheduling problems",
-    "authors" : [ "J Błaźewicz", "P Formanowicz", "R Urbaniak" ],
+    "authors" : [ "J Blazewicz", "R Urbaniak" ],
     "year" : "2003",
     "citations" : "1"
   }, {
     "title" : "Algorytmy tabu Search dla problemów szeregowania zadań na jednej maszynie z ograniczoną dostępnością",
-    "authors" : [ "P Formanowicz" ],
+    "authors" : [ ],
     "year" : "2002",
     "citations" : "1"
   }, {
     "title" : "Sequencing by Hybridization with Positive Faults.",
-    "authors" : [ "J Blazewicz", "P Formanowicz", "M Kasprzak", "WT Markiewicz", "J Weglarz" ],
+    "authors" : [ "J Blazewicz", "M Kasprzak", "W Markiewicz", "J Weglarz" ],
     "year" : "1996",
     "citations" : "1"
   }, {
     "title" : "Biologia systemów: sieci Petriego w zaawansowanym modelowaniu procesów biologicznych",
-    "authors" : [ "P Zawierucha", "D Formanowicz", "M Radom", "B Kempisty", "P Sosinska", "..." ],
+    "authors" : [ "P Zawierucha", "D Formanowicz", "M Radom", "B Kempisty", "P Sosinska" ],
     "year" : "2012",
     "citations" : ""
   }, {
     "title" : "Selected aspects of endothelial dysfunction and their influence on the atherosclerosis process modeled and analyzed by Petri net based approach",
-    "authors" : [ "D Formanowicz", "A Kozak", "P Formanowicz" ],
+    "authors" : [ "D Formanowicz", "A Kozak" ],
     "year" : "2011",
     "citations" : ""
   }, {
     "title" : "Algorytmy dla problemów sekwencjonowania przez hybrydyzację opartych o nieklasyczne chipy DNA",
-    "authors" : [ "M Radom", "P Formanowicz" ],
+    "authors" : [ "M Radom" ],
     "year" : "2010",
     "citations" : ""
   } ],

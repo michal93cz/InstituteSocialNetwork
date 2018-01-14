@@ -1,10 +1,11 @@
 {
-  "name" : "A Urbaniak",
+  "name" : "A URBANIAK",
+  "fullName" : "Andrzej URBANIAK",
   "citations" : 260,
   "tenIndex" : 8,
   "articles" : [ {
     "title" : "Wodociągi i kanalizacja w Polsce-tradycja i współczesność",
-    "authors" : [ "M Sozański", "Z Dymaczewski", "A Urbaniak" ],
+    "authors" : [ "M Sozanski", "Z Dymaczewski", "A Urbaniak" ],
     "year" : "2002",
     "citations" : "26"
   }, {
@@ -24,7 +25,7 @@
     "citations" : "13"
   }, {
     "title" : "Inwestycje teleinformatyczne w przedsiębiorstwie energetycznym",
-    "authors" : [ "M Sroczan", "EM Sroczan", "A Urbaniak" ],
+    "authors" : [ "M Sroczan", "E Sroczan", "A Urbaniak" ],
     "year" : "2007",
     "citations" : "12"
   }, {
@@ -34,7 +35,7 @@
     "citations" : "12"
   }, {
     "title" : "Probabilistic and fuzzy approaches to capacity expansion planning of a water supply system",
-    "authors" : [ "R Słowiński", "A Urbaniak", "J Węglarz" ],
+    "authors" : [ "R Slowinski", "A Urbaniak", "J Weglarz" ],
     "year" : "1985",
     "citations" : "12"
   }, {
@@ -44,7 +45,7 @@
     "citations" : "11"
   }, {
     "title" : "Poradnik eksploatatora oczyszczalni ścieków",
-    "authors" : [ "K Bartoszewski", "W Bicz", "Z Dymaczewski", "T Jaroszyński", "K Kujawa", "..." ],
+    "authors" : [ "K Bartoszewski", "W Bicz", "Z Dymaczewski", "T Jaroszynski", "K Kujawa" ],
     "year" : "1997",
     "citations" : "10"
   }, {
@@ -59,7 +60,7 @@
     "citations" : "8"
   }, {
     "title" : "Wykorzystanie metod sztucznej inteligencji w monitorowaniu, sterowaniu i eksploatacji systemów zaopatrzenia w wodę i ochrony wód",
-    "authors" : [ "EM Sroczan", "A Urbaniak" ],
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
     "year" : "2004",
     "citations" : "8"
   }, {
@@ -79,12 +80,12 @@
     "citations" : "6"
   }, {
     "title" : "Multicriteria capacity expansion planning of a water supply and wastewater treatment system",
-    "authors" : [ "R Slowiński", "A Urbaniak", "J Węglarz" ],
+    "authors" : [ "R Slowinski", "A Urbaniak", "J Weglarz" ],
     "year" : "1985",
     "citations" : "6"
   }, {
     "title" : "Multicriteria capacity expansion planning of a water supply and wastewater treatment system",
-    "authors" : [ "R Słowiński", "A Urbaniak", "J Węglarz" ],
+    "authors" : [ "R Slowinski", "A Urbaniak", "J Weglarz" ],
     "year" : "1983",
     "citations" : "6"
   }, {
@@ -94,7 +95,7 @@
     "citations" : "5"
   }, {
     "title" : "Utilization of intelligent HMI/SCADA system in environmental engineering",
-    "authors" : [ "A Nowak", "M: Urbaniak" ],
+    "authors" : [ "A Nowak", "M Urbaniak" ],
     "year" : "2010",
     "citations" : "5"
   }, {
@@ -124,7 +125,7 @@
     "citations" : "4"
   }, {
     "title" : "ELECTRONIC CONTROL OF DIESEL ENGINE",
-    "authors" : [ "R KLAUS", "A URBANIAK" ],
+    "authors" : [ "R KLAUS" ],
     "year" : "1994",
     "citations" : "4"
   }, {
@@ -134,7 +135,7 @@
     "citations" : "4"
   }, {
     "title" : "Bicriterion capacity expansion planning of a water supply system",
-    "authors" : [ "R Słowiński", "A Urbaniak", "J Węglarz" ],
+    "authors" : [ "R Slowinski", "A Urbaniak", "J Weglarz" ],
     "year" : "1983",
     "citations" : "4"
   }, {
@@ -149,12 +150,12 @@
     "citations" : "3"
   }, {
     "title" : "Technologia i sterowanie procesami chemicznymi w uzdatnianiu wody",
-    "authors" : [ "MM Sozański", "A Urbaniak" ],
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
     "year" : "2010",
     "citations" : "3"
   }, {
     "title" : "Wykorzystanie technologii GIS do modelowania i analizy sieci wodociągowych",
-    "authors" : [ "A Bałut", "A Urbaniak" ],
+    "authors" : [ "A Balut", "A Urbaniak" ],
     "year" : "2009",
     "citations" : "3"
   }, {
@@ -164,7 +165,7 @@
     "citations" : "3"
   }, {
     "title" : "Microcomputer logic control in the wastewater treatment plant",
-    "authors" : [ "P Góra", "EM Sroczan", "A Urbaniak" ],
+    "authors" : [ "P Gora", "E Sroczan", "A Urbaniak" ],
     "year" : "1990",
     "citations" : "3"
   }, {
@@ -184,7 +185,7 @@
     "citations" : "2"
   }, {
     "title" : "Weryfikacja i walidacja jako niezbędne etapy tworzenia modelu symulacyjnego sieci wodociągowych",
-    "authors" : [ "A Bałut", "A Urbaniak" ],
+    "authors" : [ "A Balut", "A Urbaniak" ],
     "year" : "2012",
     "citations" : "2"
   }, {
@@ -204,17 +205,17 @@
     "citations" : "2"
   }, {
     "title" : "Simulation of Variation the Power Load of Industrial Plant for Choice an Economy Rates of Energy",
-    "authors" : [ "EM Sroczan", "A Urbaniak" ],
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
     "year" : "2002",
     "citations" : "2"
   }, {
     "title" : "Komputerowy system trenowania operatorów stacji uzdatniania wody i oczyszczania ścieków bazujący na sztucznej inteligencji",
-    "authors" : [ "EM Sroczan", "A Urbaniak" ],
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
     "year" : "2002",
     "citations" : "2"
   }, {
     "title" : "Component oriented approach for management and control of wastewater treatment plant",
-    "authors" : [ "A Oborzyńska", "K Oborzyński", "A Urbaniak" ],
+    "authors" : [ "A Oborzynska", "K Oborzynski", "A Urbaniak" ],
     "year" : "2000",
     "citations" : "2"
   }, {
@@ -229,17 +230,17 @@
     "citations" : "1"
   }, {
     "title" : "Koncepcja metodyczna sterowania eksploatacja infiltracyjnych ujec wody",
-    "authors" : [ "M Boron", "R Brodziak", "J Bylka", "MM Sozanski", "A Urbaniak" ],
+    "authors" : [ "M Boron", "R Brodziak", "J Bylka", "M Sozanski", "A Urbaniak" ],
     "year" : "2015",
     "citations" : "1"
   }, {
     "title" : "System Wspomagania Decyzji dla ujęcia wody ze sztuczna infiltracją",
-    "authors" : [ "R Brodziak", "J Bylka", "Urbaniak", "A." ],
+    "authors" : [ "R Brodziak", "J Bylka" ],
     "year" : "2015",
     "citations" : "1"
   }, {
     "title" : "Model sieci jako narzędzie ochrony systemu zaopatrzenia w wodę",
-    "authors" : [ "A Bałut", "A Urbaniak" ],
+    "authors" : [ "A Balut", "A Urbaniak" ],
     "year" : "2013",
     "citations" : "1"
   }, {
@@ -259,7 +260,7 @@
     "citations" : "1"
   }, {
     "title" : "GIS w modelowaniu i analizie sieci wodociągowych, cz.1, ,",
-    "authors" : [ "A Bałut", "A Urbaniak" ],
+    "authors" : [ "A Balut", "A Urbaniak" ],
     "year" : "2010",
     "citations" : "1"
   }, {
@@ -269,7 +270,7 @@
     "citations" : "1"
   }, {
     "title" : "Kryteria wyboru informatycznych narzędzi modelowania sieci wodociągowych,",
-    "authors" : [ "A Bałut", "A Urbaniak" ],
+    "authors" : [ "A Balut", "A Urbaniak" ],
     "year" : "2009",
     "citations" : "1"
   }, {
@@ -279,7 +280,7 @@
     "citations" : "1"
   }, {
     "title" : "Rozwój współczesnych technologii uzdatniania wody i oczyszczania ścieków",
-    "authors" : [ "MM Sozański", "A Urbaniak" ],
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
     "year" : "2002",
     "citations" : "1"
   }, {
@@ -289,12 +290,12 @@
     "citations" : "1"
   }, {
     "title" : "Struktura osadów pochodzących z oczyszczania wody i ścieków",
-    "authors" : [ "MM Sozański", "K Grocholski", "A Urbaniak" ],
+    "authors" : [ "M Sozanski", "K Grocholski", "A Urbaniak" ],
     "year" : "1997",
     "citations" : "1"
   }, {
     "title" : "Integrated control of chemical and biological processes of wastewater treatment for food industry",
-    "authors" : [ "MM Sozański", "MM Sroczan", "A Urbaniak" ],
+    "authors" : [ "M Sozanski", "M Sroczan", "A Urbaniak" ],
     "year" : "1997",
     "citations" : "1"
   }, {
@@ -304,12 +305,12 @@
     "citations" : "1"
   }, {
     "title" : "Programmable Logic Control (PLC) for Small Water Deminiralization Plant",
-    "authors" : [ "P Gora", "EM Sroczan", "A Urbaniak" ],
+    "authors" : [ "P Gora", "E Sroczan", "A Urbaniak" ],
     "year" : "1993",
     "citations" : "1"
   }, {
     "title" : "Programmable Logic Control (PLC) for small water demineralization plant",
-    "authors" : [ "P Góra", "EM Sroczan", "A Urbaniak" ],
+    "authors" : [ "P Gora", "E Sroczan", "A Urbaniak" ],
     "year" : "1992",
     "citations" : "1"
   }, {
@@ -334,7 +335,7 @@
     "citations" : ""
   }, {
     "title" : "Monitoring system as a tool for risk evaluation in water distribution systems",
-    "authors" : [ "A Bałut", "A Urbaniak" ],
+    "authors" : [ "A Balut", "A Urbaniak" ],
     "year" : "2016",
     "citations" : ""
   }, {
@@ -354,7 +355,7 @@
     "citations" : ""
   }, {
     "title" : "Technologie IT w realizacji idei zrównoważonego rozwoju w systemach zaopatrzenia w wodę",
-    "authors" : [ "A Urbaniak", "A Bałut", "R Brodziak", "J Bylka" ],
+    "authors" : [ "A Urbaniak", "A Balut", "R Brodziak", "J Bylka" ],
     "year" : "2015",
     "citations" : ""
   }, {
@@ -369,7 +370,7 @@
     "citations" : ""
   }, {
     "title" : "The Methodical Concept for Operation Control of Infiltration Water Intake",
-    "authors" : [ "M Boron", "R Brodziak", "J Bylka", "MM Sozanski", "A Urbaniak" ],
+    "authors" : [ "M Boron", "R Brodziak", "J Bylka", "M Sozanski", "A Urbaniak" ],
     "year" : "2015",
     "citations" : ""
   }, {
@@ -379,7 +380,7 @@
     "citations" : ""
   }, {
     "title" : "Modelowanie systemów dystrybucji wody",
-    "authors" : [ "A Urbaniak", "A Bałut" ],
+    "authors" : [ "A Urbaniak", "A Balut" ],
     "year" : "2014",
     "citations" : ""
   }, {
@@ -389,12 +390,12 @@
     "citations" : ""
   }, {
     "title" : "Kryterium ochrony systemu dystrybucji wody w projektowaniu monitoringu sieci",
-    "authors" : [ "A Urbaniak", "A Bałut" ],
+    "authors" : [ "A Urbaniak", "A Balut" ],
     "year" : "2014",
     "citations" : ""
   }, {
     "title" : "Wykorzystanie zbiornika uśredniającego do celów procesowych w systemach oczyszczania ścieków",
-    "authors" : [ "R Brodziak", "W Góra", "A Urbaniak", "P Zakrzewski" ],
+    "authors" : [ "R Brodziak", "W Gora", "A Urbaniak", "P Zakrzewski" ],
     "year" : "2014",
     "citations" : ""
   }, {
