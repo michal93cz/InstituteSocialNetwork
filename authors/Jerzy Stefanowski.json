@@ -403,6 +403,551 @@
     "authors" : [ "M Pachocki" ],
     "year" : "2009",
     "citations" : "13"
+  }, {
+    "title" : "An experimental evaluation of improving rule based classifiers with two approaches that change representations of learning examples",
+    "authors" : [ ],
+    "year" : "2004",
+    "citations" : "13"
+  }, {
+    "title" : "Importance and interaction of conditions in decision rules",
+    "authors" : [ "S Greco", "B Matarazzo", "R Slowinski" ],
+    "year" : "2002",
+    "citations" : "13"
+  }, {
+    "title" : "Addressing imbalanced data with argument based rule learning",
+    "authors" : [ "K Napierala" ],
+    "year" : "2015",
+    "citations" : "12"
+  }, {
+    "title" : "Data stream classification and big data analytics",
+    "authors" : [ "B Krawczyk", "M Wozniak" ],
+    "year" : "2015",
+    "citations" : "12"
+  }, {
+    "title" : "Data Mining-Clustering",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : "12"
+  }, {
+    "title" : "Evaluating importance of conditions in the set of discovered rules",
+    "authors" : [ "S Greco", "R Slowinski" ],
+    "year" : "2007",
+    "citations" : "12"
+  }, {
+    "title" : "Comparison of the rough sets approach and probabilistic data analysis techniques on a common set of medical data",
+    "authors" : [ "E Krusinska", "A Babic", "R Slowinski" ],
+    "year" : "1992",
+    "citations" : "12"
+  }, {
+    "title" : "Big Data Analysis: New Algorithms for a New Society",
+    "authors" : [ "N Japkowicz" ],
+    "year" : "2016",
+    "citations" : "11"
+  }, {
+    "title" : "On limitations of using rough set approach to analyse non-trivial medical information systems",
+    "authors" : [ "K Slowinski" ],
+    "year" : "1996",
+    "citations" : "11"
+  }, {
+    "title" : "Managing borderline and noisy examples in imbalanced classification by combining SMOTE with ensemble filtering",
+    "authors" : [ "J Saez", "J Luengo", "F Herrera" ],
+    "year" : "2014",
+    "citations" : "10"
+  }, {
+    "title" : "Comparing block ensembles for data streams with concept drift",
+    "authors" : [ "M Deckert" ],
+    "year" : "2013",
+    "citations" : "10"
+  }, {
+    "title" : "Rule induction via clustering decision classes",
+    "authors" : [ "Y Kusunoki", "M Inuiguchi" ],
+    "year" : "2008",
+    "citations" : "10"
+  }, {
+    "title" : "Argument based generalization of MODLEM rule induction algorithm",
+    "authors" : [ "K Napierala" ],
+    "year" : "2010",
+    "citations" : "9"
+  }, {
+    "title" : "Nowoczesne systemy informatyczne dla małych i średnich przedsiębiorstw",
+    "authors" : [ "P Adamczewski" ],
+    "year" : "2006",
+    "citations" : "9"
+  }, {
+    "title" : "On using rule induction in multiple classifiers with a combiner aggregation strategy",
+    "authors" : [ "S Nowaczyk" ],
+    "year" : "2005",
+    "citations" : "9"
+  }, {
+    "title" : "Application of preprocessing methods to imbalanced clinical data: an experimental study",
+    "authors" : [ "S Wilk", "S Wojciechowski", "K Farion", "W Michalowski" ],
+    "year" : "2016",
+    "citations" : "8"
+  }, {
+    "title" : "An empirical study of using rule induction and rough sets to software cost estimation",
+    "authors" : [ ],
+    "year" : "2006",
+    "citations" : "8"
+  }, {
+    "title" : "Bagging and Induction of Decision Rules.",
+    "authors" : [ ],
+    "year" : "2002",
+    "citations" : "8"
+  }, {
+    "title" : "Rough sets: facts versus misconceptions",
+    "authors" : [ "J Grzymala-Busse", "W Ziarko" ],
+    "year" : "1996",
+    "citations" : "8"
+  }, {
+    "title" : "Analysis of diagnostic symptoms in vibroacoustic diagnostics by means of the rough sets theory",
+    "authors" : [ "R Nowicki", "R Slowinski" ],
+    "year" : "1992",
+    "citations" : "8"
+  }, {
+    "title" : "A machine learning perspective on big data analysis",
+    "authors" : [ "N Japkowicz" ],
+    "year" : "2016",
+    "citations" : "7"
+  }, {
+    "title" : "An experimental study of using rule induction algorithm in combiner multiple classifier",
+    "authors" : [ "S Nowaczyk" ],
+    "year" : "2007",
+    "citations" : "7"
+  }, {
+    "title" : "Changing representation of learning examples while inducing classifiers based on decision rules",
+    "authors" : [ ],
+    "year" : "2003",
+    "citations" : "7"
+  }, {
+    "title" : "Comparability and usefulness of newer and classical data analysis techniques. Application in medical domain classification",
+    "authors" : [ "E Krusinska", "J Stromberg" ],
+    "year" : "1994",
+    "citations" : "7"
+  }, {
+    "title" : "The rough sets approach to knowledge analysis for classification support in technical diagnostics of mechanical objects",
+    "authors" : [ "R Slowinski", "R Nowicki" ],
+    "year" : "1992",
+    "citations" : "7"
+  }, {
+    "title" : "Prequential auc: properties of the area under the roc curve for data streams with concept drift",
+    "authors" : [ "D Brzezinski" ],
+    "year" : "2017",
+    "citations" : "6"
+  }, {
+    "title" : "Processing and mining complex data streams",
+    "authors" : [ "A Cuzzocrea", "D Slezak" ],
+    "year" : "2014",
+    "citations" : "6"
+  }, {
+    "title" : "RILL: algorithm for learning rules from streaming data with concept drift",
+    "authors" : [ "M Deckert" ],
+    "year" : "2014",
+    "citations" : "6"
+  }, {
+    "title" : "From block-based ensembles to online learners in changing data streams: If-and how-to",
+    "authors" : [ "D Brzezinski" ],
+    "year" : "2012",
+    "citations" : "6"
+  }, {
+    "title" : "Handling sudden concept drift in enron messages data stream",
+    "authors" : [ "M Kmieciak" ],
+    "year" : "2011",
+    "citations" : "6"
+  }, {
+    "title" : "Classification of Polish email messages: Experiments with various data representations",
+    "authors" : [ "M Zienkowicz" ],
+    "year" : "2006",
+    "citations" : "6"
+  }, {
+    "title" : "Combining rough sets and rule based classifiers for handling imbalanced data",
+    "authors" : [ "S Wilk" ],
+    "year" : "2006",
+    "citations" : "6"
+  }, {
+    "title" : "Induction of decision rules and classification in the valued tolerance approach",
+    "authors" : [ "A Tsoukias" ],
+    "year" : "2002",
+    "citations" : "6"
+  }, {
+    "title" : "Automatyczna selekcja zda {\\'n} dla tekst {\\'o} w prasowych wj {\\k {e}} zyku polskim",
+    "authors" : [ "A Dudczak", "D Weiss" ],
+    "year" : "1961",
+    "citations" : "6"
+  }, {
+    "title" : "IIvotes ensemble for imbalanced data",
+    "authors" : [ "J Blaszczynski", "M Deckert", "S Wilk" ],
+    "year" : "2012",
+    "citations" : "5"
+  }, {
+    "title" : "Ordinal classification with monotonicity constraints by variable consistency bagging",
+    "authors" : [ "J Blaszczynski", "R Slowinski" ],
+    "year" : "2010",
+    "citations" : "5"
+  }, {
+    "title" : "Two approaches to numerical attribute discretization for rule induction",
+    "authors" : [ "J Grzymala-Busse" ],
+    "year" : "1999",
+    "citations" : "5"
+  }, {
+    "title" : "Ensemble diversity in evolving data streams",
+    "authors" : [ "D Brzezinski" ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "Adaptive Ensembles for Evolving Data Streams–Combining Block-Based and Online Solutions",
+    "authors" : [ ],
+    "year" : "2015",
+    "citations" : "4"
+  }, {
+    "title" : "Classifiers for concept-drifting data streams: evaluating things that really matter",
+    "authors" : [ "D Brzezinski" ],
+    "year" : "2013",
+    "citations" : "4"
+  }, {
+    "title" : "Evaluation of Sentence-Selection Text Summarization Methods on Polish News Articles",
+    "authors" : [ "A Dudczak", "D Weiss" ],
+    "year" : "2010",
+    "citations" : "4"
+  }, {
+    "title" : "Combining answers of sub-classifiers in the bagging-feature ensembles",
+    "authors" : [ ],
+    "year" : "2007",
+    "citations" : "4"
+  }, {
+    "title" : "Extending k-means with the description comes first approach",
+    "authors" : [ "D Weiss" ],
+    "year" : "2007",
+    "citations" : "4"
+  }, {
+    "title" : "Rough set theory and rule induction techniques for discovery of attribute dependencies in experience with multiple injured patients",
+    "authors" : [ "K Slowinski", "W Twardosz" ],
+    "year" : "1998",
+    "citations" : "4"
+  }, {
+    "title" : "PUT at SemEval-2016 Task 4: The ABC of Twitter Sentiment Analysis.",
+    "authors" : [ "M Lango", "D Brzezinski" ],
+    "year" : "2016",
+    "citations" : "3"
+  }, {
+    "title" : "The usefulness of roughly balanced bagging for complex and high-dimensional imbalanced data",
+    "authors" : [ "M Lango" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "The impact of local data characteristics on learning from imbalanced data",
+    "authors" : [ ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "Local characteristics of minority examples in pre-processing of imbalanced data",
+    "authors" : [ "K Napierala", "M Trzcielinska" ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "Comparing Performance of Text Summarization Methods on Polish News Articles",
+    "authors" : [ "A Dudczak", "D Weiss" ],
+    "year" : "2008",
+    "citations" : "3"
+  }, {
+    "title" : "Actively balanced bagging for imbalanced data",
+    "authors" : [ "J Blaszczynski" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Multi-class and feature selection extensions of Roughly Balanced Bagging for imbalanced data",
+    "authors" : [ "M Lango" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "On Properties of Undersampling Bagging and Its Extensions for Imbalanced Data",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Final remarks on big data analysis and its impact on society and science",
+    "authors" : [ "N Japkowicz" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Zaawansowana eksploracja danych",
+    "authors" : [ ],
+    "year" : "2010",
+    "citations" : "2"
+  }, {
+    "title" : "An Algorithm for Clustering of Web search Results Clustering",
+    "authors" : [ "S Osinski" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "Feature selection in the n2-classifier applied for multiclass problems",
+    "authors" : [ "J Jelonek" ],
+    "year" : "2002",
+    "citations" : "2"
+  }, {
+    "title" : "Multistage Rough Set Analysis of Therapeutic Experience with Acute Pancreatitis",
+    "authors" : [ "K Slowinski" ],
+    "year" : "1998",
+    "citations" : "2"
+  }, {
+    "title" : "Local data characteristics in learning classifiers from imbalanced data",
+    "authors" : [ "J Blaszczynski" ],
+    "year" : "2018",
+    "citations" : "1"
+  }, {
+    "title" : "Visual-Based Analysis of Classification Measures with Applications to Imbalanced Data",
+    "authors" : [ "D Brzezinski", "R Susmaga", "I Szczech" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Consistency Driven Feature Subspace Aggregating for Ordinal Classification",
+    "authors" : [ "J Blaszczynski", "R Slowinski" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Post-processing of BRACID Rules Induced from Imbalanced Data",
+    "authors" : [ "K Napierala" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Abstaining in rule set bagging for imbalanced data",
+    "authors" : [ "K Napierala" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Applicability of roughly balanced bagging for complex imbalanced data",
+    "authors" : [ "M Lango" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Modifications of classification strategies in rule set based bagging for imbalanced data",
+    "authors" : [ "K Napierala" ],
+    "year" : "2012",
+    "citations" : "1"
+  }, {
+    "title" : "Semi-supervised approach to handle sudden concept drift in Enron data",
+    "authors" : [ "M Kmieciak" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Artificial Neural Networks–Basics of MLP, RBF and Kohonen Networks",
+    "authors" : [ ],
+    "year" : "2010",
+    "citations" : "1"
+  }, {
+    "title" : "An experimental evaluation of two approaches to mining context based sequential patterns.",
+    "authors" : [ "R Ziembinski" ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "Extending rule based classifiers for dealing with imbalanced data",
+    "authors" : [ ],
+    "year" : "2005",
+    "citations" : "1"
+  }, {
+    "title" : "Incremental rule induction for multicriteria and multiattribute classification",
+    "authors" : [ "M Zurawski" ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "Multistage rough set analysis of therapeutic experience with acute pancreatis",
+    "authors" : [ "K Slowinski" ],
+    "year" : "1998",
+    "citations" : "1"
+  }, {
+    "title" : "Analysis of experiences with Eswl using the tool providing from artificial intelligence",
+    "authors" : [ "A Antczak", "Z Kwias", "K Slowinski" ],
+    "year" : "1997",
+    "citations" : "1"
+  }, {
+    "title" : "Improving Bagging Ensembles for Class Imbalanced Data by Active Learning",
+    "authors" : [ "J Blaszczynski" ],
+    "year" : "2018",
+    "citations" : ""
+  }, {
+    "title" : "Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2017, Skopje, Macedonia, September 18–22, 2017, Proceedings",
+    "authors" : [ "Y Altun", "K Das", "T Mielikainen", "D Malerba", "J Read", "M Zitnik" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Discovering Minority Sub-clusters and Local Difficulty Factors from Imbalanced Data",
+    "authors" : [ "M Lango", "D Brzezinski", "S Firlik" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Tetrahedron: Barycentric Measure Visualizer",
+    "authors" : [ "D Brzezinski", "R Susmaga", "I Szczech" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Evaluating difficulty of multi-class imbalanced data",
+    "authors" : [ "M Lango", "K Napierala" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "An Algorithm for Selective Preprocessing of Multi-class Imbalanced Data",
+    "authors" : [ "S Wojciechowski", "S Wilk" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Ensemble learning for data stream analysis: A survey",
+    "authors" : [ "M Wozniak", "J Gama", "L Minku", "B Krawczyk" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "EXPLORING COMPLEX AND BIG DATA",
+    "authors" : [ "J STEFANOWSKI", "K KRAWIEC", "R WREMBEL" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Stream Classification.",
+    "authors" : [ "D Brzezinski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Increasing the Interpretability of Rules Induced from Imbalanced Data by Using Bayesian Confirmation Measures",
+    "authors" : [ "K Napierala", "I Szczech" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "In memoriam Professor Solomon Marcus",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Therapeutic Experience with Acute Pancreatitis",
+    "authors" : [ "K Slowinski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Rough Classification with Valued Closeness",
+    "authors" : [ "R Showinski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "STUDYING ATTRIBUTE",
+    "authors" : [ "K Slowinski" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Combined learning methods and mining complex data Preface",
+    "authors" : [ ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Yes No",
+    "authors" : [ "M Gorawski", "T Morzy", "R Wrembel", "S Greco", "R Slowinski", "I Szczech" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Decision Trees",
+    "authors" : [ "J STEFANOWSKI" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "INDUKCJA DRZEW DECYZYJNYCH",
+    "authors" : [ ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Special issue on theory and application of soft computing 2004-Preface",
+    "authors" : [ "M Flasinski", "E Nawarecki", "L Polkowski", "R Schaefer", "Z Suraj" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Selektywny wybór przykładów w konstrukcji klasyfikatorów z niezrównoważonych danych",
+    "authors" : [ ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Ensemble Classifiers for Imbalanced and Evolving Data Streams",
+    "authors" : [ "D Brzezinski", "A Nienkotter", "X Jiang", "M Last", "M Stoliar" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Data mining for imbalanced data: Improving classifiers by selective pre-processing of examples",
+    "authors" : [ "J STEFANOWSKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "ADBIS 2012 Workshops and PhD Consortium program",
+    "authors" : [ "G Toppin", "M Grzegorowski", "P Pardel", "S Stawicki", "K Stencel", "F Schleif" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "SVM–Support Vector Machines Metoda wektorów nośnych",
+    "authors" : [ "J STEFANOWSKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Odkrywanie reguł klasyfikacyjnych bezpośrednio z danych",
+    "authors" : [ "J STEFANOWSKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Odkrywanie wiedzy klasyfikacyjnej z niezrównoważonych danych",
+    "authors" : [ "J STEFANOWSKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Wizualizacja danych",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "CPBD 2015 Organizing and Program Committees",
+    "authors" : [ "B Krawczyk", "M Wozniak", "R Burduk", "B Cyganek", "M Grana", "K Jackowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Eksploracja strumieni danych",
+    "authors" : [ "J STEFANOWSKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Incremental versus Non-incremental Rule Induction for Multicriteria Classification",
+    "authors" : [ "M Zurawski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Wykªad ze statystyki i analizy danych: estymacja punktowa i pobieranie próby",
+    "authors" : [ "M Kubiak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "POSZUKIWANIE ISTOTNYCH ATRYBUTÓW W ANALIZIE DOŚWIADCZEŃ NAD LECZENIEM KAMICY MOCZOWEJ ZA POMOCĄ ESWL Artykuł opublikowany w Ur...",
+    "authors" : [ "A Antczak", "Z Kwias", "W Sawicki", "K Slowinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "DECISION ALGORITHMS IN THE TREATMENT OF THE UROLITHIASIS USING ESWL Article published in Urologia Polska 1997/50/3.",
+    "authors" : [ "A Antczak", "Z Kwias", "W Wozniak", "K Slowinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Discovering Classification Trees",
+    "authors" : [ "J STEFANOWSKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "SEARCHING FOR AN IMPORTANT ATTRIBUTES IN THE ANALYSIS OF EXPERIENCE IN THE TREATMENT OF UROLITHIASIS USING ESWL PROCEDURE Articl...",
+    "authors" : [ "A Antczak", "Z Kwias", "W Sawicki", "K Slowinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "An evaluation of quality in context based sequential pattern mining",
+    "authors" : [ "R Ziembinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Selective filtering for learning classifiers from imbalanced data",
+    "authors" : [ "J STEFANOWSKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "ALGORYTMY DECYZYJNE W LECZENIU KAMICY MOCZOWEJ METODĄ ESWL Artykuł opublikowany w Urologii Polskiej 1997/50/3.",
+    "authors" : [ "A Antczak", "Z Kwias", "W Wozniak", "K Slowinski" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 40
 }

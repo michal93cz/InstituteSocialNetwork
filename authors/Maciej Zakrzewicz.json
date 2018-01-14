@@ -403,6 +403,111 @@
     "authors" : [ "T Czachorski", "S Jedrus", "J Gozdecki", "P Pacyna", "Z Papir" ],
     "year" : "2002",
     "citations" : ""
+  }, {
+    "title" : "Data access paths for frequent itemsets discovery",
+    "authors" : [ "M Wojciechowski" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Knowledge-based Software Engineering 187 T. Welzer et al.(Eds.) IOS Press. 2002",
+    "authors" : [ "M WOJCIECHOWSKI", "M ZAKRZEWICZ" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Charakterystyka platform rozwoju aplikacji internetowych",
+    "authors" : [ "Z Krolikowski" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Clustering sequences of categorical values",
+    "authors" : [ "T Morzy", "M Wojciechowski" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Advances in Databases and Information Systems 1997",
+    "authors" : [ "T Morzy" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Oracle8i a Internet",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Obs³uga transakcji rozproszonych w jêzyku Java",
+    "authors" : [ "M Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "OCENA PODOBIEŃSTWA DOKUMENTÓW XML",
+    "authors" : [ "B Jablonski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Projektowanie aplikacji J2EE w architekturze Model-View-Controller",
+    "authors" : [ "I PLOUG" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "12 Aplikacje WWW",
+    "authors" : [ "M Wojciechowski", "M Morzy", "A Model-View-Controller" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Modelowanie, projektowanie i implementacja usług Web Services",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Access Paths for Data Mining Query Optimizer",
+    "authors" : [ "M Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Web Services",
+    "authors" : [ "W Andrzejewski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "On Effectiveness of Database Accessing Methods for Subset Searching",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Models for Internet-based Cooperative Engineering Design",
+    "authors" : [ "B Czejdo", "K Messa", "M Baszun" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Efficient Indexing of Web Access-Logs",
+    "authors" : [ "A Nanopoulos", "T Morzy", "Y Manolopoulos" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "SQLJ w Oracle9i–rozszerzenia standardu",
+    "authors" : [ "M Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Analiza porównawcza środowisk rozwoju aplikacji internetowych",
+    "authors" : [ "Z Krolikowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "AdAgent: Template-based approach to Adaptive Web Sites",
+    "authors" : [ "T Morzy", "M Wojciechowski", "P Dachtera", "P Jurga" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Adaptatywne serwery WWW",
+    "authors" : [ "M Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Platformy softwarowe dla rozwoju systemów intranetowych i internetowych",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 14
 }

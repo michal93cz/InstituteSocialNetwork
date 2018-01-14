@@ -403,6 +403,1086 @@
     "authors" : [ "R Rozycki" ],
     "year" : "2009",
     "citations" : "9"
+  }, {
+    "title" : "Eu funded grid development in europe",
+    "authors" : [ "P Graham", "M Heikkurinen", "J Nabrzyski", "A Oleksiak", "M Parsons" ],
+    "year" : "2004",
+    "citations" : "9"
+  }, {
+    "title" : "Solving discrete-continuous scheduling problems by Tabu Search",
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "G Waligora" ],
+    "year" : "2001",
+    "citations" : "9"
+  }, {
+    "title" : "An interactive algorithm for multiobjective precedence and resource constrained scheduling problems",
+    "authors" : [ "R Slowinski" ],
+    "year" : "1985",
+    "citations" : "9"
+  }, {
+    "title" : "A strategy for scheduling splittable tasks to reduce schedule length",
+    "authors" : [ "J Blazewicz", "W Cellary" ],
+    "year" : "1977",
+    "citations" : "9"
+  }, {
+    "title" : "Rozwiązywanie dyskretno-ciągłych problemów rozdziału zasobów przez dyskretyzację zasobu ciągłego",
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "G Waligora" ],
+    "year" : "2000",
+    "citations" : "8"
+  }, {
+    "title" : "Selected combinatorial optimization problem arising in molecular biology",
+    "authors" : [ "J Blazewicz", "M Kasprzak", "M Sterna" ],
+    "year" : "1996",
+    "citations" : "8"
+  }, {
+    "title" : "A knowledge—based multiobjective project scheduling system",
+    "authors" : [ "J Nabrzyski" ],
+    "year" : "1994",
+    "citations" : "8"
+  }, {
+    "title" : "Solving a power-aware scheduling problem by grouping jobs with the same processing characteristic",
+    "authors" : [ "R Rozycki" ],
+    "year" : "2015",
+    "citations" : "7"
+  }, {
+    "title" : "CDN for Live and On-Demand Video Services over IP",
+    "authors" : [ "M Czyrnek", "E Kusmierek", "C Mazurek", "M Stroinski" ],
+    "year" : "2008",
+    "citations" : "7"
+  }, {
+    "title" : "Grid-supported Medical Digital Library.",
+    "authors" : [ "M Kosiedowski", "C Mazurek", "M Stroinski" ],
+    "year" : "2007",
+    "citations" : "7"
+  }, {
+    "title" : "Deterministy czne problemy szeregowaia zadan na rownoleglych procesorach, Cz. I",
+    "authors" : [ "J Blazewicz", "W Cellary", "R Slowinski" ],
+    "year" : "1976",
+    "citations" : "7"
+  }, {
+    "title" : "Scheduling arbitrary number of malleable tasks on multiprocessor systems",
+    "authors" : [ "M Barketau", "M Kovalyov", "M Machowiak" ],
+    "year" : "2014",
+    "citations" : "6"
+  }, {
+    "title" : "New approach to genomics experiments taking advantage of virtual laboratory system",
+    "authors" : [ "L Handschuh", "M Lawenda", "P Stepniak", "M Figlerowicz", "M Stroinski" ],
+    "year" : "2009",
+    "citations" : "6"
+  }, {
+    "title" : "Perspectives in modern project scheduling",
+    "authors" : [ "J Jozefowska" ],
+    "year" : "2006",
+    "citations" : "6"
+  }, {
+    "title" : "International Series in Operations Research & Management Science",
+    "authors" : [ "F Hillier", "C Price" ],
+    "year" : "2004",
+    "citations" : "6"
+  }, {
+    "title" : "Multi-mode resource-constrained project schedulig problem with discounted positive cash flows-simulated annealing vs. tabu search",
+    "authors" : [ "J Jozefowska", "M Mika", "G Waligora" ],
+    "year" : "2002",
+    "citations" : "6"
+  }, {
+    "title" : "On an expert system with multicriteria tabu search for multiobjective project scheduling",
+    "authors" : [ "J Nabrzyski" ],
+    "year" : "1997",
+    "citations" : "6"
+  }, {
+    "title" : "On an expert system with tabu search for multiobjective project scheduling",
+    "authors" : [ "J Nabrzyski" ],
+    "year" : "1995",
+    "citations" : "6"
+  }, {
+    "title" : "Multicriteria capacity expansion planning of a water supply and wastewater treatment system",
+    "authors" : [ "R Slowinski", "A Urbaniak" ],
+    "year" : "1985",
+    "citations" : "6"
+  }, {
+    "title" : "Sterowanie w systemach typu kompleks operacji",
+    "authors" : [ "J WEGLARZ" ],
+    "year" : "1981",
+    "citations" : "6"
+  }, {
+    "title" : "Rafa l Rózycki, and J. Weglarz. A genetic algorithm to some discrete-continuous scheduling problems",
+    "authors" : [ "J Jozefowska" ],
+    "year" : "",
+    "citations" : "6"
+  }, {
+    "title" : "Architecture for Aggregation, Processing and Provisioning of Data from Heterogeneous Scientific Information Services.",
+    "authors" : [ "C Mazurek", "M Mielnicki", "A Nowak", "M Stroinski", "M Werla" ],
+    "year" : "2013",
+    "citations" : "5"
+  }, {
+    "title" : "Medical digital library services as an improvement of the teleconsultation system in the regional health network",
+    "authors" : [ "M Kosiedowski", "C Mazurek", "M Stroinski" ],
+    "year" : "2009",
+    "citations" : "5"
+  }, {
+    "title" : "GSSIM–grid scheduling simulator",
+    "authors" : [ "K Kurowski", "J Nabrzyski", "A Oleksiak" ],
+    "year" : "2007",
+    "citations" : "5"
+  }, {
+    "title" : "Badania operacyjne i systemowe wobec wyzwań XXI wieku. Modelowanie i optymalizacja",
+    "authors" : [ "J Kacprzyk" ],
+    "year" : "2002",
+    "citations" : "5"
+  }, {
+    "title" : "Optical Network for Euroregional co-operation",
+    "authors" : [ "N Meyer", "M Stroinski" ],
+    "year" : "2000",
+    "citations" : "5"
+  }, {
+    "title" : "Project Scheduling: Recent Models",
+    "authors" : [ ],
+    "year" : "1999",
+    "citations" : "5"
+  }, {
+    "title" : "„Informatyka jako dyscyplina a wizja społeczeństwa informacyjnego”",
+    "authors" : [ ],
+    "year" : "1998",
+    "citations" : "5"
+  }, {
+    "title" : "Discretecontinuous scheduling to minimize the mean flow time–computational experiments",
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "G Waligora" ],
+    "year" : "1997",
+    "citations" : "5"
+  }, {
+    "title" : "Evaluation of selected resource allocation and scheduling methods in heterogeneous many-core processors and graphics processing units",
+    "authors" : [ "M Ciznicki", "K Kurowski" ],
+    "year" : "2014",
+    "citations" : "4"
+  }, {
+    "title" : "Project management and scheduling",
+    "authors" : [ "V Valls" ],
+    "year" : "2005",
+    "citations" : "4"
+  }, {
+    "title" : "iTVP platform: delivering interactive TV services over IP networks",
+    "authors" : [ "M Czyrnek", "C Mazurek", "M Stroinski" ],
+    "year" : "2005",
+    "citations" : "4"
+  }, {
+    "title" : "Modelowanie i optymalizacja",
+    "authors" : [ "J Kacprzyk" ],
+    "year" : "2002",
+    "citations" : "4"
+  }, {
+    "title" : "PIONIER–Polish Optical Internet,. conference material ISTHMUS 2000",
+    "authors" : [ "J Rychlewski", "S Starzak", "M Stroinski" ],
+    "year" : "2000",
+    "citations" : "4"
+  }, {
+    "title" : "Sequential algorithms for DNA sequencing",
+    "authors" : [ "J Blazewicz", "J Kaczmarek", "M Kasprzak", "W Markiewicz" ],
+    "year" : "1996",
+    "citations" : "4"
+  }, {
+    "title" : "Scheduling in Computer and Manufacturing Systems",
+    "authors" : [ "K Ecker", "G Schmidt", "J Blazewicz" ],
+    "year" : "1994",
+    "citations" : "4"
+  }, {
+    "title" : "MPS-Decision Support System for multiobjective project scheduling",
+    "authors" : [ "R Slowinski", "B Soniewicki" ],
+    "year" : "1991",
+    "citations" : "4"
+  }, {
+    "title" : "Project scheduling under continuous processing speed vs. resource amount functions, 1989",
+    "authors" : [ ],
+    "year" : "1989",
+    "citations" : "4"
+  }, {
+    "title" : "Bicriterion capacity expansion planning of a water supply system",
+    "authors" : [ "R Slowinski", "A Urbaniak" ],
+    "year" : "1983",
+    "citations" : "4"
+  }, {
+    "title" : "Scheduling under Resource Constraints-Achievements and Prospects",
+    "authors" : [ "J Blazewicz" ],
+    "year" : "1979",
+    "citations" : "4"
+  }, {
+    "title" : "Scheduling computer and manufacturing processes. 2001",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "",
+    "citations" : "4"
+  }, {
+    "title" : "Energy aware scheduling model and online heuristics for stencil codes on heterogeneous computing architectures",
+    "authors" : [ "M Ciznicki", "K Kurowski" ],
+    "year" : "2017",
+    "citations" : "3"
+  }, {
+    "title" : "The π-electron delocalization imposed by thermal vibrations of substituted benzene analogues in mediums of varying polarities",
+    "authors" : [ "P Cysewski", "T Jelinski" ],
+    "year" : "2011",
+    "citations" : "3"
+  }, {
+    "title" : "The Dublin Core Metadata Element Set, Ver. 1.1 a potrzeby I oczekiwania bibliotekarzy cyfrowych–anliza przypadków",
+    "authors" : [ "J Potega", "A Wrobel" ],
+    "year" : "2009",
+    "citations" : "3"
+  }, {
+    "title" : "Infrastruktura bibliotek cyfrowych w sieci PIONIER",
+    "authors" : [ "C Mazurek", "M Stroinski", "M Werla" ],
+    "year" : "2008",
+    "citations" : "3"
+  }, {
+    "title" : "Znaczenie e-infrastruktury dla nauki",
+    "authors" : [ "M Stroinski" ],
+    "year" : "2008",
+    "citations" : "3"
+  }, {
+    "title" : "Precedence-independent and precedence-dependent setup times in project scheduling problems",
+    "authors" : [ "M Mika", "G Waligora" ],
+    "year" : "2006",
+    "citations" : "3"
+  }, {
+    "title" : "GRIDSTART Project. IST Grid Projects, Inventory and Roadmap",
+    "authors" : [ "F Gagliardi", "P Grahan", "M Heikkurinen", "J Nabrzyski", "A Oleksiak", "M Parsons" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "Badania operacyjne i systemowe",
+    "authors" : [ "Z Bubnicki", "O Hryniewicz" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "Grid resource management: state of the art and future trends, chapter Improving Resource Selection and Scheduling using Predictions",
+    "authors" : [ "J Nabrzyski", "J Schopf" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "IST grid projects inventory and roadmap",
+    "authors" : [ "F Gagliardi", "P Graham", "M Heikkurinen", "J Nabrzyski", "A Oleksiak" ],
+    "year" : "2003",
+    "citations" : "3"
+  }, {
+    "title" : "Resource Management for Grid Computing",
+    "authors" : [ "J Schopf" ],
+    "year" : "2003",
+    "citations" : "3"
+  }, {
+    "title" : "Grid Resource Management, chapter 26",
+    "authors" : [ "J Nabrzyski", "J Schopf" ],
+    "year" : "2003",
+    "citations" : "3"
+  }, {
+    "title" : "Simulated annealing for multi-mode resource-constrained project scheduling problem",
+    "authors" : [ "J Josefowska", "M Mika", "R Rozycki", "G Waligora" ],
+    "year" : "2001",
+    "citations" : "3"
+  }, {
+    "title" : "Schedulling Malleable Task with Convex Processing Speed Functions",
+    "authors" : [ "J Blazewicz", "M Machowiak", "G Mounie", "D Tristram" ],
+    "year" : "2000",
+    "citations" : "3"
+  }, {
+    "title" : "Concept of the academic and research European multicolour network",
+    "authors" : [ "J Nabrzyski", "S Starzak", "M Stroinski" ],
+    "year" : "2000",
+    "citations" : "3"
+  }, {
+    "title" : "Tabu search with the cancellation sequence method for a class of discrete-continuous scheduling problems",
+    "authors" : [ "J Jozefowska", "G Waligora" ],
+    "year" : "1998",
+    "citations" : "3"
+  }, {
+    "title" : "Approximation algorithms for some discrete-continuous scheduling problems",
+    "authors" : [ "J Jozefowska" ],
+    "year" : "1994",
+    "citations" : "3"
+  }, {
+    "title" : "Synthesis problems in allocating continuous, doubly constrained resources among dynamic activities",
+    "authors" : [ ],
+    "year" : "1990",
+    "citations" : "3"
+  }, {
+    "title" : "Optimal and Heuristic Procedures for Project Scheduling with Multiple Constrained Resources–A Survey",
+    "authors" : [ "R Slowinski" ],
+    "year" : "1977",
+    "citations" : "3"
+  }, {
+    "title" : "Systèmes non-linéaires de commande en temps minimal de distribution des tâches et des moyens",
+    "authors" : [ "R SLOWINSKI", "J WEGLARZ" ],
+    "year" : "1958",
+    "citations" : "3"
+  }, {
+    "title" : "Project scheduling: recent models, algorithms and applications. 1999",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : "3"
+  }, {
+    "title" : "Long-Term Preservation Services as a Key Element of the Digital Libraries Infrastructure.",
+    "authors" : [ "P Jedrzejczak", "M Kozak", "C Mazurek", "T Parkola", "S Pietrzak", "M Stroinski" ],
+    "year" : "2013",
+    "citations" : "2"
+  }, {
+    "title" : "Improving the Workflow for Creation of Textual Versions of Polish Historical Documents.",
+    "authors" : [ "A Dudczak", "M Kmieciak", "C Mazurek", "M Stroinski", "M Werla" ],
+    "year" : "2013",
+    "citations" : "2"
+  }, {
+    "title" : "Impact of urgent computing on resource management policies, schedules and resources utilization",
+    "authors" : [ "K Kurowski", "A Oleksiak", "W Piatek" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "PHOSPHORUS deliverable D. 2.6: Deployment Models and Solutions of the Grid-GMPLS Control Plane",
+    "authors" : [ "A Tzanakaki", "G Markidis", "N Ciulli", "G Carrozzo", "G Giorgi", "E Escalona" ],
+    "year" : "2007",
+    "citations" : "2"
+  }, {
+    "title" : "Metaheuristic approach to the multi-mode resource-constrained project scheduling problem with discounted cash flows and progress payments",
+    "authors" : [ "M Mika", "G Waligora" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "Ten Actions When Grid Scheduling, chapter 2",
+    "authors" : [ "J Nabrzyski", "J Schopf" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "Polski Internet Optyczny jako wkład nauko w budowie społeczeństwa informacyjnego",
+    "authors" : [ "M Kleiber" ],
+    "year" : "2002",
+    "citations" : "2"
+  }, {
+    "title" : "Maksymalizacja zaktualizowanej wartości netto w problemach rozdziału zasobów-przegląd modeli i algorytmów",
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "G Waligora" ],
+    "year" : "2002",
+    "citations" : "2"
+  }, {
+    "title" : "Computer integrated production scheduling",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2001",
+    "citations" : "2"
+  }, {
+    "title" : "Computer integrated production scheduling",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2001",
+    "citations" : "2"
+  }, {
+    "title" : "PIONIER—Optical Internet in Poland",
+    "authors" : [ "J Rychlewski", "S Starzak", "M Stroinski", "M Nakonieczny" ],
+    "year" : "2000",
+    "citations" : "2"
+  }, {
+    "title" : "Multicriteria decision support for flexible manufacturing systems using an interactive method",
+    "authors" : [ "P Piesik" ],
+    "year" : "1999",
+    "citations" : "2"
+  }, {
+    "title" : "Krajowa, szerokopasmowa sieć naukowa ATM, POLMAN’98, materiały konferencyjne",
+    "authors" : [ "M Nakonieczny" ],
+    "year" : "1998",
+    "citations" : "2"
+  }, {
+    "title" : "Rozwój i wymagania zastosowań infrastruktury informatycznej nauki, POLMAN'98, materiały konferencyjne",
+    "authors" : [ "M Stroinski" ],
+    "year" : "1998",
+    "citations" : "2"
+  }, {
+    "title" : "Synthesis problems in allocating continuous, doubly constrained resources among activities",
+    "authors" : [ ],
+    "year" : "1991",
+    "citations" : "2"
+  }, {
+    "title" : "Project management and scheduling",
+    "authors" : [ "L Tavares" ],
+    "year" : "1990",
+    "citations" : "2"
+  }, {
+    "title" : "Allocating continuous doubly constrained resources among parallel production activities to meet deadlines",
+    "authors" : [ ],
+    "year" : "1986",
+    "citations" : "2"
+  }, {
+    "title" : "Control in system of operation-complex type",
+    "authors" : [ ],
+    "year" : "1981",
+    "citations" : "2"
+  }, {
+    "title" : "A single-product bounded production model with heterogeneous facilities",
+    "authors" : [ "J WEGLARZ" ],
+    "year" : "1977",
+    "citations" : "2"
+  }, {
+    "title" : "Scheduling with memory allocation in multiprocessing systems",
+    "authors" : [ ],
+    "year" : "1976",
+    "citations" : "2"
+  }, {
+    "title" : "Minimalno-czasowe sterowanie rozdziałem zadań i zasobów w kompleksie operacji w warunkach deterministycznych",
+    "authors" : [ ],
+    "year" : "1976",
+    "citations" : "2"
+  }, {
+    "title" : "PIONIER: Polish Optical Internet. ISThmus 2000",
+    "authors" : [ "J Rychlewski", "S Starzak", "M Stroinski", "M Nakonieczny" ],
+    "year" : "",
+    "citations" : "2"
+  }, {
+    "title" : "Poznan Networking and Supercomputing Center: 10 years of experience in building IT infrastructure for e-Science in Poland",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : "2"
+  }, {
+    "title" : "Scheduling in Computer and Manufacturing Systems. 1987",
+    "authors" : [ "J Blazewicz", "K Ecker", "G Schmidt" ],
+    "year" : "",
+    "citations" : "2"
+  }, {
+    "title" : "Scheduling aspects in keyword extraction problem",
+    "authors" : [ "M Zimniewicz", "K Kurowski" ],
+    "year" : "2018",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling preemptable jobs on identical processors under varying availability of an additional continuous resource",
+    "authors" : [ "R Rozycki", "G Waligora" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Discrete-continuous project scheduling with preemptable activities",
+    "authors" : [ "R Rozycki", "G Waligora" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Software VLBI correlator-Practical approach",
+    "authors" : [ "M Lawenda", "N Meyer", "R Sarniak" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Towards Telemedical Centers: Digitization of Inter-Professional Communication in Healthcare",
+    "authors" : [ "J Brzezinski", "M Kosiedowski", "C Mazurek", "K Slowinski", "R Slowinski" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Platon Scientific HD TV Platform in PIONIER Network",
+    "authors" : [ "M Czyrnek", "J Jajor", "E Kusmierek", "C Mazurek", "M Stroinski" ],
+    "year" : "2012",
+    "citations" : "1"
+  }, {
+    "title" : "Distributed services and metadata flow in the Polish Federation of Digital Libraries",
+    "authors" : [ "C Mazurek", "M Stroinski", "M Werla" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Computational Experiments for Scheduling Workflow Applications in Grid Environment",
+    "authors" : [ "M Mika", "W Piatek", "G Waligora" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Możliwości i wyzwania dla polskiej infrastruktury bibliotek cyfrowych",
+    "authors" : [ "C Mazurek", "M Stroinski", "M Werla" ],
+    "year" : "2010",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling on One Processor",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling with limited processor availability",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Flow shop scheduling",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Constraint programming and disjunctive scheduling",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling under Resource Constraints",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Open Shop Scheduling",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Porta Optica–optical gateway to GÉANT2",
+    "authors" : [ "A Binczewski", "M Przybylski", "M Stroinski" ],
+    "year" : "2005",
+    "citations" : "1"
+  }, {
+    "title" : "Technologie informacyjne i infrastruktura informatyczna nauki",
+    "authors" : [ ],
+    "year" : "2004",
+    "citations" : "1"
+  }, {
+    "title" : "Uncertainty in discrete-continuous project scheduling",
+    "authors" : [ "J Jozefowska", "R ROZYCKI" ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "A performance analysis of tabu search for discrete-continuous scheduling problems",
+    "authors" : [ "J Jozefowska", "G Waligora" ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling in Job Shops",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2001",
+    "citations" : "1"
+  }, {
+    "title" : "Fifth international workshop on project management and scheduling",
+    "authors" : [ "J Jozefowska" ],
+    "year" : "1998",
+    "citations" : "1"
+  }, {
+    "title" : "Minimalizacja maksymalnego opóźnienia w dyskretno-ciągłych problemach szeregowania-algorytmy heurystyczne",
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "G Waligora" ],
+    "year" : "1998",
+    "citations" : "1"
+  }, {
+    "title" : "Sequencing by hybridization with positive faults",
+    "authors" : [ "J Blazewicz", "P Formanowicz", "M Kasprzak", "W Markiewicz", "J Wgglarz" ],
+    "year" : "1997",
+    "citations" : "1"
+  }, {
+    "title" : "Dagstuhl seminar on “Scheduling in computer and manufacturing systems”",
+    "authors" : [ "J Blazewicz", "K Ecker" ],
+    "year" : "1996",
+    "citations" : "1"
+  }, {
+    "title" : "A simulated annealing algorithm for some class of discrete-continuous scheduling problems",
+    "authors" : [ "J Jozefowska", "M Mika" ],
+    "year" : "1996",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling in Flexible Manufacturing Systems",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "1996",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling in Flexible Manufacturing Systems",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "1996",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling in Flexible Manufacturing Systems",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "1996",
+    "citations" : "1"
+  }, {
+    "title" : "Interactive decision support for flexible manufacturing systems using simulation techniques",
+    "authors" : [ "P Piesik" ],
+    "year" : "1995",
+    "citations" : "1"
+  }, {
+    "title" : "A Genetic Algorithm for Some Discrete-Continuous Scheduling Problems",
+    "authors" : [ "J Jozefowska", "R Rozycki" ],
+    "year" : "1995",
+    "citations" : "1"
+  }, {
+    "title" : "On a relation between some nonpreemptive, parallel machine scheduling problems",
+    "authors" : [ "J WEGLARZ" ],
+    "year" : "1992",
+    "citations" : "1"
+  }, {
+    "title" : "Multiprocessor task scheduling with single resource constraints",
+    "authors" : [ "J Blazewicz", "M Drabowski", "K Ecker" ],
+    "year" : "1986",
+    "citations" : "1"
+  }, {
+    "title" : "New results for discrete-continuous mean flow time scheduling problems",
+    "authors" : [ "J Jozefowska" ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "Porta Optica-Distributed Optical Gateway to GÉANT2",
+    "authors" : [ "A BINCZEWSKI", "M PRZYBYLSKI", "M STROINSKI", "J WEGLARZ" ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "Security Aspects in Resource Management Systems in Distributed Computing Environments",
+    "authors" : [ "M Adamski", "K Kurowski", "M Mika", "W Piatek" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Ian Snook Prizes 2015",
+    "authors" : [ "W Hoover", "C Hoover", "M Stroinski", "K Wojciechowski" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Editorial “Project Management and Scheduling”",
+    "authors" : [ "R Kolisch", "E Demeulemeester", "R Garcia", "V T’Kindt" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "OPTIME-Time and frequency dissemination system based on fiber optical network-Local repository project",
+    "authors" : [ "L Buczek", "J Kolodziej", "P Krehlik", "M Lipinski", "L Sliwczynski", "A Czubla" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "PlatonTV: A Scientific High Definition Content Delivery Platform",
+    "authors" : [ "M Czyrnek", "J Jajor", "J Jamrozy", "E Kusmierek", "C Mazurek", "M Stroinski" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "CLEPSYDRA Data Aggregation and Enrichment Framework: Design, Implementation and Deployment in the PIONIER Network Digital Libraries Federation",
+    "authors" : [ "C Mazurek", "M Mielnicki", "A Nowak", "K Sielski", "M Stroinski", "M Werla" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Advances in Project Scheduling, edited by R. Sowiński and J. Weglarz Elsevier Science Publishers BV, Amsterdam, 1989–Printed in The Netherlands 273",
+    "authors" : [ ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Semantic Data Sharing and Presentation in Integrated Knowledge System",
+    "authors" : [ "M Krysinski", "M Krystek", "C Mazurek", "J Pukacki", "P Spychala", "M Stroinski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Poznań University of Technology, Institute of Computing Science",
+    "authors" : [ "J Jozefowska", "R Rozycki" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Technical University of Poznań",
+    "authors" : [ ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Remote Instrumentation for eScience and Related Aspects",
+    "authors" : [ "R Pugliese", "N Meyer", "M Lawenda", "F Davoli", "S Zappatore" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Remote instrumentation for eScience and related aspects",
+    "authors" : [ "F Davoli", "M Lawenda", "N Meyer", "R Pugliese", "S Zappatore" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling malleable tasks with arbitrary processing speed functions",
+    "authors" : [ "M Barketau", "M Kovalyov", "M Machowiak" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "On Building a Regional Telemedical Network",
+    "authors" : [ "M Kosiedowski", "C Mazurek", "M Stroinski", "K Slowinski" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "New resource concepts in project scheduling including multi-site resources with transportation network",
+    "authors" : [ "M Mika", "G Waligora" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Qualitative Approach and Grounded Theory for Assessing User Evaluation of Library Services: City Library Network of Perugia-A Case Study",
+    "authors" : [ "C Faggiolani" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Project scheduling problem with multiple modes, multisite renewable resources and transportation network",
+    "authors" : [ "M Mika", "G WaligAlra" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "May 8, 2009",
+    "authors" : [ "S Bak", "M Krystek", "K Kurowski", "A Oleksiak", "W Piatek" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Project scheduling problem with multiple modes, multisite renewable resources and transportation network",
+    "authors" : [ "M Mika", "G Waligora" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Monitoring Solution for Optical Grid Architectures",
+    "authors" : [ "A Binczewski", "L Grzesiak", "E Kenny", "M Stroinski", "R Szuman", "S Trocha" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Effective and Open System for Wavelengths Monitoring",
+    "authors" : [ "A Binczewski", "L Grzesiak", "E Kenny", "K Stanecki", "M Stroinski", "R Szuman" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Exact vs. Heuristic Approach to Continuous Resource Allocation in Discrete-Continuous Project Scheduling",
+    "authors" : [ "G Waligora" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "On the importance of the e-infrastructure for science",
+    "authors" : [ "M Stroinski" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Deliverable reference number: D7. 3.2 Collaboration Plan with US",
+    "authors" : [ "A Binczewski", "D Parniewicz", "M Stroinski" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Communication Delays and Multiprocessor Tasks",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling in Hard Real-Time Systems",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling with Resource Constraints.",
+    "authors" : [ "J Jozefowska" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Probabilistic tabu search for makespan minimization discrete-continuous scheduling",
+    "authors" : [ "J Jozefowska", "G Waligora" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Maksymalizacja zaktualizowanej wartości netto w problemach rozdziału zasobów z wieloma sposobami wykonywania czynności",
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "G Waligora" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Szeregowanie zadań elastycznych",
+    "authors" : [ "J Blazewicz", "M Kovalyov", "M Machowiak", "D Trystram" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling in Flow and Open Shops",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Definition, Analysis and Classification of Scheduling Problems",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling on Parallel Processors",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Basics",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Basics",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling on Parallel Processors",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Recent Models, Algorithms and Applications",
+    "authors" : [ "S Voss" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Algorytm symulowanego wyżarzania dla problemu rozdziału zasobów z wieloma sposobami wykonywania czynności",
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "G Waligora" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Program rozwoju infrastruktury informatycznej polskiego środowiska naukowo-akademickiego na lata 2001-2005 „PIONIER: Polski Internet Optyczny-Zaawansowan...",
+    "authors" : [ "M Nakonieczny", "J Rychlewski", "S Starzak", "M Stroinski" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Parallel tabu search algorithms for scheduling independent jobs on parallel machines to minimize the makespan",
+    "authors" : [ "J Jozefowska", "G Waligora" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Optymalizacja przydziału zasobów ciągłych i dyskretnych w kompleksie operacji niepodzielnych",
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "G Waligora" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling in Computer and Manufacturing Systems",
+    "authors" : [ "K Ruland" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Dagstuhl Seminar on? Scheduling in Computer and Manufacturing Systems?",
+    "authors" : [ "K Ecker" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Communication Delays and Multiprocessor Tasks",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling on One Processor",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Vol. 7: SCHEDULING UNDER RESOURCE CONSTRAINTS-DETERMINISTIC MODELS",
+    "authors" : [ "J Blazewicz", "W Cellary", "R Slowinski" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Poznańskie Centrum Superkomputerowo-Sieciowe w realizacji wizji społeczeństwa informacyjnego",
+    "authors" : [ "J Rychlewski", "M Stroinski" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Resource Constrained Scheduling",
+    "authors" : [ "J Blazewicz", "K Ecker", "G Schmidt" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling in Flexible Manufacturing Systems",
+    "authors" : [ "J Blazewicz", "K Ecker", "G Schmidt" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Formulation of Scheduling Problems",
+    "authors" : [ "J Blazewicz", "K Ecker", "G Schmidt" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "From Theory to Practice",
+    "authors" : [ "J Blazewicz", "K Ecker", "G Schmidt" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Preliminaries",
+    "authors" : [ "J Blazewicz", "K Ecker", "G Schmidt" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Parallel Processor Scheduling",
+    "authors" : [ "J Blazewicz", "K Ecker", "G Schmidt" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Static Shop Scheduling",
+    "authors" : [ "J Blazewicz", "K Ecker", "G Schmidt" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Parallel Processor Scheduling",
+    "authors" : [ "J Blazewicz", "K Ecker", "G Schmidt" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Advances in Project Scheduling",
+    "authors" : [ "J Wiest" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "Time-optimal resource allocation under stepwise consumption constraints",
+    "authors" : [ "J WEGLARZ" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "Dynamic programming algorithm for a FMS scheduling problem",
+    "authors" : [ "J BŁAZEWICZ", "G FINKE", "G LAPORTE", "J WEGLARZ" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "Special Issue on Project Management and Scheduling",
+    "authors" : [ "L Tavares", "F Boctor", "S Elmaghraby", "W Herroelen" ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Project management and scheduling: special issue",
+    "authors" : [ "L Tavares" ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Expert systems development in Prolog and Turbo-Prolog: Sigma Halsted, Wilmslow, 214+ iv pages",
+    "authors" : [ ],
+    "year" : "1989",
+    "citations" : ""
+  }, {
+    "title" : "Advances in Project Scheduling",
+    "authors" : [ "J Patterson", "R Slowinski", "F Talbot", "R Slowinski" ],
+    "year" : "1989",
+    "citations" : ""
+  }, {
+    "title" : "Multicriteria scheduling problems under continuous activity models: Processing speed vs. resource amount.",
+    "authors" : [ ],
+    "year" : "1989",
+    "citations" : ""
+  }, {
+    "title" : "Management for engineers: CB CHAPMAN, DF COOPER and MJ PAGE Wiley, Chichester, 1987, xxi+ 654 pages,£ 17.50",
+    "authors" : [ ],
+    "year" : "1988",
+    "citations" : ""
+  }, {
+    "title" : "Competent expert systems: A case study in fault diagnosis: ET KERAVNOU and L. JOHNSON Kogan Page, London, 1986, xx+ 320 pages",
+    "authors" : [ ],
+    "year" : "1988",
+    "citations" : ""
+  }, {
+    "title" : "FOUNDATIONS OF CONTROL ENGINEERING",
+    "authors" : [ "J WEGLARZ", "M ARATO", "Z BUBNICKI", "F GECSEG", "T KACZOREK" ],
+    "year" : "1988",
+    "citations" : ""
+  }, {
+    "title" : "Cybernetics and systems research 2: R. Trappl (ed.) Proceedings of the Seventh European Meeting on Cybernetics and Systems Research, organized by the Austria...",
+    "authors" : [ ],
+    "year" : "1985",
+    "citations" : ""
+  }, {
+    "title" : "Complementary pivoting on a pseudomanifold structure with applications in the decision sciences: FJ GOULD and JW TOLLE Volume 2 in: Sigma Series in Applied...",
+    "authors" : [ "R Horst" ],
+    "year" : "1984",
+    "citations" : ""
+  }, {
+    "title" : "On the complexity of scheduling multiprocessor tasks in microprocessor systems",
+    "authors" : [ "J Blazewicz", "M Drabowski" ],
+    "year" : "1984",
+    "citations" : ""
+  }, {
+    "title" : "O niektórych problemach szeregowania zadań wieloprocesorowych",
+    "authors" : [ "J Blazewicz", "M Drabowski" ],
+    "year" : "1984",
+    "citations" : ""
+  }, {
+    "title" : "Mixed resource allocation: Problems and algorithms.",
+    "authors" : [ ],
+    "year" : "1983",
+    "citations" : ""
+  }, {
+    "title" : "MULTIPROCESSOR SCHEDULING WITH MEMORY ALLOCATION-A DETERMINISTIC APPROACH-REPLY",
+    "authors" : [ "J WEGLARZ" ],
+    "year" : "1982",
+    "citations" : ""
+  }, {
+    "title" : "Author's Reply 2",
+    "authors" : [ ],
+    "year" : "1982",
+    "citations" : ""
+  }, {
+    "title" : "Comments on\" Multiprocessor Scheduling with Memory Allocation–A Deterministic Approach\"",
+    "authors" : [ "V Signaevskii" ],
+    "year" : "1982",
+    "citations" : ""
+  }, {
+    "title" : "Deterministic problems of task scheduling on computer system processors under additional constraints",
+    "authors" : [ "J BLAZEWICZ", "J WEGLARZ" ],
+    "year" : "1978",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling Dependent Tasks with Memory Allocation in Multiprocessing Systems to Minimize Schedule Length",
+    "authors" : [ ],
+    "year" : "1977",
+    "citations" : ""
+  }, {
+    "title" : "amount of good literature has appeared.'This book is",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Coordination in healthcare settings is a complex distributed process, mediated by a number of artifacts. We describe the coordination mechanisms in a surgical unit...",
+    "authors" : [ "M Kosiedowski", "C Mazurek", "M Stroinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Power-and energy-related instances in a problem of scheduling computational jobs",
+    "authors" : [ "R Rozycki" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Sequential algorithms for DNA sequencing",
+    "authors" : [ "J Blazewicz", "J Kaczmarek", "M Kasprzak", "W Markiewicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "ASSOCIATION OF EUROPEAN OPERATIONAL RESEARCH SOCIETIES (EURO) within the International Federation of Operational Research Societies (IFORS)",
+    "authors" : [ "A Bachem", "E Balas", "P Bell", "M Bielli", "I Roma" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "ASSOCIATION OF EUROPEAN OPERATIONAL RESEARCH SOCIETIES (EURO)",
+    "authors" : [ "A Bachem", "E Balas", "P Bell", "J Brans", "D Bunn", "G Cosmetatos", "H Dyckhoff" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "JAK POWSTAŁY BADANIA OPERACYJNE",
+    "authors" : [ "D Zielonogorskiego" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Modelling and control of dynamic resource allocation project scheduling systems, SG Tzafestas, Editor",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling in computer and manufacturing processes. 1996",
+    "authors" : [ "J Blazewicz", "K Ecker", "E Pesch", "G Schmidt" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Grid Resource Management State of the Art and Future Trends. 2003",
+    "authors" : [ "J Nabrzyski", "J Schopf" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Gateway to the e-World",
+    "authors" : [ "J WEGLARZ" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Paper submission",
+    "authors" : [ "M Stroinski", "K Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Nowoczesne biblioteki cyfrowe w środowisku rozproszonych usług atomowych Modern digital libraries in the environment of distributed atomic services",
+    "authors" : [ "C Mazurek", "M Stroinski", "M Werla" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "AN OPTIMAL PROCEDURE FOR THE PREEMPTIVE CMAX SCHEDULING OF DEPENDENT TASKS ON PARALLEL IDENTICAL MACHINES",
+    "authors" : [ "J Jozefowska", "M Mika", "R Rozycki", "G Waligora" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "EXPLICITLY CORRELATED WAVE FUNCTIONS IN QUANTUM MONTE CARLO",
+    "authors" : [ "J Komasa", "K Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Biblioteki cyfrowe–główne kierunki rozwoju",
+    "authors" : [ "C Mazurek", "M Stroinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "WSPÓŁCZESNE TECHNOLOGIE, USŁUGI I APLIKACJE SIECIOWE",
+    "authors" : [ "C MAZUREK", "M STROINSKI", "J WEGLARZ" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "POLISH OPTICAL INTERNET",
+    "authors" : [ "J Rychlewski", "M Stroinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Information Grid Services in the Polish Optical Internet PIONIER",
+    "authors" : [ "C Mazurek", "M Stroinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Liste der zur Besprechung eingegangenen Biicher",
+    "authors" : [ "A Bachem", "W Kern", "J Blazewicz", "K Ecker", "G Schmidt" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 35
 }

@@ -403,6 +403,91 @@
     "authors" : [ "M Radom" ],
     "year" : "2010",
     "citations" : ""
+  }, {
+    "title" : "Special Issue: Networks in Computational Biology",
+    "authors" : [ "J Blazewicz", "D Formanowicz", "A Sackmann", "M Sajkowski" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "journal homepage: www. elsevier. com/locate/biosystems",
+    "authors" : [ "A Arenas", "J Blazewicz", "I Bokkon", "J Brookfield", "M Cooper", "C Cuppini" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Problemy izotermicznego sekwencjonowania przez hybrydyzację z informacją o powtórzeniach",
+    "authors" : [ ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "DNA microarray probe design",
+    "authors" : [ "M Figlerowicz", "D Formanowicz", "L Handschuh" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "1 Editorial: IEPM: Focus on scheduling A. Artiba and SE Elmaghraby 3 An improved approximation algorithm for the single machine total completion time scheduling...",
+    "authors" : [ "C Sadfi", "B Penz", "C Rapine", "J Blazewicz", "N Saadani" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Tabu Search Method for Determining Sequences of Amino Acids in Long Polypeptides",
+    "authors" : [ "M Stobiecki" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "ORIGINAL PAPERS-Construction of DNA restriction maps based on a simplified experiment",
+    "authors" : [ "J Blazewicz", "M Kasprzak", "M Jaroszewski", "W Markiewicz" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Clustal W algorithm for multiple sequence alignment revisited",
+    "authors" : [ "J Blazewicz", "M Kasprzak", "K Michalak", "P Wierzejewski" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Szeregowanie zadań w systemach z ograniczoną dostępnością maszyn",
+    "authors" : [ "J Blazewicz", "M Drozdowski", "W Kubiak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Petri net based model of the process of atherosclerotic plaque formation",
+    "authors" : [ "D Formanowicz", "T Nowak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Invited Reviews and Invited Tutorials 2002–2006",
+    "authors" : [ "C Feremans", "M Labbe", "G Laporte", "B Cheang", "H Li", "A Lim", "B Rodrigues" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Basic Concepts of Quantum Computing",
+    "authors" : [ "W Mruczkiewicz", "H Cwiek", "R Urbaniak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "On the complexity of NOE pathway construction of RNA duplexes",
+    "authors" : [ "M Szachniuk", "R Adamiak", "J Blazewicz", "M Kasprzak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "AUTOMATYZACJA PROCESÓW DYSKRETNYCH 2012",
+    "authors" : [ "M RADOM", "P FORMANOWICZ" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Peptides assembling and sequencing methods",
+    "authors" : [ "J Blazewicz", "M Borowski", "T Glowacki", "A Kozak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Język Language",
+    "authors" : [ "M Radom" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "From Documents Processing to an Identification of Marine Organisms’ Habitat Specificity",
+    "authors" : [ "M Szachniuk", "M Radom", "A Rybarczyk", "J Blazewicz" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 19
 }

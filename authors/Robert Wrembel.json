@@ -403,6 +403,211 @@
     "authors" : [ "M Masewicz", "K Jankiewicz" ],
     "year" : "2006",
     "citations" : "1"
+  }, {
+    "title" : "Pmap: Framework to predicting method access patterns for materialized methods",
+    "authors" : [ "M Masewicz", "M Stabno", "R Staniszewski" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Hurtownie danych oparte o Oracle9i/10g–przegląd funkcjonalności",
+    "authors" : [ ],
+    "year" : "2004",
+    "citations" : "1"
+  }, {
+    "title" : "On Methods’ Materialization in Object-Relational Data Warehouse",
+    "authors" : [ "B Bebel", "Z Krolikowski" ],
+    "year" : "2002",
+    "citations" : "1"
+  }, {
+    "title" : "Incremental Maintenance of Materialised Object-Oriented Views by Using Deferred Technique",
+    "authors" : [ "T Morzy" ],
+    "year" : "2000",
+    "citations" : "1"
+  }, {
+    "title" : "Usługi heterogeniczne–techniki integracji rozproszonych baz danych różnych producentów",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "From Indicators to Predictive Analytics: A Conceptual Modelling Framework",
+    "authors" : [ "A Nasiri", "S Nalchigar", "E Yu", "W Ahmed", "E Zimanyi" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Requirements Engineering for Data Warehouses (RE4DW): From Strategic Goals to Multidimensional Model",
+    "authors" : [ "A Nasiri", "W Ahmed", "E Zimanyi" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "New Trends in Databases and Information Systems: ADBIS 2017 Short Papers and Workshops, AMSD, BigNovelTI, DAS, SW4CH, DC, Nicosia, Cyprus, September...",
+    "authors" : [ "M Kirikova", "K Nørvag", "G Papadopoulos", "J Gamper" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "From indicators to predictive analytics: A conceptual modelling framework",
+    "authors" : [ "N Azadeh", "S Nalchigar", "E Eric", "A Waqas", "E Zimanyi" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "EXPLORING COMPLEX AND BIG DATA",
+    "authors" : [ "J STEFANOWSKI", "K KRAWIEC", "R WREMBEL" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Searching for Patterns in Sequential Data: Functionality and Performance Assessment of Commercial and Open-Source Systems",
+    "authors" : [ "W Andrzejewski", "B Bebel", "S Klosowski", "B Łukaszewski" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "On Index Structures for Star Query Processing in Data Warehouses",
+    "authors" : [ "A Wojciechowski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "for Right-Time Bl",
+    "authors" : [ ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Zintegrowane systemy informatyczne a nowe prawo o zagospodarowaniu odpadów-problematyka i rozwiązania",
+    "authors" : [ ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Yes No",
+    "authors" : [ "M Gorawski", "T Morzy", "S Greco", "R Slowinski", "I Szczech" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Second International Conference on Ontologies, DataBases and Applications of Semantics (ODBASE 2005)-Metadata Management in a Multiversion Data Warehou...",
+    "authors" : [ "B Bebel" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Ontologies, Databases and Applications of Semantics (ODBASE) 2005 International Conference-Metadata-Metadata Management in a Multiversion Data Warehouse",
+    "authors" : [ "B Bebel" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Methods materialisation in object-oriented databases: implementation and experimental evaluation",
+    "authors" : [ "J Jezierski", "M Masewicz" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Creation and Management of Versions in Multiversion Data Warehouses",
+    "authors" : [ "J Eder", "B Bebel", "C Koncilia", "T Morzy" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "web and database technologies in business solutions",
+    "authors" : [ "R Corchuelo", "A Ruiz-Cortes" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Technology Supporting Business Solutions",
+    "authors" : [ "R Corchuelo", "A Ruiz-Cortes" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Method Materialization Using the Hierarchical Technique: Experimental Evaluation",
+    "authors" : [ "B Bebel" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "MANAGING AND IMPLEMENTING OBJECT–ORIENTED VIEW SCHEMAS",
+    "authors" : [ "T Morzy" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Dane hurtowo",
+    "authors" : [ ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Context Similarity for Retrieval-Based Imputation",
+    "authors" : [ "A Ahmadov", "M Thiele", "W Lehner" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Program Committees",
+    "authors" : [ "A Durresi", "A Keromytis", "M Kankanhalli", "K Kurosawa", "C Koc", "S Jajodia" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Sequential Data Analytics by Means of Seq-SQL",
+    "authors" : [ "B Bebel", "T Cichowicz", "F Rytwinski", "W Andrzejewski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "آزمایشی‎",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "GSN 2014",
+    "authors" : [ "J Bailey", "L Bellatreche", "Y Chen", "J Cheng", "S Chun", "A Cuzzocrea" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "CISIS 2009 Reviewers List",
+    "authors" : [ "J Dongarra", "I Brandic", "J Chen", "E Deelman", "G Fox", "V Getov", "H Karatza" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Dan Grigoras, 2002 ISPDC Chair",
+    "authors" : [ "M Juriþ", "B Robiþ", "J Silc", "R Trobec", "T Welzer" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Porównanie wydajności hurtowni danych ROLAP i MOLAP w Oracle 10g",
+    "authors" : [ "B Bebel", "J Jezierski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Data Quality in Intelligent Systems",
+    "authors" : [ "T Welzer", "I Golob", "M Druzovec", "A Kamisalic", "K Udir" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Rozproszone Systemy Transakcyjne",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Ukryte modele Markowa jako mechanizm automatycznej predykcji żądań użytkowników w systemach z materializacją hierarchiczną",
+    "authors" : [ "W Andrzejewski", "Z Krolikowski", "M Masewicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Oracle9i Lite w aplikacjach mobilnych–projekt i implementacja przykładowego systemu",
+    "authors" : [ "M Gluszak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Integracja systemów transakcyjnych",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Greetings from the Chair",
+    "authors" : [ "M Paprzycki" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Oracle9i Lite: rozwi¹zanie dla mobilnych baz danych?",
+    "authors" : [ "J Jezierski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Replikacja danych w bazach danych Oracle9i",
+    "authors" : [ "B Bebel" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Run-Length Huffman-alternatywny algorytm kompresji map bitowych",
+    "authors" : [ "M Stabno" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 15
 }

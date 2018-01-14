@@ -403,6 +403,11 @@
     "authors" : [ "M Zakrzewicz" ],
     "year" : "",
     "citations" : ""
+  }, {
+    "title" : "Access Paths for Data Mining Query Optimizer",
+    "authors" : [ "M Zakrzewicz" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 12
 }

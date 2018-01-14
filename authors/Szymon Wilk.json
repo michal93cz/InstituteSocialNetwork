@@ -403,6 +403,156 @@
     "authors" : [ "J Blazewicz", "P Łukasiak" ],
     "year" : "2007",
     "citations" : "1"
+  }, {
+    "title" : "Bayesian belief network model of the radical prostatectomy pathway",
+    "authors" : [ "W Michalowski", "A Thijssen", "M Li" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Mobile emergency triage support system",
+    "authors" : [ "W Michalowski", "R Slowinski" ],
+    "year" : "2004",
+    "citations" : "1"
+  }, {
+    "title" : "Detection of Wet Age-related Macular Degeneration in OCT Images: A Case Study",
+    "authors" : [ "A Haq" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Fusion of Clinical Data: A Case Study to Predict the Type of Treatment of Bone Fractures",
+    "authors" : [ "A Haq" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Reports of the Workshops of the 31st AAAI Conference on Artificial Intelligence",
+    "authors" : [ "M Anderson", "R Bartak", "J Brownstein", "D Buckeridge", "H Eldardiry" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Using Constraint Logic Programming for the Verification of Customized Decision Models for Clinical Guidelines",
+    "authors" : [ "A Fux", "M Michalowski", "M Peleg", "P Soffer" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "An Algorithm for Selective Preprocessing of Multi-class Imbalanced Data",
+    "authors" : [ "S Wojciechowski", "J Stefanowski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Supporting process execution by interdisciplinary healthcare teams: Middleware design for IBM BPM",
+    "authors" : [ "N Catal", "D Amyot", "W Michalowski", "M Kezadri-Hamiaz", "M Baslyman" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Supporting an Interdisciplinary Healthcare Team with a Multi-Agent System",
+    "authors" : [ "D Astaraky", "W Michalowski", "P Andreev", "C Kuziemsky" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Sequential classification using ontological Naive Bayes classifier",
+    "authors" : [ "T Łukaszewski" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Hypothesis-driven interactive classification based on AVO",
+    "authors" : [ "T Łukaszewski", "J Potoniec" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Discovering the preferences of physicians with regards to rank-ordered medical documents",
+    "authors" : [ "D O’Sullivan", "W Michalowski", "R Slowinski", "R Thomas", "K Farion" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Representing clinical documents to support automatic retrieval of evidence from the Cochrane Library",
+    "authors" : [ "D O'Sullivan", "W Michalowski", "M Michalowski", "K Farion" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Decision Making by Emergency Room Physicians and Residents",
+    "authors" : [ "M Hine", "K Farion", "W Michalowski" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "MET3: an integrative open source based multi-agent clinical decision support system",
+    "authors" : [ "J Sayyad-shirabad", "W Michalowski", "K Farion" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Wspomaganie komunikacji i decyzji w środowisku usług telemedycznych",
+    "authors" : [ "R Slowinski", "J Blaszczynski" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "A constraint satisfaction approach to data-driven implementation of clinical practice guidelines",
+    "authors" : [ "C Kuziemsky", "D O’Sullivan", "W Michalowski", "K Farion" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Decision making by emergency room physicians and residents: results from a clinical trial",
+    "authors" : [ "K Farion", "M Hine", "W Michalowski" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Developing a decision model for asthma exacerbations: combining rough sets and expert-driven selection of clinical attributes",
+    "authors" : [ "K Farion", "W Michalowski" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Application of the rough sets theory to evaluate prognostic factors in breast cancer patients subjected to mastectomy",
+    "authors" : [ "R Szoszkiewicz", "J Zaluski", "J Krysinski", "B Predki" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Identifying Important Attributes for the Siberian Forests Management Using Rough Sets Analysis",
+    "authors" : [ "M Flinkman", "W Michalowski", "S Nilsson", "R Slowinski", "R Susmaga" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Tele-triage of child with abdominal pain using the internet-based decision support system",
+    "authors" : [ "W Michalowski", "S Rubin", "R Slowinski" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Identification of sustainable forest management practices: Siberian forest case study",
+    "authors" : [ "M Flinkman", "W Michalowski", "S Nilsson", "R Slowinski" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Determinants of long-term economic growth: An empirical cross-country study involving rough set theory and rule induction",
+    "authors" : [ "M Obersteiner" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "AAAI Publications",
+    "authors" : [ "M Michalowski", "W Michalowski", "D O'Sullivan", "M Carrier" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Providing Decision Support to Physicians at the Point of Care",
+    "authors" : [ "W Michalowski", "K Farion" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "THE USE OF CONSTRAINT LOGIC PROGRAMMING TO RECONCILE PAIRS OF CONCURRENTLY USED CLINICAL PRACTICE GUIDELINES",
+    "authors" : [ "W Michalowski", "M Michalowski", "M Hing" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Using Secondary Knowledge to Support Decision Tree Classification of Retrospective Clinical Data",
+    "authors" : [ "W Elazmeh", "K Farion", "S Matwin", "W Michalowski", "D O’Sullivan" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Rough Set Methodology in Clinical Practice",
+    "authors" : [ "K Farion", "W Michalowski", "R Slowinski", "S Rubin" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "SZPITALNE SYSTEMY INFORMACYJNE",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 20
 }

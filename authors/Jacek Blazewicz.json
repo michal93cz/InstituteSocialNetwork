@@ -403,6 +403,1986 @@
     "authors" : [ "W Kubiak", "T Morzy", "M Rusinkiewicz" ],
     "year" : "2012",
     "citations" : "23"
+  }, {
+    "title" : "Sequencing by hybridization with isothermic oligonucleotide libraries",
+    "authors" : [ "P Formanowicz", "M Kasprzak", "W Markiewicz" ],
+    "year" : "2004",
+    "citations" : "23"
+  }, {
+    "title" : "Total late work criteria for shop scheduling problems",
+    "authors" : [ "E Pesch", "M Sterna", "F Werner" ],
+    "year" : "2000",
+    "citations" : "23"
+  }, {
+    "title" : "Preemptive multiprocessor task scheduling with release times and time windows",
+    "authors" : [ "L Bianco", "P Dell'Olmo", "M Drozdowski" ],
+    "year" : "1997",
+    "citations" : "23"
+  }, {
+    "title" : "Sequential and parallel algorithms for DNA sequencing",
+    "authors" : [ "J Kaczmarek", "M Kasprzak", "W Markiewicz", "J Weglarz" ],
+    "year" : "1997",
+    "citations" : "23"
+  }, {
+    "title" : "Whole genome assembly from 454 sequencing output via modified DNA graph concept",
+    "authors" : [ "M Bryja", "M Figlerowicz", "P Gawron", "M Kasprzak", "E Kirton" ],
+    "year" : "2009",
+    "citations" : "22"
+  }, {
+    "title" : "New insights into the human body iron metabolism analyzed by a Petri net based approach",
+    "authors" : [ "A Sackmann", "D Formanowicz", "P Formanowicz" ],
+    "year" : "2009",
+    "citations" : "22"
+  }, {
+    "title" : "A preemptive open shop scheduling problem with one resource",
+    "authors" : [ "W Kubiak" ],
+    "year" : "1991",
+    "citations" : "22"
+  }, {
+    "title" : "Berth and quay crane allocation: a moldable task scheduling model",
+    "authors" : [ "T Cheng", "M Machowiak", "C Oguz" ],
+    "year" : "2011",
+    "citations" : "21"
+  }, {
+    "title" : "Some aspects of the anemia of chronic disorders modeled and analyzed by petri net based approach",
+    "authors" : [ "D Formanowicz", "A Sackmann", "A Kozak", "P Formanowicz" ],
+    "year" : "2011",
+    "citations" : "21"
+  }, {
+    "title" : "DNA sequencing by hybridization via genetic search",
+    "authors" : [ "C Oguz", "A Swiercz", "J Weglarz" ],
+    "year" : "2006",
+    "citations" : "21"
+  }, {
+    "title" : "Good laboratory practice for optimization research",
+    "authors" : [ "G Kendall", "R Bai", "M Gendreau", "R John" ],
+    "year" : "2016",
+    "citations" : "20"
+  }, {
+    "title" : "Hepatitis C virus quasispecies in chronically infected children subjected to interferon–ribavirin therapy",
+    "authors" : [ "M Figlerowicz", "P Jackowiak", "P Formanowicz", "P Kedziora", "M Alejska" ],
+    "year" : "2010",
+    "citations" : "20"
+  }, {
+    "title" : "A note on the two machine job shop with the weighted late work criterion",
+    "authors" : [ "E Pesch", "M Sterna", "F Werner" ],
+    "year" : "2007",
+    "citations" : "20"
+  }, {
+    "title" : "From HP lattice models to real proteins: coordination number prediction using learning classifier systems",
+    "authors" : [ "M Stout", "J Bacardit", "J Hirst", "N Krasnogor" ],
+    "year" : "2006",
+    "citations" : "20"
+  }, {
+    "title" : "RNA tertiary structure determination: NOE pathways construction by tabu search",
+    "authors" : [ "M Szachniuk", "A Wojtowicz" ],
+    "year" : "2005",
+    "citations" : "20"
+  }, {
+    "title" : "Approximation algorithms for scheduling independent malleable tasks",
+    "authors" : [ "M Machowiak", "G Mounie", "D Trystram" ],
+    "year" : "2001",
+    "citations" : "20"
+  }, {
+    "title" : "Preemptive scheduling of multiprocessor tasks on the dedicated processor system subject to minimal lateness",
+    "authors" : [ "L Bianco", "P Dell'Olmo", "M Drozdowski" ],
+    "year" : "1993",
+    "citations" : "20"
+  }, {
+    "title" : "Scheduling independent two processor tasks on a uniform duo-processor system",
+    "authors" : [ "M Drozdowski", "G Schmidt" ],
+    "year" : "1990",
+    "citations" : "20"
+  }, {
+    "title" : "Scheduling tasks on two processors with deadlines and additional resources",
+    "authors" : [ "J Barcelo", "W Kubiak", "H Rock" ],
+    "year" : "1986",
+    "citations" : "20"
+  }, {
+    "title" : "Web and grid technologies in bioinformatics, computational and systems biology: A review",
+    "authors" : [ "N Krasnogor", "A Shah", "D Barthel", "P Lukasiak" ],
+    "year" : "2008",
+    "citations" : "19"
+  }, {
+    "title" : "Evolutionary approaches to DNA sequencing with errors",
+    "authors" : [ "F Glover", "M Kasprzak" ],
+    "year" : "2005",
+    "citations" : "19"
+  }, {
+    "title" : "Computational methods in diagnostics of chronic hepatitis C",
+    "authors" : [ "P Kedziora", "M Figlerowicz", "P Formanowicz", "M Alejska", "P Jackowiak" ],
+    "year" : "2005",
+    "citations" : "19"
+  }, {
+    "title" : "Review of properties of different precedence graphs for scheduling problems",
+    "authors" : [ "D Kobler" ],
+    "year" : "2002",
+    "citations" : "19"
+  }, {
+    "title" : "A local search approach for two-dimensional irregular cutting",
+    "authors" : [ "R Walkowiak" ],
+    "year" : "1995",
+    "citations" : "19"
+  }, {
+    "title" : "Dealing with repetitions in sequencing by hybridization",
+    "authors" : [ "F Glover", "M Kasprzak", "W Markiewicz", "C OGuz" ],
+    "year" : "2006",
+    "citations" : "18"
+  }, {
+    "title" : "Computational complexity of isothermic DNA sequencing by hybridization",
+    "authors" : [ "M Kasprzak" ],
+    "year" : "2006",
+    "citations" : "18"
+  }, {
+    "title" : "Some preemptive open shop scheduling problems with a renewable or a nonrenewable resource",
+    "authors" : [ ],
+    "year" : "1992",
+    "citations" : "18"
+  }, {
+    "title" : "Deadlock-resistant flow control procedures for store-and-forward networks",
+    "authors" : [ "D Bovet", "G Gambosi" ],
+    "year" : "1984",
+    "citations" : "18"
+  }, {
+    "title" : "RNAlyzer—novel approach for quality analysis of RNA structural models",
+    "authors" : [ "P Lukasiak", "M Antczak", "T Ratajczak", "J Bujnicki", "M Szachniuk" ],
+    "year" : "2013",
+    "citations" : "17"
+  }, {
+    "title" : "Modeling the process of human body iron homeostasis using a variant of timed Petri nets",
+    "authors" : [ "D Formanowicz", "P Formanowicz", "A Sackmann", "M Sajkowski" ],
+    "year" : "2009",
+    "citations" : "17"
+  }, {
+    "title" : "Parallel tabu search approaches for two-dimensional cutting",
+    "authors" : [ "A Moret-Salvador", "R Walkowiak" ],
+    "year" : "2004",
+    "citations" : "17"
+  }, {
+    "title" : "An algorithm for an automatic NOE pathways analysis of 2D NMR spectra of RNA duplexes",
+    "authors" : [ "R Adamiak", "P Formanowicz", "Z Gdaniec", "M Kasprzak" ],
+    "year" : "2004",
+    "citations" : "17"
+  }, {
+    "title" : "The complexity of two group scheduling problems",
+    "authors" : [ "M Kovalyov" ],
+    "year" : "2002",
+    "citations" : "17"
+  }, {
+    "title" : "Linear algorithms for preemptive scheduling of multiprocessor tasks subject to minimal lateness",
+    "authors" : [ "L Bianco", "P Dell'Olmo", "M Drozdowski" ],
+    "year" : "1997",
+    "citations" : "17"
+  }, {
+    "title" : "On the recognition of de Bruijn graphs and their induced subgraphs",
+    "authors" : [ "P Formanowicz", "M Kasprzak", "D Kobler" ],
+    "year" : "2002",
+    "citations" : "16"
+  }, {
+    "title" : "Minimizing mean flow-time with parallel processors and resource constraints",
+    "authors" : [ "W Kubiak", "H Rock", "J Szwarcfiter" ],
+    "year" : "1987",
+    "citations" : "16"
+  }, {
+    "title" : "Teoria szeregowania zadań",
+    "authors" : [ "E Coffman" ],
+    "year" : "1980",
+    "citations" : "16"
+  }, {
+    "title" : "Sorting signal targeting mRNA into hepatic extracellular vesicles",
+    "authors" : [ "N Szostak", "F Royo", "A Rybarczyk", "M Szachniuk" ],
+    "year" : "2014",
+    "citations" : "15"
+  }, {
+    "title" : "Metaheuristics for late work minimization in two-machine flow shop with common due date",
+    "authors" : [ "E Pesch", "M Sterna", "F Werner" ],
+    "year" : "2005",
+    "citations" : "15"
+  }, {
+    "title" : "A hyper-heuristic approach to sequencing by hybridization of DNA sequences",
+    "authors" : [ "E Burke", "G Kendall", "W Mruczkiewicz", "C Oguz", "A Swiercz" ],
+    "year" : "2013",
+    "citations" : "14"
+  }, {
+    "title" : "Some operations research methods for analyzing protein sequences and structures",
+    "authors" : [ "P Łukasiak", "M Milostan" ],
+    "year" : "2010",
+    "citations" : "14"
+  }, {
+    "title" : "A note on the complexity of scheduling coupled tasks on a single processor",
+    "authors" : [ "K Ecker", "T Kis", "M Tanas" ],
+    "year" : "2001",
+    "citations" : "14"
+  }, {
+    "title" : "Deadline scheduling of multiprocessor tasks",
+    "authors" : [ "M Drozdowski", "J Weglarz" ],
+    "year" : "1996",
+    "citations" : "14"
+  }, {
+    "title" : "Scheduling independent fixed-type tasks",
+    "authors" : [ "W Kubiak", "J Szwarcfiter" ],
+    "year" : "1989",
+    "citations" : "14"
+  }, {
+    "title" : "Scheduling unit—time tasks on flow—shops under resource constraints",
+    "authors" : [ "W Kubiak", "J Szwarcfiter" ],
+    "year" : "1988",
+    "citations" : "14"
+  }, {
+    "title" : "Internet shopping with price sensitive discounts",
+    "authors" : [ "P Bouvry", "M Kovalyov", "J Musial" ],
+    "year" : "2014",
+    "citations" : "13"
+  }, {
+    "title" : "Human fertility protein PUMILIO2 interacts in vitro with testis mRNA encoding Cdc42 effector 3 (CEP3)",
+    "authors" : [ "A Spik", "S Oczkowski", "A Olszak", "P Formanowicz", "J Jaruzelska" ],
+    "year" : "2006",
+    "citations" : "13"
+  }, {
+    "title" : "Some operations research methods for analyzing protein sequences and structures",
+    "authors" : [ "P Łukasiak", "M Milostan" ],
+    "year" : "2006",
+    "citations" : "13"
+  }, {
+    "title" : "Predicting secondary structures of proteins",
+    "authors" : [ "P Hammer", "P Lukasiak" ],
+    "year" : "2005",
+    "citations" : "13"
+  }, {
+    "title" : "Berth allocation as a moldable task scheduling problem",
+    "authors" : [ "C Oguz", "T Cheng", "M Machowiak" ],
+    "year" : "2004",
+    "citations" : "13"
+  }, {
+    "title" : "A tabu search strategy for finding low energy structures of proteins in HP-model",
+    "authors" : [ "J BŁAZEWICZ", "K DILL", "P ŁUKASIAK", "M MIŁOSTAN" ],
+    "year" : "2004",
+    "citations" : "13"
+  }, {
+    "title" : "Scheduling of client‐server applications",
+    "authors" : [ "P Dell'Olmo", "M Drozdowski" ],
+    "year" : "1999",
+    "citations" : "13"
+  }, {
+    "title" : "Multi-agent model of hepatitis C virus infection",
+    "authors" : [ "S Wasik", "P Jackowiak", "M Figlerowicz" ],
+    "year" : "2014",
+    "citations" : "12"
+  }, {
+    "title" : "G-DNA–a highly efficient multi-GPU/MPI tool for aligning nucleotide reads",
+    "authors" : [ "W Frohmberg", "M Kierzynka", "P Gawron", "P Wojciechowski" ],
+    "year" : "2013",
+    "citations" : "12"
+  }, {
+    "title" : "E-commerce evaluation–multi-item internet shopping. Optimization and heuristic algorithms",
+    "authors" : [ "J Musial" ],
+    "year" : "2011",
+    "citations" : "12"
+  }, {
+    "title" : "Towards prediction of HCV therapy efficiency",
+    "authors" : [ "S Wasik", "P Jackowiak", "J Krawczyk", "P Kedziora", "P Formanowicz" ],
+    "year" : "2010",
+    "citations" : "12"
+  }, {
+    "title" : "Simplified partial digest problem: enumerative and dynamic programming algorithms",
+    "authors" : [ "E Burke", "M Kasprzak", "A Kovalev", "M Kovalyov" ],
+    "year" : "2007",
+    "citations" : "12"
+  }, {
+    "title" : "Flow shop scheduling with late work criterion-choosing the best solution strategy",
+    "authors" : [ "E Pesch", "M Sterna", "F Werner" ],
+    "year" : "2004",
+    "citations" : "12"
+  }, {
+    "title" : "A branch and bound algorithm for the job shop scheduling problem",
+    "authors" : [ "E Pesch", "M Sterna" ],
+    "year" : "1998",
+    "citations" : "12"
+  }, {
+    "title" : "Scheduling complete intrees on two uniform processors with communication delays",
+    "authors" : [ "P Bouvry", "F Guinand", "D Trystram" ],
+    "year" : "1996",
+    "citations" : "12"
+  }, {
+    "title" : "Chapter One-Automated 3D RNA Structure Prediction Using the RNAComposer Method for Riboswitches",
+    "authors" : [ "K Purzycka", "M Popenda", "M Szachniuk", "M Antczak", "P Lukasiak" ],
+    "year" : "2015",
+    "citations" : "11"
+  }, {
+    "title" : "The orderly colored longest path problem–a survey of applications and new algorithms",
+    "authors" : [ "M Szachniuk", "G Felici" ],
+    "year" : "2014",
+    "citations" : "11"
+  }, {
+    "title" : "On the complexity of the independent set problem in triangle graphs",
+    "authors" : [ "Y Orlovich", "A Dolgui", "G Finke", "V Gordon" ],
+    "year" : "2011",
+    "citations" : "11"
+  }, {
+    "title" : "Finding Hamiltonian circuits in quasi-adjoint graphs",
+    "authors" : [ "M Kasprzak", "B Leroy-Beaulieu" ],
+    "year" : "2008",
+    "citations" : "11"
+  }, {
+    "title" : "Deadline scheduling of multiprocessor tasks",
+    "authors" : [ "M Drozdowski", "J Weglarz" ],
+    "year" : "1996",
+    "citations" : "11"
+  }, {
+    "title" : "Optimal centralized algorithms for store-and-forward deadlock avoidance",
+    "authors" : [ "D Bovet", "J Brzezinski", "G Gambosi", "M Talamo" ],
+    "year" : "1994",
+    "citations" : "11"
+  }, {
+    "title" : "Multiprocessor task scheduling with resource requirements",
+    "authors" : [ "K Ecker" ],
+    "year" : "1994",
+    "citations" : "11"
+  }, {
+    "title" : "Algorithms for minimizing maximum lateness with unit length tasks and resource constraints",
+    "authors" : [ "W Kubiak", "S Martello" ],
+    "year" : "1993",
+    "citations" : "11"
+  }, {
+    "title" : "Solving the resource constrained deadline scheduling problem via reduction to the network flow problem",
+    "authors" : [ "J Baazewicz" ],
+    "year" : "1981",
+    "citations" : "11"
+  }, {
+    "title" : "New in silico approach to assessing RNA secondary structures with non-canonical base pairs",
+    "authors" : [ "A Rybarczyk", "N Szostak", "M Antczak", "T Zok", "M Popenda", "R Adamiak" ],
+    "year" : "2015",
+    "citations" : "10"
+  }, {
+    "title" : "RNAssess—a web server for quality assessment of RNA 3D structures",
+    "authors" : [ "P Lukasiak", "M Antczak", "T Ratajczak", "M Szachniuk", "M Popenda" ],
+    "year" : "2015",
+    "citations" : "10"
+  }, {
+    "title" : "Some remarks on evaluating the quality of the multiple sequence alignment based on the BAliBASE benchmark",
+    "authors" : [ "P Formanowicz", "P Wojciechowski" ],
+    "year" : "2009",
+    "citations" : "10"
+  }, {
+    "title" : "Preface",
+    "authors" : [ "J Carlier", "A Hertz", "M Widmer" ],
+    "year" : "1997",
+    "citations" : "10"
+  }, {
+    "title" : "Translational and structural analysis of the shortest legume ENOD40 gene in Lupinus luteus",
+    "authors" : [ "J Podkowinski", "A Zmienko", "B Florek", "P Wojciechowski", "A Rybarczyk" ],
+    "year" : "2009",
+    "citations" : "9"
+  }, {
+    "title" : "Combinatorial optimization in DNA mapping—a computational thread of the Simplified Partial Digest Problem",
+    "authors" : [ "M Kasprzak" ],
+    "year" : "2005",
+    "citations" : "9"
+  }, {
+    "title" : "Recent advances in scheduling in computer and manufacturing systems",
+    "authors" : [ "K Ecker", "D Trystram" ],
+    "year" : "2005",
+    "citations" : "9"
+  }, {
+    "title" : "On graph theoretical models for peptide sequence assembly",
+    "authors" : [ "M Borowski", "P Formanowicz", "T Glowacki" ],
+    "year" : "2005",
+    "citations" : "9"
+  }, {
+    "title" : "Evolutionary approach to NOE paths assignment in RNA structure elucidation",
+    "authors" : [ "M Szachniuk", "A Wojtowicz" ],
+    "year" : "2004",
+    "citations" : "9"
+  }, {
+    "title" : "Prediction of protein secondary structure using Logical Analysis of Data algorithm",
+    "authors" : [ "P Hammer", "P Łukasiak" ],
+    "year" : "2001",
+    "citations" : "9"
+  }, {
+    "title" : "A strategy for scheduling splittable tasks to reduce schedule length",
+    "authors" : [ "J BLAzEWICZ", "W Cellary", "J Weglarz" ],
+    "year" : "1977",
+    "citations" : "9"
+  }, {
+    "title" : "An assignment walk through 3D NMR spectrum",
+    "authors" : [ "M Szachniuk", "M Popenda", "R Adamiak" ],
+    "year" : "2009",
+    "citations" : "8"
+  }, {
+    "title" : "Multistage isothermic sequencing by hybridization",
+    "authors" : [ "P Formanowicz" ],
+    "year" : "2005",
+    "citations" : "8"
+  }, {
+    "title" : "Assembling the SARS-CoV genome-new method based on graph theoretical approach",
+    "authors" : [ "M Figlerowicz", "P Formanowicz", "M Kasprzak", "B Nowierski" ],
+    "year" : "2004",
+    "citations" : "8"
+  }, {
+    "title" : "DNA sequencing, Eulerian graphs, and the exact perfect matching problem",
+    "authors" : [ "P Formanowicz", "M Kasprzak", "P Schuurman", "G Woeginger" ],
+    "year" : "2002",
+    "citations" : "8"
+  }, {
+    "title" : "Scheduling complete trees on two uniform processors with integer speed ratios and communication delays",
+    "authors" : [ "F Guinand", "B Penz", "D Trystram" ],
+    "year" : "2000",
+    "citations" : "8"
+  }, {
+    "title" : "Management of resources in parallel systems",
+    "authors" : [ "M Drozdowski", "K Ecker" ],
+    "year" : "2000",
+    "citations" : "8"
+  }, {
+    "title" : "Selected combinatorial optimization problem arising in molecular biology",
+    "authors" : [ "M Kasprzak", "M Sterna", "J Weglarz" ],
+    "year" : "1996",
+    "citations" : "8"
+  }, {
+    "title" : "Novel dual discounting functions for the Internet shopping optimization problem: new algorithms",
+    "authors" : [ "N Cheriere", "P Dutot", "J Musial", "D Trystram" ],
+    "year" : "2016",
+    "citations" : "7"
+  }, {
+    "title" : "DNA sequence assembly involving an acyclic graph model",
+    "authors" : [ "W Frohmberg", "P Gawron", "M Kasprzak", "M Kierzynka" ],
+    "year" : "2013",
+    "citations" : "7"
+  }, {
+    "title" : "G-PAS 2.0–an improved version of protein alignment tool with an efficient backtracking routine on multiple GPUs",
+    "authors" : [ "W Frohmberg", "M Kierzynka", "P Wojciechowski" ],
+    "year" : "2012",
+    "citations" : "7"
+  }, {
+    "title" : "New algorithms for coupled tasks scheduling–a survey",
+    "authors" : [ "G Pawlak", "M Tanas", "W Wojciechowicz" ],
+    "year" : "2012",
+    "citations" : "7"
+  }, {
+    "title" : "GeVaDSs–decision support system for novel Genetic Vaccine development process",
+    "authors" : [ "M Borowski", "W Chaara", "P Kedziora", "D Klatzmann" ],
+    "year" : "2012",
+    "citations" : "7"
+  }, {
+    "title" : "RNA partial degradation problem: motivation, complexity, algorithm",
+    "authors" : [ "M Figlerowicz", "M Kasprzak", "M Nowacka", "A Rybarczyk" ],
+    "year" : "2011",
+    "citations" : "7"
+  }, {
+    "title" : "Combinatorial optimization issues in scheduling",
+    "authors" : [ "V Boljuncic", "S Martello", "J Skorin-Kapov" ],
+    "year" : "2011",
+    "citations" : "7"
+  }, {
+    "title" : "A parallel branch-and-bound approach to the rectangular guillotine strip cutting problem",
+    "authors" : [ "S Bak", "G Pawlak", "M Plaza", "E Burke", "G Kendall" ],
+    "year" : "2011",
+    "citations" : "7"
+  }, {
+    "title" : "Determining genome sequences from experimental data using evolutionary computation",
+    "authors" : [ "M Kasprzak" ],
+    "year" : "2003",
+    "citations" : "7"
+  }, {
+    "title" : "An improved version of tabu search for irregular cutting problem",
+    "authors" : [ "R Walkowiak" ],
+    "year" : "1993",
+    "citations" : "7"
+  }, {
+    "title" : "Hypercycle",
+    "authors" : [ "N Szostak", "S Wasik" ],
+    "year" : "2016",
+    "citations" : "6"
+  }, {
+    "title" : "Unified encoding for hyper-heuristics with application to bioinformatics",
+    "authors" : [ "A Swiercz", "E Burke", "M Cichenski", "G Pawlak", "S Petrovic", "T Zurkowski" ],
+    "year" : "2014",
+    "citations" : "6"
+  }, {
+    "title" : "MLP accompanied beam search for the resonance assignment problem",
+    "authors" : [ "M Szachniuk", "M Malaczynski", "E Pesch", "E Burke" ],
+    "year" : "2013",
+    "citations" : "6"
+  }, {
+    "title" : "Poseidon: An information retrieval and extraction system for metagenomic marine science",
+    "authors" : [ "M Radom", "A Rybarczyk", "R Kottmann", "P Formanowicz", "M Szachniuk" ],
+    "year" : "2012",
+    "citations" : "6"
+  }, {
+    "title" : "3D-Judge--A metaserver approach to protein structure prediction",
+    "authors" : [ "W Jaskowski", "P Lukasiak", "M Milostan", "N Krasnogor" ],
+    "year" : "2007",
+    "citations" : "6"
+  }, {
+    "title" : "Malleable tasks scheduling to minimize the makespan",
+    "authors" : [ ],
+    "year" : "2004",
+    "citations" : "6"
+  }, {
+    "title" : "New algorithm for the simplified partial digest problem",
+    "authors" : [ "M Jaroszewski" ],
+    "year" : "2003",
+    "citations" : "6"
+  }, {
+    "title" : "Scheduling multiprocessor tasks on two parallel processors",
+    "authors" : [ "P Dell'Olmo", "M Drozdowski" ],
+    "year" : "2002",
+    "citations" : "6"
+  }, {
+    "title" : "Parameter analysis of clusters of melting temperatures of DNA chains",
+    "authors" : [ "A Cysewska-Sobusiak", "A Lerczak", "M Kasprzak" ],
+    "year" : "1997",
+    "citations" : "6"
+  }, {
+    "title" : "Two-Dimensional Cutting Problem",
+    "authors" : [ "M Drozdowski", "B Soniewicki", "R Walkowiak" ],
+    "year" : "1991",
+    "citations" : "6"
+  }, {
+    "title" : "Simultaneous detection of mutations and copy number variation of NPM1 in the acute myeloid leukemia using multiplex ligation-dependent probe amplification",
+    "authors" : [ "M Marcinkowska-Swojak", "L Handschuh", "P Wojciechowski", "M Goralski" ],
+    "year" : "2016",
+    "citations" : "5"
+  }, {
+    "title" : "AmiRNA Designer-new method of artificial miRNA design",
+    "authors" : [ "A Mickiewicz", "A Rybarczyk", "J Sarzynska", "M Figlerowicz" ],
+    "year" : "2016",
+    "citations" : "5"
+  }, {
+    "title" : "SphereGrinder-reference structure-based tool for quality assessment of protein structural models",
+    "authors" : [ "P Antczak", "T Ratajczak", "P Lukasiak" ],
+    "year" : "2015",
+    "citations" : "5"
+  }, {
+    "title" : "2.0: an advanced web-accessible database with the capacity to search the three-dimensional fragments within RNA structures Popenda Mariusz; Szachniuk Marta;...",
+    "authors" : [ "R FRABASE" ],
+    "year" : "2010",
+    "citations" : "5"
+  }, {
+    "title" : "Revenue management in a job-shop: a dynamic programming approach",
+    "authors" : [ "E Pesch", "M Sterna", "F Werner" ],
+    "year" : "2007",
+    "citations" : "5"
+  }, {
+    "title" : "Prediction of residue exposure and contact number for simplified hp lattice model proteins using learning classifier systems",
+    "authors" : [ "M Stout", "J Bacardit", "J Hirst", "N Krasnogor" ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "The clinical consequences of changes occurring in HCV population during the first weeks of chronic hepatitis C treatment with interferon and ribavirin",
+    "authors" : [ "M Figlerowicz", "P Formanowicz", "P Kedziora", "M Alejska", "P Jackowiak" ],
+    "year" : "2005",
+    "citations" : "5"
+  }, {
+    "title" : "Tabu search method for determining sequences of amino acids in long polypeptides",
+    "authors" : [ "M Borowski", "P Formanowicz", "M Stobiecki" ],
+    "year" : "2005",
+    "citations" : "5"
+  }, {
+    "title" : "A new parallel approach for multi-dimensional packing problems",
+    "authors" : [ "R Walkowiak" ],
+    "year" : "2002",
+    "citations" : "5"
+  }, {
+    "title" : "Scheduling parts through a two-stage tandem flexible flow shop",
+    "authors" : [ ],
+    "year" : "1992",
+    "citations" : "5"
+  }, {
+    "title" : "Scheduling on parallel identical machines with late work criterion: Offline and online cases",
+    "authors" : [ "X Chen", "M Sterna", "X Han" ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "Exact and heuristic approaches to solve the Internet shopping optimization problem with delivery costs",
+    "authors" : [ "M Lopez-Loces", "J Musial", "J Pecero", "H Fraire-Huacuja" ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "Automated RNA 3D structure prediction with RNAcomposer",
+    "authors" : [ "M Biesiada", "K Purzycka", "M Szachniuk", "R Adamiak" ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "Optimal pathway reconstruction on 3D NMR maps",
+    "authors" : [ "M Szachniuk", "G Felici" ],
+    "year" : "2015",
+    "citations" : "4"
+  }, {
+    "title" : "Complexity issues in computational biology",
+    "authors" : [ "M Kasprzak" ],
+    "year" : "2012",
+    "citations" : "4"
+  }, {
+    "title" : "Genetic and tabu search algorithms for peptide assembly problem",
+    "authors" : [ "M Borowski", "P Formanowicz", "T Glowacki" ],
+    "year" : "2010",
+    "citations" : "4"
+  }, {
+    "title" : "The Knapsack-Lightening problem and its application to scheduling HRT tasks",
+    "authors" : [ "J Nawrocki", "W Complak", "S Kopczynska", "M Mackowiaki" ],
+    "year" : "2009",
+    "citations" : "4"
+  }, {
+    "title" : "Parallel implementation of the novel approach to genome assembly",
+    "authors" : [ "M Kasprzak", "A Swiercz", "M Figlerowicz", "P Gawron", "D Platt" ],
+    "year" : "2008",
+    "citations" : "4"
+  }, {
+    "title" : "Scheduling jobs in open shops with limited machine availability",
+    "authors" : [ "P Formanowicz" ],
+    "year" : "2002",
+    "citations" : "4"
+  }, {
+    "title" : "Linear and quadratic algorithms for scheduling chains and opposite chains",
+    "authors" : [ "Z Liu" ],
+    "year" : "2002",
+    "citations" : "4"
+  }, {
+    "title" : "Scheduling production tasks in a two-stage FMS",
+    "authors" : [ "G Pawlak", "B Walter" ],
+    "year" : "2002",
+    "citations" : "4"
+  }, {
+    "title" : "Parallel branch and bound algorithms for the two-machine flow shop problem with limited machine availability",
+    "authors" : [ "P Formanowicz", "W Kubiak", "M Przysucha", "G Schmidt" ],
+    "year" : "2000",
+    "citations" : "4"
+  }, {
+    "title" : "Sequential algorithms for DNA sequencing",
+    "authors" : [ "J Kaczmarek", "M Kasprzak", "J Weglarz", "W Markiewicz" ],
+    "year" : "1996",
+    "citations" : "4"
+  }, {
+    "title" : "Scheduling in Computer and Manufacturing Systems",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1994",
+    "citations" : "4"
+  }, {
+    "title" : "An integrated system for scheduling machines and vehicles in an FMS",
+    "authors" : [ "G Finke" ],
+    "year" : "1991",
+    "citations" : "4"
+  }, {
+    "title" : "Time-stamp approach to prevention of different deadlock types in store-and-forward networks",
+    "authors" : [ "J Brzezinski", "G Gambosi" ],
+    "year" : "1987",
+    "citations" : "4"
+  }, {
+    "title" : "Problemy optymalizacji kombinatorycznej-złożoność obliczeniowa, algorytmy aproksymacyjne",
+    "authors" : [ ],
+    "year" : "1986",
+    "citations" : "4"
+  }, {
+    "title" : "Properties of binary sequences useful for proving Collatz's conjecture.",
+    "authors" : [ "A Pettorossi" ],
+    "year" : "1983",
+    "citations" : "4"
+  }, {
+    "title" : "Scheduling under Resource Constraints-Achievements and Prospects",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1979",
+    "citations" : "4"
+  }, {
+    "title" : "G-MAPSEQ–a new method for mapping reads to a reference genome",
+    "authors" : [ "P Wojciechowski", "W Frohmberg", "M Kierzynka", "P Zurkowski" ],
+    "year" : "2016",
+    "citations" : "3"
+  }, {
+    "title" : "New perspectives in scheduling theory",
+    "authors" : [ "E Pesch", "G Zhang" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "ModeLang: A new approach for experts-friendly viral infections modeling",
+    "authors" : [ "S Wasik", "T Prejzendanc" ],
+    "year" : "2013",
+    "citations" : "3"
+  }, {
+    "title" : "Reduced-by-matching graphs: toward simplifying Hamiltonian circuit problem",
+    "authors" : [ "M Kasprzak" ],
+    "year" : "2012",
+    "citations" : "3"
+  }, {
+    "title" : "Adaptive memory programming: local search parallel algorithms for phylogenetic tree construction",
+    "authors" : [ "P Formanowicz", "P Kedziora", "P Marciniak", "P Taront" ],
+    "year" : "2011",
+    "citations" : "3"
+  }, {
+    "title" : "Modeling HCV infection using multi-agent simulation",
+    "authors" : [ "S Wasik", "P Jackowiak", "M Figlerowicz" ],
+    "year" : "2011",
+    "citations" : "3"
+  }, {
+    "title" : "327 TWO TYPES OF VIRAL QUASISPECIES IDENTIFIED IN CHILDREN SUFFERING FROM CHRONIC HEPATITIS C",
+    "authors" : [ "M Figlerowicz", "P Jackowiak", "M Alejska", "N Malinowska" ],
+    "year" : "2009",
+    "citations" : "3"
+  }, {
+    "title" : "Independent dominating and neighborhood sets in triangle graphs",
+    "authors" : [ "Y Orlovich", "V Gordon", "I Zverovich", "G Finke" ],
+    "year" : "2009",
+    "citations" : "3"
+  }, {
+    "title" : "Graph reduction and its application to DNA sequence assembly",
+    "authors" : [ "J BŁAZEWICZ", "M Kasprzak" ],
+    "year" : "2008",
+    "citations" : "3"
+  }, {
+    "title" : "A polynomial time equivalence between DNA sequencing and the exact perfect matching problem",
+    "authors" : [ "P Formanowicz", "M Kasprzak", "P Schuurman", "G Woeginger" ],
+    "year" : "2007",
+    "citations" : "3"
+  }, {
+    "title" : "New machine learning methods for prediction of protein secondary structures",
+    "authors" : [ "P Lukasik", "S Wilk" ],
+    "year" : "2007",
+    "citations" : "3"
+  }, {
+    "title" : "Parallel DNA sequence assembly",
+    "authors" : [ "M Figlerowicz", "P Jackowiak", "D Janny", "D Jarczynski" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "On the complexity of the double digest problem",
+    "authors" : [ "E Burke", "M Jaroszewski", "M Kasprzak", "B Paliswiat" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "Evolutionary algorithm for a reconstruction of NOE paths in NMR spectra of RNA chains",
+    "authors" : [ "M Szachniuk", "A Wojtowicz" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "Logical Analysis of Data as a predictor of protein secondary structures",
+    "authors" : [ "P Hammer", "P Łukasiak" ],
+    "year" : "2004",
+    "citations" : "3"
+  }, {
+    "title" : "Scheduling computer and manufacturing processes . Berlin [ua]",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2001",
+    "citations" : "3"
+  }, {
+    "title" : "Schedulling Malleable Task with Convex Processing Speed Functions",
+    "authors" : [ "M Machowiak", "J Weglarz", "G Mounie", "D Tristram" ],
+    "year" : "2000",
+    "citations" : "3"
+  }, {
+    "title" : "Scheduling preemptable tasks on uniform processors with limited availability for maximum lateness criterion",
+    "authors" : [ "M Drozdowski", "P Formanowicz", "W Kubiak", "G Schmidt" ],
+    "year" : "2000",
+    "citations" : "3"
+  }, {
+    "title" : "A note on disjunctive graph representation",
+    "authors" : [ "E Pesch", "M Sterna" ],
+    "year" : "1999",
+    "citations" : "3"
+  }, {
+    "title" : "Scheduling vehicles in a cyclic flexible flowshop",
+    "authors" : [ "G Finke", "M Espinouse", "G Pawlak" ],
+    "year" : "1998",
+    "citations" : "3"
+  }, {
+    "title" : "Vehicle scheduling in two-cycle flexible manufacturing systems",
+    "authors" : [ ],
+    "year" : "1992",
+    "citations" : "3"
+  }, {
+    "title" : "Dynamic storage allocation with limited compaction-complexity and some practical implications",
+    "authors" : [ "J Nawrocki" ],
+    "year" : "1985",
+    "citations" : "3"
+  }, {
+    "title" : "Algorytmy sterowania rozdziałem zadań i zasobów w kompleksie operacji",
+    "authors" : [ "W Cellary", "R Slowinski", "J Weglarz" ],
+    "year" : "1978",
+    "citations" : "3"
+  }, {
+    "title" : "Computational prediction of nonenzymatic RNA degradation patterns",
+    "authors" : [ "A Rybarczyk", "P Jackowiak", "M Figlerowicz" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Computer Representations of Bioinformatics Models",
+    "authors" : [ "T Prejzendanc", "S Wasik" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Structural alignment of protein descriptors–a combinatorial model",
+    "authors" : [ "M Antczak", "M Kasprzak", "P Lukasiak" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Algorithms solving the Internet shopping optimization problem with price discounts",
+    "authors" : [ "J Musial", "J Pecero", "M Lopez-Loces", "H Fraire-Huacuja", "P Bouvry" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Building the library of RNA 3D nucleotide conformations using the clustering approach",
+    "authors" : [ "T Zok", "M Antczak", "M Riedel", "D Nebel", "T Villmann", "P Lukasiak" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Reference Alignment Based Methods for Quality Evaluation of Multiple Sequence Alignment-A Survey",
+    "authors" : [ "P Wojciechowski", "P Formanowicz" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Preprocessing and storing high-throughput sequencing data",
+    "authors" : [ "A Swiercz", "B Bosak", "M Chlopkowski", "A Hoffa", "M Kasprzak", "K Kurowski" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "The simplified partial digest problem: Approximation and a graph-theoretic model",
+    "authors" : [ "E Burke", "M Kasprzak", "A Kovalev", "M Kovalyov" ],
+    "year" : "2011",
+    "citations" : "2"
+  }, {
+    "title" : "Operations research models for computational biology, bioinformatics and medicine",
+    "authors" : [ "P Bertolazzi", "M Turkay" ],
+    "year" : "2010",
+    "citations" : "2"
+  }, {
+    "title" : "Flexibility of dicer studied by implicit solvent molecular dynamics simulations",
+    "authors" : [ "J Sarzynska", "A Mickiewicz", "M Milostan", "P Łukasiak" ],
+    "year" : "2010",
+    "citations" : "2"
+  }, {
+    "title" : "A certain model of HCV virus infection",
+    "authors" : [ "S Wasik", "P Jackowiak", "J Krawczyk", "P Kedziora", "P Formanowicz" ],
+    "year" : "2009",
+    "citations" : "2"
+  }, {
+    "title" : "Hyper-heuristics for sequencing by hybridisation problem",
+    "authors" : [ "W Mruczkiewicz" ],
+    "year" : "2009",
+    "citations" : "2"
+  }, {
+    "title" : "Zastosowanie sieci Petriego do modelowania procesów biologicznych",
+    "authors" : [ "D Formanowicz", "P Formanowicz" ],
+    "year" : "2009",
+    "citations" : "2"
+  }, {
+    "title" : "Genetic algorithm for late work minimization in a flow shop system",
+    "authors" : [ "M Sterna", "E Pesch" ],
+    "year" : "2007",
+    "citations" : "2"
+  }, {
+    "title" : "Candidate mRNAs interacting with fertility protein PUMILIO2 in the human germ line.",
+    "authors" : [ "A Spik", "S Oczkowski", "A Olszak", "M Kotecki", "P Formanowicz" ],
+    "year" : "2006",
+    "citations" : "2"
+  }, {
+    "title" : "NMR analysis of RNA bulged structures: tabu search application in NOE signal assignment",
+    "authors" : [ "M Szachniuk", "L Popenda", "Z Gdaniec", "R Adamiak" ],
+    "year" : "2005",
+    "citations" : "2"
+  }, {
+    "title" : "Tabu Search Method for Determining Sequences of Amino Acids in Long Polypeptides.",
+    "authors" : [ "M Borowski", "P Formanowicz", "M Stobiecki" ],
+    "year" : "2005",
+    "citations" : "2"
+  }, {
+    "title" : "Assembling the SARS-CoV genome—new method based on graph theoretical approach",
+    "authors" : [ "M Figlerowicz", "P Formanowicz", "M Kasprzak", "B Nowierski" ],
+    "year" : "2004",
+    "citations" : "2"
+  }, {
+    "title" : "Parallel algorithms for evolutionary history reconstruction",
+    "authors" : [ "P Formanowicz", "P Kedziora", "P Wojciechowski" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "Artificial evolution. An algorithm for an exploration of the amino acid sequences space",
+    "authors" : [ "B Dziurdza", "W Markiewicz" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "Management of Data: State-of-the-Art and Emerging Trends",
+    "authors" : [ "T Morzy" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "Computer integrated production scheduling",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2001",
+    "citations" : "2"
+  }, {
+    "title" : "Suboptimal approaches to scheduling malleable tasks",
+    "authors" : [ "M Machowiak", "G Mounie", "D Trystram" ],
+    "year" : "2000",
+    "citations" : "2"
+  }, {
+    "title" : "Heuristic algorithm for schedule optimization in FMS environment",
+    "authors" : [ "G Pawlak", "M Sterna", "B Walter", "M Zawirski" ],
+    "year" : "1999",
+    "citations" : "2"
+  }, {
+    "title" : "Guest editorial",
+    "authors" : [ "G Leder" ],
+    "year" : "1995",
+    "citations" : "2"
+  }, {
+    "title" : "Optimization aspects of deadlock prevention in packet-switching networks",
+    "authors" : [ "J Brzezinski", "G Gambosi" ],
+    "year" : "1992",
+    "citations" : "2"
+  }, {
+    "title" : "Selected Topics in Scheduling Theory, chapter 1",
+    "authors" : [ ],
+    "year" : "1987",
+    "citations" : "2"
+  }, {
+    "title" : "Detection and avoidance of deadlock in store and forward communication networks",
+    "authors" : [ "D Bovet" ],
+    "year" : "1981",
+    "citations" : "2"
+  }, {
+    "title" : "Complexity of late work minimization in flow shop systems and a particle swarm optimization algorithm for learning effect",
+    "authors" : [ "X Chen", "V Chau", "P Xie", "M Sterna" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Simulating the origins of life: The dual role of RNA replicases as an obstacle to evolution",
+    "authors" : [ "N Szostak", "J Synak", "M Borowski", "S Wasik" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "An integrated model for the transshipment yard scheduling problem",
+    "authors" : [ "M Cichenski", "F Jaehn", "G Pawlak", "E Pesch", "G Singh" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "A study of scheduling problems with preemptions on multi-core computers with GPU accelerators",
+    "authors" : [ "S Kedad-Sidhoum", "F Monna", "G Mounie", "D Trystram" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Recent advances in computational biology, bioinformatics, medicine, and healthcare by modern OR",
+    "authors" : [ "G Weber", "M Rauner", "M Turkay" ],
+    "year" : "2014",
+    "citations" : "1"
+  }, {
+    "title" : "new branches, old roots",
+    "authors" : [ "E Burke", "V Gordon", "M Kovalyov", "Y Shafransky" ],
+    "year" : "2012",
+    "citations" : "1"
+  }, {
+    "title" : "DomAns—Pattern based method for protein domain boundaries prediction and analysis",
+    "authors" : [ "M Antczak", "P Lukasiak", "M Milostan", "N Krasnogor", "G Palik" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Cerberus: a new information retrieval tool for marine metagenomics",
+    "authors" : [ "M Radom", "R Kottmann", "A Rybarczyk", "P Formanowicz", "M Szachniuk" ],
+    "year" : "2010",
+    "citations" : "1"
+  }, {
+    "title" : "On the approximability of the Simplified Partial Digest Problem",
+    "authors" : [ "E Burke", "M Kasprzak", "A Kovalev", "M Kovalyov" ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "Project management and scheduling: Feature cluster in Honor of Jan Węglarz on his 60th Birthday",
+    "authors" : [ "J Jozefowska", "R Slowinski" ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "A new algorithm for genome assembly from short reads",
+    "authors" : [ "M Bryja", "M Figlerowicz", "P Gawron", "M Kasprzak", "D Platt" ],
+    "year" : "2008",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling on One Processor",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Open Shop Scheduling",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Flow shop scheduling",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "New machine learning methods for prediction of protein secondary structures",
+    "authors" : [ "P Łukasiak", "S Wilk" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling with limited processor availability",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling under Resource Constraints",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Constraint programming and disjunctive scheduling",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "On independent domination in graphs with triangle condition",
+    "authors" : [ "Y Orlovich", "G Finke", "V Gordon", "I Zverovich" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Semantic browsing of pathway ontologies and biological networks with rdfscape (working paper)",
+    "authors" : [ "A Splendiani" ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "The parallel genetic algorithm for designing DNA randomizations in a combinatorial protein experiment",
+    "authors" : [ "B Dziurdza", "W Markiewicz", "C Oguz" ],
+    "year" : "2005",
+    "citations" : "1"
+  }, {
+    "title" : "Revenue management in a job-shop: a dynamic programming approach",
+    "authors" : [ "E Pesch", "M Sterna", "F Werner" ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "DNA based algorithms for some scheduling problems",
+    "authors" : [ "P Formanowicz", "R Urbaniak" ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "Zarządzanie parkiem maszyn roboczych z wykorzystaniem aktywnej bazy danych",
+    "authors" : [ "R Klaus" ],
+    "year" : "2002",
+    "citations" : "1"
+  }, {
+    "title" : "A new parallel approach for multi-dimensional packing problems",
+    "authors" : [ "R Walkowiak" ],
+    "year" : "2001",
+    "citations" : "1"
+  }, {
+    "title" : "Extension of disjunctive graph model for job shop scheduling problem",
+    "authors" : [ "E Pesch", "M Sterna" ],
+    "year" : "2001",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling in Job Shops",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2001",
+    "citations" : "1"
+  }, {
+    "title" : "New trends on scheduling in parallel and distributed systems",
+    "authors" : [ "K Ecker", "T Yang" ],
+    "year" : "2000",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling tasks and vehicles in a flexible manufacturing system subject to mean flow time minimization",
+    "authors" : [ "S Gawiejnowicz" ],
+    "year" : "1999",
+    "citations" : "1"
+  }, {
+    "title" : "Task scheduling problems for parallel and distributed systems",
+    "authors" : [ "E Bampis", "K Ecker" ],
+    "year" : "1999",
+    "citations" : "1"
+  }, {
+    "title" : "Resource constrained chain scheduling of uet jobs on two machines",
+    "authors" : [ "W Kubiak", "M Dror", "N Katoh", "H Rock" ],
+    "year" : "1998",
+    "citations" : "1"
+  }, {
+    "title" : "Distributed processing of divisible jobs with communication startup costs",
+    "authors" : [ "M Drozdowski" ],
+    "year" : "1997",
+    "citations" : "1"
+  }, {
+    "title" : "Sequencing by hybridization with positive faults",
+    "authors" : [ "P Formanowicz", "M Kasprzak", "W Markiewicz", "J Wgglarz" ],
+    "year" : "1997",
+    "citations" : "1"
+  }, {
+    "title" : "Dagstuhl seminar on “Scheduling in computer and manufacturing systems”",
+    "authors" : [ "K Ecker", "J Weglarz" ],
+    "year" : "1996",
+    "citations" : "1"
+  }, {
+    "title" : "A comparison of two DNA sequencing methods",
+    "authors" : [ "Ł Gwozdz", "M Kasprzak", "M Przysucha" ],
+    "year" : "1996",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling in Flexible Manufacturing Systems",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "1996",
+    "citations" : "1"
+  }, {
+    "title" : "A note on flexible flowshop scheduling with two stages",
+    "authors" : [ ],
+    "year" : "1994",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling in Flexible Manufacturing Systems",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1993",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling Multiprocessor Tasks on Uniform Processors.",
+    "authors" : [ "M Drozdowski", "G Schmidt" ],
+    "year" : "1993",
+    "citations" : "1"
+  }, {
+    "title" : "Optimal algorithm for prevention of different deadlock types in store-and-forward computer networks",
+    "authors" : [ "J BLAZEWICZ", "J BRZEZINSKI", "G Gambosi" ],
+    "year" : "1988",
+    "citations" : "1"
+  }, {
+    "title" : "Multiprocessor task scheduling with single resource constraints",
+    "authors" : [ "M Drabowski", "K Ecker", "J Weglarz" ],
+    "year" : "1986",
+    "citations" : "1"
+  }, {
+    "title" : "Polynomial in time algorithm for task scheduling under fixed resource constraints.",
+    "authors" : [ "K Ecker" ],
+    "year" : "1983",
+    "citations" : "1"
+  }, {
+    "title" : "Systems & Applications",
+    "authors" : [ "D Reed", "J Hollingsworth", "M Sato", "D Trystram", "H Amano", "P Amestoy" ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "Tabu Search for the RNA Partial Degradation Problem",
+    "authors" : [ "A Rybarczyk", "A Hertz", "M Kasprzak" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Understanding Life: A Bioinformatics Perspective",
+    "authors" : [ "N Szostak", "S Wasik" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Modeling of the catalytic core of Arabidopsis thaliana Dicer-like 4 protein and its complex with double-stranded RNA",
+    "authors" : [ "A Mickiewicz", "J Sarzynska", "M Milostan", "A Kurzynska-Kokorniak" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "New challenges in scheduling theory",
+    "authors" : [ "B Moseley", "E Pesch", "D Trystram", "G Zhang" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Graph algorithms for DNA sequencing–origins, current models and the future",
+    "authors" : [ "M Kasprzak", "M Kierzynka", "W Frohmberg", "A Swiercz" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Special Issue: New Challenges in Scheduling Theory",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "New challenges in scheduling theory",
+    "authors" : [ "E Pesch", "C Phillips", "D Trystram", "G Zhang" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Clustering approach to create libraries of representative RNA conformers",
+    "authors" : [ "T Zok", "M Antczak", "M Riedel", "D Nebel", "T Villmann", "P Lukasiak" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Special Issue: Eighth International Colloquium on Graphs and Optimization (GO VIII), 2012 Foreword",
+    "authors" : [ "A Hertz", "C Picouleau", "M Widmer" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "How to efficiently solve Internet Shopping Optimization Problem with price sensitive discounts?",
+    "authors" : [ "J Musial", "J Pecero", "M Lopez", "H Fraire", "P Bouvry" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "G-DNA–a highly efficient multi-GPU/MPI tool for aligning nucleotide reads",
+    "authors" : [ "P Gawron", "W Frohmberg", "M Kierzynka", "P Wojciechowski" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Turning data into folds using RNAComposer",
+    "authors" : [ "M Szachniuk", "J Sarzynska" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Dual Discounting Functions for Internet Shopping Optimization Problem",
+    "authors" : [ "P Bouvry", "J Musial", "J Pecero", "D Trystram" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Guest editorial:“New trends in scheduling”",
+    "authors" : [ "M Bender", "E Pesch", "D Trystram", "G Zhang" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Preemptive scheduling of independent tasks on multi-cores with GPU",
+    "authors" : [ "S Kedad-Sidhoum", "F Monna", "G Mounie", "D Trystram" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling Tasks and Vehicles in FMSs-Network Flow",
+    "authors" : [ "G Pawlak", "M Espinouse", "G Finke" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Ties between graph theory and biology",
+    "authors" : [ "M Kasprzak", "N Vlassis" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Advanced multi-item Internet shopping",
+    "authors" : [ "J Musial" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Protein structure quality assessment and modeling support techniques",
+    "authors" : [ "M Antczak", "P Lukasiak", "K Fidelis", "A Kryshtafovych" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Highly efficient parallel approach to the next-generation DNA sequencing",
+    "authors" : [ "B Bosak", "P Gawron", "M Kasprzak", "K Kurowski", "T Piontek" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "RNAComposer and the art of composing RNA structures",
+    "authors" : [ "M Szachniuk", "M Popenda", "M Antczak", "K Purzycka", "P Lukasiak", "N Bartol" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Automated prediction of 3D structure of proteins based on descriptors approach",
+    "authors" : [ "P Lukasiak", "K Fidelis", "M Antczak", "A Kryshtafovych" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Survey of scheduling of coupled tasks with chains and in-tree precedence constraints",
+    "authors" : [ "M Tanas", "K Ecker" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Hyper-heuristic study for the SBH problem",
+    "authors" : [ "A Swiercz", "W Mruczkiewicz", "E Burke", "G Kendall", "C Oguz" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Special Issue: Selected Papers from the 4th Multidisciplinary International Scheduling Conference: Theory and Applications (MISTA): The 18 Selected Papers... in D...",
+    "authors" : [ ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "On the independent set problem in triangle graphs",
+    "authors" : [ "A Dolgui", "V Gordon", "Y Orlovich" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Special issue “New challenges in scheduling theory”(Marseilles Workshop, May 12–16",
+    "authors" : [ "M Bender", "E Pesch", "D Trystram", "G Zhang" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Special Issue: Networks in Computational Biology",
+    "authors" : [ "D Formanowicz", "P Formanowicz", "A Sackmann", "M Sajkowski" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "System wspomagania wytwarzania i analiz szczepionek genetycznych",
+    "authors" : [ "P Łukasiak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Immune Algorithm versus Differential Evolution: a Comparative Case",
+    "authors" : [ "V Cutello", "N Krasnogor", "G Nicosia", "M Pavone", "D Agostini", "J Costanza" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Sequence similarity based method for protein function prediction",
+    "authors" : [ "P Lukasiak", "M Milostan", "N Krasnogor", "P Jackowiak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "On the complexity of the independent set problem in triangle graphs",
+    "authors" : [ "A Dolgui", "V Gordon", "Y Orlovich" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "journal homepage: www. elsevier. com/locate/biosystems",
+    "authors" : [ "A Arenas", "I Bokkon", "J Brookfield", "M Cooper", "C Cuppini" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Branch and bound algorithm for nonenzymatic RNA degradation",
+    "authors" : [ "M Figlerowicz", "A Rybarczyk" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Bounds in a Berth and Quay Cranes Allocation Problem",
+    "authors" : [ "M Machowiak", "C Oguz" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Selected papers from the Dagstuhl workshop",
+    "authors" : [ "E Burke", "K Ecker", "E Pesch", "D Trystram" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Communication Delays and Multiprocessor Tasks",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "On the computational complexity of designing DNA randomizations in a combinatorial protein experiment",
+    "authors" : [ "B Dziurdza", "W Markiewicz", "C Oguz" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling in Hard Real-Time Systems",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "2006 Reviewers List",
+    "authors" : [ "S Abeysekera", "D Acevedo", "S Ahmad", "N Ailon", "S Aitken", "T Akutsu", "R Albert" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "ICOLE-2007, German-Polish Workshop on Computational Biology, Scheduling and Machine Learning. Lessach, Austria, 27.05.-02.06. 2007",
+    "authors" : [ "K Ecker", "B Hammer" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "05441 Abstracts Collection--Managing and Mining Genome Information: Frontiers in Bioinformatics",
+    "authors" : [ "J Freytag", "M Vingron" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "05441 Executive Summary--Managing and Mining Genome Information: Frontiers in Bioinformatics",
+    "authors" : [ "J Freytag", "M Vingron" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "On the complexity of the DNA simplified partial digest problem",
+    "authors" : [ "M Kasprzak" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "MEDICINEAND BIOLOGY",
+    "authors" : [ "M Hamady", "T Cheung", "K Resing", "K Cios", "R Knight", "R Ison" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "1 Editorial: IEPM: Focus on scheduling A. Artiba and SE Elmaghraby 3 An improved approximation algorithm for the single machine total completion time scheduling...",
+    "authors" : [ "C Sadfi", "B Penz", "C Rapine", "P Formanowicz", "N Saadani" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Foundations of Computing and Decision Sciences",
+    "authors" : [ ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Arredondo, TV, PS Neelakanta and D. De Groff",
+    "authors" : [ "R Baumgartner", "E Pranckeviciene", "G Baxter", "A Monk", "K Tan", "P Dear" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "M. Gendreau, A. Hertz, F. Semet and M. Widmer",
+    "authors" : [ "V Alekseev", "V Lozin", "G Alexe", "S Alexe", "Y Crama", "S Foldes", "P Hammer" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Shop scheduling problems with late work criteria",
+    "authors" : [ "E Pesch", "M Sterna", "F Werner" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Editorial Note Part I: The Best Papers from from CIRM Workshop October 2001",
+    "authors" : [ "K Ecker", "D Trystram" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "04231 Abstracts Collection--Scheduling in Computer and Manufacturing Systems",
+    "authors" : [ "K Ecker", "E Pesch", "D Trystram" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Special issue of selected papers from the Dagstuhl Workshop on Scheduling in Computer and Manufacturing Systems",
+    "authors" : [ "E Coffman", "K Ecker", "G Finke" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Feature Issues 1993–2002",
+    "authors" : [ "C Schneeweiss", "B Fleischmann", "E Demeulemeester", "E Castagnoli" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling coupled tasks on a single processor",
+    "authors" : [ "K Ecker", "T Kis", "M Tanas" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Lokalizacja i sterowanie maszynami z wykorzystaniem systemu GPS",
+    "authors" : [ "P Giera", "R Klaus" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "System monitorowania maszyn roboczych",
+    "authors" : [ "P Giera", "R Klaus" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Szeregowanie zadań elastycznych",
+    "authors" : [ "M Kovalyov", "M Machowiak", "D Trystram", "J Weglarz" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Basics",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling in Flow and Open Shops",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Zintegrowany system GPS-GSM do monitorowania maszyn roboczych",
+    "authors" : [ "R Klaus", "T Nawalaniec" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Clustal W algorithm for multiple sequence alignment revisited",
+    "authors" : [ "P Formanowicz", "M Kasprzak", "K Michalak", "P Wierzejewski" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Definition, Analysis and Classification of Scheduling Problems",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling on Parallel Processors",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "ORIGINAL PAPERS-Construction of DNA restriction maps based on a simplified experiment",
+    "authors" : [ "P Formanowicz", "M Kasprzak", "M Jaroszewski", "W Markiewicz" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Production planning and scheduling in flexible assembly systems. Tadeusz Sawik, Springer, Berlin. ISBN 3‐540‐64998‐0",
+    "authors" : [ ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Feature Issues 1991±2000",
+    "authors" : [ "C Schneeweiss", "B Fleischmann" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling Tasks and Vehicles in FMSs—Network Flow Model",
+    "authors" : [ "G Pawlak", "M Espinouse", "G Finke" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Parallel Computing Volume 25 Issue 13-14",
+    "authors" : [ "G Joubert", "W Ronsch", "B Hiromoto", "L Grandinetti", "J Kowalik", "K Miura" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling Tasks and Vehicles in FMSs–Network Flow Model",
+    "authors" : [ "G Pawlak", "M Espinouse", "G Finke" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling in Computer and Manufacturing Systems: Selection of Papers Presented at the Seminar on Scheduling in Computer and Manufacturing Systems, June 2...",
+    "authors" : [ ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Aiba, A., see Uchida, S. 1601",
+    "authors" : [ "C Alefeld", "O Mahrenholtz", "R Vollmax", "G Alfonsi", "G Passoni", "H Amano" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Modele szeregowania zadań i wózków w elastycznych przepływowych systemach obsługi",
+    "authors" : [ "G Pawlak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Szeregowanie zadań w systemach z ograniczoną dostępnością maszyn",
+    "authors" : [ "M Drozdowski", "P Formanowicz", "W Kubiak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Nowa reprezentacja maszynowa grafu dysjunkcyjnego dla problemu szeregowania w ogólnym systemie obsługi",
+    "authors" : [ "E Pesch", "M Sterna" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling Tasks in Master-Slave Parallel Processing Systems",
+    "authors" : [ "P Dell'Olmo", "M Drozdowski" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Special Volume Second International Colloquium on Graphs and Optimization",
+    "authors" : [ ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling in Computer and Manufacturing Systems",
+    "authors" : [ "K Ruland" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Discrete Applied Mathematics Volume 70 Issue 1",
+    "authors" : [ "P Hammer" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling on One Processor",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Communication Delays and Multiprocessor Tasks",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Vol. 7: SCHEDULING UNDER RESOURCE CONSTRAINTS-DETERMINISTIC MODELS",
+    "authors" : [ "W Cellary", "R Slowinski", "J Weglarz" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Invited Reviews 1991-1995",
+    "authors" : [ "M Dror", "J Weglarz", "S Goyal", "G Srinivasan", "F Arcelus" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Parallel tabu search for two-dimensional irregular cutting",
+    "authors" : [ "R Walkowiak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling in Flexible Manufacturing Systems",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Resource Constrained Scheduling",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Parallel Processor Scheduling",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "From Theory to Practice",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Preliminaries",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Static Shop Scheduling",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Parallel Tabu Search for Irregular Cutting",
+    "authors" : [ "J Kaczmarek", "R Walkowiak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Formulation of Scheduling Problems",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Single Processor Scheduling",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "Preliminaries",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "Escudero, LF, see BL Dietrich Estivill-Castro, V., H. Mannila and D. Wood, Right invariant metrics and measures of presortedness Gallo, G., G. Longo, S. Pallottino a...",
+    "authors" : [ "W Kubiak", "S Martello" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "Knowledge-Based Scheduling",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "An Interactive Program for Defining Two-Dimensional Irregular Figures for Decision Support Cutting System",
+    "authors" : [ "M Drozdowski", "A Piechowiak", "R Walkowiak" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "Static Shop Scheduling",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "Resource Constrained Scheduling",
+    "authors" : [ "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "SCHEDULING MULTIPROCESSOR TASKS ON 3-DEDICATED PROCESSORS",
+    "authors" : [ "J BLAZEWICZ", "P DELLOLMO", "M DROZDOWSKI", "M SPERANZA" ],
+    "year" : "1992",
+    "citations" : ""
+  }, {
+    "title" : "10. On a class of completable partial edge-colourings",
+    "authors" : [ "A Hertz", "M Cangalovic", "J Schreuder", "J Csima", "L Lovasz" ],
+    "year" : "1992",
+    "citations" : ""
+  }, {
+    "title" : "Packing irregular figures in two dimensions via tabu search",
+    "authors" : [ "R Walkowiek" ],
+    "year" : "1992",
+    "citations" : ""
+  }, {
+    "title" : "Dynamic programming algorithm for a FMS scheduling problem",
+    "authors" : [ "J BŁAZEWICZ", "G FINKE", "G LAPORTE", "J WEGLARZ" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "Absorbing Markov chain Sagan, H. and Bishir, JW, Optimal allocation of storage space 55 (1991) 82 Achievement test construction",
+    "authors" : [ "J Adema", "E Boekkooi-Timminga" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "CAM-ALGORITHMS AND DECISION SUPPORT FOR PRODUCTION CONTROL-GERMAN-SCHMIDT, G",
+    "authors" : [ "J BLAZEWICZ" ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling Tasks and Vehicles in a Flexible Business Manufacturing System",
+    "authors" : [ ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Routing and Scheduling Within a Job Shop Framework",
+    "authors" : [ "G Laporte" ],
+    "year" : "1987",
+    "citations" : ""
+  }, {
+    "title" : "O niektórych problemach szeregowania zadań wieloprocesorowych",
+    "authors" : [ "M Drabowski", "J Weglarz" ],
+    "year" : "1984",
+    "citations" : ""
+  }, {
+    "title" : "On the complexity of scheduling multiprocessor tasks in microprocessor systems",
+    "authors" : [ "M Drabowski", "J Weglarz" ],
+    "year" : "1984",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling subject to resource constraints: classification and complexity:(preprint)",
+    "authors" : [ "J Lenstra", "A Kan" ],
+    "year" : "1980",
+    "citations" : ""
+  }, {
+    "title" : "Deterministic problems of task scheduling on computer system processors under additional constraints",
+    "authors" : [ "J BLAZEWICZ", "J WEGLARZ" ],
+    "year" : "1978",
+    "citations" : ""
+  }, {
+    "title" : "Parallel DNA Sequence Assembly",
+    "authors" : [ "M Figlerowicz", "P Jackowiak", "D Janny", "D Jarczynski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "amount of good literature has appeared.'This book is",
+    "authors" : [ "K Ecker", "E Pesch", "G Schmidt", "J Weglarz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "High throughput genomic and bioinformatic methods",
+    "authors" : [ "A Swiercz", "M Figlerowicz", "P Gawron", "M Kasprzak", "E Kirton" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Internet Shopping Optimization Project (IShOP)",
+    "authors" : [ "J Musial", "J Pecero", "B Dorronsoro" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Determining Genome Sequences from Experimental Data Using Evolutionary Computation-Chapter 3",
+    "authors" : [ "M Kasprzak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "A Note on the Complexity of Scheduling Coupled Tasks on a Single Processor",
+    "authors" : [ "K Ecker", "T Kis", "M Tanas" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "The Binary NP-hardness of the Two-Machine Job Shop Problem",
+    "authors" : [ "E Pesch", "M Sterna", "F Werner" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "This article has been published in PLOS Computational Biology and can now be edited on the English Wikipedia.",
+    "authors" : [ "N Szostak", "S Wasik" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Jacek Błażewicz, Piotr łukasiak",
+    "authors" : [ "I PAN" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Sequential algorithms for DNA sequencing",
+    "authors" : [ "J Kaczmarek", "M Kasprzak", "J Weglarz", "W Markiewicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Invited Reviews and Invited Tutorials 2002–2006",
+    "authors" : [ "C Feremans", "M Labbe", "G Laporte", "B Cheang", "H Li", "A Lim", "B Rodrigues" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "I Instytut Infonnatyki Politechniki Poznanskiej, Poland lLaboratory Infonnatique et Distribution, IMAG, Grenoble, France E-mail: maciej. machowiak@ cs. put. poznan. pl",
+    "authors" : [ "J Blazewiczl", "M Machowiakl", "J Weglarzl", "G Mounie", "D Tristram" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "New branches, old roots",
+    "authors" : [ "K Gordon", "S Levin", "S Sotskov" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Blazewicz, Jacek, Klaus H. Ecker, Erwin Pesch, Guenter Schmidt, Jan Weglarz.",
+    "authors" : [ "B Lev" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Scientific Committee of the 1st European Scientific Conference on Air Transport",
+    "authors" : [ "A Rudnicki", "L Suhl", "W Talley", "M Taylor" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "The Binary NP-hardness of the Two-Machine Job Shop Problem with the Weighted Late Work Criterion",
+    "authors" : [ "M Sternal", "F Werner" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Magdalena Figlerowicz1, Piotr Formanowicz3, Paweł Kędziora3, Magdalena Alejska2, Paulina Jackowiak2, Jacek Błażewicz3, Wojciech Służewski1",
+    "authors" : [ "M Figlerowicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "CABIOS ANNUAL AUTHOR INDEX Vol. 13 no. 6 1997",
+    "authors" : [ "T Akutsu", "P Aloy", "J Amthor", "M Andrade", "A Archakov", "F Avil6s" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "PlanSIG 2006, Nottingham, UK 14 th–15 th December 2006 Program Chair",
+    "authors" : [ "R Qu", "U Aickelin", "C Beck", "K Brown", "P Brucker", "E Burke" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Feature Clusters and Feature Issues 1995–2004",
+    "authors" : [ "C Schneeweiss", "B Fleischmann", "E Demeulemeester", "E Castagnoli" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Computational and Mathematical Methods in Medicine",
+    "authors" : [ "C Taslim", "S Lin" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling Tasks in a Two Stage Flow Shop with One Robot",
+    "authors" : [ "R Hofman", "G Pawlak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "105. Rules generator for prediction of protein secondary structures",
+    "authors" : [ "P Łukasiak", "P Hammer" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "On the complexity of NOE pathway construction of RNA duplexes",
+    "authors" : [ "M Szachniuk", "R Adamiak", "M Kasprzak", "P Formanowicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "A Comparison of Solution Procedures for the Flow Shop Scheduling Problem with Late Work Criterion",
+    "authors" : [ "E Pesch", "M Sterna", "F Werner" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "G-MSA-a powerful GPU-based tool for multiple sequence alignment",
+    "authors" : [ "W Frohmberg", "M Kierzynka", "P Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "LOGICAL ANALYSIS OF DATA APPROACH TO THE PREDICTION OF PROTEIN SECONDARY STRUCTURES",
+    "authors" : [ "P Hammer", "P Łukasiak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Session 2. Genomics, Proteomics, Metabolomics—Medical and Environmental Implications",
+    "authors" : [ "M Popenda", "M Szachniuk", "M Antczak", "K Purzycka", "P Lukasiak", "N Bartol" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "3D–RNA–Pred: An Automatic Construction of Three–Dimensional RNA Structures",
+    "authors" : [ "M Antczak", "R Adamiak", "P Lukasiak", "M Popenda" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Reading a DNA Sequence-From Sequencing to Assembling",
+    "authors" : [ "A Swiercz", "M Figlerowicz", "P Gawron", "M Kasprzak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Subject Area Editors",
+    "authors" : [ "H Amano", "P Amestoy", "D Bader", "R Bisseling", "A Chalmers" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Introduction to microarray data analysis",
+    "authors" : [ "H Cwiek", "A Swiercz", "P Gawron" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "of Information Technology and Applications",
+    "authors" : [ "R Butleris", "B Bylina", "J Bylina", "W Cellary", "A Derezinska" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Tabu search based algorithms for DNA sequencing",
+    "authors" : [ "M Kasprzak", "A Swiercz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Gu, Hong 100, 114 Gu, Hong 114 Hallinan, Jennifer 228 Hoksza, David 220, 263 Houghten, Sheridan 38",
+    "authors" : [ "D Ashlock", "W Ashlock", "A Assareh", "F Azuaje", "S Balla", "L Bao", "J Blayney" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Heuristic Algorithm for Multi-item Internet Shopping with Price Sensitive Discounts.",
+    "authors" : [ "J Musial" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "List of Referees: Volumes 41-50",
+    "authors" : [ "R Aharoni", "M Aigner", "M Albertson", "N Alon", "E Anderson", "I Anderson" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "IEEE CIBCB 2011 Committee Symposium on Computational Intelligence in Bioinformatics and Computational Biology",
+    "authors" : [ "C Congdon", "D Ashlock", "S Corns", "J Smith", "W Ashlock", "R Acharya" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "1986 Index IEEE Transactions on Computers",
+    "authors" : [ "M Drabowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Les cahiers du laboratoire Leibniz",
+    "authors" : [ "P Lukasiak", "S Wilk" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "List of Referees: Volumes 101} 110",
+    "authors" : [ "K Aardal", "A Ageev", "F Aguilo-Gost", "R Ahlswede", "M Aigner", "A Ainouche" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Protein structure modelling–case study",
+    "authors" : [ "M Milostan", "J Sarzynska", "A Mickiewicz", "M Antczak", "P Lukasiak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Theory & Applications",
+    "authors" : [ "G Joubert", "H Weberpals", "D Reed", "M Shimasaki", "D Trystram", "M Cosnard" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Lescahiers dulaboratoire Leibniz",
+    "authors" : [ "A Sebo" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "List of Referees: Volumes 111–120",
+    "authors" : [ "F Aguilo-Gost", "E Ahronovitz", "R Ahuja", "M Aigner", "A Ainouche", "S Akturk" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "List of Referees: Volumes 3 l-40",
+    "authors" : [ "E Aarts", "J Abello", "R Aharoni", "R Ahlswede", "M Aigner", "M Akgul", "N Alon" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "ICOLE 2009, Lessach, Austria",
+    "authors" : [ "K Ecker", "B Hammer" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "A COMPARISON OF TWO DNA SEQUENCING METHODS",
+    "authors" : [ "L Gwozdz", "M Kasprzak", "M Przysucha" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "CIBCB’06 Technical Review Panel",
+    "authors" : [ "S Abdul-Wahid", "A Almudevar", "A Arslan", "P Artymiuk", "W Ashlock", "F Azuaje" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Domain Analysis Server (DomAnS)–Protein domains prediction algorithm (DomAn)",
+    "authors" : [ "P Lukasiak", "M Antczak", "M Milostan", "G Palik" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Peptides assembling and sequencing methods",
+    "authors" : [ "M Borowski", "P Formanowicz", "T Glowacki", "A Kozak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Liste der zur Besprechung eingegangenen Biicher",
+    "authors" : [ "A Bachem", "W Kern", "K Ecker", "G Schmidt", "J Weglarz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "2007 Index IEEE/ACM Transactions on Computational Biology and Bioinformatics Vol. 4",
+    "authors" : [ "K Aeling", "P Agius", "M Alekseyev", "G Anagnostopoulos", "D Anastassiou" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "COMBINATORIAL OPTIMIZATION",
+    "authors" : [ "A Ageev", "R Ahuja", "N Alon", "I Averbakh", "M Ball", "P Baptiste" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "List of Referees: Volumes 8 l-90",
+    "authors" : [ "B Acharya", "R Ahlswede", "R Ahuja", "A Ainouche", "F Alizadeh", "J Allouche" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 45
 }

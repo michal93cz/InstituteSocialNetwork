@@ -403,6 +403,2251 @@
     "authors" : [ "J Stefanowski" ],
     "year" : "1994",
     "citations" : "80"
+  }, {
+    "title" : "Rough set based processing of inconsistent information in decision analysis",
+    "authors" : [ "J Stefanowski", "S Greco", "B Matarazzo" ],
+    "year" : "2000",
+    "citations" : "78"
+  }, {
+    "title" : "Fuzzy versus stochastic approaches to multicriteria linear programming under uncertainty",
+    "authors" : [ "J Teghem" ],
+    "year" : "1988",
+    "citations" : "77"
+  }, {
+    "title" : "Extreme ranking analysis in robust ordinal regression",
+    "authors" : [ "M Kadzinski", "S Greco", "R SŁowinski" ],
+    "year" : "2012",
+    "citations" : "76"
+  }, {
+    "title" : "Multiobjective project scheduling under multiple-category resource constraints",
+    "authors" : [ ],
+    "year" : "1989",
+    "citations" : "75"
+  }, {
+    "title" : "ELECTRE GKMS: Robust ordinal regression for outranking methods",
+    "authors" : [ "S Greco", "M Kadzinski", "V Mousseau" ],
+    "year" : "2011",
+    "citations" : "73"
+  }, {
+    "title" : "Multicriteria decision support using rules that represent rough-graded preference relations",
+    "authors" : [ "P Fortemps", "S Greco" ],
+    "year" : "2008",
+    "citations" : "72"
+  }, {
+    "title" : "Rough set analysis of preference-ordered data",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2002",
+    "citations" : "71"
+  }, {
+    "title" : "Rough membership and bayesian confirmation measures for parameterized rough sets",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2005",
+    "citations" : "68"
+  }, {
+    "title" : "Pareto simulated annealing for fuzzy multi-objective combinatorial optimization",
+    "authors" : [ "M Hapke", "A Jaszkiewicz" ],
+    "year" : "2000",
+    "citations" : "67"
+  }, {
+    "title" : "Rough set processing of vague information using fuzzy similarity relations",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2000",
+    "citations" : "65"
+  }, {
+    "title" : "Selection of a representative value function in robust multiple criteria sorting",
+    "authors" : [ "S Greco", "M Kadzinski", "R SŁowinski" ],
+    "year" : "2011",
+    "citations" : "64"
+  }, {
+    "title" : "Incremental induction of decision rules from dominance-based rough approximations",
+    "authors" : [ "J Blaszczynski" ],
+    "year" : "2003",
+    "citations" : "62"
+  }, {
+    "title" : "Robust ordinal regression for multiple criteria group decision: UTA GMS-GROUP and UTADIS GMS-GROUP",
+    "authors" : [ "S Greco", "M Kadzinski", "V Mousseau" ],
+    "year" : "2012",
+    "citations" : "60"
+  }, {
+    "title" : "Dominance-based rough set approach to decision under uncertainty and time preference",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : "60"
+  }, {
+    "title" : "Dominance-based rough set approach to interactive multiobjective optimization",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2008",
+    "citations" : "60"
+  }, {
+    "title" : "Fuzzy similarity relation as a basis for rough approximations",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "1998",
+    "citations" : "60"
+  }, {
+    "title" : "A generalization of the indiscernibility relation for rough set analysis of quantitative information",
+    "authors" : [ ],
+    "year" : "1992",
+    "citations" : "60"
+  }, {
+    "title" : "Selection of a representative value function in robust multiple criteria ranking and choice",
+    "authors" : [ "M Kadzinski", "S Greco" ],
+    "year" : "2012",
+    "citations" : "59"
+  }, {
+    "title" : "Handling effects of reinforced preference and counter-veto in credibility of outranking",
+    "authors" : [ "B Roy" ],
+    "year" : "2008",
+    "citations" : "59"
+  }, {
+    "title" : "Robust ordinal regression in preference learning and ranking",
+    "authors" : [ "S Corrente", "S Greco", "M Kadzinski" ],
+    "year" : "2013",
+    "citations" : "58"
+  }, {
+    "title" : "Design and development of a mobile system for supporting emergency triage",
+    "authors" : [ "W Michalowski", "S Wilk", "K Farion", "J Pike", "S Rubin" ],
+    "year" : "2005",
+    "citations" : "57"
+  }, {
+    "title" : "Generation of reducts and rules in multi-attribute and multi-criteria classification",
+    "authors" : [ "R Susmaga", "S Greco", "B Matarazzo" ],
+    "year" : "2000",
+    "citations" : "55"
+  }, {
+    "title" : "’FLIP’: An Interactive Method for Multiobjective Linear Programming with Fuzzy Coefficients",
+    "authors" : [ ],
+    "year" : "1990",
+    "citations" : "55"
+  }, {
+    "title" : "Rough sets based decision algorithm for treatment of duodenal ulcer by HSV",
+    "authors" : [ "J Fibak", "Z Pawlak", "K Slowinski" ],
+    "year" : "1986",
+    "citations" : "55"
+  }, {
+    "title" : "Measuring expected effects of interventions based on decision rules",
+    "authors" : [ "S Greco", "B Matarazzo", "N Pappalardo", "R Slowinski*" ],
+    "year" : "2005",
+    "citations" : "54"
+  }, {
+    "title" : "Conjoint measurement and rough set approach for multicriteria sorting problems in presence of ordinal criteria",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2001",
+    "citations" : "53"
+  }, {
+    "title" : "Criterion of distance between technical programming and socio-economic priority",
+    "authors" : [ "B Roy" ],
+    "year" : "1993",
+    "citations" : "53"
+  }, {
+    "title" : "Interactive evolutionary multiobjective optimization using robust ordinal regression",
+    "authors" : [ "J Branke", "S Greco", "P Zielniewicz" ],
+    "year" : "2009",
+    "citations" : "52"
+  }, {
+    "title" : "Dominance-based rough set approach to case-based reasoning",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2006",
+    "citations" : "52"
+  }, {
+    "title" : "The light beam search—outranking based interactive procedure for multiple-objective mathematical programming",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "1995",
+    "citations" : "52"
+  }, {
+    "title" : "A graded quadrivalent logic for ordinal preference modelling: Loyola–like approach",
+    "authors" : [ "P Fortemps" ],
+    "year" : "2002",
+    "citations" : "51"
+  }, {
+    "title" : "Aiding decisions with multiple criteria: essays in honor of Bernard Roy",
+    "authors" : [ "D Bouyssou", "E Jacquet-Lagreze", "P Perny", "D Vanderpooten" ],
+    "year" : "2012",
+    "citations" : "50"
+  }, {
+    "title" : "Algorithm 520: An Automatic Revised Simplex Method for Constrained Resource Network Scheduling [H]",
+    "authors" : [ "J Weglarz", "J Blazewicz", "W Cellary" ],
+    "year" : "1977",
+    "citations" : "50"
+  }, {
+    "title" : "Supporting triage of children with abdominal pain in the emergency room",
+    "authors" : [ "S Wilk", "W Michalowski", "S Greco" ],
+    "year" : "2005",
+    "citations" : "48"
+  }, {
+    "title" : "Robust ordinal regression for value functions handling interacting criteria",
+    "authors" : [ "S Greco", "V Mousseau" ],
+    "year" : "2014",
+    "citations" : "47"
+  }, {
+    "title" : "Properties of rule interestingness measures and alternative approaches to normalization of measures",
+    "authors" : [ "S Greco", "R SlOwinSki", "I Szczech" ],
+    "year" : "2012",
+    "citations" : "47"
+  }, {
+    "title" : "Inductive discovery of laws using monotonic rules",
+    "authors" : [ "J BŁaszczynski", "S Greco", "R SŁowinski" ],
+    "year" : "2012",
+    "citations" : "45"
+  }, {
+    "title" : "Rule learning with monotonicity constraints",
+    "authors" : [ "W Kotlowski" ],
+    "year" : "2009",
+    "citations" : "45"
+  }, {
+    "title" : "Mining Pareto-optimal rules with respect to support and confirmation or support and anti-support",
+    "authors" : [ "I Brzezinska", "S Greco" ],
+    "year" : "2007",
+    "citations" : "45"
+  }, {
+    "title" : "Dominance-based rough set approach to reasoning about ordinal data",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2007",
+    "citations" : "45"
+  }, {
+    "title" : "Exploitation of a rough approximation of the outranking relation in multicriteria choice and ranking",
+    "authors" : [ "S Greco", "B Matarazzo", "A Tsoukias" ],
+    "year" : "1998",
+    "citations" : "45"
+  }, {
+    "title" : "Advances in project scheduling",
+    "authors" : [ "J Weglarz" ],
+    "year" : "2013",
+    "citations" : "44"
+  }, {
+    "title" : "Preference representation by means of conjoint measurement and decision rule model",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2002",
+    "citations" : "44"
+  }, {
+    "title" : "Derivation of optimal decision algorithms from decision tables using rough sets",
+    "authors" : [ "M Boryczka" ],
+    "year" : "1988",
+    "citations" : "43"
+  }, {
+    "title" : "On nonparametric ordinal classification with monotonicity constraints",
+    "authors" : [ "W Kotlowski" ],
+    "year" : "2013",
+    "citations" : "42"
+  }, {
+    "title" : "Bayesian decision theory for dominance-based rough set approach",
+    "authors" : [ "S Greco", "Y Yao" ],
+    "year" : "2007",
+    "citations" : "42"
+  }, {
+    "title" : "Rough-set sorting of firms according to bankruptcy risk",
+    "authors" : [ "C Zopounidis" ],
+    "year" : "1994",
+    "citations" : "42"
+  }, {
+    "title" : "Rough sets analysis of diagnostic capacity of vibroacoustic symptoms",
+    "authors" : [ "R Nowicki", "J Stefanowski" ],
+    "year" : "1992",
+    "citations" : "42"
+  }, {
+    "title" : "ENDER: a statistical framework for boosting decision rules",
+    "authors" : [ "K Dembczynski", "W Kotlowski" ],
+    "year" : "2010",
+    "citations" : "41"
+  }, {
+    "title" : "A DSS for Ressource—Constrained Project Scheduling under Uncertainty",
+    "authors" : [ "M Hapke" ],
+    "year" : "1993",
+    "citations" : "41"
+  }, {
+    "title" : "Learning decision rules from similarity based rough approximations",
+    "authors" : [ "K Krawiec", "D Vanderpooten" ],
+    "year" : "1998",
+    "citations" : "40"
+  }, {
+    "title" : "Selection of a representative value function for robust ordinal regression in group decision making",
+    "authors" : [ "M Kadzinski", "S Greco" ],
+    "year" : "2013",
+    "citations" : "39"
+  }, {
+    "title" : "Interactive multiobjective optimization using a set of additive value functions",
+    "authors" : [ "J Figueira", "S Greco", "V Mousseau" ],
+    "year" : "2008",
+    "citations" : "39"
+  }, {
+    "title" : "Generalized decision algorithms, rough inference rules, and flow graphs",
+    "authors" : [ "S Greco", "Z Pawlak" ],
+    "year" : "2002",
+    "citations" : "39"
+  }, {
+    "title" : "Fuzzy extension of the rough set approach to multicriteria and multiattribute sorting",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2000",
+    "citations" : "39"
+  }, {
+    "title" : "RUTA: a framework for assessing and selecting additive value functions on the basis of rank related requirements",
+    "authors" : [ "M Kadzinski", "S Greco" ],
+    "year" : "2013",
+    "citations" : "37"
+  }, {
+    "title" : "Interactive multiobjective optimization from a learning perspective",
+    "authors" : [ "V Belton", "J Branke", "P Eskelinen", "S Greco", "J Molina", "F Ruiz" ],
+    "year" : "2008",
+    "citations" : "37"
+  }, {
+    "title" : "Statistical model for rough set approach to multicriteria classification",
+    "authors" : [ "K Dembczynski", "S Greco", "W Kotlowski" ],
+    "year" : "2007",
+    "citations" : "37"
+  }, {
+    "title" : "Incremental versus non-incremental rule induction for multicriteria classification",
+    "authors" : [ "S Greco", "J Stefanowski", "M Zurawski" ],
+    "year" : "2004",
+    "citations" : "37"
+  }, {
+    "title" : "Rough approximation of a preference relation in a pairwise comparison table",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "1998",
+    "citations" : "37"
+  }, {
+    "title" : "Preemptive scheduling of independent jobs on parallel machines subject to financial constraints",
+    "authors" : [ ],
+    "year" : "1984",
+    "citations" : "37"
+  }, {
+    "title" : "Rough set and rule-based multicriteria decision aiding",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2012",
+    "citations" : "36"
+  }, {
+    "title" : "Multiple criteria hierarchy process in robust ordinal regression",
+    "authors" : [ "S Corrente", "S Greco", "R SlOwinSki" ],
+    "year" : "2012",
+    "citations" : "36"
+  }, {
+    "title" : "SlowinskiR",
+    "authors" : [ "M GrecoS" ],
+    "year" : "2002",
+    "citations" : "35"
+  }, {
+    "title" : "Dominance-based rough set approach using possibility and necessity measures",
+    "authors" : [ "S Greco", "M Inuiguchi" ],
+    "year" : "2002",
+    "citations" : "35"
+  }, {
+    "title" : "Dominance-based rough set approach to knowledge discovery (ii): extensions and applications",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2004",
+    "citations" : "34"
+  }, {
+    "title" : "jMAF-Dominance-based rough set data analysis framework",
+    "authors" : [ "J Blaszczynski", "S Greco", "B Matarazzo", "M Szelag" ],
+    "year" : "2013",
+    "citations" : "33"
+  }, {
+    "title" : "Interactive evolutionary multiobjective optimization driven by robust ordinal regression",
+    "authors" : [ "J Branke", "S Greco", "P Zielniewicz" ],
+    "year" : "2010",
+    "citations" : "33"
+  }, {
+    "title" : "Dominance-Based Rough Set Approach to Decision Involving Multiple Decision Makers.",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2006",
+    "citations" : "33"
+  }, {
+    "title" : "On variable consistency dominance-based rough set approaches",
+    "authors" : [ "J Blaszczynski", "S Greco", "M Szelag" ],
+    "year" : "2006",
+    "citations" : "33"
+  }, {
+    "title" : "Methodology of rough-set-based classification and sorting with hierarchical structure of attributes and criteria",
+    "authors" : [ "K Dembczynski", "S Greco" ],
+    "year" : "2002",
+    "citations" : "31"
+  }, {
+    "title" : "MUSA-INT: Multicriteria customer satisfaction analysis with interacting criteria",
+    "authors" : [ "S Angilella", "S Corrente", "S Greco" ],
+    "year" : "2014",
+    "citations" : "30"
+  }, {
+    "title" : "Putting dominance-based rough set approach and robust ordinal regression together",
+    "authors" : [ "S Greco", "P Zielniewicz" ],
+    "year" : "2013",
+    "citations" : "30"
+  }, {
+    "title" : "Tolling analysis with bi-objective traffic assignment",
+    "authors" : [ "J Wang", "A Raith", "M Ehrgott" ],
+    "year" : "2010",
+    "citations" : "30"
+  }, {
+    "title" : "Fuzzy multi-mode resource-constrained project scheduling with multiple objectives",
+    "authors" : [ "M Hapke", "A Jaszkiewicz" ],
+    "year" : "1999",
+    "citations" : "30"
+  }, {
+    "title" : "Learning value functions in interactive evolutionary multiobjective optimization",
+    "authors" : [ "J Branke", "S Greco", "P Zielniewicz" ],
+    "year" : "2015",
+    "citations" : "29"
+  }, {
+    "title" : "A green chemistry-based classification model for the synthesis of silver nanoparticles",
+    "authors" : [ "M Cinelli", "S Coles", "M Nadagouda", "J Blaszczynski" ],
+    "year" : "2015",
+    "citations" : "29"
+  }, {
+    "title" : "Customer satisfaction analysis based on rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2007",
+    "citations" : "29"
+  }, {
+    "title" : "A new proposal for fuzzy rough approximations and gradual decision rule representation",
+    "authors" : [ "S Greco", "M Inuiguchi" ],
+    "year" : "2004",
+    "citations" : "29"
+  }, {
+    "title" : "Rough set approach to decisions under risk",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2000",
+    "citations" : "29"
+  }, {
+    "title" : "Fuzzy set approach to multi-objective and multi-mode project scheduling under uncertainty",
+    "authors" : [ "M Hapke" ],
+    "year" : "2000",
+    "citations" : "29"
+  }, {
+    "title" : "Robust ordinal regression for dominance-based rough set approach to multiple criteria sorting",
+    "authors" : [ "M Kadzinski", "S Greco" ],
+    "year" : "2014",
+    "citations" : "28"
+  }, {
+    "title" : "Interactive fuzzy multiobjective programming",
+    "authors" : [ ],
+    "year" : "1997",
+    "citations" : "28"
+  }, {
+    "title" : "An interactive method for multiobjective linear programming with fuzzy parameters and its application to water supply planning",
+    "authors" : [ ],
+    "year" : "1987",
+    "citations" : "28"
+  }, {
+    "title" : "Using Choquet integral as preference model in interactive evolutionary multiobjective optimization",
+    "authors" : [ "J Branke", "S Corrente", "S Greco", "P Zielniewicz" ],
+    "year" : "2016",
+    "citations" : "27"
+  }, {
+    "title" : "Variable consistency dominance-based rough set approach to preference learning in multicriteria ranking",
+    "authors" : [ "M Szelag", "S Greco" ],
+    "year" : "2014",
+    "citations" : "27"
+  }, {
+    "title" : "Fuzzy Multi-objective Linear Programming.",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : "27"
+  }, {
+    "title" : "Designing man–machine interactions for mobile clinical systems: MET triage support using Palm handhelds",
+    "authors" : [ "W Michalowski", "M Kersten", "S Wilk" ],
+    "year" : "2007",
+    "citations" : "27"
+  }, {
+    "title" : "Mining decision-rule preference model from rough approximation of preference relation",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2002",
+    "citations" : "27"
+  }, {
+    "title" : "Neural networks and rough sets—comparison and combination for classification of histological pictures",
+    "authors" : [ "J Jelonek", "K Krawiec", "J Stefanowski", "J Szymas" ],
+    "year" : "1994",
+    "citations" : "27"
+  }, {
+    "title" : "The light beam search over a non-dominated surface of a multiple-objective programming problem",
+    "authors" : [ "A Jaszkiewicz", "R Slowinsk" ],
+    "year" : "1994",
+    "citations" : "26"
+  }, {
+    "title" : "Ordinal classification with decision rules",
+    "authors" : [ "K Dembczynski", "W Kotlowski" ],
+    "year" : "2007",
+    "citations" : "25"
+  }, {
+    "title" : "Second-order rough approximations in multi-criteria classification with imprecise evaluations and assignments",
+    "authors" : [ "K Dembczynski", "S Greco" ],
+    "year" : "2005",
+    "citations" : "25"
+  }, {
+    "title" : "Development of a decision algorithm to support emergency triage of scrotal pain and its implementation in the MET system",
+    "authors" : [ "W Michalowski", "S Wilk", "K Farion", "J Pike", "S Rubin" ],
+    "year" : "2005",
+    "citations" : "24"
+  }, {
+    "title" : "Generalizing rough set theory through dominance-based rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2005",
+    "citations" : "24"
+  }, {
+    "title" : "Fuzzy project scheduling with multiple criteria",
+    "authors" : [ "M Hapke", "A Jaszkiewicz" ],
+    "year" : "1997",
+    "citations" : "24"
+  }, {
+    "title" : "The LBS-discrete interactive procedure for multiple-criteria analysis of decision problems",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "1997",
+    "citations" : "24"
+  }, {
+    "title" : "Maximum likelihood rule ensembles",
+    "authors" : [ "K Dembczynski", "W Kotlowski" ],
+    "year" : "2008",
+    "citations" : "23"
+  }, {
+    "title" : "Ensemble of decision rules for ordinal classification with monotonicity constraints",
+    "authors" : [ "K Dembczynski", "W Kotlowski" ],
+    "year" : "2008",
+    "citations" : "23"
+  }, {
+    "title" : "Variable consistency monotonic decision trees",
+    "authors" : [ "S Giove", "S Greco", "B Matarazzo" ],
+    "year" : "2002",
+    "citations" : "23"
+  }, {
+    "title" : "The application of rough sets theory to the verification of indications for treatment of duodenal ulcer by HSV",
+    "authors" : [ "J Fibak", "K Slowinski" ],
+    "year" : "1987",
+    "citations" : "23"
+  }, {
+    "title" : "Granular computing and data mining for ordered data: The dominance-based rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2012",
+    "citations" : "22"
+  }, {
+    "title" : "On joint use of indiscernibility, similarity and dominance in rough approximation of decision classes",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "1999",
+    "citations" : "22"
+  }, {
+    "title" : "Multiple criteria hierarchy process for ELECTRE Tri methods",
+    "authors" : [ "S Corrente", "S Greco" ],
+    "year" : "2016",
+    "citations" : "21"
+  }, {
+    "title" : "Modeling assignment-based pairwise comparisons within integrated framework for value-driven multiple criteria sorting",
+    "authors" : [ "M Kadzinski", "K Ciomek" ],
+    "year" : "2015",
+    "citations" : "21"
+  }, {
+    "title" : "Interactive evolutionary multiobjective optimization using dominance-based rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : "21"
+  }, {
+    "title" : "Granular computing for reasoning about ordered data: the dominance-based rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2008",
+    "citations" : "21"
+  }, {
+    "title" : "Solving regression by learning an ensemble of decision rules",
+    "authors" : [ "K Dembczynski", "W Kotlowski" ],
+    "year" : "2008",
+    "citations" : "21"
+  }, {
+    "title" : "Rough set approach to the evaluation of stormwater pollution",
+    "authors" : [ "L Rossi", "R Susmaga" ],
+    "year" : "1999",
+    "citations" : "21"
+  }, {
+    "title" : "Cone contraction method with visual interaction for multiple‐objective non‐linear programmes",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "1992",
+    "citations" : "21"
+  }, {
+    "title" : "Preemptive scheduling with staircase and piecewise linear resource availability",
+    "authors" : [ "M Cochand" ],
+    "year" : "1989",
+    "citations" : "21"
+  }, {
+    "title" : "Advances in project scheduling",
+    "authors" : [ ],
+    "year" : "1989",
+    "citations" : "21"
+  }, {
+    "title" : "ELECTRE-III-H: An outranking-based decision aiding method for hierarchically structured criteria",
+    "authors" : [ "A Valls", "P Zielniewicz" ],
+    "year" : "2015",
+    "citations" : "20"
+  }, {
+    "title" : "DIS-CARD: a new method of multiple criteria sorting to classes with desired cardinality",
+    "authors" : [ "M Kadzinski" ],
+    "year" : "2013",
+    "citations" : "20"
+  }, {
+    "title" : "Triage of the child with abdominal pain: A clinical algorithm for emergency patient management",
+    "authors" : [ "W Michalowski", "S Rubin", "S Wilk" ],
+    "year" : "2001",
+    "citations" : "20"
+  }, {
+    "title" : "Use of rough sets analysis to classify siberian forest ecosystems according to net primary production of phytomass",
+    "authors" : [ "M Flinkman", "W Michalowski", "S Nilsson", "R Susmaga", "S Wilk" ],
+    "year" : "2000",
+    "citations" : "20"
+  }, {
+    "title" : "Medical information systems-problems with analysis and way of solution",
+    "authors" : [ "J Stefanowski" ],
+    "year" : "1999",
+    "citations" : "20"
+  }, {
+    "title" : "L'Ordonnancement des Taches Preemptives sur les Processeurs Independants en Presence de Ressources Supplementaires.",
+    "authors" : [ "R Slowiski" ],
+    "year" : "1981",
+    "citations" : "20"
+  }, {
+    "title" : "Comparing predictions made by a prediction model, clinical score, and physicians",
+    "authors" : [ "K Farion", "S Wilk", "W Michalowski", "D O’Sullivan", "J Sayyad-Shirabad" ],
+    "year" : "2013",
+    "citations" : "19"
+  }, {
+    "title" : "Solving the general project scheduling problem with multiple constrained resources by mathematical programming",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1978",
+    "citations" : "19"
+  }, {
+    "title" : "Learning rule ensembles for ordinal classification with monotonicity constraints",
+    "authors" : [ "K Dembczynski" ],
+    "year" : "2009",
+    "citations" : "18"
+  }, {
+    "title" : "Fuzzy set extensions of the dominance-based rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2008",
+    "citations" : "18"
+  }, {
+    "title" : "Rough Sets and Current Trends in Computing",
+    "authors" : [ "S Tsumoto", "J Komorowski", "J Grzymala-Busse" ],
+    "year" : "2004",
+    "citations" : "18"
+  }, {
+    "title" : "Mining association rules in preference-ordered data",
+    "authors" : [ "S Greco", "J Stefanowski" ],
+    "year" : "2002",
+    "citations" : "18"
+  }, {
+    "title" : "Probabilistic rough sets",
+    "authors" : [ "Y Yao", "S Greco" ],
+    "year" : "2015",
+    "citations" : "17"
+  }, {
+    "title" : "Beyond Markowitz with multiple criteria decision aiding",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2013",
+    "citations" : "17"
+  }, {
+    "title" : "Performance analysis of closed queueing networks",
+    "authors" : [ "S Lagershausen" ],
+    "year" : "2012",
+    "citations" : "17"
+  }, {
+    "title" : "Rule-based estimation of attribute relevance",
+    "authors" : [ "J Blaszczynski", "R Susmaga" ],
+    "year" : "2011",
+    "citations" : "17"
+  }, {
+    "title" : "Dominance-based rough set approach to budget allocation in highway maintenance activities",
+    "authors" : [ "M Augeri", "R Colombrita", "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : "17"
+  }, {
+    "title" : "Variable consistency bagging ensembles",
+    "authors" : [ "J Blaszczynski", "J Stefanowski" ],
+    "year" : "2010",
+    "citations" : "17"
+  }, {
+    "title" : "Identifying regularities in stock portfolio tilting",
+    "authors" : [ "R Susmaga", "W Michalowski" ],
+    "year" : "1997",
+    "citations" : "17"
+  }, {
+    "title" : "Robust ordinal regression",
+    "authors" : [ "S Corrente", "S Greco", "M Kadzinski" ],
+    "year" : "2014",
+    "citations" : "16"
+  }, {
+    "title" : "Selection of a representative set of parameters for robust ordinal regression outranking methods",
+    "authors" : [ "M Kadzinski", "S Greco", "R SŁowinski" ],
+    "year" : "2012",
+    "citations" : "16"
+  }, {
+    "title" : "Dominance-Based Rough Set Approach on Pairwise Comparison Tables to Decision Involving Multiple Decision Makers.",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2011",
+    "citations" : "16"
+  }, {
+    "title" : "Learning of rule ensembles for multiple attribute ranking problems",
+    "authors" : [ "K Dembczynski", "W Kotlowski", "M Szelag" ],
+    "year" : "2010",
+    "citations" : "16"
+  }, {
+    "title" : "‘FLIP’: Multiobjective Fuzzy Linear Programming Software with Graphical Facilities",
+    "authors" : [ "P Czyzak" ],
+    "year" : "1991",
+    "citations" : "16"
+  }, {
+    "title" : "A Comparison Study of “Strange” and “Flip”",
+    "authors" : [ "J Teghem" ],
+    "year" : "1990",
+    "citations" : "16"
+  }, {
+    "title" : "Multiple criteria ranking and choice with all compatible minimal cover sets of decision rules",
+    "authors" : [ "M Kadzinski", "S Greco" ],
+    "year" : "2015",
+    "citations" : "15"
+  }, {
+    "title" : "The Possible and the Necessary for Multiple Criteria Group Decision.",
+    "authors" : [ "S Greco", "V Mousseau" ],
+    "year" : "2009",
+    "citations" : "15"
+  }, {
+    "title" : "Rough set methodology in clinical practice: Controlled hospital trial of the MET system",
+    "authors" : [ "K Farion", "W Michalowski", "S Wilk", "S Rubin" ],
+    "year" : "2004",
+    "citations" : "15"
+  }, {
+    "title" : "Preferential reducts and constructs in robust multiple criteria ranking and sorting",
+    "authors" : [ "M Kadzinski", "S Corrente", "S Greco" ],
+    "year" : "2014",
+    "citations" : "14"
+  }, {
+    "title" : "Multiple criteria hierarchy process for the Choquet integral",
+    "authors" : [ "S Angilella", "S Corrente", "S Greco" ],
+    "year" : "2013",
+    "citations" : "14"
+  }, {
+    "title" : "Interactive robust cone contraction method for multiple objective optimization problems",
+    "authors" : [ "M Kadzinski" ],
+    "year" : "2012",
+    "citations" : "14"
+  }, {
+    "title" : "Optimized generalized decision in dominance-based rough set approach",
+    "authors" : [ "K Dembczynski", "S Greco", "W Kotlowski" ],
+    "year" : "2007",
+    "citations" : "14"
+  }, {
+    "title" : "Rough set approach to customer satisfaction analysis",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2006",
+    "citations" : "14"
+  }, {
+    "title" : "Quality of rough approximation in multi-criteria classification problems",
+    "authors" : [ "K Dembczynski", "S Greco", "W Kotlowski" ],
+    "year" : "2006",
+    "citations" : "14"
+  }, {
+    "title" : "Untitled",
+    "authors" : [ "X Gandibleux", "A Jaszkiewicz", "A Freville" ],
+    "year" : "2000",
+    "citations" : "14"
+  }, {
+    "title" : "Fuzzy dominance-based rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2000",
+    "citations" : "14"
+  }, {
+    "title" : "Rough set approach to the verification of indications for treatment of urinary stones by extracorporeal shock wave lithotripsy (ESWL)",
+    "authors" : [ "K Slowinski", "J Stefanowski", "A Antczak", "Z Kwias" ],
+    "year" : "1995",
+    "citations" : "14"
+  }, {
+    "title" : "Generation of rough sets reducts and constructs based on inter-class and intra-class information",
+    "authors" : [ "R Susmaga" ],
+    "year" : "2015",
+    "citations" : "13"
+  }, {
+    "title" : "Parametric evaluation of research units with respect to reference profiles",
+    "authors" : [ "M Kadzinski" ],
+    "year" : "2015",
+    "citations" : "13"
+  }, {
+    "title" : "Statistical approach to ordinal classification with monotonicity constraints",
+    "authors" : [ "W Kotlowski" ],
+    "year" : "2008",
+    "citations" : "13"
+  }, {
+    "title" : "Bayesian confirmation measures within rough set approach",
+    "authors" : [ "S Greco", "Z Pawlak" ],
+    "year" : "2004",
+    "citations" : "13"
+  }, {
+    "title" : "Rough sets and gradual decision rules",
+    "authors" : [ "S Greco", "M Inuiguchi" ],
+    "year" : "2003",
+    "citations" : "13"
+  }, {
+    "title" : "Importance and interaction of conditions in decision rules",
+    "authors" : [ "S Greco", "B Matarazzo", "J Stefanowski" ],
+    "year" : "2002",
+    "citations" : "13"
+  }, {
+    "title" : "Graph-theoretical models for preemptive scheduling",
+    "authors" : [ ],
+    "year" : "1989",
+    "citations" : "13"
+  }, {
+    "title" : "Assessing the quality of rules with a new monotonic interestingness measure Z",
+    "authors" : [ "S Greco", "I Szczech" ],
+    "year" : "2008",
+    "citations" : "12"
+  }, {
+    "title" : "Evaluating importance of conditions in the set of discovered rules",
+    "authors" : [ "S Greco", "J Stefanowski" ],
+    "year" : "2007",
+    "citations" : "12"
+  }, {
+    "title" : "Application of Bayesian confirmation measures for mining rules from support-confidence Pareto-optimal set",
+    "authors" : [ "I Brzezinska", "S Greco" ],
+    "year" : "2006",
+    "citations" : "12"
+  }, {
+    "title" : "Additive preference model with piecewise linear components resulting from dominance-based rough set approximations",
+    "authors" : [ "K Dembczynski", "W Kotlowski" ],
+    "year" : "2006",
+    "citations" : "12"
+  }, {
+    "title" : "MET system: a new approach to m-health in emergency triage",
+    "authors" : [ "R SLOWINSKI", "S WILK" ],
+    "year" : "2004",
+    "citations" : "12"
+  }, {
+    "title" : "Rule-based decision support in multicriteria choice and ranking",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2001",
+    "citations" : "12"
+  }, {
+    "title" : "Comparison of the rough sets approach and probabilistic data analysis techniques on a common set of medical data",
+    "authors" : [ "E Krusinska", "A Babic", "J Stefanowski" ],
+    "year" : "1992",
+    "citations" : "12"
+  }, {
+    "title" : "Sensitivity of rough classification to changes in norms of attributes",
+    "authors" : [ "K Slowinski" ],
+    "year" : "1992",
+    "citations" : "12"
+  }, {
+    "title" : "Interactive multiobjective optimization based on ordinal regression",
+    "authors" : [ ],
+    "year" : "1991",
+    "citations" : "12"
+  }, {
+    "title" : "Probabilistic and fuzzy approaches to capacity expansion planning of a water supply system",
+    "authors" : [ "A Urbaniak", "J Weglarz" ],
+    "year" : "1985",
+    "citations" : "12"
+  }, {
+    "title" : "Robust Ordinal Regression and Stochastic Multiobjective Acceptability Analysis in multiple criteria hierarchy process for the Choquet integral preference model",
+    "authors" : [ "S Angilella", "S Corrente", "S Greco" ],
+    "year" : "2016",
+    "citations" : "11"
+  }, {
+    "title" : "Antimicrobial Activity and SAR Study of New Gemini Imidazolium‐Based Chlorides",
+    "authors" : [ "Ł Palkowski", "J Blaszczynski", "A Skrzypczak", "J Blaszczak", "K Kozakowska" ],
+    "year" : "2014",
+    "citations" : "11"
+  }, {
+    "title" : "Analysis of symmetry properties for bayesian confirmation measures",
+    "authors" : [ "S Greco", "I Szczech" ],
+    "year" : "2012",
+    "citations" : "11"
+  }, {
+    "title" : "Global investing risk: a case study of knowledge assessment via rough sets",
+    "authors" : [ "S Greco", "B Matarazzo", "S Zanakis" ],
+    "year" : "2011",
+    "citations" : "11"
+  }, {
+    "title" : "On limitations of using rough set approach to analyse non-trivial medical information systems",
+    "authors" : [ "K Slowinski", "J Stefanowski" ],
+    "year" : "1996",
+    "citations" : "11"
+  }, {
+    "title" : "Developing an emergency room diagnostic checklist using rough sets: A case study of appendicitis",
+    "authors" : [ "S Rubin", "W Michalowski" ],
+    "year" : "1996",
+    "citations" : "11"
+  }, {
+    "title" : "Solving multi-objective diet optimization problem under uncertainty",
+    "authors" : [ "P Czyzak", "P Korhonen", "A Lewandowski", "J Wallenius" ],
+    "year" : "1991",
+    "citations" : "11"
+  }, {
+    "title" : "Scheduling preemptable tasks on unrelated processors with additional resources to minimize schedule length",
+    "authors" : [ ],
+    "year" : "1978",
+    "citations" : "11"
+  }, {
+    "title" : "Comparative analysis of targeted metabolomics: dominance-based rough set approach versus orthogonal partial least square-discriminant analysis",
+    "authors" : [ "H Blasco", "J Blaszczynski", "J Billaut", "L Nadal-Desbarats", "P Pradat" ],
+    "year" : "2015",
+    "citations" : "10"
+  }, {
+    "title" : "Generating a set of association and decision rules with statistically representative support and anti-support",
+    "authors" : [ "A Wieczorek" ],
+    "year" : "2014",
+    "citations" : "10"
+  }, {
+    "title" : "Probabilistic rough set approaches to ordinal classification with monotonicity constraints",
+    "authors" : [ "J Blaszczynski", "M Szelag" ],
+    "year" : "2010",
+    "citations" : "10"
+  }, {
+    "title" : "Case-based reasoning using gradual rules induced from dominance-based rough approximations",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2008",
+    "citations" : "10"
+  }, {
+    "title" : "Inducing robust decision rules from rough approximations of a preference relation",
+    "authors" : [ "S Greco" ],
+    "year" : "2004",
+    "citations" : "10"
+  }, {
+    "title" : "Multicriteria choice and ranking using decision rules induced from rough approximation of graded preference relations",
+    "authors" : [ "P Fortemps", "S Greco" ],
+    "year" : "2004",
+    "citations" : "10"
+  }, {
+    "title" : "Inducing jury’s preferences in terms of acoustic features of violin sounds",
+    "authors" : [ "J Jelonek", "E Łukasik", "A Naganowski" ],
+    "year" : "2004",
+    "citations" : "10"
+  }, {
+    "title" : "Searching for an equivalence between decision rules and concordance-discordance preference model in multicriteria choice problems",
+    "authors" : [ "S Greco", "B Predki" ],
+    "year" : "2002",
+    "citations" : "10"
+  }, {
+    "title" : "Production scheduling on parallel machines subject to staircase demands",
+    "authors" : [ ],
+    "year" : "1988",
+    "citations" : "10"
+  }, {
+    "title" : "Rough set methodology for decision aiding",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2015",
+    "citations" : "9"
+  }, {
+    "title" : "Induction of ordinal classification rules from incomplete data",
+    "authors" : [ "J Blaszczynski", "M Szelag" ],
+    "year" : "2012",
+    "citations" : "9"
+  }, {
+    "title" : "Label ranking: A new rule-based label ranking method",
+    "authors" : [ "M Gurrieri", "X Siebert", "P Fortemps", "S Greco" ],
+    "year" : "2012",
+    "citations" : "9"
+  }, {
+    "title" : "Algebra and topology for dominance-based rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : "9"
+  }, {
+    "title" : "Analysis of monotonicity properties of some rule interestingness measures",
+    "authors" : [ "S Greco", "I Szczech" ],
+    "year" : "2009",
+    "citations" : "9"
+  }, {
+    "title" : "Algebraic structures for dominance-based rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2008",
+    "citations" : "9"
+  }, {
+    "title" : "Ensemble of decision rules",
+    "authors" : [ "J Blaszczynski", "K Dembczynski", "W Kotlowski", "M Szelag" ],
+    "year" : "2006",
+    "citations" : "9"
+  }, {
+    "title" : "Characterization of MAX, MIN and ORDER STATISTICS multicriteria aggregation functions",
+    "authors" : [ "D Bouyssou", "S Greco", "B Matarazzo", "M Pirlot" ],
+    "year" : "2002",
+    "citations" : "9"
+  }, {
+    "title" : "Outranking‐Based Interactive Exploration of a Set of Multicriteria Alternatives",
+    "authors" : [ "A JASZKIEWICZ", "R SŁOWINSKI" ],
+    "year" : "1997",
+    "citations" : "9"
+  }, {
+    "title" : "Rough sets with strict and weak indiscernibility relations",
+    "authors" : [ ],
+    "year" : "1992",
+    "citations" : "9"
+  }, {
+    "title" : "Post factum analysis for robust multiple criteria ranking and sorting",
+    "authors" : [ "M Kadzinski", "K Ciomek", "P Rychly" ],
+    "year" : "2016",
+    "citations" : "8"
+  }, {
+    "title" : "A novel method for elimination of inconsistencies in ordinal classification with monotonicity constraints",
+    "authors" : [ "W Deng", "F Hu", "G Wang", "J Blaszczynski", "M Szelag" ],
+    "year" : "2013",
+    "citations" : "8"
+  }, {
+    "title" : "The bipolar complemented de morgan brouwer-zadeh distributive lattice as an algebraic structure for the dominance-based rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2012",
+    "citations" : "8"
+  }, {
+    "title" : "Mining association rules with respect to support and anti-support-experimental results",
+    "authors" : [ "I Szczech", "M Urbanowicz", "S Greco" ],
+    "year" : "2007",
+    "citations" : "8"
+  }, {
+    "title" : "Measuring attractiveness of rules from the viewpoint of knowledge representation, prediction and efficiency of intervention",
+    "authors" : [ "S Greco" ],
+    "year" : "2005",
+    "citations" : "8"
+  }, {
+    "title" : "Triage of acute abdominal pain in childhood: clinical use of a palm handheld in a pediatric emergency department",
+    "authors" : [ "W Michalowski", "S Rubin", "S Wilk" ],
+    "year" : "2004",
+    "citations" : "8"
+  }, {
+    "title" : "Analysis of diagnostic symptoms in vibroacoustic diagnostics by means of the rough sets theory",
+    "authors" : [ "R Nowicki", "J Stefanowski" ],
+    "year" : "1992",
+    "citations" : "8"
+  }, {
+    "title" : "Dominance-based rough set approach to preference learning from pairwise comparisons in case of decision under uncertainty",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : "7"
+  }, {
+    "title" : "On Topological Dominance-based Rough Set Approach.",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : "7"
+  }, {
+    "title" : "Dominance-Based Rough Set Approach and Bipolar Abstract Rough Approximation Spaces.",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2008",
+    "citations" : "7"
+  }, {
+    "title" : "Dominance-based rough set approach to reasoning about ordinal data-a tutorial",
+    "authors" : [ ],
+    "year" : "2008",
+    "citations" : "7"
+  }, {
+    "title" : "Multi-criteria assignment problem with incompatibility and capacity constraints",
+    "authors" : [ "B Roy" ],
+    "year" : "2006",
+    "citations" : "7"
+  }, {
+    "title" : "Characterizing decision support telemedicine systems",
+    "authors" : [ "B Nannings", "A Abu-Hanna" ],
+    "year" : "2006",
+    "citations" : "7"
+  }, {
+    "title" : "Mobile emergency triage: lessons from a clinical trial",
+    "authors" : [ "W Michalowski", "S Wilk", "K Farion" ],
+    "year" : "2004",
+    "citations" : "7"
+  }, {
+    "title" : "Assessment of a value of information using rough sets and fuzzy measures",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2001",
+    "citations" : "7"
+  }, {
+    "title" : "Integrated tools for software project scheduling under uncertainty",
+    "authors" : [ "M Hapke", "A Jaszkiewicz", "P Kominek" ],
+    "year" : "2000",
+    "citations" : "7"
+  }, {
+    "title" : "Fuzzy dominance as basis for rough approximations",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "1999",
+    "citations" : "7"
+  }, {
+    "title" : "A concordance-discordance approach to multi-criteria ranking of actions with fuzzy evaluations",
+    "authors" : [ "P Czyzak" ],
+    "year" : "1997",
+    "citations" : "7"
+  }, {
+    "title" : "The rough sets approach to knowledge analysis for classification support in technical diagnostics of mechanical objects",
+    "authors" : [ "J Stefanowski", "R Nowicki" ],
+    "year" : "1992",
+    "citations" : "7"
+  }, {
+    "title" : "FLIP-Multiobjective Fuzzy Linear Programming Package",
+    "authors" : [ "P Czyzak" ],
+    "year" : "1991",
+    "citations" : "7"
+  }, {
+    "title" : "Forty years of the European Journal of Operational Research: A bibliometric overview",
+    "authors" : [ "S Laengle", "J Merigo", "J Miranda", "I Bomze", "E Borgonovo" ],
+    "year" : "2017",
+    "citations" : "6"
+  }, {
+    "title" : "Multiple criteria hierarchy process for sorting problems based on ordinal regression with additive value functions",
+    "authors" : [ "S Corrente", "M Doumpos", "S Greco", "C Zopounidis" ],
+    "year" : "2017",
+    "citations" : "6"
+  }, {
+    "title" : "Robustness analysis for decision under uncertainty with rule-based preference model",
+    "authors" : [ "M Kadzinski", "S Greco" ],
+    "year" : "2016",
+    "citations" : "6"
+  }, {
+    "title" : "Prediction of antifungal activity of gemini imidazolium compounds",
+    "authors" : [ "Ł Palkowski", "J Blaszczynski", "A Skrzypczak", "J Blaszczak", "A Nowaczyk" ],
+    "year" : "2015",
+    "citations" : "6"
+  }, {
+    "title" : "Dominance-based rough set approach to interactive evolutionary multiobjective optimization",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : "6"
+  }, {
+    "title" : "Rough set approach to knowledge discovery about preferences",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : "6"
+  }, {
+    "title" : "DARWIN: Dominance-based rough set Approach to handling Robust Winning solutions in INteractive multiobjective optimization",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2009",
+    "citations" : "6"
+  }, {
+    "title" : "A general framework for learning an ensemble of decision rules",
+    "authors" : [ "K Dembczynski", "W Kotlowski" ],
+    "year" : "2008",
+    "citations" : "6"
+  }, {
+    "title" : "Transactions on Rough Sets III",
+    "authors" : [ "J Peters" ],
+    "year" : "2005",
+    "citations" : "6"
+  }, {
+    "title" : "Practical Approaches to Multi-Objective Optimization",
+    "authors" : [ "J Branke", "K Deb", "K Miettinen", "R Steuer" ],
+    "year" : "2005",
+    "citations" : "6"
+  }, {
+    "title" : "A visual interactive method for MOLP problems with fuzzy coefficients",
+    "authors" : [ "P Czyzak", "R SlowiNski" ],
+    "year" : "1993",
+    "citations" : "6"
+  }, {
+    "title" : "Multicriteria capacity expansion planning of a water supply and wastewater treatment system",
+    "authors" : [ "A Urbaniak", "J Weglarz" ],
+    "year" : "1985",
+    "citations" : "6"
+  }, {
+    "title" : "A robust ranking method extending ELECTRE III to hierarchy of interacting criteria, imprecise weights and stochastic analysis",
+    "authors" : [ "S Corrente", "J Figueira", "S Greco" ],
+    "year" : "2016",
+    "citations" : "5"
+  }, {
+    "title" : "Robust ordinal regression for dominance-based rough set approach under uncertainty",
+    "authors" : [ "M Kadzinski", "S Greco" ],
+    "year" : "2014",
+    "citations" : "5"
+  }, {
+    "title" : "Empirical risk minimization for variable precision dominance-based rough set approach",
+    "authors" : [ "Y Kusunoki", "J Blaszczynski", "M Inuiguchi" ],
+    "year" : "2013",
+    "citations" : "5"
+  }, {
+    "title" : "Ordinal classification with monotonicity constraints by variable consistency bagging",
+    "authors" : [ "J Blaszczynski", "J Stefanowski" ],
+    "year" : "2010",
+    "citations" : "5"
+  }, {
+    "title" : "Ensembles of decision rules for solving binary classification problems in the presence of missing values",
+    "authors" : [ "J Blaszczynski", "K Dembczynski", "W Kotlowski", "M Szelag" ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "Interactive analysis of preference-ordered data using dominance-based rough set approach",
+    "authors" : [ "J Blaszczynski", "K Dembczynski" ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "Telemedical Portal ‘Telemedycyna Wielkopolska’",
+    "authors" : [ "J Blaszczynski", "M Kosiedowski", "C Mazurek", "K Slowinski" ],
+    "year" : "2006",
+    "citations" : "5"
+  }, {
+    "title" : "Ordinal regression revisited: multiple criteria ranking with a set of additive value functions",
+    "authors" : [ "S Greco", "V Mousseau" ],
+    "year" : "2005",
+    "citations" : "5"
+  }, {
+    "title" : "Fuzzy-rough modus ponens and modus tollens as a basis for approximate reasoning",
+    "authors" : [ "M Inuiguchi", "S Greco" ],
+    "year" : "2004",
+    "citations" : "5"
+  }, {
+    "title" : "Intelligent decision support in pathomorphology",
+    "authors" : [ "J Jelonek", "K Krawiec", "J Szymas" ],
+    "year" : "1999",
+    "citations" : "5"
+  }, {
+    "title" : "Pedagogical Method for Extraction of Symbolic Knowledge",
+    "authors" : [ "K Krawiec", "I Szczesniak" ],
+    "year" : "1998",
+    "citations" : "5"
+  }, {
+    "title" : "A generalized definition of rough approximations",
+    "authors" : [ "D Vanderpooten" ],
+    "year" : "1996",
+    "citations" : "5"
+  }, {
+    "title" : "Application of the ellipsoid method in an interactive procedure for multicriteria linear programming",
+    "authors" : [ "J Warczynski" ],
+    "year" : "1984",
+    "citations" : "5"
+  }, {
+    "title" : "Learning the preferences of physicians for the organization of result lists of medical evidence articles",
+    "authors" : [ "D O’Sullivan", "S Wilk", "W Michalowski", "R Thomas", "M Kadzinski" ],
+    "year" : "2014",
+    "citations" : "4"
+  }, {
+    "title" : "Finding meaningful bayesian confirmation measures",
+    "authors" : [ "S Greco", "I Szczech" ],
+    "year" : "2013",
+    "citations" : "4"
+  }, {
+    "title" : "Extending concordance and discordance relations to hierarchical sets of criteria in ELECTRE-III method",
+    "authors" : [ "A Valls", "P Zielniewicz" ],
+    "year" : "2012",
+    "citations" : "4"
+  }, {
+    "title" : "Robust ordinal regression in case of imprecise evaluations",
+    "authors" : [ "S Corrente", "S Greco" ],
+    "year" : "2012",
+    "citations" : "4"
+  }, {
+    "title" : "New property for rule interestingness measures",
+    "authors" : [ "I Szczech", "S Greco" ],
+    "year" : "2011",
+    "citations" : "4"
+  }, {
+    "title" : "A summary and update of “Granular computing and data mining for ordered data: The dominance-based rough set approach”",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : "4"
+  }, {
+    "title" : "Learnability in rough set approaches",
+    "authors" : [ "J Blaszczynski", "M Szelag" ],
+    "year" : "2010",
+    "citations" : "4"
+  }, {
+    "title" : "Alternative normalization schemas for Bayesian confirmation measures",
+    "authors" : [ "S Greco", "I Szczech" ],
+    "year" : "2010",
+    "citations" : "4"
+  }, {
+    "title" : "New applications and theoretical foundations of the dominance-based rough set approach",
+    "authors" : [ ],
+    "year" : "2010",
+    "citations" : "4"
+  }, {
+    "title" : "VC-DomLEM: Rule induction algorithm for variable consistency rough set approaches",
+    "authors" : [ "J Blaszczynski", "M Szelag" ],
+    "year" : "2009",
+    "citations" : "4"
+  }, {
+    "title" : "Analysis of monotonicity properties of new normalized rule interestingness measures",
+    "authors" : [ "S Greco", "I Szczech" ],
+    "year" : "2008",
+    "citations" : "4"
+  }, {
+    "title" : "Rough Sets and Current Trends in Computing",
+    "authors" : [ "S Greco", "Y Hata", "S Hirano", "M Inuiguchi", "S Miyamoto", "H Nguyen" ],
+    "year" : "2006",
+    "citations" : "4"
+  }, {
+    "title" : "Decision rules",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2000",
+    "citations" : "4"
+  }, {
+    "title" : "Computer-assisted triage of abdominal pain in childhood: a suggested clinical algorithm",
+    "authors" : [ "S Rubin", "W Michalowski", "S Wilk" ],
+    "year" : "2000",
+    "citations" : "4"
+  }, {
+    "title" : "MPS-Decision Support System for multiobjective project scheduling",
+    "authors" : [ "B Soniewicki", "J Weglarz" ],
+    "year" : "1991",
+    "citations" : "4"
+  }, {
+    "title" : "Cost-minimal preemptive scheduling of independent jobs with release and due dates on open shop under resource constraints",
+    "authors" : [ ],
+    "year" : "1979",
+    "citations" : "4"
+  }, {
+    "title" : "Inducing probability distributions on the set of value functions by Subjective Stochastic Ordinal Regression",
+    "authors" : [ "S Corrente", "S Greco", "M Kadzinski" ],
+    "year" : "2016",
+    "citations" : "3"
+  }, {
+    "title" : "Measures of rule interestingness in various perspectives of confirmation",
+    "authors" : [ "S Greco", "I Szczech" ],
+    "year" : "2016",
+    "citations" : "3"
+  }, {
+    "title" : "Rule‐Based Approach to Multicriteria Ranking",
+    "authors" : [ "M Szelag", "S Greco" ],
+    "year" : "2013",
+    "citations" : "3"
+  }, {
+    "title" : "Professor Zdzisław Pawlak (1926-2006): Founder of the Polish School of Artificial Intelligence",
+    "authors" : [ "A Skowron", "M Chakraborty", "J Grzymala-Busse", "V Marek", "S Pal" ],
+    "year" : "2013",
+    "citations" : "3"
+  }, {
+    "title" : "On different ways of handling inconsistencies in ordinal classification with monotonicity constraints",
+    "authors" : [ "J Blaszczynski", "W Deng", "F Hu", "M Szelag", "G Wang" ],
+    "year" : "2012",
+    "citations" : "3"
+  }, {
+    "title" : "Application of rough set theory to prediction of antimicrobial activity of bis-quaternary ammonium chlorides",
+    "authors" : [ "Ł Palkowski", "J Blaszczynski", "J Krysinski", "A Skrzypczak" ],
+    "year" : "2012",
+    "citations" : "3"
+  }, {
+    "title" : "Case-based reasoning using dominance-based decision rules",
+    "authors" : [ "M Szelag", "S Greco", "J Blaszczynski" ],
+    "year" : "2011",
+    "citations" : "3"
+  }, {
+    "title" : "DARWIN-PCT: Dominance-based rough set Approach to handling Robust Winning solutions in INteractive multiobjective optimization using Pairwise Comparison T...",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : "3"
+  }, {
+    "title" : "The most representative parameter set for robust outranking approach",
+    "authors" : [ "S Greco", "M Kadzinski" ],
+    "year" : "2010",
+    "citations" : "3"
+  }, {
+    "title" : "Outranking-Driven Search Over a Nondominated Set",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "1997",
+    "citations" : "3"
+  }, {
+    "title" : "Multicriteria analysis of regional water supply systems",
+    "authors" : [ "W Treichel" ],
+    "year" : "1987",
+    "citations" : "3"
+  }, {
+    "title" : "Optimal and Heuristic Procedures for Project Scheduling with Multiple Constrained Resources–A Survey",
+    "authors" : [ "J Weglarz" ],
+    "year" : "1977",
+    "citations" : "3"
+  }, {
+    "title" : "Systèmes non-linéaires de commande en temps minimal de distribution des tâches et des moyens",
+    "authors" : [ "R SLOWINSKI", "J WEGLARZ" ],
+    "year" : "1958",
+    "citations" : "3"
+  }, {
+    "title" : "Handling imprecise evaluations in multiple criteria decision aiding and robust ordinal regression by n-point intervals",
+    "authors" : [ "S Corrente", "S Greco" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Dominance-based rough set approach to multiple criteria ranking with sorting-specific preference information",
+    "authors" : [ "M Kadzinski", "M Szelag" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Application of rough set theory to prediction of antimicrobial activity of bis-quaternary imidazolium chlorides",
+    "authors" : [ "Ł Palkowski", "J Krysinski", "J Blaszczynski", "A Skrzypczak" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Dominance-based Rough Set Approach",
+    "authors" : [ "S Greco", "M Inuiguchi" ],
+    "year" : "2013",
+    "citations" : "2"
+  }, {
+    "title" : "Rough Sets and Current Trends in Computing",
+    "authors" : [ "Y Yao", "Y Yang", "S Greco", "H Li", "S Mitra", "L Polkowski" ],
+    "year" : "2012",
+    "citations" : "2"
+  }, {
+    "title" : "Dominance-based Rough Set Approach to Granular Computing",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : "2"
+  }, {
+    "title" : "Rough Sets and Current Trends in Computing: 5th International Conference, RSCTC 2006, Kobe, Japan, November 6-8, 2006, Proceedings",
+    "authors" : [ "S Greco", "Y Hata", "S Hirano", "M Inuiguchi", "S Miyamoto", "H Nguyen" ],
+    "year" : "2006",
+    "citations" : "2"
+  }, {
+    "title" : "Multi-criteria ranking of a finite set of alternatives using ordinal regression and additive utility functions-a new UTA-GMS method",
+    "authors" : [ "S Greco", "V Mousseau" ],
+    "year" : "2005",
+    "citations" : "2"
+  }, {
+    "title" : "Techniczne systemy informatyki jako narzędzia odkrywania wiedzy i symulacji życia",
+    "authors" : [ ],
+    "year" : "2004",
+    "citations" : "2"
+  }, {
+    "title" : "Hierarchical Clustering of Text Corpora Using Suffix Trees",
+    "authors" : [ "I Maslowska" ],
+    "year" : "2003",
+    "citations" : "2"
+  }, {
+    "title" : "Presentation of the ELECTRE Tri 2.0 a software",
+    "authors" : [ "V Mousseau", "P Zielniewicz" ],
+    "year" : "2000",
+    "citations" : "2"
+  }, {
+    "title" : "Hommes et volcans en Basse Auvergne préhistorique",
+    "authors" : [ "G Vernet", "J Raynal" ],
+    "year" : "2000",
+    "citations" : "2"
+  }, {
+    "title" : "Identification of Biodiversity and Other Forest Attributes for Sustainable Forest Management: Siberian Forest Case Study",
+    "authors" : [ "S Wilk", "M Flinkman", "W Michalowski", "S Nilsson", "R Susmaga" ],
+    "year" : "1998",
+    "citations" : "2"
+  }, {
+    "title" : "The LBS package-a microcomputer implementation of the Light Beam Search method for the multiple-objective non-linear mathematical programming",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "1994",
+    "citations" : "2"
+  }, {
+    "title" : "Rough Set Analysis of Multi-Attribute Decision Problems",
+    "authors" : [ ],
+    "year" : "1994",
+    "citations" : "2"
+  }, {
+    "title" : "Interactive multiobjective optimization based on outranking and ordinal regression.",
+    "authors" : [ ],
+    "year" : "1989",
+    "citations" : "2"
+  }, {
+    "title" : "Modelling and solving multicriteria project scheduling problems",
+    "authors" : [ ],
+    "year" : "1983",
+    "citations" : "2"
+  }, {
+    "title" : "Scheduling preemptive tasks on unrelated processors with additional resources",
+    "authors" : [ ],
+    "year" : "1981",
+    "citations" : "2"
+  }, {
+    "title" : "Learning ensemble classifiers for diabetic retinopathy assessment",
+    "authors" : [ "E Saleh", "J Blaszczynski", "A Moreno", "A Valls", "P Romero-Aroca" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "From the farm to the agri-food system: A multiple criteria framework to evaluate extended multi-functional value",
+    "authors" : [ "F Fagioli", "L Rocchi", "L Paolotti", "A Boggia" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Multi-objective Search for Comprehensible Rule Ensembles",
+    "authors" : [ "J Blaszczynski", "B Prusak" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Consistency Driven Feature Subspace Aggregating for Ordinal Classification",
+    "authors" : [ "J Blaszczynski", "J Stefanowski" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Robust ordinal regression for decision under risk and uncertainty",
+    "authors" : [ "S Corrente", "S Greco", "B Matarazzo" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Semantic interoperability for automated enterprises",
+    "authors" : [ "J Jung", "C Badica", "N Nguyen" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Empirical Risk Minimization for Variable Consistency Dominance-Based Rough Set Approach",
+    "authors" : [ "J Blaszczynski", "Y Kusunoki", "M Inuiguchi" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Daily biorhythms of ocular volume changes and the cardiovascular system functional parameters in healthy, ocular hypertension, normal tension and primary open a...",
+    "authors" : [ "R Wasilewicz", "P Wasilewicz", "J Kociecki", "C Ewa", "A Radziemski" ],
+    "year" : "2014",
+    "citations" : "1"
+  }, {
+    "title" : "Decision rule preference model",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2014",
+    "citations" : "1"
+  }, {
+    "title" : "Four Perspectives of Confirmation",
+    "authors" : [ "S Greco", "I Szczech" ],
+    "year" : "2014",
+    "citations" : "1"
+  }, {
+    "title" : "Comments on: Multicriteria decision systems for financial problems",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Towards Telemedical Centers: Digitization of Inter-Professional Communication in Healthcare",
+    "authors" : [ "J Brzezinski", "M Kosiedowski", "C Mazurek", "K Slowinski" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Rough set approach to classification of incomplete data",
+    "authors" : [ "J Blaszczynski", "M Szelag" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Reduction from Label Ranking to Binary Classification",
+    "authors" : [ "M Gurrieri", "X Siebert", "P Fortemps", "S Greco" ],
+    "year" : "2012",
+    "citations" : "1"
+  }, {
+    "title" : "Distinguishing vagueness from ambiguity by means of pawlak-brouwer-zadeh lattices",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2012",
+    "citations" : "1"
+  }, {
+    "title" : "Poznań jako ośrodek naukowy-pozycja w kraju iw Europie",
+    "authors" : [ ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Interactive multiobjective mixed-integer optimization using dominance-based rough set approach",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Beyond sequential covering–boosted decision rules",
+    "authors" : [ "K Dembczynski", "W Kotlowski" ],
+    "year" : "2010",
+    "citations" : "1"
+  }, {
+    "title" : "Project management and scheduling: Feature cluster in Honor of Jan Węglarz on his 60th Birthday",
+    "authors" : [ "J Jozefowska", "J Blazewicz" ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "Building a set of additive value functions representing a reference preorder and intensities of preference: GRIP method",
+    "authors" : [ "S GRECO", "R SLOWINSKI" ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "Robust ranking of multi-criteria alternatives using value functions compatible with holistic preference information",
+    "authors" : [ "R SLOWINSKI", "S GRECO", "J FIGUEIRA", "V MOUSSEAU" ],
+    "year" : "2008",
+    "citations" : "1"
+  }, {
+    "title" : "Handling effects of reinforced preference and counter-veto in credibility of outranking",
+    "authors" : [ "B Roy" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Relationship between loss functions and confirmation measures",
+    "authors" : [ "K Dembczynski", "S Greco", "W Kotlowski" ],
+    "year" : "2007",
+    "citations" : "1"
+  }, {
+    "title" : "Obituary",
+    "authors" : [ ],
+    "year" : "2006",
+    "citations" : "1"
+  }, {
+    "title" : "Modus ponens versus modus tollens associated with rough gradual decision rules induced from a decision table",
+    "authors" : [ "M Inuiguchi", "S Greco" ],
+    "year" : "2005",
+    "citations" : "1"
+  }, {
+    "title" : "Mobile emergency triage support system",
+    "authors" : [ "W Michalowski", "S Wilk" ],
+    "year" : "2004",
+    "citations" : "1"
+  }, {
+    "title" : "Possibility and Necessity Measures in Dominance-based Rough Set Approach",
+    "authors" : [ "S Greco", "M Inuiguchi" ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "Od sztucznej inteligencji do sztucznego życia, czyli o aktywnej funkcji Informatyki",
+    "authors" : [ ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "Multistage rough set analysis of therapeutic experience with acute pancreatis",
+    "authors" : [ "K Slowinski", "J Stefanowski" ],
+    "year" : "1998",
+    "citations" : "1"
+  }, {
+    "title" : "Rozmyte podejście do wielokryterialnego programowania sieciowego w warunkach niepewności",
+    "authors" : [ "M Hapke", "A Jaszkiewicz" ],
+    "year" : "1998",
+    "citations" : "1"
+  }, {
+    "title" : "Rough set analysis of multi-attribute decision problems",
+    "authors" : [ "R Slowiriski" ],
+    "year" : "1994",
+    "citations" : "1"
+  }, {
+    "title" : "Time-optimal project scheduling with fuzzy activity parameters",
+    "authors" : [ "M Hapke" ],
+    "year" : "1994",
+    "citations" : "1"
+  }, {
+    "title" : "The light beam search over a non-dominated set(an interactive procedure for multiple-objective analysis of linear and non-linear programs)",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "1993",
+    "citations" : "1"
+  }, {
+    "title" : "Production scheduling on parallel machines subject to staircase demands",
+    "authors" : [ ],
+    "year" : "1987",
+    "citations" : "1"
+  }, {
+    "title" : "Problèmes d'allocation de moyens limités en présence de critères multiples",
+    "authors" : [ ],
+    "year" : "1981",
+    "citations" : "1"
+  }, {
+    "title" : "Measures of monotone relationships using dominance-based rough set approach (DRSA)",
+    "authors" : [ "W KOTŁOWSKI", "K DEMBCZY", "S GRECO", "R SŁOWI" ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "Bernard Roy (1934-2017)",
+    "authors" : [ ],
+    "year" : "2018",
+    "citations" : ""
+  }, {
+    "title" : "Interactive Cone Contraction for Evolutionary Mutliple Objective Optimization",
+    "authors" : [ "M Kadzinski", "M Tomczyk" ],
+    "year" : "2018",
+    "citations" : ""
+  }, {
+    "title" : "With a little help from a computer: discriminating between bacterial and viral meningitis based on dominance-based rough set approach analysis",
+    "authors" : [ "E Gowin", "D Januszkiewicz-Lewandowska", "J Blaszczynski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Optimization of multiple satisfaction levels in portfolio decision analysis",
+    "authors" : [ "M Barbati", "S Greco", "M Kadzinski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Distinguishing Vagueness from Ambiguity in Dominance-Based Rough Set Approach by Means of a Bipolar Pawlak-Brouwer-Zadeh Lattice",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Rough Set Analysis of Classification Data with Missing Values",
+    "authors" : [ "M Szelag", "J Blaszczynski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Robustness analysis of a green chemistry-based model for the classification of silver nanoparticles synthesis processes",
+    "authors" : [ "M Cinelli", "S Coles", "M Nadagouda", "J Blaszczynski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Editors’ Awards for Excellence in Reviewing 2016",
+    "authors" : [ ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Similarity-Based Classification with Dominance-Based Decision Rules",
+    "authors" : [ "M Szelag", "S Greco" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "We estimate a cross-sectional model of the yield spreads of German Mittelstand bonds as a function of liquidity measures as well as a number of variables that contr...",
+    "authors" : [ "S Koch", "G Wascher", "K Miettinen", "F Ruiz", "G Fandel", "S Corrente", "S Greco" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "A Rough Set Approach to Novel Compounds Activity Prediction Based on Surface Active Properties and Molecular Descriptors",
+    "authors" : [ "J Blaszczynski", "Ł Palkowski", "A Skrzypczak", "J Blaszczak", "A Nowaczyk" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Dagstuhl Reports, Vol. 4, Issue 3 ISSN 2192-5283",
+    "authors" : [ "J Furnkranz", "E Hullermeier", "C Rudin", "S Sanner" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "3 Introductory Talks",
+    "authors" : [ "J Furnkranz", "E Hullermeier", "C Rudin", "S Sanner" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Jesus R. Artalejo-Editor of EJOR in years 2007-2010 Obituary",
+    "authors" : [ ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "24 hour continuous ocular tonography Triggerfish and biorhythms of the cardiovascular system functional parameters in healthy and glaucoma populations",
+    "authors" : [ "R Wasilewicz", "P Wasilewicz", "E Czaplicka", "J Kociecki", "J Blaszczynski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Therapeutic Experience with Acute Pancreatitis",
+    "authors" : [ "K Slowinski", "J Stefanowski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "CAHIER DU 337",
+    "authors" : [ "B Roy" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Over 60 years ago, Markowitz introduced the mean-variance efficient frontier to finance. While mean-variance is still the predominant model in portfolio selection, it h...",
+    "authors" : [ "S Greco", "B Matarazzo", "S Hahler", "M Fleischmann" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Preference-Driven Multiobjective Optimization Using Robust Ordinal Regression for Cone Contraction",
+    "authors" : [ "M Kadzinski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Rough Set Analysis of Multi-Attribute",
+    "authors" : [ ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Multiple-Criteria Analysis of Decision Problems",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Outranking-Driven Search",
+    "authors" : [ "A Jaszkiewicz" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Rough Sets and Current Trends in Computing: 8th International Conference, RSCTC 2012, Chengdu, China, August 17-20, 2012. Proceedings",
+    "authors" : [ "J Yao", "Y Yang", "S Greco", "H Li", "S Mitra", "L Polkowski" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Rough sets and current trends in computing: proceedings of the 8th international conference",
+    "authors" : [ "J Yao", "Y Yang", "S Greco", "H Li", "S Mitra", "L Polkowski" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "A New Rule-based Method for Label Ranking",
+    "authors" : [ "M Gurrieria", "P Fortempsa", "X Sieberta", "S Grecob", "R Slowinskic" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Czterdzieści lat istnienia Oddziału Polskiej Akademii Nauk w Poznaniu",
+    "authors" : [ ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Forty Year Anniversary of the Poznań Branch of the Polish Academy of Sciences",
+    "authors" : [ ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Best Reviewer Awards 2012",
+    "authors" : [ "J Ablanedo-Rosas", "C Akkaya", "N Altay", "C Boysen", "C Brugha" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Discovering the Preferences of Physicians with Regards to Rank-Ordered Medical Documents",
+    "authors" : [ "D O’Sullivan", "S Wilk", "W Michalowski", "R Thomas", "K Farion" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "On Building a Regional Telemedical Network",
+    "authors" : [ "M Kosiedowski", "C Mazurek", "M Stroinski", "J Weglarz", "K Slowinski" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Intelligent Decision Aiding in Transportation and Logistics",
+    "authors" : [ ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Knowledge discovery about preferences using the dominance-based rough set approach",
+    "authors" : [ ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "CAHIER DU LAMSADE",
+    "authors" : [ "J Figueira", "S Greco", "B ROY", "R SLOWINSKI" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "How to assign numerical values to different parameters that aim at differentiating the role that the criteria have to play in a comprehensive preference model?",
+    "authors" : [ "B Roy", "T Marchant", "M Pirlot" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Transactions on Rough Sets XII.",
+    "authors" : [ "P Lingras", "S Tsumoto", "D Miao" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Dominance-based rough set approach as a paradigm of knowledge discovery and granular computing",
+    "authors" : [ ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Ordinal qualitative scales",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Yes No",
+    "authors" : [ "M Gorawski", "T Morzy", "R Wrembel", "S Greco", "I Szczech" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "09041 Working Group on MCDM for Robust Multiobjective Optimization (1st Round)",
+    "authors" : [ "J Figueira", "M Geiger", "S Greco", "J Jahn", "K Klamroth", "M Inuiguchi" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Interactive Robust Multiobjective Optimization Driven by Decision Rule Preference Model",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Valerie Belton1, Jürgen Branke2, Petri Eskelinen3, Salvatore Greco4",
+    "authors" : [ "J Molina", "F Ruiz" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Interactive multiobjective optimization using dominance-based rough set approach",
+    "authors" : [ "S GRECO", "B MATARAZZO", "R SLOWINSKI" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Robust ranking of multi-criteria alternatives using value functions compatible with holistic preference information",
+    "authors" : [ "S Roman", "G Salvatore", "F JoseRui", "M Vincent" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Telesfor–Telemedical Real-Time Communication Support System",
+    "authors" : [ "J Blaszczynski", "B Predki" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Transactions on Rough Sets VII-Commemorating the Life and Work of Zdzislaw Pawlak, Part II",
+    "authors" : [ "J Peters", "A Skowron", "V Marek", "E Orlowska", "W Ziarko" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Dominance-Based Rough Set Approach to Multiple Criteria Decision Support",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "What is Thought? BY EB BAUM",
+    "authors" : [ "I Brzezinska" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Amélioration de la synchronisation de la production sur une chaîne logistique",
+    "authors" : [ "G Mendy-Bilek", "V Giard" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "CAHIER DU LAMSADE",
+    "authors" : [ "S Greco", "V Mousseau" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Operational expanditure benchmarking of regional distribution units as a tool for efficiency evaluation and desired cost level estimation",
+    "authors" : [ "J Andruszkiewicz", "W Andruszkiewicz" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Multistimulus ranking versus pairwise comparison in assessing quality of musical instruments sounds",
+    "authors" : [ "L Budzynska", "J Jelonek", "E Lukasik", "R Susmaga" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "FOCUSED ISSUE-INTEGRATIVE HEALTH MANAGEMENT-Development of a Decision Algorithm to Support Emergency Triage of Scrotal Pain and its Implementatio...",
+    "authors" : [ "W Michalowski", "S Wilk", "K Farion", "J Pike", "S Rubin" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "04461 Abstracts Collection--Practical Approaches to Multi-Objective Optimization",
+    "authors" : [ "J Branke", "D Kalyanmoy", "K Miettinen", "R Steuer" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Rough Sets and Current Trends in Computing: 4th International Conference, RSCTC 2004, Uppsala, Sweden, June 1-5, 2004, Proceedings",
+    "authors" : [ "S Tsumoto", "J Komorowski", "J Grzymala-Busse" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "SEQUENTIAL CONSTRUCTION OF FEATURES BASED ON GENETICALLY TRANSFORMED DATA",
+    "authors" : [ "J Jelonek", "R Susmaga" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Initial clinical data and appearance of hepatic cirrhosis complications-analysis of clinical experience using rough-sets methodology",
+    "authors" : [ "M Grzymislawski", "K Slowinski", "J Nowacki", "R Susmaga" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "A conjoint measurement approach to\" MaxMin\" and\" MinMax\"",
+    "authors" : [ "D Bouyssou", "S Greco", "B Matarazzo", "M Pirlot" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Triage of Acute Abdominal Pain in Childhood: Clinical Use of a Palm Handheld in a Pediatric Emergency Department (HCPDA03)",
+    "authors" : [ "W Michalowski", "S Rubin", "S Wilk" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Fuzzy rough sets, gradual decision rules and approximate reasoning (Mathematical Programming Concerning Decision Makings and Uncertainties)",
+    "authors" : [ "M Inuiguchi", "S Greco" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Integrating Clinical Decision Algorithms and M-Health Solutions to Support Emergency Triage of Scrotal Pain",
+    "authors" : [ "W Michalowski", "S Wilk", "K Farion", "J Pike", "S Rubin" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Measuring the expected impact of decision rule application",
+    "authors" : [ "S Greco", "B Matarazzo", "N Pappalardo" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "ufr sciences des organisations",
+    "authors" : [ "M MINOUX" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "A New Rough Set Approach to Multicriteria",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Fuzzy Similarity Relation as a Basis for Rough",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "A characterization on MinSum, MaxSum and other mixed value functions",
+    "authors" : [ "D Bouyssou", "S Greco", "B Matarazzo", "M Pirlot" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Representation of the symmetric Sugeno integral by decision rules",
+    "authors" : [ "M Grabisch", "S Greco", "B Matarazzo" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "This paper studies the variational inequality problem over a fuzzy domain and variational inequalities for fuzzy mappings over a fuzzy domain. It is shown that such p...",
+    "authors" : [ "B Liu", "P Fortemps", "R Yager", "M Inuiguchi", "T Tanino" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Feature Issues 1993–2002",
+    "authors" : [ "C Schneeweiss", "B Fleischmann", "E Demeulemeester", "E Castagnoli" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Identifying Important Attributes for the Siberian Forests Management Using Rough Sets Analysis",
+    "authors" : [ "M Flinkman", "W Michalowski", "S Nilsson", "R Susmaga", "S Wilk" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Fuzzy multi-objective linear programming Bi-objective assignment problem; Decision support systems with multiple criteria; Estimating data for multicriteria decision...",
+    "authors" : [ ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Tentative clinical data versus disease compications in the course of hepatic cirrhosis-an analysis of a clinical experience using rough set methodology",
+    "authors" : [ "K Slowinski", "M Grzymislawski", "J Nowacki", "R Susmaga" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Identification of sustainable forest management practices: Siberian forest case study",
+    "authors" : [ "M Flinkman", "W Michalowski", "S Nilsson", "S Wilk" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Feature Issues 1991±2000",
+    "authors" : [ "C Schneeweiss", "B Fleischmann" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Multiple Objective MetaHeuristics",
+    "authors" : [ "X Gandibleux", "A Jaszkiewicz", "A Freville" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "ARTIFICIAL INTELLIGENCE AND DECISION SUPPORT WITH MULTIPLE CRITERIA-A user-oriented implementation of the ELECTRE-TRI method integrating prefer...",
+    "authors" : [ "V Mousseau", "P Zielniewicz" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Research reviews and tutorials: EURO XIV feature issue",
+    "authors" : [ "Z Sinuany-Stern" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Vol. 7: SCHEDULING UNDER RESOURCE CONSTRAINTS-DETERMINISTIC MODELS",
+    "authors" : [ "J Blazewicz", "W Cellary", "J Weglarz" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "14th European Conference on Operational Research,\" or: Towards Intelligent Decision Support\": Jerusalem, Israel, July 3-6, 1995: Semi-Plenary Papers",
+    "authors" : [ ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Rough Set Analysis of Multi-Classical Logics",
+    "authors" : [ ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "Some Experience with an Interactive Method for Multiobjective Fuzzy Linear Programing",
+    "authors" : [ ],
+    "year" : "1992",
+    "citations" : ""
+  }, {
+    "title" : "Advances in Project Scheduling",
+    "authors" : [ "J Wiest" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "Multi-criteria programming of rural water supply systems",
+    "authors" : [ "B Roy", "W Treichel" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "Institute of Computer Science Technical University of Poznan 60-965 Poznan. Poland",
+    "authors" : [ "R SlOWINSKI" ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "MULTI OBJECTIVE PROGRAMMING UNDER UNCERTAINTY BOOK",
+    "authors" : [ "R SLOWINSKI", "J TEGHEM" ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Special Issue on Project Management and Scheduling",
+    "authors" : [ "L Tavares", "J Weglarz", "F Boctor", "S Elmaghraby", "W Herroelen" ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Multiobjective Programming under Uncertainty: Scope and Goals of the Book",
+    "authors" : [ "J Teghem" ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Outranking-based Interactive Procedure for Multiple Objective Programs",
+    "authors" : [ ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Intelligent knowledge based systems: An introduction: WJ BLACK From the series: Aspects of Information Technology, Van Nostrand Reinhold, Workingham, 1986, x...",
+    "authors" : [ ],
+    "year" : "1988",
+    "citations" : ""
+  }, {
+    "title" : "Management decision making: A network simulation approach: AAB PRITSKER and CE SIGAL Prentice-Hall, Englewood Cliffs, 1983, xxi+ 521 pages",
+    "authors" : [ ],
+    "year" : "1983",
+    "citations" : ""
+  }, {
+    "title" : "MANAGEMENT DECISION-MAKING-A NETWORK SIMULATION APPROACH-PRITSKER, AAB, SIGAL, CE",
+    "authors" : [ "R SLOWINSKI" ],
+    "year" : "1983",
+    "citations" : ""
+  }, {
+    "title" : "SCHEDULING PREEMPTABLE TASKS ON UNRELATED PROCESSORS WITH ADDITIONAL RESOURCES",
+    "authors" : [ "R SLOWINSKI" ],
+    "year" : "1981",
+    "citations" : ""
+  }, {
+    "title" : "Lecture Notes in Economics and Mathematical Systems 667",
+    "authors" : [ "M Beckmann", "H Kunzi", "G Fandel", "W Trockel", "H Dawid", "D Dimitrov" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Modeling Behavior-Realistic Artificial Decision-Makers to Test Preference-Based Multiple Objective Optimization Methods",
+    "authors" : [ "J Branke", "S Corrente", "S Greco", "M Kadzinski", "M Lopez-Ibanez" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Mobile Clinical DSS: Providing Support at the Point of Care",
+    "authors" : [ "W MICHALOWSKI", "R SLOWINSKI", "S WILK" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Salvatore Greco 2, Benedetto Matarazzo 2 and Roman Słowiński 3, 4",
+    "authors" : [ "R Meyers" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Roman Słowiński 2, 3, Salvatore Greco 4 and Benedetto Matarazzo 4",
+    "authors" : [ "R Meyers" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "From Rough Set Theory to Evidence Theory",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Analysis of monotonicity properties of some rule interestingness measures",
+    "authors" : [ "S Greco" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Rough Set Methodology in Clinical Practice",
+    "authors" : [ "S Wilk", "K Farion", "W Michalowski", "S Rubin" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Interactive multiobjective optimization using dominance-based rough set approach",
+    "authors" : [ "G Salvatore", "M Benedetto", "R SLOWINSKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "4 Working Groups (WGs) 4.1 Modeling Behavior-Realistic Artificial Decision-Makers to Test Preference-Based Multiple Objective Optimization Methods (WG1)",
+    "authors" : [ "J Branke", "S Corrente", "S Greco", "M Kadzinski", "M Lopez-Ibanez" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "SERIES D: SYSTEM THEORY, KNOWLEDGE ENGINEERING AND PROBLEM SOLVING",
+    "authors" : [ "G Eberlein" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Invited Reviews and Invited Tutorials 2001–2005",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Feature Clusters and Feature Issues 1995–2004",
+    "authors" : [ "C Schneeweiss", "B Fleischmann", "E Demeulemeester", "E Castagnoli" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "JC Fodor (Budapest, Hungary), Basics of fuzzy sets and connectives B. De Baets (Gent, Belgium), Fuzzy relations and prefer-ence modeling",
+    "authors" : [ "T Bilgic", "U Bodenhofer", "P Bosc", "K Cai" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Aims and Scope Since its launching in 1978, the journal Fuzzy Sets and Systems has been devoted to the international advance-ment of the theory and application...",
+    "authors" : [ "H Bersini", "Z Bien", "P Bosc", "K Cai", "L Foulloy" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "JC Fodor (Budapest, Hungary), Basics of fuzzy sets and connectives B. De Baets (Gent, Belgium), Fuzzy relations and prefer-ence modeling",
+    "authors" : [ "H Bersini", "Z Bien", "P Bosc", "K Cai", "L Foulloy" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Area Editors",
+    "authors" : [ "J Fodor", "S Gottwald", "P Klement", "S Rodabaugh", "R Mesiar" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Scientific Committee of the 1st European Scientific Conference on Air Transport",
+    "authors" : [ "A Rudnicki", "L Suhl", "W Talley", "M Taylor" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Announcement from the Publisher: New Editorial structure Fuzzy Sets and Systems",
+    "authors" : [ "J Fodor", "E Klement", "S Rodabaugh", "R Mesiar", "H Berenji" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Multiple-criteria ranking using an additive value function constructed via ordinal regresion: UTA method",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "4th International Symposium Advances in Artificial Intelligence and Applications",
+    "authors" : [ "J Brest", "W Duch", "E Hudyma", "J Jaromczyk", "P Jedrzejowicz", "Y Jin" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "On Nonparametric Classification with Monotonicity Constraints",
+    "authors" : [ "W Kotlowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "RSCTC 2004: rough sets and current trends in computing(Uppsala, 1-5 June 2004)",
+    "authors" : [ "S Tsumoto", "J Komorowski", "J Grzymala-Busse" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "The axiomatic basis of Sugeno integral",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "3rd International Symposium Advances in Artificial Intelligence and Applications",
+    "authors" : [ "A Abraham", "J Brest", "W Duch", "K Goczyla", "J Grzymala-Busse", "J Gutenbaum" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Multicriteria Task Allocation to Heterogenous Processors with Capacity and Mutual Exclusion Constraints",
+    "authors" : [ "B Roy" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Dominance-based Rough Set Approach for an Ordinal Theory of Case-based Reasoning",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Bipolar Sugeno and Choquet integrals and Bipolar Cumulative Prospect Theory",
+    "authors" : [ "S Greco", "B Matarazzo" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "IEEE GrC Task Force Committee and Advisory Board",
+    "authors" : [ "T Lin", "R Yager", "X Hu", "L Zadeh", "Z Pawlak", "B Bouchon-Meunier" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Necessary and possible ranking constructed using a set of utility functions or a set of decision rules compatible with holistic preference information",
+    "authors" : [ "S Greco" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "WSPOMAGANIE KOMUNIKACJI I DECYZJI W ŒRODOWISKU US£ UG TELEMEDYCZNYCH",
+    "authors" : [ "J Blaszczynski", "S Wilk" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "MULTI-CRITERIA ASSIGNMENT OF TASKS TO HETEROGENEOUS PROCESSING UNITS WITH INCOMPATIBILITY AND CAPACITY CONSTRAINTS",
+    "authors" : [ "B Roy" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Robust Ordinal Regression Approach to Multiple Criteria Decision Support",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Tele-triage of Child with Abdominal Pain Using the Internet-based Decision Support System",
+    "authors" : [ "W Michalowski", "S Rubin", "S Wilk" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Robust Ordinal Regression Approach to Multiple Criteria Decision Aiding",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Interpretation of Bayesian confirmation measures in rough set terms",
+    "authors" : [ "S Greco", "Z Pawlak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "4 Working Groups 4.1 Drafting a Manifesto for DM-DSS Interaction (Working Group “DM Sense”)",
+    "authors" : [ "S Corrente", "S French", "S Greco", "M Kadzinski", "J Knowles", "V Mousseau" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 80
 }

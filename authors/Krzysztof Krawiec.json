@@ -403,6 +403,866 @@
     "authors" : [ "S Gaucel", "M Keijzer", "E Lutton", "A Tonda" ],
     "year" : "2014",
     "citations" : "6"
+  }, {
+    "title" : "Cross-task code reuse in genetic programming applied to visual learning",
+    "authors" : [ "W Jaskowski", "B Wieloch" ],
+    "year" : "2014",
+    "citations" : "6"
+  }, {
+    "title" : "Semantically embedded genetic programming: automated design of abstract program representations",
+    "authors" : [ ],
+    "year" : "2011",
+    "citations" : "6"
+  }, {
+    "title" : "Coevolutionary temporal difference learning for small-board Go",
+    "authors" : [ "M Szubert" ],
+    "year" : "2010",
+    "citations" : "6"
+  }, {
+    "title" : "Genetic programming for cross-task knowledge sharing",
+    "authors" : [ "W Jaskowski", "B Wieloch" ],
+    "year" : "2007",
+    "citations" : "6"
+  }, {
+    "title" : "Genetic programming using partial order of solutions for pattern recognition tasks",
+    "authors" : [ ],
+    "year" : "2001",
+    "citations" : "6"
+  }, {
+    "title" : "Constructive induction in learning of image representation",
+    "authors" : [ ],
+    "year" : "2000",
+    "citations" : "6"
+  }, {
+    "title" : "Constructive induction in picture-based decision support",
+    "authors" : [ ],
+    "year" : "2000",
+    "citations" : "6"
+  }, {
+    "title" : "Non-negative Matrix Factorization for Unsupervised Derivation of Search Objectives in Genetic Programming",
+    "authors" : [ "P Liskowski" ],
+    "year" : "2016",
+    "citations" : "5"
+  }, {
+    "title" : "Geometric semantic grammatical evolution",
+    "authors" : [ "A Moraglio", "J McDermott", "M O’Neill", "C Johnson" ],
+    "year" : "2014",
+    "citations" : "5"
+  }, {
+    "title" : "The best things don’t always come in small packages: Constant creation in grammatical evolution",
+    "authors" : [ "R Azad", "C Ryan" ],
+    "year" : "2014",
+    "citations" : "5"
+  }, {
+    "title" : "Evolutionary feature selection and construction",
+    "authors" : [ ],
+    "year" : "2011",
+    "citations" : "5"
+  }, {
+    "title" : "Evolving cascades of voting feature detectors for vehicle detection in satellite imagery",
+    "authors" : [ "B Kukawka", "T Maciejewski" ],
+    "year" : "2010",
+    "citations" : "5"
+  }, {
+    "title" : "Evolving a vision-driven robot controller for real-world indoor navigation",
+    "authors" : [ "P Gajda" ],
+    "year" : "2008",
+    "citations" : "5"
+  }, {
+    "title" : "Intelligent decision support in pathomorphology",
+    "authors" : [ "J Jelonek", "R Slowinski", "J Szymas" ],
+    "year" : "1999",
+    "citations" : "5"
+  }, {
+    "title" : "Pedagogical Method for Extraction of Symbolic Knowledge",
+    "authors" : [ "R Slowinski", "I Szczesniak" ],
+    "year" : "1998",
+    "citations" : "5"
+  }, {
+    "title" : "Surrogate fitness via factorization of interaction matrix",
+    "authors" : [ "P Liskowski" ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "Progress properties and fitness bounds for geometric semantic search operators",
+    "authors" : [ "T Pawlak" ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "Numerical modelling of levee stability based on coupled mechanical, thermal and hydrogeological processes",
+    "authors" : [ "M Dwornik", "A Franczyk", "A Lesniak" ],
+    "year" : "2016",
+    "citations" : "4"
+  }, {
+    "title" : "The role of behavioral diversity and difficulty of opponents in coevolving game-playing agents",
+    "authors" : [ "M Szubert", "W Jaskowski", "P Liskowski" ],
+    "year" : "2015",
+    "citations" : "4"
+  }, {
+    "title" : "Genetic programming with alternative search drivers for detection of retinal blood vessels",
+    "authors" : [ "M Pawlak" ],
+    "year" : "2015",
+    "citations" : "4"
+  }, {
+    "title" : "Metaheuristic design pattern: candidate solution repair",
+    "authors" : [ ],
+    "year" : "2014",
+    "citations" : "4"
+  }, {
+    "title" : "Hindcasting global temperature by evolutionary computation",
+    "authors" : [ "K Stanislawska", "Z Kundzewicz" ],
+    "year" : "2013",
+    "citations" : "4"
+  }, {
+    "title" : "Learnable embeddings of program spaces",
+    "authors" : [ ],
+    "year" : "2011",
+    "citations" : "4"
+  }, {
+    "title" : "Coevolutionary computation for synthesis of recognition systems",
+    "authors" : [ "B Bhanu" ],
+    "year" : "2003",
+    "citations" : "4"
+  }, {
+    "title" : "Rough Set Reduction of Attributes and Their Domains for Neural Networds",
+    "authors" : [ "J Jacker", "K Krzysztof", "S Roman" ],
+    "year" : "1995",
+    "citations" : "4"
+  }, {
+    "title" : "Semantic Geometric Initialization",
+    "authors" : [ "T Pawlak" ],
+    "year" : "2016",
+    "citations" : "3"
+  }, {
+    "title" : "The performance profile: A multi–criteria performance evaluation method for test–based problems",
+    "authors" : [ "W Jaskowski", "P Liskowski", "M Szubert" ],
+    "year" : "2016",
+    "citations" : "3"
+  }, {
+    "title" : "Semantic genetic programming",
+    "authors" : [ "A Moraglio" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "Genetic programming for estimation of heat flux between the atmosphere and sea ice in polar regions",
+    "authors" : [ "K Stanislawska", "T Vihma" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "Aspekty ekonomiczne procesu wdrażania autobusów elektrycznych w publicznym transporcie zbiorowym",
+    "authors" : [ "R Janecki", "G Karon", "G Sierpinski", "S Krawiec", "S Markusik" ],
+    "year" : "2015",
+    "citations" : "3"
+  }, {
+    "title" : "Enhancing branch-and-bound algorithms for order acceptance and scheduling with genetic programming",
+    "authors" : [ "S Nguyen", "M Zhang", "M Johnston" ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "Building a stage 1 computer aided detector for breast cancer using genetic programming",
+    "authors" : [ "C Ryan", "U O’Reilly", "J Fitzgerald", "D Medernach" ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "Flash: A GP-GPU ensemble learning system for handling large datasets",
+    "authors" : [ "I Arnaldo", "K Veeramachaneni", "U O’Reilly" ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "Numeryczna analiza stateczności skarp i zboczy z wykorzystaniem metody zbiorów losowych",
+    "authors" : [ "Z Pilecki", "J Stanisz", "H Wozniak", "E Pilecka" ],
+    "year" : "2014",
+    "citations" : "3"
+  }, {
+    "title" : "Guiding evolutionary learning by searching for regularities in behavioral trajectories: a case for representation agnosticism",
+    "authors" : [ "J Swan" ],
+    "year" : "2013",
+    "citations" : "3"
+  }, {
+    "title" : "How many dimensions in co-optimization",
+    "authors" : [ "W Jaskowski" ],
+    "year" : "2011",
+    "citations" : "3"
+  }, {
+    "title" : "Formal analysis and algorithms for extracting coordinate systems of games",
+    "authors" : [ "W Jaskowski" ],
+    "year" : "2009",
+    "citations" : "3"
+  }, {
+    "title" : "Neurohunter-an entry for the balanced diet contest",
+    "authors" : [ "W Jaskowski", "B Wieloch" ],
+    "year" : "2008",
+    "citations" : "3"
+  }, {
+    "title" : "Potential fitness for genetic programming",
+    "authors" : [ "P Polewski" ],
+    "year" : "2008",
+    "citations" : "3"
+  }, {
+    "title" : "Hybrid coevolutionary algorithms vs. SVM algorithms",
+    "authors" : [ "R Li", "B Bhanu" ],
+    "year" : "2007",
+    "citations" : "3"
+  }, {
+    "title" : "Contribute to quantitative identification of casting defects based on computer analysis of X-ray images",
+    "authors" : [ "Z Ignaszak", "P Popielarski" ],
+    "year" : "2007",
+    "citations" : "3"
+  }, {
+    "title" : "Genetic graph programming for object detection",
+    "authors" : [ "P Lijewski" ],
+    "year" : "2006",
+    "citations" : "3"
+  }, {
+    "title" : "Influence of initial water saturation in earthen levees on results of numerical modelling of infiltration processes",
+    "authors" : [ "M Dwornik", "A Franczyk", "A Lesniak" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Solving complex problems with coevolutionary algorithms",
+    "authors" : [ "M Heywood" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Optical coherence microscopy as a novel, non-invasive method for the 4D live imaging of early mammalian embryos",
+    "authors" : [ "K Karnowski", "A Ajduk", "B Wieloch", "S Tamborski", "M Wojtkowski" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Evolutionary Program Sketching",
+    "authors" : [ "I Bladek" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Cerebellar Volume in Children With Attention-Deficit Hyperactivity Disorder (ADHD) Replication Study",
+    "authors" : [ "A Wyciszkiewicz", "M Pawlak" ],
+    "year" : "2017",
+    "citations" : "2"
+  }, {
+    "title" : "Urban public transport with the use of electric buses–development tendencies",
+    "authors" : [ "S KRAWIEC", "B Łazarz", "S Markusik", "G Karon", "G Sierpinski" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Analysis of the filtration processes in soil embankment based on numerical modelling and temperature measurements",
+    "authors" : [ "B Bukowska-Belniak", "A Lesniak", "D Kessler" ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "The framework of behavioral program synthesis",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "Semantic Genetic Programming",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : "2"
+  }, {
+    "title" : "An Integrated Approach to Stage 1 Breast Cancer Detection",
+    "authors" : [ "J Fitzgerald", "C Ryan", "D Medernach" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Image classification with genetic programming: Building a stage 1 computer aided detector for breast cancer",
+    "authors" : [ "C Ryan", "J Fitzgerald", "D Medernach" ],
+    "year" : "2015",
+    "citations" : "2"
+  }, {
+    "title" : "Generalisation enhancement via input space transformation: A gp approach",
+    "authors" : [ "A Kattan", "M Kampouridis", "A Agapitos" ],
+    "year" : "2014",
+    "citations" : "2"
+  }, {
+    "title" : "Identification of gaso-geodynamic zones in the structure of copper ore deposits using geophysical methods",
+    "authors" : [ "Z Pilecki", "M Laskowski", "A Hryciuk", "J Wrobel", "E Koziarz", "E Pilecka" ],
+    "year" : "2013",
+    "citations" : "2"
+  }, {
+    "title" : "Multi-task code reuse in genetic programming",
+    "authors" : [ "W Jaskowski", "B Wieloch" ],
+    "year" : "2008",
+    "citations" : "2"
+  }, {
+    "title" : "Evolutionary computation framework for learning from visual examples",
+    "authors" : [ ],
+    "year" : "2001",
+    "citations" : "2"
+  }, {
+    "title" : "Roman Słowi nski, Jerzy Stefanowski, and Janusz Szymas. Rough set reduction of features for picture-based reasoning",
+    "authors" : [ "J Jelonek" ],
+    "year" : "",
+    "citations" : "2"
+  }, {
+    "title" : "Roman Słowi nski, Jerzy Stefanowski, and Janusz Szymas",
+    "authors" : [ "J Jelonek" ],
+    "year" : "",
+    "citations" : "2"
+  }, {
+    "title" : "Learining Decision Rules from Similarity Based Rough Approximations 2: Applications, Case Studies and Software Systems",
+    "authors" : [ "R Slowinski", "D Vanderpooten" ],
+    "year" : "",
+    "citations" : "2"
+  }, {
+    "title" : "Automatic synthesis of constraints from examples using mixed integer linear programming",
+    "authors" : [ "T Pawlak" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Discovery of search objectives in continuous domains",
+    "authors" : [ "P Liskowski" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Counterexample-driven genetic programming",
+    "authors" : [ "I Bladek", "J Swan" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Polytypic Genetic Programming",
+    "authors" : [ "J Swan", "N Ghani" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Synthesis of Mathematical Programming Constraints with Genetic Programming",
+    "authors" : [ "T Pawlak" ],
+    "year" : "2017",
+    "citations" : "1"
+  }, {
+    "title" : "Economic Conditions to Introduce the Battery Drive to Busses in the Urban Public Transport",
+    "authors" : [ "S Krawiec", "G Karon", "R Janecki", "G Sierpinski", "S Markusik" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "OCT retinal angiography using neural networks",
+    "authors" : [ "M Szkulmowski", "D Ruminski", "P Liskowski", "B Wieloch" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Skuteczność rejestracji zestawu pomiarowego strimera sejsmicznego Seismobile",
+    "authors" : [ "Z Pilecki", "R Czarny", "M Chamarczuk", "E Pilecka" ],
+    "year" : "2016",
+    "citations" : "1"
+  }, {
+    "title" : "Solving complex problems with coevolutionary algorithms",
+    "authors" : [ "M Heywood" ],
+    "year" : "2015",
+    "citations" : "1"
+  }, {
+    "title" : "Exploring the search space of hardware/software embedded systems by means of GP",
+    "authors" : [ "M Minarik", "L Sekanina" ],
+    "year" : "2014",
+    "citations" : "1"
+  }, {
+    "title" : "On Evolution of Multi-category Pattern Classifiers Suitable for Embedded Systems",
+    "authors" : [ "Z Vasicek", "M Bidlo" ],
+    "year" : "2014",
+    "citations" : "1"
+  }, {
+    "title" : "Geofony w sejsmice inżynierskiej",
+    "authors" : [ "Z Pilecki", "P Harba", "A Adamczyk", "E Pilecka" ],
+    "year" : "2014",
+    "citations" : "1"
+  }, {
+    "title" : "Visualization of 3d retinal microcapillary network using oct",
+    "authors" : [ "B Sikorski", "D Bukowska", "D Ruminski", "I Gorczynska", "M Szkulmowski" ],
+    "year" : "2013",
+    "citations" : "1"
+  }, {
+    "title" : "Genetic Programming",
+    "authors" : [ "S Silva", "J Foster", "M Nicolau", "M Giacobini", "P Machado" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "Evolutionary tuning of compound image analysis systems for effective license plate recognition",
+    "authors" : [ "M Nawrocki" ],
+    "year" : "2011",
+    "citations" : "1"
+  }, {
+    "title" : "A robuts method for real-time detection and recognition of licence pla tes",
+    "authors" : [ "M Nawrocki" ],
+    "year" : "2010",
+    "citations" : "1"
+  }, {
+    "title" : "Mdl-Based Efficient Genetic Programming for Object Detection",
+    "authors" : [ "B Bhanu", "Y Lin" ],
+    "year" : "2005",
+    "citations" : "1"
+  }, {
+    "title" : "Feature Synthesis for Object Detection",
+    "authors" : [ "B Bhanu", "Y Lin" ],
+    "year" : "2005",
+    "citations" : "1"
+  }, {
+    "title" : "Evolutionary feature synthesis for object recognition",
+    "authors" : [ "B Bhanu", "Y Lin" ],
+    "year" : "2005",
+    "citations" : "1"
+  }, {
+    "title" : "Pairwise Comparison of Hypotheses Coverings as a Natural Mean Agains Undesirable Niching in Evolutionary Inductive Learning",
+    "authors" : [ ],
+    "year" : "2001",
+    "citations" : "1"
+  }, {
+    "title" : "Konstruktywna indukcja cech we wspomaganiu decyzji na podstawie informacji obrazowej",
+    "authors" : [ ],
+    "year" : "2000",
+    "citations" : "1"
+  }, {
+    "title" : "Evolutionary Feature Programing",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "Metaheuristic Design Patterns: New Perspectives for Larger-Scale Search Architectures",
+    "authors" : [ "C Simons", "J Swan", "J Woodward" ],
+    "year" : "2018",
+    "citations" : ""
+  }, {
+    "title" : "Adaptive Test Selection for Factorization-based Surrogate Fitness in Genetic Programming",
+    "authors" : [ "P Liskowski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Learning to Play Othello with Deep Neural Networks",
+    "authors" : [ "P Liskowski", "W Jaskowski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Parameters of Bus Lines Influencing the Allocation of Electric Buses to the Transport Tasks",
+    "authors" : [ "M Klos" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "PSXO: population-wide semantic crossover",
+    "authors" : [ "L Vanneschi", "M Castelli", "L Manzoni", "A Moraglio", "S Silva" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Geometric semantic genetic programming for recursive boolean programs",
+    "authors" : [ "A Moraglio" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Convolutional neural networks for artifact free OCT retinal angiography",
+    "authors" : [ "M Szkulmowski", "P Liskowski", "B Wieloch", "B Sikorski" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Competent geometric semantic genetic programming for symbolic regression and boolean function synthesis",
+    "authors" : [ "T Pawlak" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "EXPLORING COMPLEX AND BIG DATA",
+    "authors" : [ "J STEFANOWSKI", "K KRAWIEC", "R WREMBEL" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Comparison of an empirical S-wave velocity model and a calculated stress-strain model for a rock mass disturbed by mining",
+    "authors" : [ "R Czarny" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Ryzyko odmiennej interpretacji zapisów norm w odniesieniu do badania przyczepności powłok metodą odrywania-analiza braku konsekwencji odnośnie stosowani...",
+    "authors" : [ "K Czernecka" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Location of Electric Buses Recharging Stations Using Point Method Procedure",
+    "authors" : [ ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Simultaneous Synthesis of Multiple Functions using Genetic Programming with Scaffolding",
+    "authors" : [ "I Bladek" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Distance Metric Ensemble Learning and the Andrews-Curtis Conjecture",
+    "authors" : [ "J Swan" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Możliwości systemu Seismobile w badaniu podłoża drogi kołowej",
+    "authors" : [ "Z Pilecki", "R Czarny", "R Matula", "P Harba", "E Pilecka", "M Barnas" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Metrics are essential for geometric semantic genetic programming. On one hand, they structure the semantic space and govern the behavior of geometric search op...",
+    "authors" : [ "L Spector", "J Leitner", "M O’Neill", "L Spector", "M Wong", "T Pawlak" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Proces wprowadzania autobusów elektrycznych do eksploatacji w przedsiębiorstwach komunikacji miejskiej–wybrane zagadnienia",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Możliwości systemu Seismobile w przestrzennym zobrazowaniu sejsmicznym i georadarowym podłoża szlaków komunikacyjnych",
+    "authors" : [ "Z Pilecki", "R Czarny", "R Matula", "P Harba", "E Pilecka", "M Barnas" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Charakterystyczne cechy radarogramów w badaniach georadarowych górotworu wokół podziemnego wyrobiska górniczego",
+    "authors" : [ "Z Pilecki", "P Harba", "R Czarny", "M Chamarczuk", "E Pilecka" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Implications of the behavioral perspective",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Behavioral code reuse",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Behavioral assessment of test difficulty",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Future perspectives",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Search drivers",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Pattern-guided program synthesis",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Limitations of conventional program evaluation",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Experimental assessment of search drivers",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Synthesizing programs with consistent execution traces",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Program synthesis",
+    "authors" : [ ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Determination of hiding power of water-based acrylic coatings based on the Kubelka-Munk theory",
+    "authors" : [ "K Czernecka" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Oznaczanie krycia wodnych akrylowych farb dyspersyjnych metodami wykorzystującymi teorię Kubelki i Munka",
+    "authors" : [ "K Czernecka" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Wpływ budowy chemicznej konwencjonalnych żywic alkilowych i typu high solid na wartości VOC oznaczane metodą chromatografii gazowej i metodą różnicową",
+    "authors" : [ "G Kaminska-Bach", "K Czernecka" ],
+    "year" : "2015",
+    "citations" : ""
+  }, {
+    "title" : "Genetic Programming: 17th European Conference, EuroGP 2014, Granada, Spain, April 23-25, 2014, Revised Selected Papers",
+    "authors" : [ "M Nicolau", "M Heywood", "M Castelli", "P Garcia-Sanchez" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Asynchronous Evolution by Reference-Based Evaluation: Tertiary Parent Selection and Its Archive",
+    "authors" : [ "T Harada", "K Takadama" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Measuring Mutation Operators’ Exploration-Exploitation Behaviour and Long-Term Biases",
+    "authors" : [ "J McDermott" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "We propose a method that enables effective code reuse between evolutionary runs that solve a set of related visual learning tasks. We start with introducing a visual...",
+    "authors" : [ "K Janiszowski", "A Bartoszewicz", "P Lesniewski", "V Kapustyan", "V Maksimov" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Zastosowanie metody zbiorów losowych w modelowaniach numerycznych w geoinżynierii",
+    "authors" : [ ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Coevolutionary feature construction for transformation of representation of machine",
+    "authors" : [ "L Wlodarski" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Genetic Programming: 16th European Conference, EuroGP 2013, Vienna, Austria, April 3-5, 2013, Proceedings",
+    "authors" : [ "A Moraglio", "T Hu", "A Etaner-Uyar", "B Hu" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Rough Approximations",
+    "authors" : [ "D Vanderpooten" ],
+    "year" : "2013",
+    "citations" : ""
+  }, {
+    "title" : "Autonomous shaping via coevolutionary selection of training experience",
+    "authors" : [ "M Szubert" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Advanced Evolutionary Computation (Zaawansowane obliczenia ewolucyjne)",
+    "authors" : [ ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Genetic Programming: 15th European Conference, EuroGP 2012, Málaga, Spain, April 11-13, 2012, Proceedings",
+    "authors" : [ "A Moraglio", "S Silva", "P Machado", "C Cotta" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Wpływ zawartości środków uniepalniających na właściwości powłok ogniochronnych",
+    "authors" : [ ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Rozpoznawanie obrazów: Wprowadzenie",
+    "authors" : [ ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Genetic Programming for Generative Learning and Recognition of Hand-Drawn Shapes",
+    "authors" : [ "W Jaskowski", "B Wieloch" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Fitnessless Coevolution",
+    "authors" : [ "B Wieloch" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "2007 index IEEE transactions on evolutionary computation vol. 11",
+    "authors" : [ "J Aguilar-Ruiz", "M Alfonseca", "J Alonso", "F Alvarruiz", "D Arnold" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Evolutionary Learning with Cross-Class Knowledge Reuse for Handwritten Character Recognition",
+    "authors" : [ "W Jaakowski", "B Wieloch" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Poznan University of Technology, Pozna «, Poland Institute of Computing Science Research Report RA-05/07 July 14, 2007",
+    "authors" : [ "W Ja±kowski", "B Wieloch" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "On the number of subpopulations in coevolutionary computation: a database application",
+    "authors" : [ "R Li", "B Bhanu" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "1 Motivations for our ant design",
+    "authors" : [ "W Jaskowski", "B Wieloch" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Knowledge reuse for an ensemble of GP-based learners",
+    "authors" : [ "W Wieloch" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Nadzorowana detekcja tras komunikacyjnych z wykorzystaniem metod uczenia maszynowego",
+    "authors" : [ "I Wyczalek" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Genetic programming for primitive-based acquisition of visual concepts",
+    "authors" : [ ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Summary and Future Work",
+    "authors" : [ "B Bhanu", "Y Lin" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Feature Selection for Object Detection",
+    "authors" : [ "B Bhanu", "Y Lin" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Linear Genetic Programming for Object Recognition",
+    "authors" : [ "B Bhanu", "Y Lin" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Applications of Linear Genetic Programming for Object Recognition",
+    "authors" : [ "B Bhanu", "Y Lin" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Summary and Future Work",
+    "authors" : [ "B Bhanu", "X Tan" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Coevolutionary feature construction for transformation of representation of machine learners",
+    "authors" : [ "L Wlodarski" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Automatic Design and Synthesis of Automatic Target Recognition (ATR) Systems Using Learning Paradigms",
+    "authors" : [ "B Bhanu", "Y Lin" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Coevolving feature extraction agents for target recognition in SAR images",
+    "authors" : [ "B Bhanu" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Coevolutionary feature learning for object recognition",
+    "authors" : [ "B Bhanu" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Business Applications of Neural Networks: PJG Lisboa, B. Edisbury, A. Vellido (Eds.); World Scientific, Singapore, 2000, 220 pages, ISBN 981-02-4089-9, US $51 (£...",
+    "authors" : [ ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Center for Research in Intelligent Systems University of California, Riverside, CA 92521-0425, USA {kkrawiec, bhanu}@ cris. ucr. edu",
+    "authors" : [ ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Supplementary materials: Optical coherence microscopy as a novel, non-invasive 2 method for the 4D live imaging of early mammalian 3 embryos 4",
+    "authors" : [ "K Karnowski", "A Ajduk", "B Wieloch", "S Tamborski", "M Wojtkowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Wednesday 8 April",
+    "authors" : [ "M Sikulova", "J Hulva", "L Sekanina", "P Liskowski", "V Mrazek" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Ochrona przed Korozją",
+    "authors" : [ "A Slusarczyk", "W Spisak", "C Latocha", "B Slomka-Slupik", "A Zybura" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Julio Albinati, Gisele L. Pappa, Fernando EB Otero, and Luiz Otávio VB Oliveira",
+    "authors" : [ "A Bartoli", "E Medvet", "F Tarlao", "G Dick", "I Goncalves", "S Silva" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Discovering Relational Structure in Program Synthesis Problems with Analogical Reasoning",
+    "authors" : [ "J Swan" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Evolving Cascades of Voting Feature Detectors for Vehicle Detection in Satellite Imagery",
+    "authors" : [ "K Maciejewski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Methods in Genetic Programming",
+    "authors" : [ "L Spector", "M O’Neill", "T Pawlak", "Q Nguyen", "T Pham" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "SMGP’15 Chairs’ Welcome",
+    "authors" : [ "C Johnson", "A Moraglio", "M O’Neill" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Fitnessless Coevolution",
+    "authors" : [ "W Wieloch" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Heuristic Approaches to Program Synthesis: Genetic Programming and Beyond–The Homework Assignment",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Heuristic Approaches to Program Synthesis: Genetic Programming and Beyond",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "KOEWOLUCJA KOOPERATYWNA W DEKOMPOZYCJI ZADAŃ ROZPOZNAWANIA OBRAZÓW",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Analysis of Semantic Building Blocks via Gröbner Bases",
+    "authors" : [ "J Swan", "G Neumann" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Proceedings of the 17th European Conference on Genetic",
+    "authors" : [ "M Nicolau", "M Heywood", "M Castelli", "P Garcia-Sanchez" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Construction of textural features for classiﬁcation of histological images",
+    "authors" : [ "J Jelonek", "R Slowiriski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Możliwości identyfikacji stref osłabienia w strukturze złoża rud miedzi metodą prześwietlania sejsmicznego",
+    "authors" : [ "E Pilecka" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Wspomaganie diagnozowania zespołu nadpobudliwosci psychoruchowej z deficytem uwagi (ADHD) na podstawie obrazowania magnetycznego rezonansu j adrow...",
+    "authors" : [ "M Pawlak", "S Bidula", "J Szymczak", "T Zietkiewicz", "M Frankiewicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "SEPTEMBER 2013 VOLUME 5 NUMBER 3 TCIARR (ISSN 1943-068X)",
+    "authors" : [ "M Szubert", "W Jaskowski", "J Li", "G Kendall", "A Vasilakos" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "GECCO’13 3rd Workshop on Evolutionary Computation for the Automated Design of Algorithms Chairs’ Welcome",
+    "authors" : [ "G Pappa", "J Woodward", "J Swan" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Evolutionary Operator Self-Adaptation with Diverse",
+    "authors" : [ "A Moraglio", "S Silva", "P Machado", "C Cotta" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Proceedings of the 15th European Conference on Genetic",
+    "authors" : [ "A Moraglio", "S Silva", "P Machado", "C Cotta" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Analysis of Semantic Modularity for Genetic",
+    "authors" : [ "B Wieloch" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Jacek Jelonek (1), Krzysztof Krawiec (1), Ryszard Slowinski (1), Janusz Szymas (2) Intelligent Decision Support in Pathomorphology 1) Institute of Computing Scienc...",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Proceedings of the 16th European Conference on Genetic",
+    "authors" : [ "A Moraglio", "T Hu", "A Uyar", "B Hu" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 23
 }

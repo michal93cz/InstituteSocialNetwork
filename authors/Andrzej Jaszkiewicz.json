@@ -403,6 +403,71 @@
     "authors" : [ "J Teghem" ],
     "year" : "2003",
     "citations" : ""
+  }, {
+    "title" : "Special issue: Evolutionary and Local Search Heuristics in Multiple Objective Optimization-Guest Editorial",
+    "authors" : [ ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Multiple Objective MetaHeuristics",
+    "authors" : [ "X Gandibleux", "A Freville", "R Slowinski" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Procedura metaheurystyczna Pareto-SA dla realnych i wielokryterialnych problemów optymalizacji kombinatorycznej",
+    "authors" : [ "P Czyzak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "ND-Tree-based update: a Fast Online Method for Updating a Pareto Archive Additional Results",
+    "authors" : [ "T Lust" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "ADBIS 2012 Workshops and PhD Consortium program",
+    "authors" : [ "G Toppin", "M Grzegorowski", "P Pardel", "S Stawicki", "K Stencel", "F Schleif" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "COMBINATORIAL OPTIMIZATION",
+    "authors" : [ "A Ageev", "R Ahuja", "N Alon", "I Averbakh", "M Ball", "P Baptiste" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "4.3 Heterogeneous Functions (WG3)",
+    "authors" : [ "G Eichfelder", "X Gandibleux", "M Geiger", "J Jahn" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "OPHELIA–zintegrowane środowisko wytwarzania oprogramowania",
+    "authors" : [ "M Hapke", "K Kowalczykiewicz", "D Weiss", "P Zielniewicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Systematic design of recombination operators",
+    "authors" : [ "A JASZKIEWICZ" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Location Analysis of the Infrastructure in the Transportation System. Single and Bi-criterion Optimization",
+    "authors" : [ "J Zak", "A Redmer" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Community Traffic: A Technology for the Next Generation Car Navigation",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Multiple-start local search intensified by learning",
+    "authors" : [ "P Kominek", "G Serek" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "ON GENERALIZED OWA APPROACH TO SUPPORT LOCATION AND ROUTING DECISIONS",
+    "authors" : [ "M Kaczmarek", "J Zak", "M Kubiak" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 26
 }

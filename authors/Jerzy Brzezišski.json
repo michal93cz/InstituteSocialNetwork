@@ -403,6 +403,211 @@
     "authors" : [ "D Dwornikowski", "Ł Piatkowski", "G Sobanski" ],
     "year" : "2011",
     "citations" : ""
+  }, {
+    "title" : "From session guarantees to contract guarantees for consistency of SOA-compliant processing",
+    "authors" : [ "A Danilecki", "A Kobusinska", "M Szychowiak" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "A formal approach to replica consistency in directory service",
+    "authors" : [ "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "On the optimality of rollback-recovery protocol preserving session guarantees",
+    "authors" : [ "A Kobusinska", "J Kobusinski" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Checkpointing and rollback-recovery protocol integrated with VsSG protocol for RYW session guarantee",
+    "authors" : [ "A Kobusinska" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Safety of Checkpointing and Rollback-Recovery Protocol for Mobile Systems with RYW Session Guarantee.",
+    "authors" : [ "A Kobusinska", "J Kobusinski" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Rollback-recovery protocol guarantying MR session guarantee in distributed systems with mobile clients",
+    "authors" : [ "A Kobusinska", "M Szychowiak" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Safety of recovery protocol preserving MW session guarantee in mobile systems",
+    "authors" : [ "A Kobusinska" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Safety of rollback-recovery protocol maintaining WFR session guarantee",
+    "authors" : [ "A Kobusinska", "J Kobusinski" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Workshop on\" Autonomic Distributed Data and Storage Systems Management--ADSM2005\"-Safety of a Server-Based Version Vector Protocol Implementing Sessio...",
+    "authors" : [ "C Sobaniec", "D Wawrzyniak" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "A Concept of Replicated Remote Method Invocation",
+    "authors" : [ "C Sobaniec" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "An extended atomic consistency protocol for recoverable DSM systems",
+    "authors" : [ "M Szychowiak" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "An extended home-based coherence protocol for causally consistent replicated read-write objects",
+    "authors" : [ "M Szychowiak" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Performance Evaluation of Classical Algorithms for Mutual Exclusion in a Distributed Shared Memory System",
+    "authors" : [ "D Wawrzyniak" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "IV Parallel Non-numerical Algorithms-Consistency Requirements of Peterson's Algorithm for Mutual Exclusion of n Processes in a Distributed Shared Memory System",
+    "authors" : [ "D Wawrzyniak" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Consistency requirements of Peterson’s algorithm for mutual exclusion of n processes in a distributed shared memory system",
+    "authors" : [ "D Wawrzyniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "COBRA–THE LIBRARY FOR BUILDING RELIABLE APPLICATIONS IN DISTRIBUTED ENVIRONMENT",
+    "authors" : [ "A Kobusinska", "J Kobusinski", "M Szychowiak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "The application of computational geometry algorithms to the timed verification of communication protocols",
+    "authors" : [ "M Sajkowski" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "The application of computational geometry algorithms to the timed verification of communication protocols",
+    "authors" : [ "M Sajkowski" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "On the Applicability of an Interval Time Structure for Protocol Verification",
+    "authors" : [ "J Brzezraski", "M Sajkowski" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "On time complexity of distributed algorithms for generalized deadlock detection",
+    "authors" : [ ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Advances in Databases and Information Systems 1997",
+    "authors" : [ ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Parallelisation of Tabu Search for Query and Multiple-Query Optimisation",
+    "authors" : [ "D Wawrzyniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Distributed algorithms for static and dynamic termination detection",
+    "authors" : [ "J Helary", "M Raynal" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Graph theoretical issues in computer networks",
+    "authors" : [ "J Blazwicz", "G Gambosi" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "Zapobieganie zakleszeniom w sieciach komunikacyjnych z komutacja pakietow",
+    "authors" : [ ],
+    "year" : "1989",
+    "citations" : ""
+  }, {
+    "title" : "General concept of distributed store-and-forward deadlock prevention algorithm for store-and-forward networks",
+    "authors" : [ "J BRZEZINSKI" ],
+    "year" : "1988",
+    "citations" : ""
+  }, {
+    "title" : "A family of compatible single-and multimicroprocessor systems with 8-bit and 16-bit microprocessors",
+    "authors" : [ "W Cellary", "J Kreglewski" ],
+    "year" : "1984",
+    "citations" : ""
+  }, {
+    "title" : "2011 5th International Symposium on Medical Information and Communication Technology (ISMICT 2011)",
+    "authors" : [ "S Czajka", "J Kobusinski", "M Piernik" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Baruque, B., Porras, S., Corchado, E., Hybrid Classification Ensemble Using Topology-preserving Clustering Brodecki, B., Szychowiak, M. and Sasak. P. Security Pol...",
+    "authors" : [ "A Danilecki", "J Flotyriski", "A Kobusiriska", "A Stroinski", "T Cao" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Parallel and Distributed Architectures",
+    "authors" : [ "C Sobaniec", "D Wawrzyniak", "M Szychowiak", "K Warkowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "10 Systemy operacyjne",
+    "authors" : [ "D Wawrzyniak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "System z rozproszon",
+    "authors" : [ "K Oborzynski", "C Sobaniec" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Problemy bezpieczeństwa w architekturze SOA1",
+    "authors" : [ "B Brodecki", "P Sasak", "M Szychowiak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Komunikacja grupowa",
+    "authors" : [ "M Libuda", "C Sobaniec" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "DESIGN AND IMPLEMENTATION OF COMMUNICATION PROTOCOLS FOR SELF-ORGANIZING MULTI-HOP AD HOC NETWORKS USING XBEEPRO-868 PLATF...",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Koncepcje zarządzanie w SOA",
+    "authors" : [ "D Dwornikowski", "M Sajkowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Wybrane zastosowania spekulacji w systemach z rozproszoną pamięcią współdzieloną",
+    "authors" : [ "J BRZEZINSKI", "A DANILECKI" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Page-based Distributed Shared Memory for OSF/DCE",
+    "authors" : [ "M Szychowiak", "D Wawrzyniak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Analysis of security policy requirements in SOA-based technologies",
+    "authors" : [ "B Brodecki", "S Gorecki", "P Sasak", "M Szychowiak" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Systemy operacyjne",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Rozproszone systemy operacyjne",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 10
 }

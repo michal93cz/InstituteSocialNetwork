@@ -403,6 +403,1126 @@
     "authors" : [ "A Urbaniak" ],
     "year" : "2013",
     "citations" : ""
+  }, {
+    "title" : "Percepcja sakramentalności małżeństwa u narzeczonych",
+    "authors" : [ "M Skrodzka", "P Pacholak", "A Urbaniak" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Symulacyjny model procesu neutralizacji ścieków przemysłowych",
+    "authors" : [ "R Brodziak", "W Gora", "A Urbaniak", "Z Przemyslaw" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Sterowanie procesami w wodociągach i kanalizacji",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Wykorzystanie algorytmów regulacji predykcyjnej z modelowaniem rozmytym do optymalizacji zużycia energii przez układy klimatyzacyjne",
+    "authors" : [ "M Nowak", "A Urbaniak" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "WIRELESS NETWORKS FOR REMOTE MEASUREMENT SYSTEMS",
+    "authors" : [ "Z Kubiak", "A Urbaniak" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Monitoring of fresk water quality for the choice of treatment technology",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Badania przedprojektowe optymalnej technologii uzdatniania wody z wykorzystaniem metod symulacji komputerowej",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Wybór oprogramowania do modelowania sieci wodociągowej – przykład analizy wielokryterialnej,",
+    "authors" : [ "A Balut", "A Urbaniak" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Aspekty praktyczne wyboru oprogramowania",
+    "authors" : [ "A Balut", "A Urbaniak" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Optymalizacja zużycia energii w inteligentnym systemie sterowania labo-ratoryjnym układem grzewczo-klimatyzacyjnym",
+    "authors" : [ "M Nowak", "A Urbaniak" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "Badania przedprojektowe optymalnej technologii uzdatniania wody z wykorzystaniem metod symulacji komputerowej",
+    "authors" : [ "M Sozanski", "M Urbaniak" ],
+    "year" : "2010",
+    "citations" : ""
+  }, {
+    "title" : "MONITORING SYSTEMS OF UTILITIES CONSUMPTION IN BUILDINGS",
+    "authors" : [ "Z Kubiak", "A Urbaniak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Bezprzewodowy system monitorowania zużycia mediów w budynku",
+    "authors" : [ "Z Kubiak", "A Urbaniak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Automatyzacja badań technologii uzdatniania wody w skali pilotowej",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Embedded systems in actuators",
+    "authors" : [ "P Giera", "A Urbaniak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Nowoczesne technologie informatyczne w systemach zarządzania i sterowania procesami a kształcenie informatyków",
+    "authors" : [ "J Jozefowska", "A Urbaniak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Integracja systemów zarządzania i sterowania przemysłowych obiektów inteligentnych",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Systemy SCADA w przedsiębiorstwach sieciowych na przykładzie przedsiębiorstw wodociągowych i ciepłowniczych",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Integracja systemów zarządzania i sterowania przemysłowych obiektów inteligentnych",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Inteligentne systemy pomiarowe w inżynierii środowiska",
+    "authors" : [ ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Inteligentne systemy w wodociągach i kanalizacji, w: Zaopatrzenie w wodę, jakość i ochrona wód",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "FreeRTOS as a real-time operating system for simple embedded systems, Sinaia, Romania, May 25-28, 2008 (283-286)",
+    "authors" : [ "M Juzwa", "A Urbaniak" ],
+    "year" : "2008",
+    "citations" : ""
+  }, {
+    "title" : "Modern realization of telemetry",
+    "authors" : [ "Z Kubiak", "A Urbaniak" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "It investments in the power industry-Methods of the range description, application and effectiveness assessment",
+    "authors" : [ "M Sroczan", "E Sroczan", "A Urbaniak" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Wizualizacja instalacji w inteligentnych budynkach",
+    "authors" : [ "M Nowak", "A Urbaniak" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Standardy komunikacji w systemach monitorowania",
+    "authors" : [ "Z Kubiak", "A Urbaniak" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Design methodology of embedded systems",
+    "authors" : [ "A Urbaniak", "M Juzwa" ],
+    "year" : "2007",
+    "citations" : ""
+  }, {
+    "title" : "Zastosowanie systemów wbudowanych w instalacjach inteligentnych budynków",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Rozproszone sterowanie i monitorowanie w systemach wodno-kanalizacyjnych",
+    "authors" : [ "M Nowak", "A Urbaniak" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Zdalny mikroprocesorowy czujnik poziomu cieczy",
+    "authors" : [ "P Giera", "A Urbaniak" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Możliwości zastosowań systemów wbudowanych w inżynierii środowiska",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Embedded systems – new direction in education of computer science,",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Informatyczne narzędzia monitorowania i sterowania procesami oczyszczania ścieków",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Systemy wbudowane – nowy nurt kształcenia na kierunku informatyka",
+    "authors" : [ "M Juzwa", "A Urbaniak" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Bezprzewodowy dostęp do urządzeń pomiarowych",
+    "authors" : [ "Z Kubiak", "A Urbaniak" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Individualisation of the learning process using simulation and artificial intelligence methods",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Fire protection system for intelligent objects",
+    "authors" : [ "P Giera", "A Urbaniak" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Wykorzystanie usługi SMS do przesyłania informacji w systemach monitorowania",
+    "authors" : [ "T Nawalaniec", "A Urbaniak" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Integracja systemów sterowania i zarządzania inteligentnym obiektem",
+    "authors" : [ "R Klaus", "A Urbaniak" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Simulation routines for teaching and training the power system managers",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Koncepcja optymalizacji transportu hydraulicznego osadów w rurociagach",
+    "authors" : [ "Z Dymaczewski", "J Jez-Walkowiak", "M Sozanski", "A Urbaniak" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Narzędzia teleinformatyczne do rozliczania odbiorców w systemie zaopatrzenia w wodę",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Computer simulation of the influence of physical parameters on thermal comfort",
+    "authors" : [ "M Nowak", "A Urbaniak" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Simulation routines for teaching and training the power system managers",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Systemy zabezpieczeń inteligentnych obiektów",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Narzędzia informatyczne dla systemów wodociągowo-kanalizacyjnych,",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Wykorzystanie telefonii komórkowej drugiej generacji do przesyłu danych w systemach monitorowania środowiska",
+    "authors" : [ "T Nawalaniec", "A Urbaniak" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Inteligentny sterownik komunikacyjny GSM/GPS",
+    "authors" : [ "P Giera", "R Klaus", "A Urbaniak" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Internetowy system do prowadzenia ewidencji odpadów",
+    "authors" : [ "A Ławrynowicz", "A Urbaniak" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Metody i narzędzia informatyki w wodociągach i kanalizacji",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Intelligent control system for water treatment plan",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Metody i narzędzia automatyzacji urządzeń i systemów wodociągowych",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Simulation of managing the generation of ecologic energy in local energy market",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Inteligentne urządzenia pomiarowe i wykonawcze w systemach inżynierii środowiska",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2003",
+    "citations" : ""
+  }, {
+    "title" : "Inteligentne urządzenia pomiarowe i wykonawcze",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Transformacje rozwojowe systemów uzdatniania wody i oczyszczania ścieków",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Zarządzanie energią elektryczną u odbiorcy",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Współczesne układy sterowania w instalacjach elektrycznych",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Simulation of the varying the power load of an industrial plant for choice of an economic rate of energy",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Internetowy system szkolenia eksploatatorów oczyszczalni ścieków",
+    "authors" : [ "E Sroczan", "A Urbaniak", "P Zakrzewski" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Intelligent objects’ systems in environmental engineering",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Education of students within environment engineering course of automation and control subjects. Experience of Poznań University of Technology",
+    "authors" : [ "M Sozanski", "M Sroczan", "A Urbaniak" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Informatyka w ochronie środowiska, Ćwiczenia laboratoryjne",
+    "authors" : [ "T Łukaszewski", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "DC motor control using a fuzzy logic algorithm",
+    "authors" : [ "J Blazewicz", "R Klaus", "M Sroczan", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Zastosowanie GPS i logiki rozmytej w procesach nawożenia",
+    "authors" : [ "J Blazewicz", "P Giera", "R Klaus", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Projekt regulatora rozmytego w systemie klimatyzacyjnym",
+    "authors" : [ "M Nowak", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "., Internetowy system szkolenia eksploatatorów oczyszczalni ścieków",
+    "authors" : [ "E Sroczan", "A Urbaniak", "P Zakrzewski" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Sedimentation of flocculent suspension - proposition of mathematical formulation of the process",
+    "authors" : [ "M Leszczynska", "M Sozanski", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Simulation of velocity of flocs sedimentation in static conditions",
+    "authors" : [ "M Leszczynska", "M Sozanski", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Systematic approach to designing of process monitoring system",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Application of AI methods in computerized system of training wastewater treatment plant operators",
+    "authors" : [ "M Sozanski", "M Sroczan", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Application of AI methods in computerized system of training wastewater treatment plant operators",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "A gas distribution node as an example of complex object control",
+    "authors" : [ "T Lis", "A Sobkowiak", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Software tool for SCADA sytems's support choice",
+    "authors" : [ "M Nowak", "A Urbaniak", "P Zakrzewski" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Informatyczne systemy w eksploatacji zakładów uzdatniania wody i oczyszczania ścieków",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Informatyka w rozwoju społeczeństwa i jednostki",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Informatyczne systemy w eksploatacji zakładów uzdatniania wody i oczyszczania ścieków",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Simulation of routines of power system manager's decision effecting the natural environment",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Eksperyment doświadczalny w reologii osadów z oczyszczania wody i ścieków",
+    "authors" : [ "J Jez-Walkowiak", "M Sozanski", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Bilans masowy i objętościowy osadów i popłuczyn",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Informatyczne systemy w wodociągach i kanalizacji",
+    "authors" : [ "M Sozanski", "M Sroczan", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Komputerowy system nauczania metody podwójnego sprawdzenia",
+    "authors" : [ "M Flejszman", "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Multimedia a wychowanie, Medycyna wieku rozwojowego, Suplement do nr 4, październik - grudzień, tom V, 2001 (249 - 258)",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Modelling of an organic pollutants removing in soils",
+    "authors" : [ "A Urbaniak", "A Olszanowski", "E Sroczan", "A Voelkel" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Simulation of fuzzy logic operation of water preprocessing and waste water treatment plant",
+    "authors" : [ "M Sroczan", "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Monitorowanie w systemach zaopatrzenia w wodę i oczyszczania ścieków - cele, metody, rozwiązania",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Sterowanie procesami uzdatniania i dystrybucji wody oparte na logice rozmytej",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Techniczne środki systemów monitorowania i kontroli",
+    "authors" : [ "M Nowak", "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Sedymentacja zawiesiny kłaczkowatej - propozycja matematycznago ujecia problemu",
+    "authors" : [ "M Leszczynska", "M Sozanski", "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Modelowanie procesów chemicznych w oczyszczalniach ścieków",
+    "authors" : [ "A Urbaniak", "P Zakrzewski" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "An integrated system for management and control wastewater treatment plants",
+    "authors" : [ "A Oborzynska", "K Oborzynski", "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Fuzzy control of aeration process in wastewater treatment plants",
+    "authors" : [ "A Urbaniak", "P Zakrzewski" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Systemy sterowania i zarządzania obiektami (BMS)",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Monitorowanie i zarządzanie w systemach informatycznych złożonych obiektów,",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Komputerowe systemy wspomagania decyzji w inżynierii środowiska,",
+    "authors" : [ "M Sozanski", "M Sroczan", "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Komputerowe sterowanie procesami oczyszczania wody i ścieków,",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Monitorowanie procesów w ochronie środowiska,",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Monitorowanie i zarządzanie w systemach informatycznych złożonych obiektów.",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "Monitorowanie procesów zużycia energii",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Pakiet programów użytkowych w zakresie naturalnego planowania rodziny",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Eksploatacja systemów kanalizacyjnych z wykorzystaniem monitoringu",
+    "authors" : [ "W Niedzielski", "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Komputerowe sterowanie procesami odnowy środowiska z wykorzystaniem metod sztucznej inteligencji",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Komputerowy system szkolenia eksploatatorów oczyszczalni ścieków",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Programmed learning method for Natural Family Planning education",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Modelowanie procesów oczyszczania ścieków dla potrzeb wspomagania decyzji operatorskich",
+    "authors" : [ "A Urbaniak", "P Zakrzewski" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Komputerowy system szkolenia operatorów oczyszczalni ścieków",
+    "authors" : [ "M Sozanski", "M Sroczan", "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Sterowanie rozmyte w stacjach uzdatniania wody i oczyszczania ścieków",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Ocena przydatności oprogramowania użytkowego w zakresie wizualizacji procesów",
+    "authors" : [ "A Urbaniak", "P Zakrzewski" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Wybrane zagadnienia wspomagania decyzji w procesie diagnostyki maszyn roboczych",
+    "authors" : [ "R Klaus", "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Technologia uzdatniania wody ujmowanej z jezior",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Inżynieria ochrony środowiska w nauce i edukacji",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "1999",
+    "citations" : ""
+  }, {
+    "title" : "Usługi informatyczne w elektroenergetyce i telekomunikacji",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Rola informatyki i sterowania w nowoczesnych rozwiązaniach systemów gospodarki wodno-ściekowej",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Monitorowanie i nadzór instalacji technicznych w oczyszczalni ścieków",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Operators training for wastewater treatment plants",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Inteligentny system nauczania metod naturalnego planowania rodziny",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Nowe doświadczenia i tendencje w rozwoju technologii uzdatniania wody",
+    "authors" : [ "M Sozanski", "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Oprogramowanie wspomagające testowanie układu sterowania silnikiem wysokoprężnym",
+    "authors" : [ "R Klaus", "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Specialised software for process monitoring of wastewater treatment plant",
+    "authors" : [ "A Oborzynska", "K Oborzynski", "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Algorithms and PLC system for fuzzy control of experimental water reprocessing plant",
+    "authors" : [ "R Klaus", "M Sozanski", "M Sroczan", "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Automatyzacja badań w naukowo-doświadczalnej stacji uzdatniania wody",
+    "authors" : [ "M Sozanski", "M Sroczan", "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Oprogramowanie systemów monitorowania i sterowania rozproszonymi procesami technologicznymi",
+    "authors" : [ "K Oborzynski", "A Sobkowiak", "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Zintegrowane sterowanie wysokoefektywnymi procesami oczyszczania ścieków",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Monitorowanie instalacji",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Oprogramowanie systemów monitorowania i sterowania rozproszonymi procesami technologicznymi",
+    "authors" : [ "K Oborzynska", "A Sobkowiak", "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Automatyzacja badań w naukowo-doświadczalnej stacji uzdatniania wody",
+    "authors" : [ "M Sozanski", "M Sroczan", "A Urbaniak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Automatyzacja w oczyszczalni ścieków, w: Poradnik eksploatatora oczyszczalni ścieków",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Budynki inteligentne a informatyka",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Zintegrowane sterowanie chemicznymi i biologicznymi procesami w oczyszczalni ścieków",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Wybrane zagadnienia ekologicznego sterowania mikroprocesorowego silnikiem wysokoprężnym koparki",
+    "authors" : [ "R Klaus", "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Models of migration of organic pollutants in soils",
+    "authors" : [ "A Urbaniak", "M Wika", "A Voelkel" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Safety in a microcomputer controller of the Diesel engine",
+    "authors" : [ "R Klaus", "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Monitoring i automatyzacja oczyszczalni ścieków",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Decision support system for operators training of wastewater treatment plant",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "The application of mathematical modelling of sludge hydraulic transport in water treatment facilities, , (269 – 280)",
+    "authors" : [ "M Sozanski", "K Grocholski", "J Jez-Walkowiak", "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Synthesis of selected control and safety algorithms for Diesel engine,",
+    "authors" : [ "R Klaus", "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Functions of a controller optimisation functional motion of hydraulic backhoe mini-excavator",
+    "authors" : [ "R Klaus", "A Szalek", "J Szlagowski", "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Automatic load dispatch among the hydropower plants based on artificial intelligent network",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Functions of a controller intendent to optimise working movements of hydraulic mini-excavator",
+    "authors" : [ "R Klaus", "A Szalek", "J Szlagowski", "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Monitorowanie systemu zaopatrzenia w wodę aglomeracji miejsko-przemysłowych",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Educational multimedia software for natural family planning",
+    "authors" : [ "M Flejszman", "J Owczarzak", "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Problemy techniczne systemów monitorowania środowiska",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Simulation model of mogration of organic pollutants in soils",
+    "authors" : [ "A Urbaniak", "A Voelkel", "W M." ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "The Application of Mathematical Modelling of Sludge Hydraulic Transport in Water Treatment Facilities",
+    "authors" : [ "M Sozanski", "K Grocholski", "J Jez-Walkowiak", "A Urbaniak" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "Wybrane zagadnienia ekologicznego sterowania mikroprocesorowego silnikiem wysokoprężnym koparki",
+    "authors" : [ "R Klaus", "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Kontrola i sterowanie instalacji w systemie budynków inteligentnych",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Inteligentne sterowanie instalacjami w budynkach",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Komputerowe wspomaganie badań algorytmów sterowania silnikiem wysokoprężnym",
+    "authors" : [ "R Klaus", "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Wykorzystanie czujników ultradźwiękowych i konduktometrycznych w stacjach uzdatniania wody i oczyszczania ścieków",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Badania symulacyjne sterowania obiektem z zastosowaniem logiki rozmytej",
+    "authors" : [ "R Dolacinski", "R Klaus", "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Komputerowe sterowanie procesami wysokoefektywnego oczyszczania ścieków",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Real-time monitoring for municipal wastewater treatment system",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Real-time monitoring for municipal wastewater treatment system",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Automatyczny monitoring kompleksu hydroenergetycznego dla wspomagania procesu alokacji systemowej rezerwy mocy",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Specialized microcontroller system for phosphorus removing in the wastewater treatment plant",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Simulation of break-down processes of industrial wastewater treatment plant",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Zastosowanie sieci neuronowych do sterowania silnikiem Diesla- badania symulacyjne",
+    "authors" : [ "R Klaus", "M Targosz", "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Rola mikrokontrolerów w systemach regulacji silnikiem wysokoprężnym",
+    "authors" : [ "R Klaus", "R Sobkowiak", "A Urbaniak" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "Integration of computer science and expirimental tools for environment quality monitoring",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Integracja metod eksperymentalnych i informatycznych w ochronie środowiska",
+    "authors" : [ "M Sozanski", "A Urbaniak", "A Voelkel" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Układ sterowania procesem chemicznego oczyszczania ścieków pralniczych",
+    "authors" : [ "P Gora", "E Sroczan", "A Urbaniak" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Mikroprocesorowe sterownie silnikiem wysokoprężnym",
+    "authors" : [ "G Dorna", "R Klaus", "W Ochocki", "R Sobkowiak", "A Urbaniak" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Sterowanie procesami chemicznego oczyszczania ścieków pralniczych",
+    "authors" : [ "P Gora", "H Majcherek", "E Sroczan", "A Urbaniak" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "PC-oriented Decision Support Systems for natural family planning (abstract),",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Znaczenie eksperymentu reologicznego w rozwiązywaniu problemów gospodarki osadowej w zakładach wodociągowych i oczyszczalniach ścieków,",
+    "authors" : [ "J Jez-Walkowiak", "M Sozanski", "A Urbaniak" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Optimization of the hydraulic sludge transport in the pipelines",
+    "authors" : [ "M Sozanski", "M Sroczan", "A Urbaniak" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Control system for dry voltaic cells production, Proc. of Second International",
+    "authors" : [ "G Dorna", "E Sroczan" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Computer and control sciences - education and practice in the field of environment protection in developing countries",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Wykorzystanie ekstrakcji do fazy stałej (SPE) w badaniach biodegradacji wybranych węglowodorów",
+    "authors" : [ "Z Cybulsk", "E Dziurla", "A Olszanowski", "A Urbaniak", "A Voelkel" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "Tendencje rozwojowe zastosowania komputerów w ochronie środowiska",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "ULTRASONIC FLOW MEASURE FOR WATER AND WASTEWATER USING OPEN CHANNEL WEIR",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Analiza cyklu płodnosci metodą sympto-termiczną",
+    "authors" : [ "T Bialoblocki", "A Urbaniak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Komputer a naturalne planowanie rodziny",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Aspekty wspomagania decyzji wyboru rozwiazań w ochronie środowiska",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Nowe konstrukcje czujników do pomiaru wielkości fizykochemicznych wody w zakładach wodociągowych",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Ultrasonic flow measure for water and wastewater using open channel weir Proc. of t,",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Education in control engineering for the designers of environmental processes",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Fertility Diagnosis and Simulation Based on the Multi-check Method of Natural Family Planning",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Nowoczesne rozwiazania systemow automatycznego sterowania praca stacji uzdatniania wod podziemnych",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1994",
+    "citations" : ""
+  }, {
+    "title" : "Ultradźwiękowe pomiary przepływów wody i ścieków z wykorzystaniem przelewów niezatopionych",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "Strategia badań algorytmów cyfrowego sterowania silnikami wysokoprężnymi",
+    "authors" : [ "R Klaus", "R Sobkowiak", "A Urbaniak" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "Safety Control of the Process of Coagulant Production for Chemical Wastewater Treatment Plant,",
+    "authors" : [ "P Gora", "E Sroczan", "A Urbaniak" ],
+    "year" : "1992",
+    "citations" : ""
+  }, {
+    "title" : "Automatic Control of the Reactor for Production of High Concentrated Coagulant",
+    "authors" : [ "P Gora", "E Sroczan", "A Urbaniak" ],
+    "year" : "1992",
+    "citations" : ""
+  }, {
+    "title" : "Komputer w ochronie środowiska,(referat programowy)",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1992",
+    "citations" : ""
+  }, {
+    "title" : "Komputerowy system wspomagania decydenta planisty - SWDEC w zakresie planowania rozwoju systemów zaopatrzenia w wodę i oczyszczania ścieków",
+    "authors" : [ "S Jaskula", "A Urbaniak" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "Adaptacyjne sterowanie procesu chemicznego oczyszczania ścieków w zakładach przemysłu spożywczego",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "Automatyczne sterowanie recyrkulacją wód transportowo-myjących w zakładach przetwórstwa ziemniaków",
+    "authors" : [ "E Sroczan", "A Urbaniak" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "Automatyzacja w inżynierii środowiska (wyd. III)",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1991",
+    "citations" : ""
+  }, {
+    "title" : "Micricomputer-based Decision Support System for capacity expansion planning of regional water resources systems",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Automatyzacja w inżynierii środowiska (wyd. II)",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Planowanie rozwoju systemow zaopatrzenia w wode i oczyszczania sciekow",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1990",
+    "citations" : ""
+  }, {
+    "title" : "Dialogowy algorytm wielokryterialnego wyboru strategii rozwoju systemu zaopatrzenia w wodę",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1987",
+    "citations" : ""
+  }, {
+    "title" : "A multicriteria expansion planning of a water supply and wastewater treatment systems with random data",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1986",
+    "citations" : ""
+  }, {
+    "title" : "A transformation method of the decision problems with random data to parametric linear programming problems",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1986",
+    "citations" : ""
+  }, {
+    "title" : "Capacity expansion planning of a water supply and wastewater treatment system under random demands",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1985",
+    "citations" : ""
+  }, {
+    "title" : "Wybór strategii rozwoju systemu zaopatrzenia w wodę i ochrony wód w warunkach niepewności",
+    "authors" : [ "R Slowinski", "A Urbaniak", "J Weglarz" ],
+    "year" : "1985",
+    "citations" : ""
+  }, {
+    "title" : "A method of a choice of an expansion strategy of the water supply system with random parameters",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1985",
+    "citations" : ""
+  }, {
+    "title" : "Automatyzacja w inżynierii środowiska",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1985",
+    "citations" : ""
+  }, {
+    "title" : "Multiobjective choice of an expansion strategy of a water supply and wastewater system under random demands",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1983",
+    "citations" : ""
+  }, {
+    "title" : "Stochastic planning model of the power system with respect to realiability problems",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1981",
+    "citations" : ""
+  }, {
+    "title" : "Sterowanie rozwojem systemu zaopatrzenia w wodę",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1981",
+    "citations" : ""
+  }, {
+    "title" : "Metoda wyboru optymalnej struktury mocy elektrowni w systemie elektroenergetycznym w warunkach stochastycznych - podstawy teoretyczne",
+    "authors" : [ "S Gora", "A Urbaniak" ],
+    "year" : "1980",
+    "citations" : ""
+  }, {
+    "title" : "Optymalizacja rozwoju pewnej klasy systemów w warunkach stochastycznych",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1979",
+    "citations" : ""
+  }, {
+    "title" : "Przykłady zastosowań stochastycznego programowania liniowego do optymalnego wyboru elektrowni",
+    "authors" : [ "S Gora", "A Urbaniak" ],
+    "year" : "1979",
+    "citations" : ""
+  }, {
+    "title" : "Stochastyczny model planowania rozwoju systemu elektroenergetycznego",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1979",
+    "citations" : ""
+  }, {
+    "title" : "Optymalizacja wyboru struktury mocy elektrowni w systemie elektroenergetycznym z zastosowaniem stochastycznego programowania liniowego",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1978",
+    "citations" : ""
+  }, {
+    "title" : "Racjonalizacja zużycia energii elektrycznej w procesie produkcji aluminium",
+    "authors" : [ "S Jaskula", "R Jurek", "E Niewiedzial", "E Sroczan", "A Urbaniak" ],
+    "year" : "1978",
+    "citations" : ""
+  }, {
+    "title" : "Planowanie elektrowni w systemie elektroenergetycznym w warunkach stochastycznych,",
+    "authors" : [ "S Gora", "A Urbaniak" ],
+    "year" : "1978",
+    "citations" : ""
+  }, {
+    "title" : "Planning the development of the certain class of production systems under uncertainty",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1978",
+    "citations" : ""
+  }, {
+    "title" : "Optymalizacja wyboru struktury mocy elektrowni w systemie elektroenergetycznym z zastosowaniem stocorskahastycznego programowania liniowego - ropzraw...",
+    "authors" : [ "A Urbaniak" ],
+    "year" : "1978",
+    "citations" : ""
+  }, {
+    "title" : "Ocena eksploatacji elektrowni przy wykorzystaniu metod informatyki",
+    "authors" : [ "S Jaskula", "R Jurek", "E Sroczan", "A Urbaniak" ],
+    "year" : "1976",
+    "citations" : ""
+  }, {
+    "title" : "Primienienie komputera MERA 303 dla sobirania i obrabotki rezultatov izmierenij iz ekspierimentalnogo MGD gienieratora",
+    "authors" : [ "S Jaskula", "A Urbaniak", "B Zaporowski" ],
+    "year" : "1976",
+    "citations" : ""
+  }, {
+    "title" : "Automatyzacja pracy węzła wytwórczego przy pomocy komputera,",
+    "authors" : [ "S Gora", "S Jaskula", "R Jurek", "E Sroczan", "A Urbaniak" ],
+    "year" : "1975",
+    "citations" : ""
+  }, {
+    "title" : "Automatyzacja Ekonomicznego rozdziału obciążeń w nawiązaniu do koncepcji przetwarzania informacji w węźle wytwórczym",
+    "authors" : [ "S Gora", "S Jaskula", "R Jurek", "E Sroczan", "A Urbaniak" ],
+    "year" : "1975",
+    "citations" : ""
+  }, {
+    "title" : "Ekonomiczny rozdział mocy regulacyjnej w systemie na tle koncepcji automatyzacji sterowania polskiego systemu elektroenergetycznego",
+    "authors" : [ "S Gora", "S Jaskula", "R Jurek", "E Sroczan", "A Urbaniak" ],
+    "year" : "1975",
+    "citations" : ""
+  }, {
+    "title" : "Przykład zastosowania programowania nieliniowego dla planowania elektrowni w systemie elektroenergetycznym",
+    "authors" : [ "S Gora", "A Urbaniak" ],
+    "year" : "1975",
+    "citations" : ""
+  }, {
+    "title" : "Automatyczna kontrola pracy bloku energetycznego",
+    "authors" : [ "S Gora", "S Jaskula", "R Jurek", "E Sroczan", "A Urbaniak" ],
+    "year" : "1975",
+    "citations" : ""
+  }, {
+    "title" : "Wyznaczanie aktualnych charakterystyk rozchodowych bloków energetycznych",
+    "authors" : [ "S Gora", "S Jaskula", "R Jurek", "E Sroczan", "A Urbaniak" ],
+    "year" : "1974",
+    "citations" : ""
+  }, {
+    "title" : "Centralna rejestracja i przetwarzanie danych w wężle wytwórczym",
+    "authors" : [ "S Gora", "S Jaskula", "R Jurek", "E Sroczan", "A Urbaniak" ],
+    "year" : "1974",
+    "citations" : ""
+  }, {
+    "title" : "Cyfrowy pomiar gęstości cieczy w systemie centralnej rejestracji i sterowania procesem technologicznym",
+    "authors" : [ "J Gaszczak", "A Urbaniak" ],
+    "year" : "1974",
+    "citations" : ""
+  }, {
+    "title" : "System centralnej rejestracji i sterowania (CRS) w węźle wytwórczym",
+    "authors" : [ "S Jaskula", "R Jurek", "E Sroczan", "A Urbaniak" ],
+    "year" : "1974",
+    "citations" : ""
+  }, {
+    "title" : "Cele zasadniczego oprogramowania komputera dla potrzeb elektrowni",
+    "authors" : [ "S Gora", "S Jaskula", "R Jurek", "J Radojewski", "A Urbaniak" ],
+    "year" : "1973",
+    "citations" : ""
+  }, {
+    "title" : "Analiza dokładności cyfrowego pomiaru gęstości cieczy za pomocą czujnika częstotliwościowego",
+    "authors" : [ "J Gaszczak", "A Urbaniak" ],
+    "year" : "1972",
+    "citations" : ""
+  }, {
+    "title" : "Cyfrowy pomiar gęstości cieczy",
+    "authors" : [ "J Gaszczak", "A Urbaniak" ],
+    "year" : "1972",
+    "citations" : ""
   } ],
   "hindex" : 8
 }

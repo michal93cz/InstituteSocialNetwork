@@ -403,6 +403,166 @@
     "authors" : [ "M Frankiewicz", "T Cichowicz", "G Pawlak", "F Rytwinski" ],
     "year" : "2011",
     "citations" : "1"
+  }, {
+    "title" : "Dominance properties for Divisible MapReduce Computations",
+    "authors" : [ "J Berlinska" ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "Parallel tasks",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling multiprocessor tasks on parallel processors with limited availability",
+    "authors" : [ "J Blazewicz", "P Dell’Olmo", "P Maczka" ],
+    "year" : "2003",
+    "citations" : "1"
+  }, {
+    "title" : "Scheduling Multiprocessor Tasks on Uniform Processors.",
+    "authors" : [ "J Blazewicz", "G Schmidt" ],
+    "year" : "1993",
+    "citations" : "1"
+  }, {
+    "title" : "Algorithms to Mitigate Partition Skew in MapReduce Applications",
+    "authors" : [ "J Berlinska" ],
+    "year" : "",
+    "citations" : "1"
+  }, {
+    "title" : "Comparing Load-Balancing Algorithms for MapReduce under Zipfian Data Skews",
+    "authors" : [ "J Berlinska" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Fast algorithms for online construction of web tag clouds",
+    "authors" : [ "J Marszalkowski", "D Mokwa", "Ł Rusiecki", "H Narozny" ],
+    "year" : "2017",
+    "citations" : ""
+  }, {
+    "title" : "Divisible Loads Scheduling in Hierarchical Memory Systems with Time and Energy Constraints",
+    "authors" : [ "J Marszalkowski" ],
+    "year" : "2016",
+    "citations" : ""
+  }, {
+    "title" : "Mind the gap: a heuristic study of subway tours",
+    "authors" : [ "D Kowalski", "J Mizgajski", "D Mokwa", "G Pawlak" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Toward building aesthetic, useful and readable tag clouds for websites",
+    "authors" : [ "J Marszalkowski", "Ł Rusiecki", "H Narozny" ],
+    "year" : "2014",
+    "citations" : ""
+  }, {
+    "title" : "Mind the Gap: Problem Definition and Properties",
+    "authors" : [ "D Kowalski", "J Mizgajski", "D Mokwa", "G Pawlak" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Mind the Gap: Solutions and Algorithms Analysis",
+    "authors" : [ "D Kowalski", "J Mizgajski", "D Mokwa", "G Pawlak" ],
+    "year" : "2012",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling and performance of divisible MapReduce applications",
+    "authors" : [ "J Berlinska" ],
+    "year" : "2011",
+    "citations" : ""
+  }, {
+    "title" : "Basics",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Vision of Scheduling in Parallel Systems",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Back to Scheduling Models",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Heuristics for Divisible Loads Scheduling in Systems with Limited Memory",
+    "authors" : [ "J Berlinska" ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Divisible Loads",
+    "authors" : [ ],
+    "year" : "2009",
+    "citations" : ""
+  }, {
+    "title" : "Jak pisać pracę dyplomową",
+    "authors" : [ "Z Krolikowski" ],
+    "year" : "2006",
+    "citations" : ""
+  }, {
+    "title" : "Special issue on conference MAPSP 2003: Part II",
+    "authors" : [ "D Trystram" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "Special Issue on Conference MAPSP 2003: Part I",
+    "authors" : [ "D Trystram" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "MAPSP 2003",
+    "authors" : [ "D Trystram" ],
+    "year" : "2005",
+    "citations" : ""
+  }, {
+    "title" : "The impact of communication buffer on processing divisible loads",
+    "authors" : [ "P Wolniewicz" ],
+    "year" : "2004",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling and load balancing",
+    "authors" : [ "I Milis", "L Rudolph", "D Trystram" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Szeregowanie zadań w systemach z ograniczoną dostępnością maszyn",
+    "authors" : [ "J Blazewicz", "P Formanowicz", "W Kubiak" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling Tasks in Master-Slave Parallel Processing Systems",
+    "authors" : [ "J Blazewicz", "P Dell'Olmo" ],
+    "year" : "1997",
+    "citations" : ""
+  }, {
+    "title" : "SZEREGOWANIE ZADAN JEDNORODNYCH W ROZPROSZONYCH SYSTEMACH KOMPUTEROWYCH",
+    "authors" : [ "M DROZDOWSKI" ],
+    "year" : "1996",
+    "citations" : ""
+  }, {
+    "title" : "An Interactive Program for Defining Two-Dimensional Irregular Figures for Decision Support Cutting System",
+    "authors" : [ "J Blazewicz", "A Piechowiak", "R Walkowiak" ],
+    "year" : "1993",
+    "citations" : ""
+  }, {
+    "title" : "SCHEDULING MULTIPROCESSOR TASKS ON 3-DEDICATED PROCESSORS",
+    "authors" : [ "J BLAZEWICZ", "P DELLOLMO", "M DROZDOWSKI", "M SPERANZA" ],
+    "year" : "1992",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling divisible jobs on hypercubesf",
+    "authors" : [ "J EHazewicz" ],
+    "year" : "1984",
+    "citations" : ""
+  }, {
+    "title" : "On polynomial-time solvability and fixed code size algorithms",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Scheduling divisible jobs on hypercubesT",
+    "authors" : [ "J Blaiewicz" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 24
 }

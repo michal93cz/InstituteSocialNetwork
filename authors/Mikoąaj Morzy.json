@@ -403,6 +403,66 @@
     "authors" : [ "B Aziz", "E Martinez", "L Ogiela" ],
     "year" : "",
     "citations" : ""
+  }, {
+    "title" : "Maja Dimc Euro-Mediterranean University Slovenia",
+    "authors" : [ "A Abraham", "T Agotnes", "D Batorski", "E Damiani", "A Datta", "D Elgesem" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Indexing of sequential patterns for efficient analysis of data mining results",
+    "authors" : [ "W Andrzejewski", "T Morzy" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Advanced database structures for effective association rule mining",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Cluster-based Analysis and Recommendation of Sellers in Online Auctions",
+    "authors" : [ "J Jezierski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Efficient Mining of Dissociation Rules",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Density-based Measure of Reputation of Sellers in Online Auctions",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Amous, Ikram 207 Andruszkiewicz, Piotr",
+    "authors" : [ "S Ayad", "S Barros", "M Bazydlo", "L Bellatreche", "A Benczur", "N Berkani" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "DISCOVERY CHALLENGE",
+    "authors" : [ "T Smuc", "N Antulov-Fantulin" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Oracle WebCenter 11g czyli Przedsiębiorstwo 2.0",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "12 Aplikacje WWW",
+    "authors" : [ "M Zakrzewicz", "M Wojciechowski", "A Model-View-Controller" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Co dalej z tą eksploracją? Rola i miejsce eksploracji danych w architekturze współczesnych systemów baz danych.",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Oracle Statistical Functions 11g: statystyka dla dużych i małych",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 12
 }

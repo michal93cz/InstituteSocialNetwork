@@ -403,6 +403,166 @@
     "authors" : [ "B Walter" ],
     "year" : "2002",
     "citations" : ""
+  }, {
+    "title" : "Experimental evaluation of two approaches to software artefacts review",
+    "authors" : [ "A Wojciechowski", "G Jachimko", "L Gawron", "M Jagielski" ],
+    "year" : "2002",
+    "citations" : ""
+  }, {
+    "title" : "Dokumentowanie wymagań w języku XML",
+    "authors" : [ "K Kowalczykiewicz" ],
+    "year" : "2001",
+    "citations" : ""
+  }, {
+    "title" : "Studio rozwoju oprogramowania-nowe spojrzenie na kształcenie w zakresie budowy oprogramowania.",
+    "authors" : [ "A Wojciechowski" ],
+    "year" : "2000",
+    "citations" : ""
+  }, {
+    "title" : "TETE: an intelligent knowledge testing engine (poster)",
+    "authors" : [ "A Wojciechowski", "K Kups", "M Kosiedowski" ],
+    "year" : "1998",
+    "citations" : ""
+  }, {
+    "title" : "Schedulability-Driven Implementation Selection",
+    "authors" : [ ],
+    "year" : "1995",
+    "citations" : ""
+  }, {
+    "title" : "A storage allocation method with invalidating dangling references",
+    "authors" : [ "J Martinek" ],
+    "year" : "1987",
+    "citations" : ""
+  }, {
+    "title" : "Session 1: Requirements and Software Engineering Patterns",
+    "authors" : [ "M Sultan", "A Miranskyy", "M Rahimi", "J Cleland-Huang", "O Zinovatna" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Karol Grzegorczyk, Vito Baggiolini, Krzysztof Zieliński Complex Event Processing approach to automated monitoring of a particle accelerator and its control system.......",
+    "authors" : [ "Ł Faber", "G Rojek", "M Sikora", "K Siminski", "Ł Olek", "B Alchimowicz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Eksperymentalna ocena dwóch podejść do przeglądu artefaktów programowych",
+    "authors" : [ "A Wojciechowski", "L Gawron", "M Jagielski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Dostosowanie praktyk programowania ekstremalnego do wymogów standardu ISO 9000",
+    "authors" : [ "M Jasinski", "B Walter", "A Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Propozycja modelu dojrzałości dla Programowania Ekstremalnego",
+    "authors" : [ "B Walter", "A Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Рlanowanie pracy zespołu programistów z użyciem metody PROBE",
+    "authors" : [ "B Walter", "A Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Interacting with Customers in Student Projects",
+    "authors" : [ "B Brugge", "M Gluchow", "S Gokhale", "T Smith", "R McCartney", "S Kopczynska" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Delficka gra planistyczna typu XP",
+    "authors" : [ "M Jasinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Рlanowanie z użyciem metody PROBE",
+    "authors" : [ "B Walter", "A Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Programowania Ekstremalnego",
+    "authors" : [ "B Walter", "A Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Delficka gra planistyczna typu XP",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Sposoby oceny dojrzałości praktyki architektonicznej w organizacji",
+    "authors" : [ "M Dorsz" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "1. Wstęp",
+    "authors" : [ "M Gabor" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Flexible Software Development with XPrince",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Weryfikacja przekształceń refaktoryzacyjnych",
+    "authors" : [ "B Walter" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Extreme89",
+    "authors" : [ "A Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Próba eksperymentalnej oceny metody PROBE",
+    "authors" : [ "M Szkopek", "B Walter", "A Wojciechowski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Szacowanie pracochłonności",
+    "authors" : [ ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Testowanie ekstremalne i narzędzia xUnit",
+    "authors" : [ "M Gabor", "B Walter" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Automatyczne wykrywanie duplikatów w kodzie programów",
+    "authors" : [ "B Pietrzak", "B Wolter" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "OPISYWANIE PROCESÓW BIZNESOWYCH Z WYKORZYSTANIEM PRZYPADKÓW UŻYCIA",
+    "authors" : [ "J NAWROCKI", "Ł OLEK" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Balancing Agility and Formalism in Software Engineering",
+    "authors" : [ "B Nawrocki", "B Walter" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Planowanie zakresu przedsięwzięcia na etapie inżynierii wymagań",
+    "authors" : [ "M Jasinski" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "Język opisu przypadków testowych ukierunkowany na Rational Robota",
+    "authors" : [ "M Gabor" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "18 Inzynieria oprogramowania",
+    "authors" : [ "P Ekstremalne" ],
+    "year" : "",
+    "citations" : ""
+  }, {
+    "title" : "ROZMIESZCZANIE ZADAŃ CZASU RZECZYWISTEGO W PAMIĘCI NOTATNIKOWEJ",
+    "authors" : [ "J NAWROCKI", "W COMPLAK" ],
+    "year" : "",
+    "citations" : ""
   } ],
   "hindex" : 14
 }

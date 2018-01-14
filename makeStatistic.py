@@ -134,4 +134,4 @@ def most_collaborators(decade, count, dir_to):
     internal_pairs_collaborators(decade, count, dir_to)
 
 
-most_collaborators(2000, 15, './')
+most_collaborators(1980, 10, './')
