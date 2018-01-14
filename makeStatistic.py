@@ -96,24 +96,42 @@ def pairs_by_decade(decade):
     return final_dict
 
 
-def most_collaborators(decade, count, dir_to):
+def internal_collaborators(decade, count, dir_to):
     authors_internal_dict = dict()
-    authors_internal_pairs_dict = pairs_by_decade(decade)
-    authors_external_dict = dict()
+
     for key, value in collaborators_by_decade(decade).items():
         authors_internal_dict[key] = value['internal']
-        authors_external_dict[key] = value['external']
 
     authors_internal_dict = sorted(authors_internal_dict.items(), key=itemgetter(1))
-    authors_external_dict = sorted(authors_external_dict.items(), key=itemgetter(1))
-    authors_internal_pairs_dict = sorted(authors_internal_pairs_dict.items(), key=itemgetter(1))
 
     draw_plot(authors_internal_dict, 'Internal collaborators in ' + str(decade),
               dir_to + 'internal_collaborators_' + str(decade) + '.png', count)
+
+
+def external_collaborators(decade, count, dir_to):
+    authors_external_dict = dict()
+
+    for key, value in collaborators_by_decade(decade).items():
+        authors_external_dict[key] = value['external']
+
+    authors_external_dict = sorted(authors_external_dict.items(), key=itemgetter(1))
+
     draw_plot(authors_external_dict, 'External collaborators in ' + str(decade),
               dir_to + 'external_collaborators_' + str(decade) + '.png', count)
+
+
+def internal_pairs_collaborators(decade, count, dir_to):
+    authors_internal_pairs_dict = pairs_by_decade(decade)
+    authors_internal_pairs_dict = sorted(authors_internal_pairs_dict.items(), key=itemgetter(1))
+
     draw_plot(authors_internal_pairs_dict, 'Internal collaborators pairs in ' + str(decade),
               dir_to + 'internal_pairs_collaborators_' + str(decade) + '.png', count, True)
 
 
-most_collaborators(2000, 10, './')
+def most_collaborators(decade, count, dir_to):
+    internal_collaborators(decade, count, dir_to)
+    external_collaborators(decade, count, dir_to)
+    internal_pairs_collaborators(decade, count, dir_to)
+
+
+most_collaborators(2000, 15, './')
